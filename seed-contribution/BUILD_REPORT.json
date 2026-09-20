@@ -1,0 +1,65 @@
+{
+  "generated_at": 1789931516,
+  "entries": 59,
+  "by_tag": {
+    "creative": 33,
+    "ecommerce": 12,
+    "drama": 14
+  },
+  "instruction_total_kb": 79.6,
+  "skipped": [
+    {
+      "card": "flux-asset-image",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-asset-binding",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-continuity",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-prompt-six-section",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-3d-animation-short",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-brand-promo-video",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-co-op-game-intro",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-handdrawn-live-video",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-minimalist-product-ad",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-music-video-subtitle",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-paper-collage-explainer",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "h3-style-papercraft-stop-motion",
+      "reason": "tier=tier-private"
+    },
+    {
+      "card": "vis-to-prompt",
+      "reason": "tier=tier-private"
+    }
+  ],
+  "output": "D:\\AlcheMvision\\judian-skills\\seed-contribution\\seed-addition.json"
+}
