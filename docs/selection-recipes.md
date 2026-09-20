@@ -44,6 +44,12 @@ factory-episode-specs / factory-dialogue-doctor / factory-machine-check / onlysh
 
 onlyshot-fail-triage（三分诊）/ onlyshot-sensitive-words / onlyshot-ref-consistency / vocab-audit-substitutes / seedance-7-pitfalls / sd25-timing-audit / sd25-continuity-locks / route-model-family
 
+## 9. H3（即梦）出片
+
+h3-prompt-six-section（官方六段式）/ h3-continuity（首尾帧衔接）/ h3-asset-binding（素材绑定）/ onlyshot-video-mode-picker（4 模选择）/ onlyshot-fail-triage（即梦向分诊）/ onlyshot-sensitive-words / vocab-audit-substitutes / seedance-7-pitfalls
+
+> H3 风格片（3D 动画/品牌片/游戏 intro/手绘/极简产品/MV/拼图解说/纸模定格）按需把对应 `h3-style-*` 换入上表前两位。
+
 ---
 
 ## 三条使用纪律
