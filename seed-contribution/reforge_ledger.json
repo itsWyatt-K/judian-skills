@@ -1,0 +1,1587 @@
+{
+  "generated_at": "2026-09-21T14:53:11",
+  "packs": {
+    "ad-copywriting": {
+      "category": "ecommerce",
+      "cards": 46,
+      "books": [
+        "《奥格威谈广告》 大卫·奥格威",
+        "《文案创作完全手册》罗伯特·布莱",
+        "《爆款文案》 关健明"
+      ]
+    },
+    "ai-performance-lab": {
+      "category": "creative",
+      "cards": 19,
+      "books": [
+        "13-AI角色表演与资产",
+        "Acting for Animators (Ed Hooks, 3rd ed., Routledge)",
+        "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪",
+        "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪（小歪的AI工具箱）",
+        "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并蒸馏）",
+        "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并蒸馏）"
+      ]
+    },
+    "audiovisual-theory": {
+      "category": "creative",
+      "cards": 12,
+      "books": [
+        "Audio-Vision: Sound on Screen (Michel Chion, trans. Claudia Gorbman)",
+        "In the Blink of an Eye (Walter Murch, 2nd ed., Silman-James Press)"
+      ]
+    },
+    "character-forge": {
+      "category": "drama",
+      "cards": 31,
+      "books": [
+        "《Creating Character Arcs》 K.M. Weiland",
+        "《人物》罗伯特·麦基",
+        "《人物：文本、舞台、银幕角色与卡司设计的艺术》 罗伯特·麦基",
+        "《人物：文本、舞台、银幕角色与卡司设计的艺术》 罗伯特·麦基（Robert McKee）",
+        "《对白：文字、舞台、银幕的言语行为艺术》 罗伯特·麦基",
+        "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi",
+        "《故事写作大师班》 约翰·特鲁比",
+        "《故事：材质、结构、风格和银幕剧作的原理》 罗伯特·麦基"
+      ]
+    },
+    "comedy-mechanics": {
+      "category": "drama",
+      "cards": 68,
+      "books": [
+        "Comedy Writing Secrets (3rd ed.) Mark Shatz with Mel Helitzer, 2016",
+        "The Comic Toolbox: How to Be Funny Even If You're Not (John Vorhaus, 1994)",
+        "The NEW Comedy Bible (Judy Carter, 2020)",
+        "《Step by Step to Stand-Up Comedy》 Greg Dean",
+        "《崔凯文集·喜剧小品卷》 崔凯 著",
+        "《王朔作品精选（套装共6册）》 王朔",
+        "《超棒喜剧这样写》 Steve Kaplan",
+        "《超棒喜剧这样写》Steve Kaplan",
+        "《超棒喜剧这样写》Steve Kaplan（史提夫·卡普兰）"
+      ]
+    },
+    "consumer-psychology": {
+      "category": "ecommerce",
+      "cards": 50,
+      "books": [
+        "《影响力（经典版）Influence: The Psychology of Persuasion》 罗伯特·B.西奥迪尼（闾佳 译）",
+        "《怪诞行为学（全5册）》 丹·艾瑞里",
+        "《无价：洞悉大众心理玩转价格游戏（经典版）》 威廉·庞德斯通",
+        "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
+      ]
+    },
+    "decision-thinking": {
+      "category": "ecommerce",
+      "cards": 45,
+      "books": [
+        "《孙子兵法》",
+        "《穷查理宝典》 查理·芒格",
+        "《第一性原理》 李善友",
+        "认知红利"
+      ]
+    },
+    "dialogue-workshop": {
+      "category": "drama",
+      "cards": 19,
+      "books": [
+        "《对白：文字、舞台、银幕的言语行为艺术》 罗伯特·麦基",
+        "《崔凯文集·喜剧小品卷》 崔凯 著",
+        "《我爱我家台词》梁左/英达",
+        "《把自己当回事儿》杨天真",
+        "《故事写作大师班》 约翰·特鲁比 著，江先声 译"
+      ]
+    },
+    "editing-rhythm": {
+      "category": "creative",
+      "cards": 4,
+      "books": [
+        "Grammar of the Film Language (Daniel Arijon)",
+        "《导演功课》大卫·马梅"
+      ]
+    },
+    "experience-design": {
+      "category": "ecommerce",
+      "cards": 57,
+      "books": [
+        "《上瘾：让用户养成使用习惯的四大产品逻辑》 [美]尼尔·埃亚尔、[美]瑞安·胡佛",
+        "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩",
+        "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)",
+        "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"
+      ]
+    },
+    "positioning-strategy": {
+      "category": "ecommerce",
+      "cards": 29,
+      "books": [
+        "《借势》 金枪大叔",
+        "《定位》 杰克·特劳特 / 阿尔·里斯"
+      ]
+    },
+    "prompt-engineering-patterns": {
+      "category": "ecommerce",
+      "cards": 24,
+      "books": [
+        "ljg-constraint (lijigang/ljg-skills)",
+        "基于 ljg-structure (lijigang) 酿笑坊定制",
+        "循环工程",
+        "系统提示词设计模式库"
+      ]
+    },
+    "prose-craft": {
+      "category": "drama",
+      "cards": 38,
+      "books": [
+        "GLM-5.2 试毒《人话》中篇 + 谷大师复批裁决①（2026-08-16 v2.1）",
+        "《你能写出好故事》 Lisa Cron",
+        "《你能写出好故事》 Lisa Cron / 丽萨·克龙",
+        "《小说机杼》詹姆斯·伍德",
+        "《晚翠文谈新编》汪曾祺",
+        "小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）",
+        "用户实战复盘方法论《去AI味鉴别与修订方法论》（2026-08-15 B案反转修订版）",
+        "系统提示词设计模式库"
+      ]
+    },
+    "series-arc-planning": {
+      "category": "drama",
+      "cards": 16,
+      "books": [
+        "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"
+      ]
+    },
+    "shortform-drama-playbook": {
+      "category": "drama",
+      "cards": 28,
+      "books": [
+        "《俗世奇人全本》 冯骥才",
+        "《俗世奇人全本》（冯骥才，人民文学出版社 2020）",
+        "从零开始学短剧创作（孙文琴,爱丽丝著）",
+        "写好短剧（查理）"
+      ]
+    },
+    "shot-grammar": {
+      "category": "creative",
+      "cards": 28,
+      "books": [
+        "Grammar of the Film Language (Daniel Arijon)",
+        "《从构思到银幕：电影镜头设计》 史蒂文·卡茨",
+        "《导演功课》大卫·马梅"
+      ]
+    },
+    "sitcom-lab": {
+      "category": "drama",
+      "cards": 22,
+      "books": [
+        "《我爱我家台词》梁左/英达",
+        "《武林外传》 宁财神",
+        "《武林外传》宁财神",
+        "《汉语视听说教程：家有儿女》刘立新/邓方（世界图书出版公司，2009）"
+      ]
+    },
+    "standup-craft": {
+      "category": "drama",
+      "cards": 12,
+      "books": [
+        "Step by Step to Stand-Up Comedy (Greg Dean, Revised Edition)"
+      ]
+    },
+    "story-marketing": {
+      "category": "ecommerce",
+      "cards": 15,
+      "books": [
+        "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
+      ]
+    },
+    "story-structure-engine": {
+      "category": "drama",
+      "cards": 36,
+      "books": [
+        "01-剧本创意与故事结构",
+        "《人物》罗伯特·麦基",
+        "《故事写作大师班》 约翰·特鲁比",
+        "《故事写作大师班》 约翰·特鲁比 著，江先声 译",
+        "《故事：材质、结构、风格和银幕剧作的原理》 罗伯特·麦基",
+        "《救猫咪：电影编剧指南》 布莱克·斯奈德",
+        "《救猫咪：电影编剧指南》 布莱克·斯奈德（Blake Snyder）"
+      ]
+    },
+    "viral-contagion": {
+      "category": "ecommerce",
+      "cards": 41,
+      "books": [
+        "X秘籍 — xAI官方算法仓库 / AIP出海教程(@带队教练/GoSailGlobal)",
+        "《X秘籍》 AIP出海教程 / 木马人",
+        "《X秘籍》 AIP出海教程(@带队教练/GoSailGlobal)",
+        "《X秘籍》 AIP出海教程/Yangyi",
+        "《X秘籍》 Yangyi @Yangyixxxx + 木马人 @cnyzgkc",
+        "《X秘籍》 向阳乔木",
+        "《X秘籍》 向阳乔木 / AIP出海教程(@带队教练/GoSailGlobal)",
+        "《X秘籍》 向阳乔木 @vista8",
+        "《X秘籍》 向阳乔木 @vista8 + X官方 @XCreators",
+        "《X秘籍》 多位创作者合集",
+        "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔",
+        "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
+      ]
+    },
+    "visual-tone-design": {
+      "category": "creative",
+      "cards": 27,
+      "books": [
+        "Cinematography: Theory and Practice (Blain Brown, 4th ed.)",
+        "The Animator's Survival Kit (Richard Williams, Faber & Faber)",
+        "《以眼说话：影像视觉原理及应用》 Bruce A. Block（汪代岚译）"
+      ]
+    },
+    "xiangsheng-craft": {
+      "category": "drama",
+      "cards": 16,
+      "books": [
+        "《中国传统相声大全（全五卷）》 刘英男 编",
+        "《中国的相声》薛宝琨（增订本）",
+        "《马三立表演相声精品集》 王文章 主编"
+      ]
+    }
+  },
+  "dedup_dropped": [
+    {
+      "slug": "joke-structure",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\joke-structure\\SKILL.md"
+    },
+    {
+      "slug": "joke-structure",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "cangjie-origin-compare",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\cangjie-origin-compare\\_quarantine\\joke-structure\\SKILL.md"
+    },
+    {
+      "slug": "joke-structure",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\joke-structure\\SKILL.md"
+    },
+    {
+      "slug": "assemble-routine",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\assemble-routine\\SKILL.md"
+    },
+    {
+      "slug": "assemble-routine",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\assemble-routine\\SKILL.md"
+    },
+    {
+      "slug": "gain-stage-time",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\gain-stage-time\\SKILL.md"
+    },
+    {
+      "slug": "gain-stage-time",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\gain-stage-time\\SKILL.md"
+    },
+    {
+      "slug": "handle-failure",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\handle-failure\\SKILL.md"
+    },
+    {
+      "slug": "handle-failure",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\handle-failure\\SKILL.md"
+    },
+    {
+      "slug": "joke-map",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\joke-map\\SKILL.md"
+    },
+    {
+      "slug": "joke-map",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\joke-map\\SKILL.md"
+    },
+    {
+      "slug": "joke-mine",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\joke-mine\\SKILL.md"
+    },
+    {
+      "slug": "joke-mine",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\joke-mine\\SKILL.md"
+    },
+    {
+      "slug": "peak-performance",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\peak-performance\\SKILL.md"
+    },
+    {
+      "slug": "peak-performance",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\peak-performance\\SKILL.md"
+    },
+    {
+      "slug": "perspective",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\perspective\\SKILL.md"
+    },
+    {
+      "slug": "perspective",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\perspective\\SKILL.md"
+    },
+    {
+      "slug": "rehearsal-experience",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\rehearsal-experience\\SKILL.md"
+    },
+    {
+      "slug": "rehearsal-experience",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\rehearsal-experience\\SKILL.md"
+    },
+    {
+      "slug": "stage-fear",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\stage-fear\\SKILL.md"
+    },
+    {
+      "slug": "stage-fear",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\stage-fear\\SKILL.md"
+    },
+    {
+      "slug": "write-the-wrong",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "Greg-Dean-中英双语",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\Greg-Dean-中英双语\\expert\\write-the-wrong\\SKILL.md"
+    },
+    {
+      "slug": "write-the-wrong",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\write-the-wrong\\SKILL.md"
+    },
+    {
+      "slug": "polish-joke",
+      "kept_from": "Greg-Dean-英文版-定制版",
+      "dropped_from": "手把手教你玩脱口秀",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\手把手教你玩脱口秀\\expert\\polish-joke\\SKILL.md"
+    },
+    {
+      "slug": "catchphrase-beat-meter",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\catchphrase-beat-meter\\SKILL.md"
+    },
+    {
+      "slug": "childs-eye-misalignment",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\childs-eye-misalignment\\SKILL.md"
+    },
+    {
+      "slug": "performative-heroism",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\performative-heroism\\SKILL.md"
+    },
+    {
+      "slug": "persona-contrast-builder",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\persona-contrast-builder\\SKILL.md"
+    },
+    {
+      "slug": "self-deprecation-persona",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\self-deprecation-persona\\SKILL.md"
+    },
+    {
+      "slug": "tavern-straight-man-structure",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\tavern-straight-man-structure\\SKILL.md"
+    },
+    {
+      "slug": "vocal-signature-reuse",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\vocal-signature-reuse\\SKILL.md"
+    },
+    {
+      "slug": "warm-twist-payoff",
+      "kept_from": "武林外传",
+      "dropped_from": "武林外传",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\comedy-humor\\武林外传\\warm-twist-payoff\\SKILL.md"
+    },
+    {
+      "slug": "fear-appeal",
+      "kept_from": "爆款文案",
+      "dropped_from": "引爆点",
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\classics\\引爆点\\蒸馏skill\\fear-appeal\\SKILL.md"
+    }
+  ],
+  "excluded": [
+    {
+      "slug": "cangjie-niangxiaofang",
+      "zone": "comedy-humor",
+      "category": "cangjie-niangxiaofang",
+      "reason": "我方蒸馏工具自身，非资产"
+    },
+    {
+      "slug": "ljg-blind",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-book",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-card",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-classic",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-constraint",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-invest",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-is",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-learn",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-paper",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-plain",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-present",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-push",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-qa",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-rank",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-read",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-relationship",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-roundtable",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-structure",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-think",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-travel",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-word",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "ljg-writes",
+      "zone": "comedy-humor",
+      "category": "vendor",
+      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+    },
+    {
+      "slug": "andrej-karpathy-perspective",
+      "zone": "classics",
+      "category": "andrej-karpathy-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "elon-musk-perspective",
+      "zone": "classics",
+      "category": "elon-musk-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "feynman-perspective",
+      "zone": "classics",
+      "category": "feynman-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "ilya-sutskever-perspective",
+      "zone": "classics",
+      "category": "ilya-sutskever-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "mrbeast-perspective",
+      "zone": "classics",
+      "category": "mrbeast-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "munger-perspective",
+      "zone": "classics",
+      "category": "munger-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "naval-perspective",
+      "zone": "classics",
+      "category": "naval-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "paul-graham-perspective",
+      "zone": "classics",
+      "category": "paul-graham-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "steve-jobs-perspective",
+      "zone": "classics",
+      "category": "steve-jobs-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "sun-yuchen-perspective",
+      "zone": "classics",
+      "category": "sun-yuchen-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "taleb-perspective",
+      "zone": "classics",
+      "category": "taleb-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "trump-perspective",
+      "zone": "classics",
+      "category": "trump-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "x-mastery-mentor",
+      "zone": "classics",
+      "category": "x-mastery-mentor",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "zhang-yiming-perspective",
+      "zone": "classics",
+      "category": "zhang-yiming-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "zhangxuefeng-perspective",
+      "zone": "classics",
+      "category": "zhangxuefeng-perspective",
+      "reason": "真人 perspective 角色扮演包，非方法论卡"
+    },
+    {
+      "slug": "4a-feedback",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "context-not-control",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "cross-cultural-feedback",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "eliminate-controls",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "elite-compensation",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "feedback-loop-360",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "informed-captain",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "keeper-test",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "radical-transparency",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "talent-density",
+      "zone": "classics",
+      "category": "不拘一格",
+      "reason": "企业管理，与创作无关"
+    },
+    {
+      "slug": "aesop-three-questions",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "business-picker",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "ceo-as-risk-officer",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "cigar-butt-vs-great-business",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "circle-of-competence",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "compounding-thinking",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "economic-moat",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "fear-and-greed",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "first-law-of-capital-allocation",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "float-thinking",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "hold-forever",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "institutional-imperative",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "look-through-earnings",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "margin-of-safety",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "mr-market",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "never-issue-shares",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "no-leverage",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "partner-with-admired",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "real-conservatism",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "three-asset-categories",
+      "zone": "classics",
+      "category": "巴菲特致股东的信",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "authority",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "click-whirr",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "commitment-consistency",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "contrast-principle",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "liking",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "lowball",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "pluralistic-ignorance",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "reciprocation",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "rejection-then-retreat",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "scarcity",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "shortcut-defense",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "social-proof",
+      "zone": "classics",
+      "category": "影响力（第三方克隆）",
+      "reason": "与《影响力》正表重复的第三方克隆"
+    },
+    {
+      "slug": "belated-empathy-forward",
+      "zone": "classics",
+      "category": "我与地坛",
+      "reason": "散文随笔，与创作无关"
+    },
+    {
+      "slug": "ditan-self-anchoring",
+      "zone": "classics",
+      "category": "我与地坛",
+      "reason": "散文随笔，与创作无关"
+    },
+    {
+      "slug": "limit-bound-action",
+      "zone": "classics",
+      "category": "我与地坛",
+      "reason": "散文随笔，与创作无关"
+    },
+    {
+      "slug": "luck-design-reflection",
+      "zone": "classics",
+      "category": "我与地坛",
+      "reason": "散文随笔，与创作无关"
+    },
+    {
+      "slug": "suffering-without-chicken-soup",
+      "zone": "classics",
+      "category": "我与地坛",
+      "reason": "散文随笔，与创作无关"
+    },
+    {
+      "slug": "writing-zero-start",
+      "zone": "classics",
+      "category": "我与地坛",
+      "reason": "散文随笔，与创作无关"
+    },
+    {
+      "slug": "actor-position-analysis",
+      "zone": "classics",
+      "category": "明朝那些事儿",
+      "reason": "历史通俗读物，与创作无关"
+    },
+    {
+      "slug": "information-distortion-defense",
+      "zone": "classics",
+      "category": "明朝那些事儿",
+      "reason": "历史通俗读物，与创作无关"
+    },
+    {
+      "slug": "institution-failure-diagnosis",
+      "zone": "classics",
+      "category": "明朝那些事儿",
+      "reason": "历史通俗读物，与创作无关"
+    },
+    {
+      "slug": "late-stage-leader-warning",
+      "zone": "classics",
+      "category": "明朝那些事儿",
+      "reason": "历史通俗读物，与创作无关"
+    },
+    {
+      "slug": "popular-history-translation",
+      "zone": "classics",
+      "category": "明朝那些事儿",
+      "reason": "历史通俗读物，与创作无关"
+    },
+    {
+      "slug": "power-structure-diagnosis",
+      "zone": "classics",
+      "category": "明朝那些事儿",
+      "reason": "历史通俗读物，与创作无关"
+    },
+    {
+      "slug": "timing-reserve-action",
+      "zone": "classics",
+      "category": "明朝那些事儿",
+      "reason": "历史通俗读物，与创作无关"
+    },
+    {
+      "slug": "wcxf-poetic",
+      "zone": "classics",
+      "category": "晚翠文谈",
+      "reason": "与 story-recipes/03 写作手法重复（wcxf 系列）"
+    },
+    {
+      "slug": "wcxf-real",
+      "zone": "classics",
+      "category": "晚翠文谈",
+      "reason": "与 story-recipes/03 写作手法重复（wcxf 系列）"
+    },
+    {
+      "slug": "business-model-evaluator",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "culture-judger",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "dare-to-follow",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "profit-above-pursuit",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "right-business-people-price",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "right-things-first",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "stop-doing-list",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "capability-circle",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "concentrated-investing",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "dcf-valuation",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "equanimity-mindset",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "good-business",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "opportunity-cost",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "ownership-mindset",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "stop-doing-list",
+      "zone": "classics",
+      "category": "段永平投资问答录",
+      "reason": "投资，与创作无关"
+    },
+    {
+      "slug": "bianzheng-pingheng",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "buduicheng-zhanlue",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "chengqianbihou-zhibing-jiuren",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "chijiuzhan-san-jieduan",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "cong-zhanzheng-xuexi-zhanzheng",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "diaocha-yanjiu",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "fangxia-baofu-kaidong-jiqi",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "jianmiezhan-jizhong-bingli",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "lianglei-maodun",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "maodun-fenxi",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "maodun-techuxing",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "neiyin-juedinglun",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "qunzhong-luxian",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "shijian-renshilun",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "shiliuzijue",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "shishiqiushi-sigao",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "tan-gangqin",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "tongyi-zhanxian-duli",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "xingxingzhihuo-genjudi",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "yiban-gebie-zhidao",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "youxiao-goutong-wenti-jiuej",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "zhanlue-miaoshi-zhanshu-zhongshi",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "zhanlue-zhanshu-bianzheng",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "zhudongxing-linghuoxing-jihuaxing",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "zuzhi-jiupian-zhenduan",
+      "zone": "classics",
+      "category": "毛泽东选集",
+      "reason": "政治军事，与创作无关"
+    },
+    {
+      "slug": "ab-mapping",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ai-pipeline",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ai-project-lifecycle",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ai-strategy-moat",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ai-team-building",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ai-transformation-playbook",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "automate-task",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "build-vs-buy",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "cross-functional-brainstorming",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "data-flywheel",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "dont-acquire-for-data",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "dont-wait-perfect-data",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "iterate-not-perfect",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ml-feasibility",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ml-vs-ds",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "ml-workflow",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "one-second-rule",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "pilot-momentum-flywheel",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "role-tiered-training",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "start-small-find-partner",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "statistical-acceptance",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "three-value-drivers",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "train-test-split",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "triple-due-diligence",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "unified-data-warehouse",
+      "zone": "classics",
+      "category": "给所有人的AI入门课",
+      "reason": "AI 项目管理，与个人创作弱相关"
+    },
+    {
+      "slug": "closed-interval-continuity-toolkit",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "continuity-discontinuity-diagnostics",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "equivalent-infinitesimal-substitution",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "function-mapping-diagnostics",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "infinitesimal-limit-conversion",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "limit-definition-proof",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "limit-existence-criteria",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "limit-operation-and-substitution",
+      "zone": "classics",
+      "category": "高等数学（上册）",
+      "reason": "纯数学，与创作无关"
+    },
+    {
+      "slug": "body-mind-integration",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "bottleneck-unblock",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "communicate-persuade",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "excess-deficiency-decision",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "four-seas-regulation",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "observe-infer",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "personalize-by-constitution",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "qi-regulation",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "root-cause-priority",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "timing-opportunity",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "biao-ben-priority",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "cascade-prediction",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "context-adaptation",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "emotion-organ-proxy",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "five-elements-network",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "five-flavors-balance",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "negative-feedback",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "observation-inference",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "prevention-strategy",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "seasonal-regimen",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "yin-yang-balance",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    },
+    {
+      "slug": "zheng-xie-assessment",
+      "zone": "classics",
+      "category": "黄帝内经",
+      "reason": "中医养生，与创作无关"
+    }
+  ],
+  "overlap_findings": [],
+  "check_failures": []
+}

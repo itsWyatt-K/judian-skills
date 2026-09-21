@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-09-21T15:20:00",
+  "removed_old_packs": 11,
+  "domains": [
+    {
+      "pack": "factory-script-machine",
+      "category": "drama",
+      "cards": 5,
+      "files": 6,
+      "kb": 20
+    },
+    {
+      "pack": "freestyle-style-library",
+      "category": "creative",
+      "cards": 3,
+      "files": 4,
+      "kb": 13
+    },
+    {
+      "pack": "h3-video-prompt-suite",
+      "category": "creative",
+      "cards": 11,
+      "files": 12,
+      "kb": 59
+    },
+    {
+      "pack": "iart-launch-trio",
+      "category": "ecommerce",
+      "cards": 4,
+      "files": 5,
+      "kb": 17
+    },
+    {
+      "pack": "model-routing-interaction",
+      "category": "creative",
+      "cards": 4,
+      "files": 5,
+      "kb": 18
+    },
+    {
+      "pack": "onlyshot-shortform-pipeline",
+      "category": "drama",
+      "cards": 9,
+      "files": 10,
+      "kb": 40
+    },
+    {
+      "pack": "seedance-25-director-craft",
+      "category": "creative",
+      "cards": 6,
+      "files": 7,
+      "kb": 25
+    },
+    {
+      "pack": "seedance-prompt-engineering",
+      "category": "creative",
+      "cards": 6,
+      "files": 7,
+      "kb": 26
+    },
+    {
+      "pack": "shortfilm-structure",
+      "category": "drama",
+      "cards": 5,
+      "files": 6,
+      "kb": 21
+    },
+    {
+      "pack": "supercmo-ad-chain",
+      "category": "ecommerce",
+      "cards": 23,
+      "files": 24,
+      "kb": 119
+    },
+    {
+      "pack": "visual-prompt-engineering",
+      "category": "creative",
+      "cards": 10,
+      "files": 11,
+      "kb": 50
+    }
+  ],
+  "total_cards": 86,
+  "check_failures": []
+}
