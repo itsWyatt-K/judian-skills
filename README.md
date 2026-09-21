@@ -43,8 +43,9 @@
 本仓库负责「生成前的方法论」（结构 / 人物 / 提示词组装 / 质检 / 反推）。
 任务域重叠的技能均在 description 中带工位边界声明。
 
-已向上游提交集成 PR：**[ddcat-ai/open-ai-canvas#568](https://github.com/ddcat-ai/open-ai-canvas/pull/568)**
-（**34 个域包种子条目 + README 推荐位**，每包一条总纲：开箱即用，完整 769 卡经 GitHub 一键安装）。
+与上游的协作分两步：**[PR #568](https://github.com/ddcat-ai/open-ai-canvas/pull/568) 已合并**（开源署名层 72 个卡级种子技能 + README 推荐位，合入后所有影策实例开箱即用）；
+**[PR #575](https://github.com/ddcat-ai/open-ai-canvas/pull/575) 开放中**（书籍重铸层 23 个域包种子，`skills.json` 105 → 128 条，ID 台账续号 73-106 段）。
+开源层在种子市场以卡级粒度提供、在仓库以域包粒度提供；书籍层以域包粒度提供——两种粒度互补。
 
 ## 许可
 
