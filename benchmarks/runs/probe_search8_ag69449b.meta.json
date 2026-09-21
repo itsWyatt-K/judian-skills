@@ -1,0 +1,18 @@
+{
+  "arm": "probe_search8",
+  "skills": [
+    "2c5ce559f394b03a3d8f8760d13f470f",
+    "d56dba4e48594384e23a83aaebc1c9db",
+    "51006859912cfa4177edda775b246484",
+    "14811816970508",
+    "14811816982540",
+    "14811816982284",
+    "14519800321292",
+    "14811816982028"
+  ],
+  "run_id": "ag69449b30981a967477fa85b40c53bf1f",
+  "canvas_id": "dc626ca698bc4dedaea467",
+  "status": "completed",
+  "answer_len": 10429,
+  "skill_search_mentions": 0
+}
