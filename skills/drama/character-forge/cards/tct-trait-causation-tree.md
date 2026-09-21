@@ -1,6 +1,6 @@
 ---
 name: tct-trait-causation-tree
-description: "当需要用户问「这个角色为什么这样」或「帮我写他的过去」。；用户觉得角色反应「假」「没来由」。时调用。核心能力：特质成因六源树。关键触发：为什么他是这样、backstory。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。。"
+description: "当需要用户问「这个角色为什么这样」或「帮我写他的过去」。；用户觉得角色反应「假」「没来由」。时调用。核心能力：特质成因六源树。关键触发：为什么他是这样、backstory。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。"
 tags: ["trait", "causation", "backstory", "wound", "origin"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"

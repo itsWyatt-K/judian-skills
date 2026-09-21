@@ -1,6 +1,6 @@
 ---
 name: tvd-pilot-design
-description: "当需要担心首集平淡、观众不知道\"接下来要担心什么\"，需要结尾留 ≥10 个续看悬念。；不确定该用 Premise 型（开 qu时调用。核心能力：Pilot 设计。关键触发：接下来要担心什么、第一集/pilot 怎么开头才能抓人、前 3 秒怎么进冲突 / 怎么埋续看钩子、这集结尾要留几个悬念。不适用于：用户要规划整季 走向——用 tvd-season-arc-planning。、用。"
+description: "当需要担心首集平淡、观众不知道\"接下来要担心什么\"，需要结尾留 ≥10 个续看悬念。；不确定该用 Premise 型（开 qu时调用。核心能力：Pilot 设计。关键触发：接下来要担心什么、第一集/pilot 怎么开头才能抓人、前 3 秒怎么进冲突 / 怎么埋续看钩子、这集结尾要留几个悬念。不适用于：用户要规划整季 走向——用 tvd-season-arc-planning。"
 tags: ["pilot", "series-opener", "hook"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

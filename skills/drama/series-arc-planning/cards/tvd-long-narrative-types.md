@@ -1,6 +1,6 @@
 ---
 name: tvd-long-narrative-types
-description: "当需要被问\"这是单元剧还是连续剧\"，需要给出可操作的混合骨架而非二选一。；评估某集\"太像独立小品/太像连续剧拖沓\"，需要三型透时调用。核心能力：tvd-long-narrative-types — 长叙事三型与混合结构。关键触发：这是单元剧还是连续剧、太像独立小品/太像连续剧拖沓、这集要不要当集闭环 / 留跨集线、类型判定。不适用于：用户在画整季弧光图表、定已知首尾（应改用 `tvd-season-arc-pla。"
+description: "当需要被问\"这是单元剧还是连续剧\"，需要给出可操作的混合骨架而非二选一。；评估某集\"太像独立小品/太像连续剧拖沓\"，需要三型透时调用。核心能力：tvd-long-narrative-types — 长叙事三型与混合结构。关键触发：这是单元剧还是连续剧、太像独立小品/太像连续剧拖沓、这集要不要当集闭环 / 留跨集线、类型判定。不适用于：用户在画整季弧光图表、定已知首尾（应改用 tvd-season-arc-planning。"
 tags: ["narrative", "structure", "series"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

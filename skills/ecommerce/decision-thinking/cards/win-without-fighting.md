@@ -1,6 +1,6 @@
 ---
 name: win-without-fighting
-description: "当需要有冲突但不想升级成公开撕裂。；竞争中可以通过定位、联盟、规则、谈判改变局面。时调用。核心能力：Win Without Fighting。不适用于：用户要求操纵、诈骗、胁迫、威胁或现实伤害。、必须依法维权、医疗救助或安全防护时，。"
+description: "当需要有冲突但不想升级成公开撕裂。；竞争中可以通过定位、联盟、规则、谈判改变局面。时调用。核心能力：Win Without Fighting。不适用于：用户要求操纵、诈骗、胁迫、威胁或现实伤害。、必须依法维权、医疗救助或安全防护时。"
 tags: ["sunzi", "conflict", "negotiation", "low-cost", "strategy"]
 metadata:
   source_book: "《孙子兵法》"

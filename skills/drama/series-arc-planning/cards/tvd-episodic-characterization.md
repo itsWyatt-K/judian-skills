@@ -1,6 +1,6 @@
 ---
 name: tvd-episodic-characterization
-description: "当需要担心角色在不同集\"人格跳变\"，需要一套原则保证 里始终是\"上周的\"又有新维度。；设计 pilot 或角色长弧时，要决定常时调用。核心能力：tvd-episodic-characterization — 系列角色塑造与无尽弧光。关键触发：人格跳变、这个角色某集要彻底改变/完成成长弧、怎么让观众相信这是同一个角色，又每集有新东西、角色×集数。不适用于：用户在画整季角色弧光图表做全局规划（应改用 `tvd-season-arc-pl。"
+description: "当需要担心角色在不同集\"人格跳变\"，需要一套原则保证 里始终是\"上周的\"又有新维度。；设计 pilot 或角色长弧时，要决定常时调用。核心能力：tvd-episodic-characterization — 系列角色塑造与无尽弧光。关键触发：人格跳变、这个角色某集要彻底改变/完成成长弧、怎么让观众相信这是同一个角色，又每集有新东西、角色×集数。不适用于：用户在画整季角色弧光图表做全局规划（应改用 tvd-season-arc-planning。"
 tags: ["character", "arc", "series"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

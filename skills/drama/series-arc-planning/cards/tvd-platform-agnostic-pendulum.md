@@ -1,6 +1,6 @@
 ---
 name: tvd-platform-agnostic-pendulum
-description: "当需要团队争论\"AI 生成会不会让电视写作手册过时\"，需要用钟摆中心论证保留方法论内核、剥离制度外壳。时调用。核心能力：钟摆中心 / 平台无关性。关键触发：AI 生成会不会让电视写作手册过时、AI 写剧 / 生成剧本 会不会过时、平台无关 / 钟摆中心 / 原理不变 / craft endures。不适用于：需要单集质检 → 用 `tvd-episode-quality-checklis。"
+description: "当需要团队争论\"AI 生成会不会让电视写作手册过时\"，需要用钟摆中心论证保留方法论内核、剥离制度外壳。时调用。核心能力：钟摆中心 / 平台无关性。关键触发：AI 生成会不会让电视写作手册过时、AI 写剧 / 生成剧本 会不会过时、平台无关 / 钟摆中心 / 原理不变 / craft endures。不适用于：需要单集质检 → 用 tvd-episode-quality-checklist。"
 tags: ["platform-agnostic", "craft", "pendulum"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

@@ -1,6 +1,6 @@
 ---
 name: success-metrics
-description: "当需要写产品 KPI/OKR,不知选什么指标衡量体验。；复盘时只报 PV/功能数,被质疑\"这代表成功吗\"。时调用。核心能力：成功标准。关键触发：这代表成功吗、。 ### 语言信号 - 、目标与需求是什么、可追踪指标。不适用于：纯财务/股价等不可被 UX 设计影响的指标,不在本 skill 范围。、不要为凑。"
+description: "当需要写产品 KPI/OKR,不知选什么指标衡量体验。；复盘时只报 PV/功能数,被质疑\"这代表成功吗\"。时调用。核心能力：成功标准。关键触发：这代表成功吗、。 ### 语言信号 - 、目标与需求是什么、可追踪指标。不适用于：纯财务/股价等不可被 UX 设计影响的指标,不在本 skill 范围。"
 tags: ["principle", "metrics", "success", "quantifiable"]
 metadata:
   source_book: "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"

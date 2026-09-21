@@ -1,6 +1,6 @@
 ---
 name: x-cold-start-playbook
-description: "当需要**新号没粉丝,发了推文没人看**——需要漏斗诊断丢在哪步+六策略选优先级。；**有少量粉丝(几十到几百)但帖子曝光仍然时调用。核心能力：冷启动六策略 + 涨粉转化漏斗。关键触发：没粉丝怎么办、帖子没人看、0粉丝怎么起号、冷启动怎么过。"
+description: "当需要**新号没粉丝,发了推文没人看**——需要漏斗诊断丢在哪步+六策略选优先级。；有少量粉丝(几十到几百)但帖子曝光仍然时调用。核心能力：冷启动六策略 + 涨粉转化漏斗。关键触发：没粉丝怎么办、帖子没人看、0粉丝怎么起号、冷启动怎么过。"
 tags: ["cold-start", "growth-funnel", "prioritization", "engagement-strategy", "new-account"]
 metadata:
   source_book: "《X秘籍》 AIP出海教程 / 木马人"

@@ -1,6 +1,6 @@
 ---
 name: tct-needs-morals-engine
-description: "当需要用户问「怎么让读者共情一个不讨喜的角色」。；用户要设计动机、特别是「看似矛盾的选择」。时调用。核心能力：需求×道德驱动引擎。关键触发：共情。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。。"
+description: "当需要用户问「怎么让读者共情一个不讨喜的角色」。；用户要设计动机、特别是「看似矛盾的选择」。时调用。核心能力：需求×道德驱动引擎。关键触发：共情。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。"
 tags: ["trait", "needs", "morals", "empathy", "motivation", "maslow"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"

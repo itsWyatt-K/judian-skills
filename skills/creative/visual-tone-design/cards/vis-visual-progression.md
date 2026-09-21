@@ -1,6 +1,6 @@
 ---
 name: vis-visual-progression
-description: "当需要单集想从\"安静日常\"一路推到\"反套路爆发/混战\"，需要强度升级设计。；觉得某集\"平、没爬升、高潮不够爽\"，要诊断复杂度有时调用。核心能力：视觉进阶。关键触发：安静日常、反套路爆发/混战、平、没爬升、高潮不够爽、拳赛越打越烈。不适用于：只问\"这一刻强还是弱\"的总开关 → 转 `vis-contrast-affini。"
+description: "当需要单集想从\"安静日常\"一路推到\"反套路爆发/混战\"，需要强度升级设计。；觉得某集\"平、没爬升、高潮不够爽\"，要诊断复杂度有时调用。核心能力：视觉进阶。关键触发：安静日常、反套路爆发/混战、平、没爬升、高潮不够爽、拳赛越打越烈。不适用于：只问\"这一刻强还是弱\"的总开关 → 转 vis-contrast-affinity。"
 tags: ["progression", "complexity", "intensity-curve", "narrative-density"]
 metadata:
   source_book: "《以眼说话：影像视觉原理及应用》 Bruce A. Block（汪代岚译）"

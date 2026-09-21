@@ -1,6 +1,6 @@
 ---
 name: tct-fatal-flaw-arc
-description: "当需要用户要写「主角怎么成长 / 负弧 / 平弧」。；用户说「这个缺陷我想让它驱动整条线」。时调用。核心能力：致命缺陷×弧光四件套。关键触发：人物弧光。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。。"
+description: "当需要用户要写「主角怎么成长 / 负弧 / 平弧」。；用户说「这个缺陷我想让它驱动整条线」。时调用。核心能力：致命缺陷×弧光四件套。关键触发：人物弧光。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。"
 tags: ["trait", "flaw", "arc", "wound", "lie", "character-growth"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"

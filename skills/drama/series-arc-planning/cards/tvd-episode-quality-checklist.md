@@ -1,6 +1,6 @@
 ---
 name: tvd-episode-quality-checklist
-description: "当需要人工写完整集，交稿前用清单自查防翻车。；评审他人/批量产出的集，统一用清单过滤低质集。时调用。核心能力：单集质量质检清单。关键触发：这集过一遍质检 / 质量清单、观众会希望赢吗 / rooting interest、先锚定三柱再填肉、写完后逐条验收。不适用于：规划整季弧 → 用 `tvd-season-arc-planning`、建世界观。"
+description: "当需要人工写完整集，交稿前用清单自查防翻车。；评审他人/批量产出的集，统一用清单过滤低质集。时调用。核心能力：单集质量质检清单。关键触发：这集过一遍质检 / 质量清单、观众会希望赢吗 / rooting interest、先锚定三柱再填肉、写完后逐条验收。不适用于：规划整季弧 → 用 `tvd-season-arc-planning`。"
 tags: ["quality-check", "sonnys-list", "rooting-interest"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

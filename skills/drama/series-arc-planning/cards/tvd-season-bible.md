@@ -1,6 +1,6 @@
 ---
 name: tvd-season-bible
-description: "当需要发现 AI 生成的相邻集出现设定矛盾（某计解释前后不一、性格跳变），需要回头建立/补完 bible 来约束。时调用。核心能力：Season Bible / Overview 总纲文档。关键触发：AI 产出来的集前后不一致，规则没统一、整季情感旅程的已知首尾 + 每集节点、把世界规则与角色事实固化成权威文档、帮我把世界观/角色设定写成 bible / 总纲 / 设定集。不适用于：只写单集分集大纲 → 用 `tvd-outline-color-cards`、只。"
+description: "当需要发现 AI 生成的相邻集出现设定矛盾（某计解释前后不一、性格跳变），需要回头建立/补完 bible 来约束。时调用。核心能力：Season Bible / Overview 总纲文档。关键触发：AI 产出来的集前后不一致，规则没统一、整季情感旅程的已知首尾 + 每集节点、把世界规则与角色事实固化成权威文档、帮我把世界观/角色设定写成 bible / 总纲 / 设定集。不适用于：只写单集分集大纲 → 用 `tvd-outline-color-cards`。"
 tags: ["season-bible", "canon", "worldbuilding"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

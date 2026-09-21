@@ -1,6 +1,6 @@
 ---
 name: charles-stc-genre-as-checklist
-description: "当需要草稿写完了，但自己觉得\"好像少了点什么\"\"不够那味儿\"。；被人说\"这不像恐怖片/不像爱情片\"，想系统排查缺了哪条规矩。时调用。核心能力：把十类型当创作规矩/自查表。关键触发：好像少了点什么、不够那味儿、这不像恐怖片/不像爱情片、类型创作模板。不适用于：用户还在定类型阶段：先 `charles-stc-genre-ten-types。"
+description: "当需要草稿写完了，但自己觉得\"好像少了点什么\"\"不够那味儿\"。；被人说\"这不像恐怖片/不像爱情片\"，想系统排查缺了哪条规矩。时调用。核心能力：把十类型当创作规矩/自查表。关键触发：好像少了点什么、不够那味儿、这不像恐怖片/不像爱情片、类型创作模板。不适用于：用户还在定类型阶段：先 charles-stc-genre-ten-types"
 tags: ["genre", "checklist", "charles-lecture", "execution"]
 metadata:
   source_book: "01-剧本创意与故事结构"

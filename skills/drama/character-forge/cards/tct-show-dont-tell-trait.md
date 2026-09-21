@@ -1,6 +1,6 @@
 ---
 name: tct-show-dont-tell-trait
-description: "当需要用户写出「他很勇敢/她很自私」式 tell，需要改成 show。；用户要让特质「被看见」而非被说明。时调用。核心能力：展示而非告知特质。关键触发：tell 太直白、怎么展示不是告知、show don't tell、用动作写性格。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。。"
+description: "当需要用户写出「他很勇敢/她很自私」式 tell，需要改成 show。；用户要让特质「被看见」而非被说明。时调用。核心能力：展示而非告知特质。关键触发：tell 太直白、怎么展示不是告知、show don't tell、用动作写性格。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。"
 tags: ["trait", "show-dont-tell", "craft", "behavior", "reveal"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"

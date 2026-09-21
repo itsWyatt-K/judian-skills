@@ -1,6 +1,6 @@
 ---
 name: tv-effectiveness-factors
-description: "当需要写电视/短视频脚本, 纠结用什么手法。；想用名人/卡通/音乐小品, 需要被提醒风险。时调用。核心能力：电视广告改变偏好的 10 高 3 低。关键触发：电视广告怎么拍 / 短视频创意、什么手法有效、用名人/卡通行不行、测什么指标。不适用于：纯文字/图文媒介(转 headline / editorial-layout)。。"
+description: "当需要写电视/短视频脚本, 纠结用什么手法。；想用名人/卡通/音乐小品, 需要被提醒风险。时调用。核心能力：电视广告改变偏好的 10 高 3 低。关键触发：电视广告怎么拍 / 短视频创意、什么手法有效、用名人/卡通行不行、测什么指标。不适用于：纯文字/图文媒介(转 headline / editorial-layout)。"
 tags: ["tv", "creative", "effectiveness", "factors"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"

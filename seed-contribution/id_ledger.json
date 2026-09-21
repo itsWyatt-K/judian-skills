@@ -107,7 +107,8 @@
     "prompt-engineering-patterns": "16000000000103",
     "story-marketing": "16000000000104",
     "supercmo-ad-chain": "16000000000105",
-    "viral-contagion": "16000000000106"
+    "viral-contagion": "16000000000106",
+    "scene-recipe-concierge": "16000000000107"
   },
   "note_pack_batch": "2026-09-21 追加 34 个域包条目（序号 73-106 段）；旧 72 条卡级条目（序号 1-72 段）已被域包结构取代，编号封存永不复用。"
 }

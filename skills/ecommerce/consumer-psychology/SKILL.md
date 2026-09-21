@@ -1,11 +1,11 @@
 ---
 name: consumer-psychology
-description: "当理解顾客为什么买、为什么犹豫时调用（本包由 50 张方法论卡汇编而成，蒸馏自《怪诞行为学（全5册）》、《无价：洞悉大众心理玩转价格游戏（经典版）》）。核心能力：消费心理：影响力/行为经济/定价锚点。关键触发：“坏消息谁去说 / 这个通报谁来发”、“师傅说必须换”、“我也不知道当时怎么就同意了”、“好得反常”、“两个部门互相甩锅 / 谁也不服谁”、“怎么让客户相信我 / 对方很戒备”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。"
+description: "当写带货口播、广告脚本、详情页与直播话术，需要设计转化结构时调用（本包由 41 张方法论卡汇编而成，蒸馏自《无价：洞悉大众心理玩转价格游戏（经典版）》、《影响力（经典版）》、《怪诞行为学（全5册）》、《思考，快与慢》）。核心能力：转化心理：价格锚点/比价阻断/参考价呈现/社会证据/稀缺与承诺一致性。关键触发：“口播没转化”、“客户只问多少钱 / 拿着别家报价单来砍”、“详情页怎么摆价格”、“划线价会不会被当成虚假宣传”、“找大 V 还是素人背书”、“试用完怎么让他下单”、“涨价了怕被骂”。工位边界：本包负责创作方法论层（卖点与价格怎么讲）；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。"
 tags: ["剧典重铸", "消费心理"]
 metadata:
   version: 1.0.0
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  card_count: 50
+  card_count: 41
 ---
 
 # 消费心理：影响力/行为经济/定价锚点
@@ -14,7 +14,7 @@ metadata:
 
 ## 何时调用
 
-当理解顾客为什么买、为什么犹豫时调用（本包由 50 张方法论卡汇编而成，蒸馏自《怪诞行为学（全5册）》、《无价：洞悉大众心理玩转价格游戏（经典版）》）。核心能力：消费心理：影响力/行为经济/定价锚点。关键触发：“坏消息谁去说 / 这个通报谁来发”、“师傅说必须换”、“我也不知道当时怎么就同意了”、“好得反常”、“两个部门互相甩锅 / 谁也不服谁”、“怎么让客户相信我 / 对方很戒备”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当写带货口播、广告脚本、详情页与直播话术，需要设计转化结构时调用（本包由 41 张方法论卡汇编而成，蒸馏自《无价：洞悉大众心理玩转价格游戏（经典版）》、《影响力（经典版）》、《怪诞行为学（全5册）》、《思考，快与慢》）。核心能力：转化心理：价格锚点/比价阻断/参考价呈现/社会证据/稀缺与承诺一致性。关键触发：“口播没转化”、“客户只问多少钱 / 拿着别家报价单来砍”、“详情页怎么摆价格”、“划线价会不会被当成虚假宣传”、“找大 V 还是素人背书”、“试用完怎么让他下单”、“涨价了怕被骂”。工位边界：本包负责创作方法论层（卖点与价格怎么讲）；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 包内卡片名录
 
@@ -31,21 +31,15 @@ metadata:
 - `close-the-doors` — 关门决策
 - `conflict-of-interest-design` — 利益冲突的结构化处理
 - `contrast-sequencing` — 对比原理的呈现顺序设计
-- `cooperation-over-contact` — 用共同目标化解对立
-- `dishonesty-contagion-governance` — 不诚实的社会传染治理
 - `effort-visibility-premium` — 努力可见性溢价
 - `endowment-gap-correction` — 禀赋鸿沟矫正
 - `expectation-experience-engineering` — 期望与体验工程
 - `expert-intuition-validity` — 专家直觉可信度判定
 - `flaw-first-credibility` — 先亮缺点建立可信度
 - `foot-in-the-door` — 小承诺撬动大行为
-- `fudge-factor-integrity` — 经验系数与诚信设计
 - `future-self-vividness` — 未来自我具象化
-- `incentive-inverted-u` — 激励倒 U 形曲线
 - `liking-paths` — 好感五路径的诊断与构建
 - `low-ball-guard` — 抛低球识别与"愚蠢一致"的解锁
-- `low-justification-internalizing` — 弱外部理由内化法
-- `meaning-recognition-motivation` — 意义与认可激励
 - `mental-accounting-envelope` — 心理账户与信封法
 - `nih-co-creation-buyin` — 非我发明偏见与共创式说服
 - `opportunity-cost-swap` — 机会成本置换
@@ -61,13 +55,16 @@ metadata:
 - `scarcity-pause` — 稀缺两步应对
 - `scarcity-reactance-guard` — 逆反心理与"收回自由"的代价
 - `self-herding-break` — 自我羊群打断
-- `single-point-help` — 单点指派求助法
-- `social-market-norm-switch` — 社会规范与市场规范切换
 - `social-proof-conditions` — 社会证据的双条件
 - `ultimatum-fairness-leverage` — 最后通牒式公平杠杆：他们否决的是你的动机，不是你的价格
-- `ulysses-self-control-architecture` — 冷热自我与自控架构
 - `wysiati-evidence-audit` — 眼见即为事实证据审计
 - `zero-price-transaction-utility` — 零价格与交易效用：0 不是一个价格，是另一个类别
+
+## 收录边界
+
+本包只收录**面向内容创作与转化呈现**的心理学卡（价格锚定 / 比价阻断 / 参考价与折扣呈现 / 社会证据 / 稀缺 / 承诺一致性 / 互惠 / 期望与体验）；
+组织治理与团队激励、个人理财与自我管理类卡片（不诚实传染治理、奖金与激励设计、储蓄与拖延、部门协同等）同源蒸馏但应用场景不在内容创作，**不进本包**。
+本地方法论库完整保留这些卡，需要时走本地通道。
 
 ## 使用纪律
 

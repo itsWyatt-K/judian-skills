@@ -1,6 +1,6 @@
 ---
 name: tvd-world-extension-canon
-description: "当需要AI 批量产出的番外与正片设定打架（某角色背景矛盾），需要用 canon 规则约束延展。；正片时长有限，某些 mytho时调用。核心能力：故事世界延展。关键触发：正片放不下的背景故事想另做、canon / extended universe / 母舰之外 / 延展世界观。不适用于：仅做正片单集 → 用其它结构/质检 skill、没有建 bible/canon 。"
+description: "当需要AI 批量产出的番外与正片设定打架（某角色背景矛盾），需要用 canon 规则约束延展。；正片时长有限，某些 mytho时调用。核心能力：故事世界延展。关键触发：正片放不下的背景故事想另做、canon / extended universe / 母舰之外 / 延展世界观。不适用于：仅做正片单集 → 用其它结构/质检 skill、没有建 bible/canon。"
 tags: ["canon", "webisodes", "world-extension"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

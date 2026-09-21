@@ -1,6 +1,6 @@
 ---
 name: tvd-original-within-franchise
-description: "当需要立项时纠结\"我的点子太像某成功剧\"或\"太怪没锚点\"，需要悖论框架平衡两端。时调用。核心能力：tvd-original-within-franchise — 在类型内原创的悖论。关键触发：我的点子太像某成功剧、太怪没锚点、我的概念既要新颖又要像成功者，怎么平衡、家庭+计谋这种成熟类型还能怎么原创。不适用于：用户已定概念、在写 pilot 四步法/钩子（应改用 `tvd-pilot-de。"
+description: "当需要立项时纠结\"我的点子太像某成功剧\"或\"太怪没锚点\"，需要悖论框架平衡两端。时调用。核心能力：tvd-original-within-franchise — 在类型内原创的悖论。关键触发：我的点子太像某成功剧、太怪没锚点、我的概念既要新颖又要像成功者，怎么平衡、家庭+计谋这种成熟类型还能怎么原创。不适用于：用户已定概念、在写 pilot 四步法/钩子（应改用 tvd-pilot-design。"
 tags: ["concept", "franchise", "originality"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"

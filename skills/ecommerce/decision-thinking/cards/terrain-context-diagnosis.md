@@ -1,6 +1,6 @@
 ---
 name: terrain-context-diagnosis
-description: "当需要准备进入新市场、新渠道、新组织环境。；想复制别人策略，但不确定场景是否一致。时调用。核心能力：Terrain Context Diagnosis。不适用于：用户请求现实军事部署或伤害性行动。、问题纯粹是个人习惯，不涉及环境差异。。"
+description: "当需要准备进入新市场、新渠道、新组织环境。；想复制别人策略，但不确定场景是否一致。时调用。核心能力：Terrain Context Diagnosis。不适用于：用户请求现实军事部署或伤害性行动。、问题纯粹是个人习惯，不涉及环境差异。"
 tags: ["sunzi", "terrain", "context", "environment", "scenario"]
 metadata:
   source_book: "《孙子兵法》"

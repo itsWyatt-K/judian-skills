@@ -26,7 +26,7 @@ FOOTER = """
 
 ---
 
-**完整版**：本条目为域包总纲。34 个域包的完整卡片（开源署名层 86 卡 + 书籍重铸层 683 卡）位于
+**完整版**：本条目为域包总纲。34 个域包的完整卡片（开源署名层 86 卡 + 书籍重铸层 673 卡）位于
 [itsWyatt-K/judian-skills](https://github.com/itsWyatt-K/judian-skills)——技能页 → 安装技能 → GitHub →
 填入仓库地址与包路径（如 `skills/{cat}/{name}`）即可安装，Agent 可按总纲名录逐卡深读。
 来源与许可见各卡 frontmatter：开源署名层逐卡标注 source/license（MIT/Apache-2.0/CC-BY-4.0/官方文档署名）；
@@ -58,6 +58,11 @@ def main():
     for cat in CATEGORIES:
         cat_dir = ROOT / "skills" / cat
         for pack_dir in sorted(p for p in cat_dir.iterdir() if p.is_dir()):
+            # 只收域包（有 cards/ 目录）与门房技能；排除工作区残留的旧单卡包目录
+            is_domain_pack = (pack_dir / "cards").is_dir()
+            is_concierge = pack_dir.name == "scene-recipe-concierge"
+            if not (is_domain_pack or is_concierge):
+                continue
             skill_md = pack_dir / "SKILL.md"
             if not skill_md.exists():
                 problems.append(f"缺 SKILL.md: {pack_dir}")

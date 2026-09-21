@@ -1,6 +1,6 @@
 ---
 name: tct-trait-conflict-cast
-description: "当需要用户说「两个角色老是一拍即合、没火花」或「想让配角自然顶撞主角」。；用户要搭群像、不知怎么分配特质。时调用。核心能力：特质冲突矩阵。关键触发：关系张力、Odd Couple、配角顶撞、特质冲突。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。。"
+description: "当需要用户说「两个角色老是一拍即合、没火花」或「想让配角自然顶撞主角」。；用户要搭群像、不知怎么分配特质。时调用。核心能力：特质冲突矩阵。关键触发：关系张力、Odd Couple、配角顶撞、特质冲突。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。"
 tags: ["trait", "conflict", "cast", "relationship", "odd-couple"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"

@@ -1,20 +1,20 @@
 ---
 name: comedy-mechanics
-description: "当系统性制造笑点与喜剧结构时调用（本包由 68 张方法论卡汇编而成，蒸馏自《超棒喜剧这样写》、《Step by Step to Stand-Up Comedy》、《The NEW Comedy Bible (Judy Carter, 2020)》、《崔凯文集·喜剧小品卷》、《王朔作品精选（套装共6册）》）。核心能力：喜剧机制：前提/反差/反转/包袱与幽默生成。关键触发：“头脑风暴”、“把小事放大”、“对谁讲才笑”、“名言篡改”、“预期落空”、“简单真相”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。"
+description: "当写喜剧内容或表演喜剧时调用（本包由 67 张方法论卡汇编而成，蒸馏自《超棒喜剧这样写》、《Step by Step to Stand-Up Comedy》、《The NEW Comedy Bible (Judy Carter, 2020)》、《崔凯文集·喜剧小品卷》、《王朔作品精选（套装共6册）》）。核心能力三层：① 创作——前提/反差/反转/包袱/三叠/配方齐不齐；② 表演——act-out 把「说」变「演」、timing 与停顿、排练与临场、砸场应对、脑内自我批评；③ 职业化——整场排序、段子串联、写作纪律、喜剧人设与冒犯边界。关键触发：“这段为什么不好笑”、“写不出梗 / 素材攒了一堆没成文”、“停顿把握不好 / 观众笑时我该不该说话”、“上台就僵 / 背稿就忘”、“整场怎么排序”、“这段能不能这么写（冒犯边界）”。工位边界：本包负责喜剧创作与表演方法论；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。"
 tags: ["剧典重铸", "喜剧机制"]
 metadata:
   version: 1.0.0
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  card_count: 68
+  card_count: 67
 ---
 
 # 喜剧机制：前提/反差/反转/包袱与幽默生成
 
-> 本包由 68 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 67 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当系统性制造笑点与喜剧结构时调用（本包由 68 张方法论卡汇编而成，蒸馏自《超棒喜剧这样写》、《Step by Step to Stand-Up Comedy》、《The NEW Comedy Bible (Judy Carter, 2020)》、《崔凯文集·喜剧小品卷》、《王朔作品精选（套装共6册）》）。核心能力：喜剧机制：前提/反差/反转/包袱与幽默生成。关键触发：“头脑风暴”、“把小事放大”、“对谁讲才笑”、“名言篡改”、“预期落空”、“简单真相”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当写喜剧内容或表演喜剧时调用（本包由 67 张方法论卡汇编而成，蒸馏自《超棒喜剧这样写》、《Step by Step to Stand-Up Comedy》、《The NEW Comedy Bible (Judy Carter, 2020)》、《崔凯文集·喜剧小品卷》、《王朔作品精选（套装共6册）》）。核心能力三层：① 创作——前提/反差/反转/包袱/三叠/配方齐不齐；② 表演——act-out 把「说」变「演」、timing 与停顿、排练与临场、砸场应对、脑内自我批评；③ 职业化——整场排序、段子串联、写作纪律、喜剧人设与冒犯边界。关键触发：“这段为什么不好笑”、“写不出梗 / 素材攒了一堆没成文”、“停顿把握不好 / 观众笑时我该不该说话”、“上台就僵 / 背稿就忘”、“整场怎么排序”、“这段能不能这么写（冒犯边界）”。工位边界：本包负责喜剧创作与表演方法论；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 包内卡片名录
 
@@ -64,7 +64,6 @@ metadata:
 - `kom-perspective-lens` — 隐喻关系 + 世界观 + 框架
 - `kom-positive-action` — 正向行为
 - `kom-rewriting` — 喜剧重写
-- `kom-silver-anti-trope` — 
 - `kom-sitcom-family` — 迷人的失能家庭
 - `kom-straight-wavy-line` — 直线 / 波浪型曲线
 - `kom-tools-for-repair` — 工具只在"坏掉时"用于维修

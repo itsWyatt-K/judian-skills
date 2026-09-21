@@ -1,6 +1,6 @@
 ---
 name: creative-chemistry
-description: "当需要写好的文案/视频\"逻辑对但没人看、没转化\"，要找病根。；从零想一个有记忆点、能传播的创意点子。时调用。核心能力：创意化学反应。关键触发：逻辑对但没人看、没转化、爹味十足/说教感重、我这文案为什么没效果？、why is my copy not working。不适用于：纯投放排期、媒介采购、竞价优化——本 skill 管内容创意，不管买量。、需要严。"
+description: "当需要写好的文案/视频\"逻辑对但没人看、没转化\"，要找病根。；从零想一个有记忆点、能传播的创意点子。时调用。核心能力：创意化学反应。关键触发：逻辑对但没人看、没转化、爹味十足/说教感重、我这文案为什么没效果？、why is my copy not working。不适用于：纯投放排期、媒介采购、竞价优化——本 skill 管内容创意，不管买量。"
 tags: ["creative", "copywriting", "emotion", "content"]
 metadata:
   source_book: "《借势》 金枪大叔"

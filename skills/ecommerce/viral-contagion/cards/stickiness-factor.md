@@ -1,6 +1,6 @@
 ---
 name: stickiness-factor
-description: "当需要推送的内容/活动没人记住或转化。；培训材料员工学完就忘。时调用。核心能力：附着力因素。关键触发：怎么让人记住 / 记不住 / 看了就忘、发了没人行动 / 转化低、培训没用 / 学完就忘、怎么让这个口号/信息粘住。不适用于：信息压根没人收到——先解决传播（connectors/mavens）。、受众不信。"
+description: "当需要推送的内容/活动没人记住或转化。；培训材料员工学完就忘。时调用。核心能力：附着力因素。关键触发：怎么让人记住 / 记不住 / 看了就忘、发了没人行动 / 转化低、培训没用 / 学完就忘、怎么让这个口号/信息粘住。不适用于：信息压根没人收到——先解决传播（connectors/mavens）。"
 tags: ["stickiness", "message-design", "behavior-change"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"

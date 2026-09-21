@@ -1,6 +1,6 @@
 ---
 name: tct-trait-dual-axis
-description: "当需要用户困惑「为什么好人设不讨喜 / 为什么反派太脸谱」。；用户说「这个特质我想让他既有优点又有问题」。时调用。核心能力：特质的度与故障线。关键触发：特质的正反、度的把握、为什么好人设扁、缺陷的代价。不适用于：**要填单特质档案** → tct-trait-entry-blueprint。。"
+description: "当需要用户困惑「为什么好人设不讨喜 / 为什么反派太脸谱」。；用户说「这个特质我想让他既有优点又有问题」。时调用。核心能力：特质的度与故障线。关键触发：特质的正反、度的把握、为什么好人设扁、缺陷的代价。不适用于：**要填单特质档案** → tct-trait-entry-blueprint。"
 tags: ["trait", "dual-axis", "degree", "flaw", "balance"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"

@@ -1,6 +1,6 @@
 ---
 name: tct-build-balanced-character
-description: "当需要用户要「从零创建主角/配角/反派」。；用户问「怎么让角色不扁平 / 反派不脸谱」。时调用。核心能力：平衡人物 + 反派镜子铁律。关键触发：平衡角色、反派怎么写、主次特质、Save the Cat。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。。"
+description: "当需要用户要「从零创建主角/配角/反派」。；用户问「怎么让角色不扁平 / 反派不脸谱」。时调用。核心能力：平衡人物 + 反派镜子铁律。关键触发：平衡角色、反派怎么写、主次特质、Save the Cat。不适用于：**只填单特质档案** → tct-trait-entry-blueprint。"
 tags: ["trait", "build", "balance", "villain", "cast", "character-design"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"
