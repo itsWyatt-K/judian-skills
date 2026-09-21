@@ -3,7 +3,7 @@
 > 短剧与广告创作方法论技能包，适配影策（Open AI Canvas）技能系统：
 > 技能页 → 安装技能 → GitHub 标签 → 填本仓库地址 + 技能子目录（如 `skills/drama/story-structure-engine`）。
 
-**当前收录 34 个技能包**：`drama` 12 / `creative` 11 / `ecommerce` 11。
+**当前收录 34 个技能包**：`drama` 13 / `creative` 11 / `ecommerce` 10。
 由两层构成：**开源署名层 11 包 / 86 卡**（蒸馏自 9 个宽松许可开源仓库 + MiniMax/BFL 官方文档，superCMO 23 技能全覆盖）
 + **书籍重铸层 23 包 / 683 卡**（60+ 部出版书蒸馏卡去引用汇编）。
 
@@ -32,9 +32,10 @@
 - [`benchmarks/evaluate-v1.md`](benchmarks/evaluate-v1.md) —— 28 题 A/B 评估基准
 - [`benchmarks/ab-detailed-report-v2.md`](benchmarks/ab-detailed-report-v2.md) —— A/B 实测报告（真实运行，事件流可复跑）
 - [`benchmarks/ab-reverse-v3.md`](benchmarks/ab-reverse-v3.md) —— 反推提示词 A/B v3（盲测画布 + 上游技能对照）
-- [`seed-contribution/`](seed-contribution/) —— 上游 `skills.json` 种子条目投稿素材（开源层 72 条，
-  含 [`id_ledger.json`](seed-contribution/id_ledger.json) 技能 ID 台账：编号一经分配永不变更；
-  书籍层种子条目随 follow-up PR 提交）
+- [`seed-contribution/`](seed-contribution/) —— 上游 `skills.json` 种子条目投稿素材
+  （**34 个域包条目**，由 [`packs_to_seed.py`](seed-contribution/packs_to_seed.py) 生成，单包总纲 + 完整版安装指引；
+  含 [`id_ledger.json`](seed-contribution/id_ledger.json) 技能 ID 台账：编号一经分配永不变更，
+  旧 72 条卡级条目编号已封存，域包条目续号 73-106 段）
 
 ## 与上游的协作
 
@@ -43,8 +44,7 @@
 任务域重叠的技能均在 description 中带工位边界声明。
 
 已向上游提交集成 PR：**[ddcat-ai/open-ai-canvas#568](https://github.com/ddcat-ai/open-ai-canvas/pull/568)**
-（开源署名层 72 个种子技能 + README 推荐位）。合入后所有影策实例开箱即用；
-书籍重铸层 23 包作为 follow-up PR 提交（种子条目筹备中）。
+（**34 个域包种子条目 + README 推荐位**，每包一条总纲：开箱即用，完整 769 卡经 GitHub 一键安装）。
 
 ## 许可
 

@@ -1,0 +1,17 @@
+{
+  "generated_at": 1789977278,
+  "mode": "pack",
+  "entries": 34,
+  "by_tag": {
+    "drama": 13,
+    "creative": 11,
+    "ecommerce": 10
+  },
+  "instruction_total_kb": 70.2,
+  "id_range": [
+    "16000000000073",
+    "16000000000106"
+  ],
+  "problems": [],
+  "output": "D:\\AlcheMvision\\judian-skills\\seed-contribution\\seed-addition-packs.json"
+}
