@@ -17,7 +17,8 @@
   （每轮运行最多激活 8 个技能；含与官方市场技能的同轮双选举机）
 - [`benchmarks/evaluate-v1.md`](benchmarks/evaluate-v1.md) —— 28 题 A/B 评估基准
 - [`benchmarks/ab-detailed-report-v2.md`](benchmarks/ab-detailed-report-v2.md) —— A/B 实测报告（真实运行，事件流可复跑）
-- [`seed-contribution/`](seed-contribution/) —— 上游 `skills.json` 种子条目投稿素材（72 条）
+- [`seed-contribution/`](seed-contribution/) —— 上游 `skills.json` 种子条目投稿素材（72 条，
+  含 [`id_ledger.json`](seed-contribution/id_ledger.json) 技能 ID 台账：编号一经分配永不变更）
 
 ## 与上游的协作
 
