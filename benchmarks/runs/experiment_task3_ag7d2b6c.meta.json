@@ -1,0 +1,11 @@
+{
+  "arm": "experiment",
+  "task": "3",
+  "run_id": "ag7d2b6cc9425aa84aad71fd0aaf80b170",
+  "canvas_id": "72c67f4f6faa431ea72edf",
+  "status": "completed",
+  "skills": [
+    "51006859912cfa4177edda775b246484"
+  ],
+  "answer_len": 4912
+}
