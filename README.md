@@ -3,14 +3,15 @@
 > 短剧与广告创作方法论技能包，适配影策（Open AI Canvas）技能系统：
 > 技能页 → 安装技能 → GitHub 标签 → 填本仓库地址 + 技能子目录（如 `skills/drama/story-structure-engine`）。
 
-**当前收录 34 个技能包**：`drama` 13 / `creative` 11 / `ecommerce` 10。
-由两层构成：**开源署名层 11 包 / 86 卡**（蒸馏自 9 个宽松许可开源仓库 + MiniMax/BFL 官方文档，superCMO 23 技能全覆盖）
-+ **书籍重铸层 23 包 / 683 卡**（60+ 部出版书蒸馏卡去引用汇编）。
+**当前收录 35 个技能包**：`drama` 13 / `creative` 12 / `ecommerce` 10。
+由两层 + 一个门房构成：**开源署名层 11 包 / 86 卡**（蒸馏自 9 个宽松许可开源仓库 + MiniMax/BFL 官方文档，superCMO 23 技能全覆盖）
++ **书籍重铸层 23 包 / 683 卡**（60+ 部出版书蒸馏卡去引用汇编）
++ **门房 `scene-recipe-concierge`**（三问定位 + 配方表指路：不知道选哪个包时，先激活它）。
 
 ## 分类
 
 - `skills/drama/` 短剧与故事创作（开源层：OnlySHOT 流水线 / 剧本工厂 / 短片五段式；书籍层：结构引擎 / 人物锻造 / 对白工坊 / 喜剧机制 / 脱口秀 / 相声 / 情景喜剧 / 短剧实战 / 系列规划 / 文笔）
-- `skills/creative/` 视觉与表演（开源层：Seedance 提示词工程 / Seedance 2.5 导演 / H3 套件 / 视觉提示词工程 / freestyle 风格库 / 路由交互；书籍层：镜头语法 / 剪辑节奏 / 视觉基调 / 视听理论 / AI 角色表演）
+- `skills/creative/` 视觉与表演（开源层：Seedance 提示词工程 / Seedance 2.5 导演 / H3 套件 / 视觉提示词工程 / freestyle 风格库 / 路由交互 / **门房 scene-recipe-concierge**；书籍层：镜头语法 / 剪辑节奏 / 视觉基调 / 视听理论 / AI 角色表演）
 - `skills/ecommerce/` 广告与营销（开源层：superCMO 广告链路 23 技能全覆盖 / iart 发布三件套；书籍层：广告文案 / 定位借势 / 传播裂变 / 消费心理 / 体验设计 / 故事营销 / 决策思维 / 提示词工程模式）
 
 ## 两层资产的区别
@@ -27,8 +28,10 @@
 
 ## 文档
 
-- [`docs/selection-recipes.md`](docs/selection-recipes.md) —— **场景 → 8 技能配方速查表**
-  （每轮运行最多激活 8 个技能；含与官方市场技能的同轮双选举机）
+- [`docs/selection-recipes.md`](docs/selection-recipes.md) —— **场景 → 域包配方速查表**
+  （每轮运行最多激活 8 个技能；L1 明确场景直选 + L2 组合任务配方 + 卡片深读路径；含与官方市场技能的同轮双选举机）
+- **[`scene-recipe-concierge`](skills/creative/scene-recipe-concierge/SKILL.md)** —— 门房技能：
+  不知道选哪个包时先激活它，三问定位 + 配方表推荐（只建议不代选）
 - [`benchmarks/evaluate-v1.md`](benchmarks/evaluate-v1.md) —— 28 题 A/B 评估基准
 - [`benchmarks/ab-detailed-report-v2.md`](benchmarks/ab-detailed-report-v2.md) —— A/B 实测报告（真实运行，事件流可复跑）
 - [`benchmarks/ab-reverse-v3.md`](benchmarks/ab-reverse-v3.md) —— 反推提示词 A/B v3（盲测画布 + 上游技能对照）
