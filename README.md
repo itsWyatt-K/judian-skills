@@ -3,6 +3,10 @@
 > 短剧与广告创作方法论技能包，适配影策（Open AI Canvas）技能系统：
 > 技能页 → 安装技能 → GitHub 标签 → 填本仓库地址 + 技能子目录（如 `skills/drama/story-structure-engine`）。
 
+**定位：视听创作界的 Cursor。** Cursor = 代码编辑器（画布）+ 编程 Agent + `.cursorrules`/Skills（工程规范）；
+影策 = 视频制作台（画布）+ 编剧导演 Agent + judian-skills（行业方法论）。代码领域「带规范的 Agent」已重塑软件工程，
+视听创作领域的同形态生态目前几乎是空白——本仓库即为此而建。
+
 **当前收录 35 个技能包**：`drama` 13 / `creative` 12 / `ecommerce` 10。
 由两层 + 一个门房构成：**开源署名层 11 包 / 86 卡**（蒸馏自 9 个宽松许可开源仓库 + MiniMax/BFL 官方文档，superCMO 23 技能全覆盖）
 + **书籍重铸层 23 包 / 683 卡**（60+ 部出版书蒸馏卡去引用汇编）
@@ -48,6 +52,7 @@
 
 与上游的协作：**[PR #568](https://github.com/ddcat-ai/open-ai-canvas/pull/568) 已合并**（72 条卡级种子 + README 推荐位）；
 **[PR #575](https://github.com/ddcat-ai/open-ai-canvas/pull/575) 开放中**——将种子市场**统一重组为 34 个域包**：72 条卡级条目替换为 11 个开源域包（内容零丢失，86 卡全在本仓库 `cards/`），新增 23 个书籍域包；`skills.json` 最终 67 条（33 官方 + 34 域包），ID 台账 1-72 段封存、73-106 段生效。
+**[PR #577](https://github.com/ddcat-ai/open-ai-canvas/pull/577) 开放中**（代码贡献）——技能 description 注入 Agent 系统提示 manifest：让模型能「看见」每个已激活技能是干什么的，多技能同轮可自主路由、可向用户解释选择理由（渐进披露边界不变，instruction 与文件正文仍不进入系统提示）。
 两层资产双粒度互补：种子市场每域一条总纲（开箱即用），本仓库每包完整卡片（按需深读）。
 
 ## 许可
