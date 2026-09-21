@@ -6,7 +6,7 @@ metadata:
   version: 1.0.0
   source: https://github.com/liyue-aigc/seedance-2-5-video-director
   license: MIT
-  attribution: "Methodology distilled from an MIT/Apache/CC-BY licensed open-source project, with attribution."
+  attribution: "Methodology distilled from a public source (open-source project, official model documentation, or published book) with attribution; only the methodology is distilled and no original expression is reproduced."
 ---
 
 # 素材锁表与身份绑定

@@ -6,7 +6,7 @@ metadata:
   version: 1.0.0
   source: MiniMax H3 官方技能文档（即梦 Dreamina 官方 skills 语料，raw-materials/MiniMax-H3-skills）
   license: MiniMax 官方文档（署名引用）
-  attribution: "Methodology distilled from an MIT/Apache/CC-BY licensed open-source project, with attribution."
+  attribution: "Methodology distilled from a public source (open-source project, official model documentation, or published book) with attribution; only the methodology is distilled and no original expression is reproduced."
 ---
 
 ## R — 原文 (Reading)

@@ -6,7 +6,7 @@ metadata:
   version: 1.0.0
   source: https://github.com/A-cat-with-carrots/OnlyShot
   license: MIT
-  attribution: "Methodology distilled from an MIT/Apache/CC-BY licensed open-source project, with attribution."
+  attribution: "Methodology distilled from a public source (open-source project, official model documentation, or published book) with attribution; only the methodology is distilled and no original expression is reproduced."
 ---
 
 # 时长变奏分布与内容七铁律

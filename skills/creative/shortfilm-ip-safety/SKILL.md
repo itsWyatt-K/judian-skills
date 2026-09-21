@@ -6,7 +6,7 @@ metadata:
   version: 1.0.0
   source: https://github.com/jnMetaCode/ai-shortfilm-prompts
   license: MIT
-  attribution: "Methodology distilled from an MIT/Apache/CC-BY licensed open-source project, with attribution."
+  attribution: "Methodology distilled from a public source (open-source project, official model documentation, or published book) with attribution; only the methodology is distilled and no original expression is reproduced."
 ---
 
 # IP 安全处置与平台差异

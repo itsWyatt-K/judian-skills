@@ -6,7 +6,7 @@ metadata:
   version: 1.0.0
   source: https://github.com/lixiaoxiao9888-create/short-drama-factory
   license: MIT
-  attribution: "Methodology distilled from an MIT/Apache/CC-BY licensed open-source project, with attribution."
+  attribution: "Methodology distilled from a public source (open-source project, official model documentation, or published book) with attribution; only the methodology is distilled and no original expression is reproduced."
 ---
 
 # 单集硬规格与断章公式

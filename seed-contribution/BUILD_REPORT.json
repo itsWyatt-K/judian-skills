@@ -1,21 +1,12 @@
 {
-  "generated_at": 1789934570,
-  "entries": 70,
+  "generated_at": 1789953085,
+  "entries": 72,
   "by_tag": {
-    "creative": 44,
+    "creative": 46,
     "ecommerce": 12,
     "drama": 14
   },
-  "instruction_total_kb": 103.2,
-  "skipped": [
-    {
-      "card": "flux-asset-image",
-      "reason": "tier=tier-private"
-    },
-    {
-      "card": "vis-to-prompt",
-      "reason": "tier=tier-private"
-    }
-  ],
+  "instruction_total_kb": 113.3,
+  "skipped": [],
   "output": "D:\\AlcheMvision\\judian-skills\\seed-contribution\\seed-addition.json"
 }
