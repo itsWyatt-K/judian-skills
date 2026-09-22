@@ -33,52 +33,58 @@ metadata:
 
 ## 配方表（任务关键词 → 技能）
 
-### 按类型（先查单卡，不够再上域包）
+> **上架状态（推荐前必读，否则用户搜不到）**
+> - **域包**（下表「域包」列，35 个）：**已在技能商店/种子市场上架**，搜中文真名即装。这是默认推荐路径。
+> - **单卡**（下表「起步单卡」列，56 个）：**尚未上架商店，搜中文名搜不到**。只有在用户愿意走 GitHub 安装时才提，且必须同时给出仓库路径 `skills/singles/<分类>/<目录名>/`。
+> - 因此：**新手优先推已上架的域包**；单卡作为「更轻的替代方案」附加说明，不要作为主推。
+
+### 按类型（主推域包；单卡仅作更轻的 GitHub 备选）
 
 | 用户说 | 起步单卡（具体困扰） | 体系化域包（完整流程） |
 |---|---|---|
-| 短剧、红果、单集节奏 | 短剧开篇八法与付费点 / 爽点与钩子设计 | `onlyshot-shortform-pipeline`（深读 redfruit-7beats / duration-variation） |
-| 故事大纲、剧本结构、转折 | 反转结尾写法 / 一场戏有没有戏 | `story-structure-engine`（按「结构问题类型」查名录） |
-| 人物立不住、角色一致性 | 人设反差构建 / 主角不讨喜诊断 | `character-forge` |
-| 台词尴尬、对白 | 对白节拍设计 / exposition 藏进动作 | `dialogue-workshop` |
-| 广告、带货、口播、投流素材 | 数据变可感证据 / 朋友口吻推广文案 | `supercmo-ad-chain`（深读 hook-patterns / script-budget） |
-| 竞品、克隆、翻拍 | 双通道竞对发现 | `supercmo-ad-chain`（深读 clone-structure / competitor-research） |
-| 品牌定位、营销策略 | 定位心智图 / 品牌延伸陷阱 | `positioning-strategy` + `story-marketing` |
-| 传播、裂变、爆款 | — | `viral-contagion`（stepps-diagnostic） |
-| 相声、脱口秀、喜剧 | — | `comedy-mechanics` + `standup-craft` |
-| 小说文笔、旁白 | — | `prose-craft` |
-| AI 演员、数字人表演 | AI 角色表演分层写法 / 情绪戏动作节拍 | `ai-performance-lab` |
+| 短剧、红果、单集节奏 | 短剧开篇八法与付费点 / 爽点与钩子设计 | `一镜到底短剧流水线`（`onlyshot-shortform-pipeline`）（深读 redfruit-7beats / duration-variation） |
+| 故事大纲、剧本结构、转折 | 反转结尾写法 / 一场戏有没有戏 | `故事结构引擎`（`story-structure-engine`）（按「结构问题类型」查名录） |
+| 人物立不住、角色一致性 | 人设反差构建 / 主角不讨喜诊断 | `角色锻造工坊`（`character-forge`） |
+| 台词尴尬、对白 | 对白节拍设计 / exposition 藏进动作 | `对白工坊`（`dialogue-workshop`） |
+| 广告、带货、口播、投流素材 | 数据变可感证据 / 朋友口吻推广文案 | `广告全链路打法`（`supercmo-ad-chain`）（深读 hook-patterns / script-budget） |
+| 竞品、克隆、翻拍 | 双通道竞对发现 | `广告全链路打法`（`supercmo-ad-chain`）（深读 clone-structure / competitor-research） |
+| 品牌定位、营销策略 | 定位心智图 / 品牌延伸陷阱 | `定位与命名策略`（`positioning-strategy`） + `故事营销八阶段`（`story-marketing`） |
+| 传播、裂变、爆款 | — | `病毒传播 STEPPS`（`viral-contagion`）（stepps-diagnostic） |
+| 相声、脱口秀、喜剧 | — | `喜剧 Mechanics`（`comedy-mechanics`） + `脱口秀手艺`（`standup-craft`） |
+| 小说文笔、旁白 | — | `散文质地工艺`（`prose-craft`） |
+| AI 演员、数字人表演 | AI 角色表演分层写法 / 情绪戏动作节拍 | `AI 表演实验室`（`ai-performance-lab`） |
 
 ### 按模型/媒介
 
 | 用户说 | 起步单卡 | 域包 |
 |---|---|---|
-| H3、即梦 | H3 六段式提示词 / H3 参考资产绑定 | `h3-video-prompt-suite` |
-| Seedance 生视频 | Seedance 八块公式 | `seedance-prompt-engineering` |
-| Seedance 2.5、多镜连续 | — | `seedance-25-director-craft` |
-| FLUX、图像、资产图、角色三视图 | 生图五槽去油腻模板 | `visual-prompt-engineering` |
-| 信息图、风格图、GPT-Image2 | — | `freestyle-style-library` |
-| 镜头、机位、分镜 | 视频镜头卡十四字段 / 运动镜头选择 / 对话机位与屏幕方向 | `shot-grammar` |
+| H3、即梦 | H3 六段式提示词 / H3 参考资产绑定 | `H3 视频提示词套件`（`h3-video-prompt-suite`） |
+| Seedance 生视频 | Seedance 八块公式 | `Seedance 提示词工程`（`seedance-prompt-engineering`） |
+| Seedance 2.5、多镜连续 | — | `Seedance 2.5 导演工艺`（`seedance-25-director-craft`） |
+| FLUX、图像、资产图、角色三视图 | 生图五槽去油腻模板 | `视觉提示词工程`（`visual-prompt-engineering`） |
+| 信息图、风格图、GPT-Image2 | — | `Freestyle 风格库`（`freestyle-style-library`） |
+| 镜头、机位、分镜 | 视频镜头卡十四字段 / 运动镜头选择 / 对话机位与屏幕方向 | `分镜语法`（`shot-grammar`） |
 
 ### 按困境
 
 | 用户说 | 推荐 |
 |---|---|
 | "没想法 / 不知道从哪开始" | 先问类型（三问第 1 问），再给上面对应技能 |
-| "生成老失败 / 翻车" | `onlyshot-shortform-pipeline`（fail-triage）+ 对应模型包 |
-| "不知道用哪个模型" | `model-routing-interaction`（route-model-family） |
-| "交稿前检查一遍" | `factory-script-machine` + 对应媒介包 |
-| "画面文字乱 / 模块挤" | `freestyle-style-library`（pitfalls 卡） |
-| "画面没电影感 / 基调不对" | 视觉基调七要素 + `visual-tone-design` / `shot-grammar` |
+| "生成老失败 / 翻车" | `一镜到底短剧流水线`（`onlyshot-shortform-pipeline`）（fail-triage）+ 对应模型包 |
+| "不知道用哪个模型" | `模型路由交互`（`model-routing-interaction`）（route-model-family） |
+| "交稿前检查一遍" | `剧本工业化机器`（`factory-script-machine`） + 对应媒介包 |
+| "画面文字乱 / 模块挤" | `Freestyle 风格库`（`freestyle-style-library`）（pitfalls 卡） |
+| "画面没电影感 / 基调不对" | 视觉基调七要素 + `视觉基调设计`（`visual-tone-design`） / `分镜语法`（`shot-grammar`） |
 
 ## 推荐话术纪律
 
 1. **每次最多推 3 个选项**（1 个主推 + ≤2 备选），每个配一句「为什么」和「预期产出」；选项超过 3 个等于没推荐。
-2. **新手优先推单卡**：对方只说了一个具体困扰时，推 1 个单文件技能就够——别顺手把整套域包也堆过去，那是给「要完整流程」的人准备的。
+2. **新手优先推已上架的域包**：单卡虽然更轻，但**尚未上架商店、搜不到**（见配方表上方「上架状态」），所以主推必须是已在商店的域包；单卡只作为「想要更轻的方案可以走 GitHub 装」的附加说明，且必须给出路径。
 3. **主动说安装路径**：种子市场搜中文名即装；或 GitHub 装（仓库 `itsWyatt-K/judian-skills`，单卡在 `skills/singles/<分类>/<目录名>/`，域包在 `skills/<分类>/<包名>/`）。
 4. **必留出口**："都不对的话，直接跟我说你想做什么，一句话就行。"
 5. **只建议不代选**：不替用户激活任何技能，不说"已为你选好"——技能选择权永远在用户。
-6. **指完路就退场**：用户选定后，后续问题让位给对应技能，门房不再插话。
+6. **推荐名必须是商店真名**：上表里反引号中的中文名即技能商店/种子市场的**可搜索真名**，一字不差地原样输出（如「广告全链路打法」）。**严禁**把英文目录名（`supercmo-ad-chain` 这类）直接丢给用户当检索词，**严禁**自己意译中文名（如把「广告全链路打法」说成「广告带货全链路」——商店里搜不到）。标准格式：**中文真名**（英文目录名），中文在前。
+7. **指完路就退场**：用户选定后，后续问题让位给对应技能，门房不再插话。
 
 ## 使用纪律
 
