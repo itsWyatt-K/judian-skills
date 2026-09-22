@@ -1,0 +1,347 @@
+{
+ "source": "ddcat-ai/open-ai-canvas@7c449562 backend/internal/skills/seed/skills.json",
+ "captured": "2026-09-22",
+ "count": 68,
+ "skills": [
+  {
+   "skillId": "14811816982028",
+   "name": "系列套图生成",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816960524",
+   "name": "名导十五秒视频风格资产引擎",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816969484",
+   "name": "珠宝设计出款",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816969740",
+   "name": "珠宝设计进化",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816969996",
+   "name": "角色精灵图动画产线",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816981004",
+   "name": "15秒视觉特效",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816981260",
+   "name": "15秒极致夸张反转提示词",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14889292801804",
+   "name": "3D国漫风转身变身特效",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816970508",
+   "name": "叙事短片导演分镜",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816981772",
+   "name": "一图成片-电影广告全能导演",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816970252",
+   "name": "剧本资产视频一条龙创作",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816982540",
+   "name": "世界观美术设定",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14889899552012",
+   "name": "AI演员微表情导演",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816983052",
+   "name": "故事开发",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816982796",
+   "name": "剧本撰写",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816982284",
+   "name": "角色设计",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816983308",
+   "name": "三幕式短剧工厂",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14519800321292",
+   "name": "顶级波普视觉广告导演",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816960780",
+   "name": "珠宝电商图文视频一站式",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816962060",
+   "name": "高能未来电子产品广告视频",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816962316",
+   "name": "穿搭上身试穿视频生成",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816962572",
+   "name": "AI造型师高转化模特图",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14889292802060",
+   "name": "社媒素人App宣传",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816961036",
+   "name": "TikTok网红带货视频",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816981516",
+   "name": "二维动画线稿批量上色",
+   "tag": "others"
+  },
+  {
+   "skillId": "14889899551756",
+   "name": "OC魅力诊断师",
+   "tag": "others"
+  },
+  {
+   "skillId": "14811816980748",
+   "name": "数字人搞笑采访视频生成",
+   "tag": "social"
+  },
+  {
+   "skillId": "14811816960268",
+   "name": "小红书素人穿搭配方",
+   "tag": "social"
+  },
+  {
+   "skillId": "15215320902412",
+   "name": "治愈系原创IP孵化助手",
+   "tag": "social"
+  },
+  {
+   "skillId": "15434297644556",
+   "name": "先锋服装商拍视觉指导",
+   "tag": "social"
+  },
+  {
+   "skillId": "14811816961804",
+   "name": "ASMR沉浸式潮玩开箱导演",
+   "tag": "social"
+  },
+  {
+   "skillId": "15507072002828",
+   "name": "人像捏脸导演",
+   "tag": "social"
+  },
+  {
+   "skillId": "14811816961292",
+   "name": "绿幕猫咪跳舞素材生成",
+   "tag": "social"
+  },
+  {
+   "skillId": "16000000000073",
+   "name": "角色锻造工坊",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000074",
+   "name": "喜剧 Mechanics",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000075",
+   "name": "对白工坊",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000076",
+   "name": "剧本工业化机器",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000077",
+   "name": "一镜到底短剧流水线",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000078",
+   "name": "散文质地工艺",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000079",
+   "name": "系列弧光规划",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000080",
+   "name": "短片五阶段结构",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000081",
+   "name": "短剧实战手册",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000082",
+   "name": "情景喜剧工坊",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000083",
+   "name": "脱口秀手艺",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000084",
+   "name": "故事结构引擎",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000085",
+   "name": "相声手艺",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000086",
+   "name": "AI 表演实验室",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000087",
+   "name": "视听理论基础",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000088",
+   "name": "剪辑节奏",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000089",
+   "name": "Freestyle 风格库",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000090",
+   "name": "H3 视频提示词套件",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000091",
+   "name": "模型路由交互",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000107",
+   "name": "选包门房",
+   "tag": "others"
+  },
+  {
+   "skillId": "16000000000092",
+   "name": "Seedance 2.5 导演工艺",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000093",
+   "name": "Seedance 提示词工程",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000094",
+   "name": "分镜语法",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000095",
+   "name": "视觉提示词工程",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000096",
+   "name": "视觉基调设计",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000097",
+   "name": "广告文案四步系统",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000098",
+   "name": "消费心理转化设计",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000099",
+   "name": "决策思维模型格森",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000100",
+   "name": "体验设计五原则",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000101",
+   "name": "发布片三件套",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000102",
+   "name": "定位与命名策略",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000103",
+   "name": "提示词工程模式",
+   "tag": "creative"
+  },
+  {
+   "skillId": "16000000000104",
+   "name": "故事营销八阶段",
+   "tag": "social"
+  },
+  {
+   "skillId": "16000000000105",
+   "name": "广告全链路打法",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000106",
+   "name": "病毒传播 STEPPS",
+   "tag": "social"
+  }
+ ]
+}
