@@ -1,7 +1,7 @@
 ---
-name: scene-recipe-concierge
+name: 选包门房
 description: "当用户不知道选哪些技能、说'帮我做个短视频/广告'这类模糊请求、或面对 34 个域包无从下手时调用。核心能力：剧典门房——三问定位需求，按配方表推荐 1 个主域包 + 最多 2 个备选（含理由与预期产出），全程只建议不代选。关键触发：'用哪个技能'、'该装什么包'、'我想做X但不知道从哪开始'、'34个包怎么选'。工位边界：本包只做需求定位与技能指路，不产出任何创作内容；用户明确说了要做什么时让位于对应域包。"
-tags: ["剧典技能库", "门房与配方"]
+tags: ["others"]
 metadata:
   version: 1.0.0
   attribution: "Original methodology by the Judian project (MIT)."

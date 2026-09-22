@@ -70,17 +70,22 @@ def main():
             fm, body = parse_skill_md(skill_md)
             name = fm.get("name")
             desc = (fm.get("description") or "").strip()
-            if name != pack_dir.name:
-                problems.append(f"name 与目录名不一致: {name} != {pack_dir.name}")
+            # v2.0.0 起 name 为中文名，与目录 slug 解耦：ID 台账一律用 slug 做 key
+            # （编号一经分配永不变更，换成中文名做 key 会误判为新包而抢新号）。
+            if not name:
+                problems.append(f"name 为空: {pack_dir}")
             if not desc:
                 problems.append(f"description 为空: {pack_dir}")
 
-            if name in id_map:
-                sid = id_map[name]
+            if pack_dir.name in id_map:
+                sid = id_map[pack_dir.name]
             else:
                 max_seq += 1
                 sid = str(id_base + max_seq)
-                id_map[name] = sid
+                id_map[pack_dir.name] = sid
+
+            fm_tags = fm.get("tags") or []
+            pack_tag = fm_tags[0] if isinstance(fm_tags, list) and fm_tags else cat
 
             idx += 1
             by_tag[cat] = by_tag.get(cat, 0) + 1
@@ -88,13 +93,13 @@ def main():
                 "skill_id": sid,
                 "skill_name": name,
                 "description": desc,
-                "instruction": body + FOOTER.format(cat=cat, name=name),
+                "instruction": body + FOOTER.format(cat=cat, name=pack_dir.name),
                 "status": 1,
                 "markdown_url": "",
                 "create_time": now,
                 "update_time": now,
                 "source": 3,
-                "tag": cat,
+                "tag": pack_tag,
                 "sort_weight": 200 + idx,
                 "is_private": False,
                 "like_count": 0,
