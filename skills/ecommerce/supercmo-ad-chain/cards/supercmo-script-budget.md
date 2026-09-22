@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "字数不是风格选择是物理约束：先算预算再动笔，永远不加速念、不拉长凑"
 skill_type: "framework"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-script-budget
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO writing-video-scripts）：口播有固定语速，**字数不是风格选择**——目标每秒 **2-3 词**（15 秒片段约 30-40 词）；**上限 3 词/秒**（15 秒超 46 词即失败，这是机检线）。目标与上限之间的差是故意的：那是停顿、呼吸和画面carry 时刻的空间——顶格写的段落没有留呼吸。**流程纪律**：动笔前先把每片段预算加总核对总时长；某段超预算就删词——**永远不加速念，永远不拉长片段凑字数**。开写前先收集已定条件：文案要传达什么/总时长/几镜每镜几秒/哪些节拍落在哪镜/出镜口播还是旁白/可做什么声明（缺项要问，不假设）。
+来源方法（Apache-2.0，整理自 superCMO writing-video-scripts）：口播有固定语速，**字数不是风格选择**——目标每秒 **2-3 词**（15 秒片段约 30-40 词）；**上限 3 词/秒**（15 秒超 46 词即失败，这是机检线）。目标与上限之间的差是故意的：那是停顿、呼吸和画面carry 时刻的空间——顶格写的段落没有留呼吸。**流程纪律**：动笔前先把每片段预算加总核对总时长；某段超预算就删词——**永远不加速念，永远不拉长片段凑字数**。开写前先收集已定条件：文案要传达什么/总时长/几镜每镜几秒/哪些节拍落在哪镜/出镜口播还是旁白/可做什么声明（缺项要问，不假设）。
 
 ## I — 方法论骨架 (Interpretation)
 

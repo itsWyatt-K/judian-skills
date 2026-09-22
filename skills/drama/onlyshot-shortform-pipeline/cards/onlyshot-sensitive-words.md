@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "反派戏不靠反派词靠氛围词；写凶狠不如写阴沉——审核模型拦的是词不是戏"
 skill_type: "checklist"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-sensitive-words
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot jimeng-failure-modes §2）：四类高频审核触发词——①反派/邪恶词：sinister→moody、menacingly→leans forward、dark intent→quiet/focused、possessive→focused、cold smirk→subtle smirk、dark shadows engulf→shadows along edges；颜色类 dark X→deep X 可消除约 90% 触发。②暧昧/亲密词：blush on cheeks→rose tint on surface、extreme close-up（面部）→medium shot、internal warm glow→删除、pulsing softly→glowing steadily。③中文敏感词：「反派」「磕」「不死心」等直接删或改写。④街拍/拟真词：strolls past camera→walks across stage center。关键洞察：`extreme close-up`+面部细节描述（blush/cheeks/lips）= 必触发面部审核。
+来源方法（MIT，整理自 OnlyShot jimeng-failure-modes §2）：四类高频审核触发词——①反派/邪恶词：sinister→moody、menacingly→leans forward、dark intent→quiet/focused、possessive→focused、cold smirk→subtle smirk、dark shadows engulf→shadows along edges；颜色类 dark X→deep X 可消除约 90% 触发。②暧昧/亲密词：blush on cheeks→rose tint on surface、extreme close-up（面部）→medium shot、internal warm glow→删除、pulsing softly→glowing steadily。③中文敏感词：「反派」「磕」「不死心」等直接删或改写。④街拍/拟真词：strolls past camera→walks across stage center。关键洞察：`extreme close-up`+面部细节描述（blush/cheeks/lips）= 必触发面部审核。
 
 ## I — 方法论骨架 (Interpretation)
 

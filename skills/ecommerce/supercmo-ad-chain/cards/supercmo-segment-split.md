@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "拼回去必须一字不差复现整篇——要靠改词才能落的拆法，错的是稿不是拆法"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-segment-split
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO writing-video-scripts Step 5）：一条口播拆成每镜一段，**成片听起来必须像一条录音被剪成几段，而不是几段录音按顺序播放**。四律：①**顺耳切**——切在耳朵已经听到断的位置（句尾/逗号/分句接缝）；句中切可以，半句切不行——半句切口让一段悬停、下一段悬起。②**少而长优先**：相邻两句都放得进同一镜预算就并一段——每道缝都是听起来像拼接的机会，能少则少。③**缝处不改词**：按序拼回去必须逐字复现整篇独白——没有为迁就拆分而改写/重排/增删；如果一个拆法只有改词才成立，那是稿子错了不是拆法错了，回炉重写独白。④**只首段引入**：之后每段从思绪中续上——不重新介绍、不复述背景。
+来源方法（Apache-2.0，整理自 superCMO writing-video-scripts Step 5）：一条口播拆成每镜一段，**成片听起来必须像一条录音被剪成几段，而不是几段录音按顺序播放**。四律：①**顺耳切**——切在耳朵已经听到断的位置（句尾/逗号/分句接缝）；句中切可以，半句切不行——半句切口让一段悬停、下一段悬起。②**少而长优先**：相邻两句都放得进同一镜预算就并一段——每道缝都是听起来像拼接的机会，能少则少。③**缝处不改词**：按序拼回去必须逐字复现整篇独白——没有为迁就拆分而改写/重排/增删；如果一个拆法只有改词才成立，那是稿子错了不是拆法错了，回炉重写独白。④**只首段引入**：之后每段从思绪中续上——不重新介绍、不复述背景。
 
 ## I — 方法论骨架 (Interpretation)
 

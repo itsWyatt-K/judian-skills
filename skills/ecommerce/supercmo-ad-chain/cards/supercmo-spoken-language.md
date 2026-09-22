@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "观众听得出稿子是读的——整篇前提就崩了；写人们真正说话的样子"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-spoken-language
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO writing-video-scripts Step 4）：**必须听起来是说的不是读的**——观众能听出念稿，整个前提崩塌。六律：①按人真正说话的方式写——缩略语、句子碎片、想到哪说到哪的重启、偶尔的题外话；完整平衡的句子是「这是稿子」的最强信号。②**具体永远胜笼统**：观众能查证的细节比笼统陈述更有力。③**一个观点只说一次**：说过即花完，重复即稀释。④**只写能念出声的**：逗号句号是读者转成呼吸的符号——只用它们；**禁破折号/方括号/舞台指示/说话人标签/emoji**（念不出来）。⑤钩子是第一行，其余承载同一思路并最终闭合它打开的好奇。⑥书面语检测：通读一遍，任何「这篇文章式」句子重写。
+来源方法（Apache-2.0，整理自 superCMO writing-video-scripts Step 4）：**必须听起来是说的不是读的**——观众能听出念稿，整个前提崩塌。六律：①按人真正说话的方式写——缩略语、句子碎片、想到哪说到哪的重启、偶尔的题外话；完整平衡的句子是「这是稿子」的最强信号。②**具体永远胜笼统**：观众能查证的细节比笼统陈述更有力。③**一个观点只说一次**：说过即花完，重复即稀释。④**只写能念出声的**：逗号句号是读者转成呼吸的符号——只用它们；**禁破折号/方括号/舞台指示/说话人标签/emoji**（念不出来）。⑤钩子是第一行，其余承载同一思路并最终闭合它打开的好奇。⑥书面语检测：通读一遍，任何「这篇文章式」句子重写。
 
 ## I — 方法论骨架 (Interpretation)
 

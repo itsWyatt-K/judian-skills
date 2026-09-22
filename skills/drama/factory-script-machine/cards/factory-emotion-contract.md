@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: short-drama-factory 剧本工厂
 core_stance: "契约是观众每集要续的那口气：矛盾可以按单元换，那口气不能断"
 skill_type: "framework"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 source_license: "MIT"
+source_url: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-emotion-contract
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 short-drama-factory v3.1）：立项第一道门是**流派判定**——情绪流（红果纯爽/虐剧/追妻，锚是情绪契约）vs 剧情流（悬疑/规则怪谈，走信息阶梯），判错流派后面全白写。**情绪契约单元链**：全剧锚定情绪契约（观众每集要续的那口气）而非钉死的单一矛盾——契约贯穿全剧，矛盾按单元跑：一单元 20-30 集、6 回合闭环，换矛盾不换情绪；三缝合一（单元接缝处）换矛盾不断气；付费墙挂单元接缝。60 集=2-3 单元，80 集=3 单元。每单元一张往返回合表（几集一回合、证据/反驳双升档、单元闭环留火种）。**铁律**：单一矛盾单元严禁烧过 30 集——到点必须闭环换新矛盾；拖过 30 集或中途换情绪都是崩盘。仿爆款走机制级仿写（结构可仿、表达不可抄）。
+来源方法（MIT，整理自 short-drama-factory v3.1）：立项第一道门是**流派判定**——情绪流（红果纯爽/虐剧/追妻，锚是情绪契约）vs 剧情流（悬疑/规则怪谈，走信息阶梯），判错流派后面全白写。**情绪契约单元链**：全剧锚定情绪契约（观众每集要续的那口气）而非钉死的单一矛盾——契约贯穿全剧，矛盾按单元跑：一单元 20-30 集、6 回合闭环，换矛盾不换情绪；三缝合一（单元接缝处）换矛盾不断气；付费墙挂单元接缝。60 集=2-3 单元，80 集=3 单元。每单元一张往返回合表（几集一回合、证据/反驳双升档、单元闭环留火种）。**铁律**：单一矛盾单元严禁烧过 30 集——到点必须闭环换新矛盾；拖过 30 集或中途换情绪都是崩盘。仿爆款走机制级仿写（结构可仿、表达不可抄）。
 
 ## I — 方法论骨架 (Interpretation)
 

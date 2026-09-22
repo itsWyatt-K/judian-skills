@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: short-drama-factory 剧本工厂
 core_stance: "台账是长剧的账本：写前不读账，写后不记账，穿帮只是时间问题"
 skill_type: "framework"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 source_license: "MIT"
+source_url: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-ledger
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 short-drama-factory continuity-ledger）：分集时同步登记四类账——①**伏笔账**（埋于哪集/拟收哪集/当前状态）；②**人物账**（存活状态/关系变化）；③**道具账**（状态机：在谁手里/损坏否/转移记录）；④**规则账**（世界观规则引用与例外）。**读写规程：无台账不开写**——写前读台账（相关账目全过一遍），写后更新台账（本集发生的状态变化全部入账）。批量连写模式：带台账逐集生产，每集写前读账写后对账，伏笔/人物/道具状态全程可查。全剧机检（validate_series.py）查：伏笔超期未收/死人开口/断章缺失/付费墙空缺。
+来源方法（MIT，整理自 short-drama-factory continuity-ledger）：分集时同步登记四类账——①**伏笔账**（埋于哪集/拟收哪集/当前状态）；②**人物账**（存活状态/关系变化）；③**道具账**（状态机：在谁手里/损坏否/转移记录）；④**规则账**（世界观规则引用与例外）。**读写规程：无台账不开写**——写前读台账（相关账目全过一遍），写后更新台账（本集发生的状态变化全部入账）。批量连写模式：带台账逐集生产，每集写前读账写后对账，伏笔/人物/道具状态全程可查。全剧机检（validate_series.py）查：伏笔超期未收/死人开口/断章缺失/付费墙空缺。
 
 ## I — 方法论骨架 (Interpretation)
 

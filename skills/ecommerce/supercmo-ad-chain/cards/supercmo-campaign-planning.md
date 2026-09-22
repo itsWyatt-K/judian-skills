@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "计划建立在四个输入的证据上；概念写到手就能生产；批准之前一个像素都不生成"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-campaign-planning
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO planning-campaigns）：**计划未批准前什么都不生成；构建是用户最后逐个概念做的独立决定**。①范围一次问全（产品必给——URL 或照片，多个产品要问清是一个战役还是各一个；目标 awareness/consideration/conversion；竞对；市场；深度），缺产品不往下走；②汇聚四输入——产品（analyzing-products）、品牌（analyzing-brand）、自有广告（analyzing-own-ads）、竞品广告（researching-competitor-ads），**每个技能一个独立文件夹、产物全量保留**，Step 1 的答案全部传下去（收到答案的技能把 scope 问题当作已答；没收到会猜），收尾一句话说清计划建在哪几个输入上、哪几个缺席；③建概念清单——**数量自己定别问**：至多 3 个战役各至多 10 个概念，是天花板不是目标，证据带得动几个建几个并说清什么用尽了；每个概念写全（就是给生产的完整交接，没有单独 brief）；**能不能生产不是这里的筛选项**（路由是下一步的事）；④逐概念路由（production-palette）：每个概念都有路由，不因"不可路由"丢弃；⑤交付：grounding 头（建在哪些输入上）→一条消息呈现全部战役与概念→问构建哪些并说明计费→**等回答，未答不是同意**；⑥只构建用户点名的：按计划顺序逐个来，把 concepts.md 里的概念原文交给路由指向的技能。
+来源方法（Apache-2.0，整理自 superCMO planning-campaigns）：**计划未批准前什么都不生成；构建是用户最后逐个概念做的独立决定**。①范围一次问全（产品必给——URL 或照片，多个产品要问清是一个战役还是各一个；目标 awareness/consideration/conversion；竞对；市场；深度），缺产品不往下走；②汇聚四输入——产品（analyzing-products）、品牌（analyzing-brand）、自有广告（analyzing-own-ads）、竞品广告（researching-competitor-ads），**每个技能一个独立文件夹、产物全量保留**，Step 1 的答案全部传下去（收到答案的技能把 scope 问题当作已答；没收到会猜），收尾一句话说清计划建在哪几个输入上、哪几个缺席；③建概念清单——**数量自己定别问**：至多 3 个战役各至多 10 个概念，是天花板不是目标，证据带得动几个建几个并说清什么用尽了；每个概念写全（就是给生产的完整交接，没有单独 brief）；**能不能生产不是这里的筛选项**（路由是下一步的事）；④逐概念路由（production-palette）：每个概念都有路由，不因"不可路由"丢弃；⑤交付：grounding 头（建在哪些输入上）→一条消息呈现全部战役与概念→问构建哪些并说明计费→**等回答，未答不是同意**；⑥只构建用户点名的：按计划顺序逐个来，把 concepts.md 里的概念原文交给路由指向的技能。
 
 ## I — 方法论骨架 (Interpretation)
 

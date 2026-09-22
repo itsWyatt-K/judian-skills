@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "AI短剧的真正成本不是创作而是出片；把钱花在静态首帧确认上，视频试错成本砍半"
 skill_type: "framework"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-3phase-cost
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT 许可，署名蒸馏自 OnlyShot v0.6.0）：AI 短剧流水线拆成三层，成本从低到高——Phase 1 创作（剧本+ref 图，反复迭代几乎不花钱）；Phase 1.5 分镜图（每镜生成 1-4 张候选静态图，作为视频首帧，实测约 3 积分/张）；Phase 2 出片（每段视频约 55 积分）。**分镜图与视频段修改成本差约 18 倍**；静态首帧确认后，视频构图不再随机。
+来源方法（MIT 许可，署名整理自 OnlyShot v0.6.0）：AI 短剧流水线拆成三层，成本从低到高——Phase 1 创作（剧本+ref 图，反复迭代几乎不花钱）；Phase 1.5 分镜图（每镜生成 1-4 张候选静态图，作为视频首帧，实测约 3 积分/张）；Phase 2 出片（每段视频约 55 积分）。**分镜图与视频段修改成本差约 18 倍**；静态首帧确认后，视频构图不再随机。
 
 ## I — 方法论骨架 (Interpretation)
 

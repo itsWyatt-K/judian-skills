@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: seedance-2.5 导演
 core_stance: "编辑的最小作用域：说清改哪、改成什么、什么时候生效、什么不许动"
 skill_type: "technique"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
+source_url: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-video-edit-formula
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance-2-5-video-director Video edit 不变量）：编辑提示词公式——**`annotation/location（标注或位置）+ exact target（精确目标）+ add/remove/replace/change（增删改换）+ effective time（有效时间）`**；同时**显式列出一切必须保持不变的项**。无标注的编辑省略标注子句。配套纪律：修改目标必须可定位（说不清位置就先问）；「完全模仿原视频动作」类继承要写死（如换角色时动作完全模仿、不要切镜）。
+来源方法（MIT，整理自 seedance-2-5-video-director Video edit 不变量）：编辑提示词公式——**`annotation/location（标注或位置）+ exact target（精确目标）+ add/remove/replace/change（增删改换）+ effective time（有效时间）`**；同时**显式列出一切必须保持不变的项**。无标注的编辑省略标注子句。配套纪律：修改目标必须可定位（说不清位置就先问）；「完全模仿原视频动作」类继承要写死（如换角色时动作完全模仿、不要切镜）。
 
 ## I — 方法论骨架 (Interpretation):
 

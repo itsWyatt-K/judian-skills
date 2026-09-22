@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "一致性是 ref 层决定的，不是分镜图层补救的；ref prompt 的前 200 token 决定整库视觉基调"
 skill_type: "template"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-ref-identity-block
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot ref-prompt-industrial）：角色 ref 图 prompt 用六段 identity block——IDENTITY（身份定位）/ BODY（体型，拟物 IP 写「IS the object NOT humanoid」）/ FACE（脸型特征）/ ATTIRE（服装配色）/ LAYOUT（构图，如 9:16 半身像）/ STYLE（风格）。**视觉指纹（整部剧的统一风格词）放 prompt 开头前 200 token**（开头权重最高）。警惕「4 distinct angles / 四视图」类标签会生成水印脏字。ref 库分层六类：①master 风格 ②角色基础多角度 ③角色表情库 ④关键动作 ⑤场景多角度 ⑥道具细节，工业级目标 80-150 张。
+来源方法（MIT，整理自 OnlyShot ref-prompt-industrial）：角色 ref 图 prompt 用六段 identity block——IDENTITY（身份定位）/ BODY（体型，拟物 IP 写「IS the object NOT humanoid」）/ FACE（脸型特征）/ ATTIRE（服装配色）/ LAYOUT（构图，如 9:16 半身像）/ STYLE（风格）。**视觉指纹（整部剧的统一风格词）放 prompt 开头前 200 token**（开头权重最高）。警惕「4 distinct angles / 四视图」类标签会生成水印脏字。ref 库分层六类：①master 风格 ②角色基础多角度 ③角色表情库 ④关键动作 ⑤场景多角度 ⑥道具细节，工业级目标 80-150 张。
 
 ## I — 方法论骨架 (Interpretation)
 

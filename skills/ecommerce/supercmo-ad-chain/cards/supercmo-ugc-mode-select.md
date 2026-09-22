@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "模式按内容本质判不按语气判：拆封就是开箱，最终穿上身就是试穿，编号步骤就是教程"
 skill_type: "framework"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["TikTok网红带货视频"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-ugc-mode-select
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO generating-ugc-videos）：**范围界定**：画面里必须有人拿着产品——无人出镜走通用视频技能；品牌声量的精制广告（主持人扮演角色）走品牌广告技能，即使有人出镜。**出厂默认集（每次必守，不重复问）**：交付 9:16 除非用户要 16:9；clip 模型 seedance-2.0-fast 带音频除非用户点名；分镜表 gpt-image-2 16:9；片段数由时长定；片段间**硬切、无转场**。**四模式**：①review 测评（手持产品讲）②unboxing 开箱（拆到达包装）③try-on 试穿（穿上身：服装鞋履配饰）④tutorial 教程（编号步骤/怎么用）。**相撞优先规则**：封包装在镜头前被拆→开箱；产品最终穿上身→试穿（哪怕为拿它先拆了包）；编号步骤或「怎么用」→教程；没得拆没得穿没步骤→review。**访谈纪律**：brief 已定就跳过提问；否则一次问全（产品/时长/照片里的人是否出镜/有无包裹照片，各带情境）并留自由文本出口；用户弃问则取 15 秒+一句话声明默认值继续。**素材事实纪律**：每张图的用途由 brief 定不由内容定（画面里有人不等于选角照）；没有产品不猜——它成为第一个要问的事。
+来源方法（Apache-2.0，整理自 superCMO generating-ugc-videos）：**范围界定**：画面里必须有人拿着产品——无人出镜走通用视频技能；品牌声量的精制广告（主持人扮演角色）走品牌广告技能，即使有人出镜。**出厂默认集（每次必守，不重复问）**：交付 9:16 除非用户要 16:9；clip 模型 seedance-2.0-fast 带音频除非用户点名；分镜表 gpt-image-2 16:9；片段数由时长定；片段间**硬切、无转场**。**四模式**：①review 测评（手持产品讲）②unboxing 开箱（拆到达包装）③try-on 试穿（穿上身：服装鞋履配饰）④tutorial 教程（编号步骤/怎么用）。**相撞优先规则**：封包装在镜头前被拆→开箱；产品最终穿上身→试穿（哪怕为拿它先拆了包）；编号步骤或「怎么用」→教程；没得拆没得穿没步骤→review。**访谈纪律**：brief 已定就跳过提问；否则一次问全（产品/时长/照片里的人是否出镜/有无包裹照片，各带情境）并留自由文本出口；用户弃问则取 15 秒+一句话声明默认值继续。**素材事实纪律**：每张图的用途由 brief 定不由内容定（画面里有人不等于选角照）；没有产品不猜——它成为第一个要问的事。
 
 ## I — 方法论骨架 (Interpretation)
 

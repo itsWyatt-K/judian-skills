@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "一致性随 ref 数量指数衰减：一主 ref 是资产，三主 ref 是赌博；长 prompt 配高并发等于全灭"
 skill_type: "framework"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-ref-consistency
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot jimeng-failure-modes §3-4，实测数据）：多 ref 一致性——1 个主角 ref 约 95%（完美保 ref）；2 个主角（CP）约 80%（可接受）；3 个以上主角低于 50%（全员脸盲化）；6 个以上约 0%（全变通用 chibi 形）。ref 引用与文字的权重关系：图像引用约 70% vs 文字描述约 30%，两者冲突时文字反而赢但 ref 降级为风格参考→角色变形。并发实测：8 并发+短 prompt（约 300 字）100% 过；8 并发+长 prompt（约 1500 字）0% 过；4 并发+长 prompt 约 50%；串行+长 prompt（约 1300 字）100%。推荐参数：并发上限 4、单次超时 420 秒、重试 2 次。
+来源方法（MIT，整理自 OnlyShot jimeng-failure-modes §3-4，实测数据）：多 ref 一致性——1 个主角 ref 约 95%（完美保 ref）；2 个主角（CP）约 80%（可接受）；3 个以上主角低于 50%（全员脸盲化）；6 个以上约 0%（全变通用 chibi 形）。ref 引用与文字的权重关系：图像引用约 70% vs 文字描述约 30%，两者冲突时文字反而赢但 ref 降级为风格参考→角色变形。并发实测：8 并发+短 prompt（约 300 字）100% 过；8 并发+长 prompt（约 1500 字）0% 过；4 并发+长 prompt 约 50%；串行+长 prompt（约 1300 字）100%。推荐参数：并发上限 4、单次超时 420 秒、重试 2 次。
 
 ## I — 方法论骨架 (Interpretation)
 

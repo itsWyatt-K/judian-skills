@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: seedance-2.5 导演
 core_stance: "只锁相关的不变量：全锁=没锁，锁单=精准防护"
 skill_type: "checklist"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
+source_url: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-continuity-locks
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance-2-5-video-director workflow Step 7）：写连续性锁，**只覆盖相关不变量**——身份（identity）/数量（count）/服装（wardrobe）/道具归属（prop ownership）/地理（geography）/主体尺度（subject scale）/摄像机轴线（camera axis）/光线方向（light direction）/色板（palette）/材质（material）/声音（voice）/对白（dialogue）/受保护源片（protected source footage）。指令排序：全局意图→素材绑定→按时序执行→音频→连续性→禁止项。
+来源方法（MIT，整理自 seedance-2-5-video-director workflow Step 7）：写连续性锁，**只覆盖相关不变量**——身份（identity）/数量（count）/服装（wardrobe）/道具归属（prop ownership）/地理（geography）/主体尺度（subject scale）/摄像机轴线（camera axis）/光线方向（light direction）/色板（palette）/材质（material）/声音（voice）/对白（dialogue）/受保护源片（protected source footage）。指令排序：全局意图→素材绑定→按时序执行→音频→连续性→禁止项。
 
 ## I — 方法论骨架 (Interpretation):
 

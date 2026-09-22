@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: iart 广告三件套
 core_stance: "发布片是砸点艺术：reveal 落在音乐 drop 上，end card 静够两秒——其他都为这两秒服务"
 skill_type: "framework"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/iart-ai/ad-video-skills"
 source_license: "MIT"
+source_url: "https://github.com/iart-ai/ad-video-skills"
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-launch-arc
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 iart ad-video-skills launch-video）：15-60s 高级感发布片弧线——①**Hook（0-3s）**：一个停滑的帧或运动；②**Tease（3-9s）**：暗示产品，建立好奇，卡点建立；③**Reveal（9-13s）**：产品/logo 砸在音乐 drop 上；④**Feature montage（13-25s）**：快节奏运动感，一镜一卖点；⑤**End card（25-30s）**：logo+slogan+CTA 干净定格。**30s 比例分配表**即上表；15s 收紧、60s 加长蒙太奇（**绝不加长 hook**）。两条铁律：①**声音设计引领画面**——先锁音轨、标出 beats 与 drop，再让画面切在标记上；永远不要给剪好的片子配乐（reveal 要落在 drop 上不是附近）。②**质量胜过数量**——几个完美镜头胜一堆平庸镜头，不高级的镜头全砍。
+来源方法（MIT，整理自 iart ad-video-skills launch-video）：15-60s 高级感发布片弧线——①**Hook（0-3s）**：一个停滑的帧或运动；②**Tease（3-9s）**：暗示产品，建立好奇，卡点建立；③**Reveal（9-13s）**：产品/logo 砸在音乐 drop 上；④**Feature montage（13-25s）**：快节奏运动感，一镜一卖点；⑤**End card（25-30s）**：logo+slogan+CTA 干净定格。**30s 比例分配表**即上表；15s 收紧、60s 加长蒙太奇（**绝不加长 hook**）。两条铁律：①**声音设计引领画面**——先锁音轨、标出 beats 与 drop，再让画面切在标记上；永远不要给剪好的片子配乐（reveal 要落在 drop 上不是附近）。②**质量胜过数量**——几个完美镜头胜一堆平庸镜头，不高级的镜头全砍。
 
 ## I — 方法论骨架 (Interpretation):
 

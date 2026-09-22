@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: shortfilm-prompt 短片五段式
 core_stance: "用自创触发短语达到同样的戏剧功能，而不是裸写被屏蔽的专名"
 skill_type: "technique"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 source_license: "MIT"
+source_url: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-ip-safety
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 shortfilm-prompt）：模型对 IP 名态度各异——**Seedance 屏蔽 IP 名**；可灵（Kling）对 IP 名更宽松；Sora 偏好简洁提示词。处置手法——**自创触发短语**：把具体 IP 词换成自造的咒语式短语（如把某招式名写成「whispered self-coined syllable」自吟音节），达到同样的戏剧触发功能但不裸写专名。**保留结构去专名**：参考某作品的桥段时，保留节拍结构、去掉专名与标志性台词。平台合规另有一票否决类（暴力用写意替代等，见 factory-machine-check）。
+来源方法（MIT，整理自 shortfilm-prompt）：模型对 IP 名态度各异——**Seedance 屏蔽 IP 名**；可灵（Kling）对 IP 名更宽松；Sora 偏好简洁提示词。处置手法——**自创触发短语**：把具体 IP 词换成自造的咒语式短语（如把某招式名写成「whispered self-coined syllable」自吟音节），达到同样的戏剧触发功能但不裸写专名。**保留结构去专名**：参考某作品的桥段时，保留节拍结构、去掉专名与标志性台词。平台合规另有一票否决类（暴力用写意替代等，见 factory-machine-check）。
 
 ## I — 方法论骨架 (Interpretation)
 

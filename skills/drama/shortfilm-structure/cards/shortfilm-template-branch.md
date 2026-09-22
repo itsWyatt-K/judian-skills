@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: shortfilm-prompt 短片五段式
 core_stance: "模板是深骨架不是覆盖：SKILL 规则永远赢，模板供深度不供覆盖"
 skill_type: "framework"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 source_license: "MIT"
+source_url: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 upstream_defer: ["治愈系原创IP孵化助手"]
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-template-branch
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 shortfilm-prompt 模板库）：21 个类型模板各带深骨架与类型专用措辞——15s 单镜变形（15s-transformation）/多镜剪辑叙事（multi-shot-narrative）/情感叙事（宠物一生 full worked example）/产品广告（beat-driven）/食物 ASMR（原生同步音频）/动物 Vlog（自拍 POV 同步对白）/电影预告（递进多镜）/赛博城市氛围/黏土动画（风格化，刻意打破呼吸规则）/自然延时（时间压缩+锁定调色）/CCTV 伪纪录恐怖（ degraded 镜头，打破呼吸规则）/动画改真人（媒介转译，重 IP 安全）/MV 表演（卡点，音乐是必需的）/运动慢动作（Phantom 高帧率）/时尚片（运动即主体）/旅拍 Vlog（手持蒙太奇）/无人机 FPV（连续飞行）/竖屏短剧（钩子+正反打+断章）/科幻太空（失重物理+真空静默）/汽车广告（反光表面+汽车 Rig）。**两把锁（3+ 镜剪辑片必走）**：写第一镜前先走主体登记（subject registry）+ 氛围锁定（atmosphere lock）——这是「多镜片能不能撑住不漂」的最大单一预测因子。
+来源方法（MIT，整理自 shortfilm-prompt 模板库）：21 个类型模板各带深骨架与类型专用措辞——15s 单镜变形（15s-transformation）/多镜剪辑叙事（multi-shot-narrative）/情感叙事（宠物一生 full worked example）/产品广告（beat-driven）/食物 ASMR（原生同步音频）/动物 Vlog（自拍 POV 同步对白）/电影预告（递进多镜）/赛博城市氛围/黏土动画（风格化，刻意打破呼吸规则）/自然延时（时间压缩+锁定调色）/CCTV 伪纪录恐怖（ degraded 镜头，打破呼吸规则）/动画改真人（媒介转译，重 IP 安全）/MV 表演（卡点，音乐是必需的）/运动慢动作（Phantom 高帧率）/时尚片（运动即主体）/旅拍 Vlog（手持蒙太奇）/无人机 FPV（连续飞行）/竖屏短剧（钩子+正反打+断章）/科幻太空（失重物理+真空静默）/汽车广告（反光表面+汽车 Rig）。**两把锁（3+ 镜剪辑片必走）**：写第一镜前先走主体登记（subject registry）+ 氛围锁定（atmosphere lock）——这是「多镜片能不能撑住不漂」的最大单一预测因子。
 
 ## I — 方法论骨架 (Interpretation)
 

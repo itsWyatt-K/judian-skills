@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "短剧节奏是时间轴工程不是玄学：七个秒级节点逐个落位，爆点密度约 4 个/分钟才够热门池"
 skill_type: "framework"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-redfruit-7beats
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot v21-97-percent-rules，基于红果 TOP100 EP01 拆解）：每集（180-195 秒）按七个秒级节点校准——招1 对抗式开场（0-3s）：角色被外力施压（甩咖啡/耳光/砸杯/推搡），**不要自残式**（吐血/晕倒/摔倒）；招2 30s 爆破点（25-32s）：视觉/物理冲击（踢飞/玻璃碎/雷劈/撞门）+鼓点；招3 首爽点（55-65s）：小赢（点头/表扬/反派愣住）；招4 第 2 反转（85-95s）：隐藏信息揭露；招5 大爽点（115-125s）：大赢（升职/打脸/联盟成立）；招6 终极钩子（145-160s）：反派狠话/神秘瞳孔/心声穿透；招7 倒计时（结尾前 4-9s）：屏幕红色倒计时数字+「未完待续」。来源实测标杆：13 爆点/193 秒 ≈ 4.0 爆点/分钟达热门池标准。
+来源方法（MIT，整理自 OnlyShot v21-97-percent-rules，基于红果 TOP100 EP01 拆解）：每集（180-195 秒）按七个秒级节点校准——招1 对抗式开场（0-3s）：角色被外力施压（甩咖啡/耳光/砸杯/推搡），**不要自残式**（吐血/晕倒/摔倒）；招2 30s 爆破点（25-32s）：视觉/物理冲击（踢飞/玻璃碎/雷劈/撞门）+鼓点；招3 首爽点（55-65s）：小赢（点头/表扬/反派愣住）；招4 第 2 反转（85-95s）：隐藏信息揭露；招5 大爽点（115-125s）：大赢（升职/打脸/联盟成立）；招6 终极钩子（145-160s）：反派狠话/神秘瞳孔/心声穿透；招7 倒计时（结尾前 4-9s）：屏幕红色倒计时数字+「未完待续」。来源实测标杆：13 爆点/193 秒 ≈ 4.0 爆点/分钟达热门池标准。
 
 ## I — 方法论骨架 (Interpretation)
 

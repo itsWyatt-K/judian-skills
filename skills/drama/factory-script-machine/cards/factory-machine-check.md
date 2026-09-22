@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: short-drama-factory 剧本工厂
 core_stance: "机检 FAIL 不裸交：低级错误不配消耗用户的注意力"
 skill_type: "checklist"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 source_license: "MIT"
+source_url: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-machine-check
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 short-drama-factory v3.1 Step 5-6）：**单集机检**（validate_episode.py）检查项：字数（实拍 350-500/漫剧 260-400）/句长/场景数（≤2）/钩子（前 3 秒）/断章/复读/开篇禁词/情绪流变词。**全剧机检**（validate_series.py）检查项：伏笔超期未收/死人开口/断章缺失/付费墙空缺。**纪律：机检 FAIL 必须修复后重跑，不得裸交**。合规一票否决四类不碰；敏感词转译表；暴力用「受力震飞/骨裂/倒地」写意替代直观血腥；字幕用中文括号包 + AIGC 标识（红果强制）。
+来源方法（MIT，整理自 short-drama-factory v3.1 Step 5-6）：**单集机检**（validate_episode.py）检查项：字数（实拍 350-500/漫剧 260-400）/句长/场景数（≤2）/钩子（前 3 秒）/断章/复读/开篇禁词/情绪流变词。**全剧机检**（validate_series.py）检查项：伏笔超期未收/死人开口/断章缺失/付费墙空缺。**纪律：机检 FAIL 必须修复后重跑，不得裸交**。合规一票否决四类不碰；敏感词转译表；暴力用「受力震飞/骨裂/倒地」写意替代直观血腥；字幕用中文括号包 + AIGC 标识（红果强制）。
 
 ## I — 方法论骨架 (Interpretation)
 

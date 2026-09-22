@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: seedance-2.5 导演
 core_stance: "一次只选一个主模式；专家能力按需附加——混模式=提示词结构错"
 skill_type: "framework"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
+source_url: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 upstream_defer: ["一图成片-电影广告全能导演"]
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-mode-select
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance-2-5-video-director）：**七主模式单选**：basic-multimodal（新建 4-30s 无更严模式）/timestamp-30s（精确 30 秒时间线）/long-video（30-180s 长视频模式）/video-extension（向前或向后延长）/video-edit（智能编辑/标记编辑/编辑视频）/clay-renderer（3D 白模作运动/构图/渲染控制）/seamless-transition（保留两段源视频只生成连接桥）/multi-grid-storyboard（多格分镜动画化）。真人导演/多人锁定/音色参考/BGM 去除/创意迁移/局部移除替换/视角重建/绿幕合成是**专家能力不是主模式**。选模式顺序：用户明说→从时长/源素材/请求操作推断；两个主模式都讲得通且产出不同时，问一个紧凑问题（点名竞争模式），不猜。**交付物锁定**：full-direction（默认：导演方案+素材映射+连续性与禁止项+一份可直贴的最终提示词）/prompt-only（只一段围栏 text 块）/script-only（只可拍脚本）/diagnosis-only（只诊断不改写）/revision（保留结构+变更摘要）。「只要脚本」「只要提示词」「只诊断」是输出约束不是风格建议。**边界**：只规划与文本提示词，不调视频生成/不花积分/不提交任务。
+来源方法（MIT，整理自 seedance-2-5-video-director）：**七主模式单选**：basic-multimodal（新建 4-30s 无更严模式）/timestamp-30s（精确 30 秒时间线）/long-video（30-180s 长视频模式）/video-extension（向前或向后延长）/video-edit（智能编辑/标记编辑/编辑视频）/clay-renderer（3D 白模作运动/构图/渲染控制）/seamless-transition（保留两段源视频只生成连接桥）/multi-grid-storyboard（多格分镜动画化）。真人导演/多人锁定/音色参考/BGM 去除/创意迁移/局部移除替换/视角重建/绿幕合成是**专家能力不是主模式**。选模式顺序：用户明说→从时长/源素材/请求操作推断；两个主模式都讲得通且产出不同时，问一个紧凑问题（点名竞争模式），不猜。**交付物锁定**：full-direction（默认：导演方案+素材映射+连续性与禁止项+一份可直贴的最终提示词）/prompt-only（只一段围栏 text 块）/script-only（只可拍脚本）/diagnosis-only（只诊断不改写）/revision（保留结构+变更摘要）。「只要脚本」「只要提示词」「只诊断」是输出约束不是风格建议。**边界**：只规划与文本提示词，不调视频生成/不花积分/不提交任务。
 
 ## I — 方法论骨架 (Interpretation):
 

@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: seedance-2.5 导演
 core_stance: "每个素材先锁角色再进提示词：没锁表的素材就是没分配工地的工人"
 skill_type: "template"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
+source_url: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-asset-lock-table
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance-2-5-video-director workflow Step 2-3）：**素材清单纪律**：只用用户实际提供或明确编号的素材；标签规范化为 `@Image N` / `@Video N` / `@Audio N`，不改顺序。**素材锁表**：为每个素材记录 `label | role（角色）| active time（生效时段）| preserve（保留什么）| do not inherit（不继承什么）`——有素材时锁表不可省略。**每人只绑一个身份源**：服装、脸、身体比例、角色身份各管各的，不与他人串。**重复引用要有理由**：只在要紧处引用，并说清借什么不借什么——单写「参考 @Video 1」是不够的。**示例继承锁定**：用户给示例时列出迁移维度（层级/细节度/时序/故事/运镜/表演/风格/素材范围）；「参考结构」默认只迁移层级与粒度。
+来源方法（MIT，整理自 seedance-2-5-video-director workflow Step 2-3）：**素材清单纪律**：只用用户实际提供或明确编号的素材；标签规范化为 `@Image N` / `@Video N` / `@Audio N`，不改顺序。**素材锁表**：为每个素材记录 `label | role（角色）| active time（生效时段）| preserve（保留什么）| do not inherit（不继承什么）`——有素材时锁表不可省略。**每人只绑一个身份源**：服装、脸、身体比例、角色身份各管各的，不与他人串。**重复引用要有理由**：只在要紧处引用，并说清借什么不借什么——单写「参考 @Video 1」是不够的。**示例继承锁定**：用户给示例时列出迁移维度（层级/细节度/时序/故事/运镜/表演/风格/素材范围）；「参考结构」默认只迁移层级与粒度。
 
 ## I — 方法论骨架 (Interpretation):
 

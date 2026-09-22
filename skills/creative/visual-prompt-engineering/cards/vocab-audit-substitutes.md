@@ -8,12 +8,14 @@ layer_confidence: "candidate"
 pack: visual-skills 视觉叙事
 core_stance: "换词必须功能等价：替代不是美化，是把同一个戏剧功能从坏载体搬到好载体"
 skill_type: "checklist"
-consult_tier: "A（绿区·CC-BY/MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·CC-BY/MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
+source_url: "https://github.com/smixs/visual-skills"
+attribution: "Serge Shima — github.com/smixs/visual-skills (CC BY 4.0, 基于原作出修改)"
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vocab-audit-substitutes
 evidence: E4
@@ -24,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-综合方法（蒸馏自 visual-skills 禁词表 + OnlyShot 替换表 + short-drama-factory 台词纪律）：**三类问题词**——①**增压词**（零渲染信息，只占权重）：cinematic / professional / high quality / masterpiece / stunning / epic / amazing / beautiful lighting / dynamic camera / intense moment / powerful scene / 4k；②**拗口罕用词与过度文学化表达**（token 化不一致，模型自由发挥）：生僻词、自造复合词、拉丁术语、「岁月的痕迹」类散文词；③**歧义词与无身体情绪名**（模型无法渲染或渲染不稳定）：he is sad / she is angry / dark X 系列颜色词 / extreme close-up 面部 / blush on cheeks / strolls past camera。**替代词表（功能等价替换）**：cinematic → slow push-in, shallow depth of field, 50mm；beautiful lighting → soft key from window, rim light；dynamic camera → slow dolly-in / tracking shot（具体运镜）；epic → 具体规模（vast scale, hundreds of figures）；岁月的痕迹 → located imperfections（specific wear at a specific spot）；he is sad → jaw locks, eyes drop a quarter-inch；dark cyan → deep cyan；sinister → moody；extreme close-up face → medium close-up；blush on cheeks → rose tint on surface；strolls past camera → walks across stage center。中文场景注意：中文 1 字符=1 计数，分词粒度影响 token 化——中文 prompt 优先短句+常用词。
+综合方法（整理自 visual-skills 禁词表 + OnlyShot 替换表 + short-drama-factory 台词纪律）：**三类问题词**——①**增压词**（零渲染信息，只占权重）：cinematic / professional / high quality / masterpiece / stunning / epic / amazing / beautiful lighting / dynamic camera / intense moment / powerful scene / 4k；②**拗口罕用词与过度文学化表达**（token 化不一致，模型自由发挥）：生僻词、自造复合词、拉丁术语、「岁月的痕迹」类散文词；③**歧义词与无身体情绪名**（模型无法渲染或渲染不稳定）：he is sad / she is angry / dark X 系列颜色词 / extreme close-up 面部 / blush on cheeks / strolls past camera。**替代词表（功能等价替换）**：cinematic → slow push-in, shallow depth of field, 50mm；beautiful lighting → soft key from window, rim light；dynamic camera → slow dolly-in / tracking shot（具体运镜）；epic → 具体规模（vast scale, hundreds of figures）；岁月的痕迹 → located imperfections（specific wear at a specific spot）；he is sad → jaw locks, eyes drop a quarter-inch；dark cyan → deep cyan；sinister → moody；extreme close-up face → medium close-up；blush on cheeks → rose tint on surface；strolls past camera → walks across stage center。中文场景注意：中文 1 字符=1 计数，分词粒度影响 token 化——中文 prompt 优先短句+常用词。
 
 ## I — 方法论骨架 (Interpretation)
 

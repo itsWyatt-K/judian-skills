@@ -8,12 +8,14 @@ layer_confidence: "candidate"
 pack: visual-skills 视觉叙事
 core_stance: "结构、节奏、镜头、钩子可以学；台词、画面内容、品牌表达不可抄——学骨架不抄肉"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache/CC-BY 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache/CC-BY 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/smixs/visual-skills"
+attribution: "Serge Shima — github.com/smixs/visual-skills (CC BY 4.0, 基于原作出修改)"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-reverse-prompt
@@ -25,7 +27,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0 蒸馏自 superCMO cloning-video-ads + CC-BY 蒸馏自 visual-skills 提示词审计）：**参考片是克隆重建的图纸，必须先完整读全——读薄了是唯一无法弥补的败因**。做法：对参考广告跑逐秒定时拆解（timed second-by-second breakdown），产出每镜的时间码/景别/运镜/动作/声音/钩子。然后读用户产品（材质/尺寸/视觉锚/机制）。**仿写边界**：保留参考片的结构、节奏、镜头、钩子；替换其产品、品牌、口播台词为用户自己的。**版权边界**：机制级仿写=结构可仿、表达不可抄。视觉提示词侧另有审计模式（D 模式）：给定用户提示词，返回 What works / What breaks generation / Missing direction / Continuity risks / Model-specific mismatches / Stronger version 六段诊断。访谈纪律：缺参考片或产品就问一次（捆绑成一条消息+留自由文本出口）；用户放弃提问则按参考片时长与画幅默认继续并一句话说明默认值。
+来源方法（Apache-2.0 整理自 superCMO cloning-video-ads + CC-BY 整理自 visual-skills 提示词审计）：**参考片是克隆重建的图纸，必须先完整读全——读薄了是唯一无法弥补的败因**。做法：对参考广告跑逐秒定时拆解（timed second-by-second breakdown），产出每镜的时间码/景别/运镜/动作/声音/钩子。然后读用户产品（材质/尺寸/视觉锚/机制）。**仿写边界**：保留参考片的结构、节奏、镜头、钩子；替换其产品、品牌、口播台词为用户自己的。**版权边界**：机制级仿写=结构可仿、表达不可抄。视觉提示词侧另有审计模式（D 模式）：给定用户提示词，返回 What works / What breaks generation / Missing direction / Continuity risks / Model-specific mismatches / Stronger version 六段诊断。访谈纪律：缺参考片或产品就问一次（捆绑成一条消息+留自由文本出口）；用户放弃提问则按参考片时长与画幅默认继续并一句话说明默认值。
 
 ## I — 方法论骨架 (Interpretation)
 

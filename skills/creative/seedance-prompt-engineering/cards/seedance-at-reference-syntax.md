@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: Seedance 提示词工程
 core_stance: "素材不会自己说话：每个 @ 引用必须带用途说明，无归属素材等于浪费名额还稀释注意力"
 skill_type: "framework"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
+source_url: "https://github.com/dexhunter/seedance2-skill"
 upstream_defer: ["一图成片-电影广告全能导演"]
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-at-reference-syntax
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance2-skill 中文版）：Seedance 2.0 用 `@` 指定素材用途——`@图片1 作为首帧`、`@图片2 作为尾帧`、`参考 @图片1 的人物形象`、`场景参考 @图片3`、`参考 @视频1 的运镜效果`、`完全参考 @视频1 的特效和转场`、`视频节奏参考 @视频1`、`旁白音色参考 @视频1`、`背景BGM参考 @音频1`、`穿着 @图片2 的服装`、`产品细节参考 @图片3` 等。素材约束：图片 ≤9 张（每张 <30MB）、视频 ≤3 个（每个 <50MB、总时长 2-15s）、音频 ≤3 个（每个 <15MB）、**总文件数 ≤12**；不支持写实真人脸部素材（会被系统拦截）；生成时长 4-15 秒。
+来源方法（MIT，整理自 seedance2-skill 中文版）：Seedance 2.0 用 `@` 指定素材用途——`@图片1 作为首帧`、`@图片2 作为尾帧`、`参考 @图片1 的人物形象`、`场景参考 @图片3`、`参考 @视频1 的运镜效果`、`完全参考 @视频1 的特效和转场`、`视频节奏参考 @视频1`、`旁白音色参考 @视频1`、`背景BGM参考 @音频1`、`穿着 @图片2 的服装`、`产品细节参考 @图片3` 等。素材约束：图片 ≤9 张（每张 <30MB）、视频 ≤3 个（每个 <50MB、总时长 2-15s）、音频 ≤3 个（每个 <15MB）、**总文件数 ≤12**；不支持写实真人脸部素材（会被系统拦截）；生成时长 4-15 秒。
 
 ## I — 方法论骨架 (Interpretation)
 

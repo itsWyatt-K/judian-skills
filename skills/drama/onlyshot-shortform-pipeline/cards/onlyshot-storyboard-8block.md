@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "分镜图 prompt 是工业模板不是灵感创作；拟物IP必须逐主角单独声明『身体就是建筑本身』，复数共用子句必然穿帮"
 skill_type: "template"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-storyboard-8block
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot storyboard-frame-industrial §5）：分镜图 prompt 按八段组装——CHARACTER（角色+ref 引用）/ BACKGROUND（背景）/ ACTION（动作）/ SCENE（场景关系）/ CAMERA（机位景别）/ LIGHT（灯光）/ TEXT（画面文字，如字幕弹幕）/ STYLE（风格+NOT humans 子句）。拟物化 IP 的 STYLE 段必须**每个主角单独**写「X 的整个身体 IS [建筑] 本身 NOT a human wearing X NOT a human with headpiece」。另配 25+ 戏剧光关键词库（dramatic rim light 等）。
+来源方法（MIT，整理自 OnlyShot storyboard-frame-industrial §5）：分镜图 prompt 按八段组装——CHARACTER（角色+ref 引用）/ BACKGROUND（背景）/ ACTION（动作）/ SCENE（场景关系）/ CAMERA（机位景别）/ LIGHT（灯光）/ TEXT（画面文字，如字幕弹幕）/ STYLE（风格+NOT humans 子句）。拟物化 IP 的 STYLE 段必须**每个主角单独**写「X 的整个身体 IS [建筑] 本身 NOT a human wearing X NOT a human with headpiece」。另配 25+ 戏剧光关键词库（dramatic rim light 等）。
 
 ## I — 方法论骨架 (Interpretation)
 

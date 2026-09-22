@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: seedance-2.5 导演
 core_stance: "方向不问清不动笔：『向前续写』这类歧义短语是延长任务的第一杀手"
 skill_type: "technique"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
+source_url: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-extension-direction
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance-2-5-video-director Extension 不变量）：**方向必须归一化**为 `prepend-before-source`（新增在原片前）或 `append-after-source`（新增在原片后）——**严禁依赖「向前续写/前向续写/往前延长/向后续写/后向续写」等歧义短语**。用户没有明说新增片段放前还是放后、没有连首帧还是连尾帧时，**必须问**「新增片段放在原片之前，还是原片之后？」——不答不动笔，不凭剧情推断。**交接规则**：prepend 的新增区间必须结束在原片第一帧并交接进去；append 的新增区间必须从原片最后一帧开始。**只描述新增区间**：写明放置位置与新增时长；原区间必须保持原样；要求自然的动作/运镜/光线/声音/空间连接；禁止无解释的重置与凭空出现的物件。另：生成时长参数选「新增部分」时长（配 seedance-extend-edit）。
+来源方法（MIT，整理自 seedance-2-5-video-director Extension 不变量）：**方向必须归一化**为 `prepend-before-source`（新增在原片前）或 `append-after-source`（新增在原片后）——**严禁依赖「向前续写/前向续写/往前延长/向后续写/后向续写」等歧义短语**。用户没有明说新增片段放前还是放后、没有连首帧还是连尾帧时，**必须问**「新增片段放在原片之前，还是原片之后？」——不答不动笔，不凭剧情推断。**交接规则**：prepend 的新增区间必须结束在原片第一帧并交接进去；append 的新增区间必须从原片最后一帧开始。**只描述新增区间**：写明放置位置与新增时长；原区间必须保持原样；要求自然的动作/运镜/光线/声音/空间连接；禁止无解释的重置与凭空出现的物件。另：生成时长参数选「新增部分」时长（配 seedance-extend-edit）。
 
 ## I — 方法论骨架 (Interpretation):
 

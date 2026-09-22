@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: iart 广告三件套
 core_stance: "为最小公共画幅设计，不是为母版设计：装在 1:1 中心方区里的内容才活得过所有裁切"
 skill_type: "checklist"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/iart-ai/ad-video-skills"
 source_license: "MIT"
+source_url: "https://github.com/iart-ai/ad-video-skills"
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-multi-aspect
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 iart launch-video 多画幅章节）：**中心安全区构图**——一条母版干净裁到所有画幅。三画幅参数：①**16:9**（YouTube/落地 hero/X）1920×1080，关键内容在中心 90%；②**9:16**（Reels/TikTok/Shorts/Stories）1080×1920，文字在中心 80% 高内，**避开顶部 12% 与底部 18%（平台 UI 区）**；③**1:1**（Feed）1080×1080，即 16:9 帧的中心方区。**核心法则：hero/logo/CTA 全部设计在 1:1 中心方区内**——这样才活得过每次裁切。**母版渲染后重构，不是加黑边**：渲 16:9 母版，再从同一项目重构 9:16 与 1:1（reframe 而非 letterbox）。
+来源方法（MIT，整理自 iart launch-video 多画幅章节）：**中心安全区构图**——一条母版干净裁到所有画幅。三画幅参数：①**16:9**（YouTube/落地 hero/X）1920×1080，关键内容在中心 90%；②**9:16**（Reels/TikTok/Shorts/Stories）1080×1920，文字在中心 80% 高内，**避开顶部 12% 与底部 18%（平台 UI 区）**；③**1:1**（Feed）1080×1080，即 16:9 帧的中心方区。**核心法则：hero/logo/CTA 全部设计在 1:1 中心方区内**——这样才活得过每次裁切。**母版渲染后重构，不是加黑边**：渲 16:9 母版，再从同一项目重构 9:16 与 1:1（reframe 而非 letterbox）。
 
 ## I — 方法论骨架 (Interpretation):
 

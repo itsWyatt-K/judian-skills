@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "审计自家=同一套台账机工换对象：结论仍须带 ref 和计数，且要回答'已覆盖什么'而不只是'什么在跑'"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-own-ads-audit
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO analyzing-own-ads）：**Research only**。与竞品调研共用同一套台账机工（定范围一次问全→live/stopped 分开拉→建台账→批量看片→对照台账出模式→先答用户问题），深度档位相同（quick 保留 30+30 看 10+10 / detailed 60+60 看 20+20）。对象换成自家后的三个特有视角：①**什么在 hold**（长投的自家广告做对了什么——这是要被继承的资产）；②**已经覆盖什么**（自家矩阵已占的角度/格式/人群——避免下一步自产重复）；③**与竞品的差**（自家停掉的 vs 竞品在跑的，是市场信号不是内部意见）。同样纪律：模式必须对照台账、带 ref 和计数；看的是长投端样本要声明偏斜；覆盖段（coverage）的限额行原样进审计。
+来源方法（Apache-2.0，整理自 superCMO analyzing-own-ads）：**Research only**。与竞品调研共用同一套台账机工（定范围一次问全→live/stopped 分开拉→建台账→批量看片→对照台账出模式→先答用户问题），深度档位相同（quick 保留 30+30 看 10+10 / detailed 60+60 看 20+20）。对象换成自家后的三个特有视角：①**什么在 hold**（长投的自家广告做对了什么——这是要被继承的资产）；②**已经覆盖什么**（自家矩阵已占的角度/格式/人群——避免下一步自产重复）；③**与竞品的差**（自家停掉的 vs 竞品在跑的，是市场信号不是内部意见）。同样纪律：模式必须对照台账、带 ref 和计数；看的是长投端样本要声明偏斜；覆盖段（coverage）的限额行原样进审计。
 
 ## I — 方法论骨架 (Interpretation)
 

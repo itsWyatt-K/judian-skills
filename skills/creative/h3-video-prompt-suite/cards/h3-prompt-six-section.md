@@ -13,7 +13,7 @@ verify_state: raw
 card_type: book
 publish_tier: tier-attrib
 source_repo: "MiniMax H3 官方技能文档（即梦 Dreamina 官方 skills 语料，raw-materials/MiniMax-H3-skills）"
-source_license: "MiniMax 官方文档（署名引用）"
+source_license: "规范要点整理自 MiniMax 公开文档（功能事实整理，非表达复制）"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-08-14
 source_card: MiniMax H3 提示词规范/h3-prompt-six-section
@@ -21,17 +21,20 @@ evidence: E4
 
 ---
 
-## R — 原文 (Reading)
+## S — 规范要点 (Spec Summary)
 
-MiniMax H3 接收文字、图片、视频、音频四类素材，四种输入模式：
-- **T2VA**（文生视频）/ **I2VA**（图生视频，含首尾帧 first_frame/last_frame）/ **FL2VA**（首尾帧+参考）/ **L2VA**（参考图/视频/音频 reference_image/reference_video/reference_audio）。
-- 首尾帧与参考素材**两类输入不得混在同一请求**（选其一）。
-- 提示词内 `<Subject N>`/`<Picture N>`/`<Video N>`/`<Audio N>` 是写进提示词的素材别名（标签链）。
+> 本节为 MiniMax H3 公开文档的功能事实整理（字段名/参数/规则属公共技术事实，非表达复制）；官方原始措辞以 MiniMax 文档为准。
 
-官方**两套提示词格式**：
-- **base-en.md（三段式）**：`integrated_multimodal_description` + `overall_soundscape` + `non_diegetic_music`（人物标签内联正文，无独立 subject_definitions）。适用纯文本 T2VA/I2VA。
-- **ref-en.md（六段式 Full-Reference Mode）**：`subject_definitions` / `summary` / `retention_analysis` / `detailed_description` / `overall_soundscape` / `non_diegetic_music`。适用带参考素材的复杂镜头。
-- 时长 4–15 整数秒；单镜建议 ≤4 段。
+H3 是接受文字、图片、视频、音频四类素材的视频生成模型，官方定义四种输入模式：T2VA 走纯文本；I2VA 走图片，可带首尾帧（first_frame/last_frame）；FL2VA 为首尾帧叠加参考；L2VA 挂参考图/视频/音频（reference_image/reference_video/reference_audio）。首尾帧与参考素材是两条互斥的输入通道——同一个请求只能选其一。
+
+提示词靠别名链引用素材：`<Subject N>` 指可见主体，`<Picture N>` 指参考图锚，`<Video N>` / `<Audio N>` 同理。
+
+官方规范给出两套提示词骨架：
+
+- **三段式**：integrated_multimodal_description、overall_soundscape、non_diegetic_music 三段；人物以内联标签写进正文，没有独立的 subject_definitions 段。面向 T2VA / I2VA 这类无参考素材的场景。
+- **六段式（Full-Reference Mode）**：subject_definitions、summary、retention_analysis、detailed_description、overall_soundscape、non_diegetic_music 六段；面向带参考素材的复杂镜头。
+
+时长取 4–15 的整数秒；单个镜头的分段建议不超过四段。
 
 ## I — 方法论骨架 (Interpretation)
 

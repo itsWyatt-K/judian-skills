@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "按图要干什么选模型，不按图是什么选；用户点名永远优先"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-image-model-routing
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO generating-images）：两个决策驱动质量——**选哪个模型（永远）**和**有没有匹配的格式配方（仅已知交付物时）**。路由前先分诊：商业**产品摄影**（包装图/场景图/hero/banner/上身试穿/改造现有产品图）→ 转产品摄影技能；**产品广告**（图上压标题/优惠/CTA、促销前后对比）→ 转图片广告技能；其余留在本技能（通用图/图形海报/肖像/插画/电影静帧/信息图/一次性参考编辑）。**按"图要干什么"路由**（描述是信号不是字面路由器）：要可读文字或元素有 deliberate 位置的设计（海报/广告/banner/缩略图/信息图）→ `gpt-image-2`；绘画/渲染风（卡通/动漫/插画/扁平矢量/3D）→ `nano-banana-2`；可信真人或有刻意摄影的图片帧（创作者肖像/UGC/电影感静帧）→ `nano-banana-pro`；改造 supplied 图（换背景/移除替换元素/重布景）→ `gpt-image-2`；改图但真脸必须保持可认 → `seedream-5`；supplied 图只是风格情绪 cues（要这个味道不是改那张图）→ `nano-banana-2`（脸也要延续则 `seedream-5`）。**多条件命中时的优先序**：①用户点了模型→用它；②要可读文字→`gpt-image-2`（哪怕有人有景）；③非摄影外观→`nano-banana-2`（哪怕有人）；④在改 supplied 图→`gpt-image-2`，脸要可认才换 `seedream-5`；⑤只是风格 cues→`nano-banana-2`/`seedream-5`。都不沾（普通物件场景）→ `nano-banana-2`，或列模型清单按 strengths 挑。**写之前先读所挑模型的 prompt guide**。格式配方表：命中行就按它的段落和示例写，不命中就跳过——模型 guide 已够。
+来源方法（Apache-2.0，整理自 superCMO generating-images）：两个决策驱动质量——**选哪个模型（永远）**和**有没有匹配的格式配方（仅已知交付物时）**。路由前先分诊：商业**产品摄影**（包装图/场景图/hero/banner/上身试穿/改造现有产品图）→ 转产品摄影技能；**产品广告**（图上压标题/优惠/CTA、促销前后对比）→ 转图片广告技能；其余留在本技能（通用图/图形海报/肖像/插画/电影静帧/信息图/一次性参考编辑）。**按"图要干什么"路由**（描述是信号不是字面路由器）：要可读文字或元素有 deliberate 位置的设计（海报/广告/banner/缩略图/信息图）→ `gpt-image-2`；绘画/渲染风（卡通/动漫/插画/扁平矢量/3D）→ `nano-banana-2`；可信真人或有刻意摄影的图片帧（创作者肖像/UGC/电影感静帧）→ `nano-banana-pro`；改造 supplied 图（换背景/移除替换元素/重布景）→ `gpt-image-2`；改图但真脸必须保持可认 → `seedream-5`；supplied 图只是风格情绪 cues（要这个味道不是改那张图）→ `nano-banana-2`（脸也要延续则 `seedream-5`）。**多条件命中时的优先序**：①用户点了模型→用它；②要可读文字→`gpt-image-2`（哪怕有人有景）；③非摄影外观→`nano-banana-2`（哪怕有人）；④在改 supplied 图→`gpt-image-2`，脸要可认才换 `seedream-5`；⑤只是风格 cues→`nano-banana-2`/`seedream-5`。都不沾（普通物件场景）→ `nano-banana-2`，或列模型清单按 strengths 挑。**写之前先读所挑模型的 prompt guide**。格式配方表：命中行就按它的段落和示例写，不命中就跳过——模型 guide 已够。
 
 ## I — 方法论骨架 (Interpretation)
 

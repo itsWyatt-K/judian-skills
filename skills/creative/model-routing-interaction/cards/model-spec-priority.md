@@ -1,7 +1,7 @@
 ---
 name: model-spec-priority
 description: 当用户要生成任何模型提示词，或把通用模板/技能套到具体模型时调用。核心能力：三层优先级（官方硬要求 > 通用方法论 > 个人习惯）+ 已核实的六大模型官方要求清单 + 官方字段准入制（缺官方必填=不合格）。关键触发：官方要求、模型规范、权重、必填字段、模型语法、套模板、model spec、official requirements。
-source_book: 剧典原创综合（蒸馏自 seedance2-skill / visual-skills 模型选择器 / seedance-2-5-video-director / OnlyShot 实测约束）
+source_book: 剧典原创综合（整理自 seedance2-skill / visual-skills 模型选择器 / seedance-2-5-video-director / OnlyShot 实测约束）
 source_chapter: 多源综合
 tags: [官方规范, 模型优先级, 准入制, 提示词组装, AI生成友好]
 layer_confidence: "candidate"
@@ -24,7 +24,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-剧典原创综合方法（多源蒸馏）：提示词组装的三层优先级——**①目标模型的官方硬要求（字段/语法/上限/禁忌）权重最高；②通用方法论（结构/细节/节奏）；③个人习惯与模板偏好**。冲突时官方赢，模板让位。已核实的官方硬要求清单：**Seedance 2.0**——@引用必须显式职责（首帧/运镜/特效…）；输入上限图≤9/视频≤3（各<50MB、总时长2-15s）/音频≤3/总文件≤12；生成时长4-15s；禁写实真人脸素材。**Seedance 2.5**——主模式单选+素材锁表（label|role|time|preserve|don't inherit）+@Image N 标签规范化；延长方向二值化（prepend/append）；编辑四件套（位置+目标+操作+时段）。**Kling**——1.x-2.x 用 Element Binding 3-4 张参考图；3.0 用提示词内 `[Character A: ...]` 标签+原生对白唇形；有专用负向提示词字段。**Veo**——JSON 结构化场景连续性；对白唇形与同步音效。**Nano Banana**——图像接地锚真实地点；支持极端画幅（1:8/8:1/4:1）；**禁写 50mm/f-stop/ISO 等镜头数字**；5+ 元素用 JSON；最多 14 张参考图。**GPT Image 2.5**——五槽模板（Scene/Subject/Details/UseCase/Constraints）；quality 低到 max 是保真旋钮；尺寸为 16 的倍数、最大 3:1、最高 4K；画面文字走 EXACT TEXT 纪律（引号包精确文字）；最多 16 张参考图且显式角色。
+剧典原创综合方法（多源整理）：提示词组装的三层优先级——**①目标模型的官方硬要求（字段/语法/上限/禁忌）权重最高；②通用方法论（结构/细节/节奏）；③个人习惯与模板偏好**。冲突时官方赢，模板让位。已核实的官方硬要求清单：**Seedance 2.0**——@引用必须显式职责（首帧/运镜/特效…）；输入上限图≤9/视频≤3（各<50MB、总时长2-15s）/音频≤3/总文件≤12；生成时长4-15s；禁写实真人脸素材。**Seedance 2.5**——主模式单选+素材锁表（label|role|time|preserve|don't inherit）+@Image N 标签规范化；延长方向二值化（prepend/append）；编辑四件套（位置+目标+操作+时段）。**Kling**——1.x-2.x 用 Element Binding 3-4 张参考图；3.0 用提示词内 `[Character A: ...]` 标签+原生对白唇形；有专用负向提示词字段。**Veo**——JSON 结构化场景连续性；对白唇形与同步音效。**Nano Banana**——图像接地锚真实地点；支持极端画幅（1:8/8:1/4:1）；**禁写 50mm/f-stop/ISO 等镜头数字**；5+ 元素用 JSON；最多 14 张参考图。**GPT Image 2.5**——五槽模板（Scene/Subject/Details/UseCase/Constraints）；quality 低到 max 是保真旋钮；尺寸为 16 的倍数、最大 3:1、最高 4K；画面文字走 EXACT TEXT 纪律（引号包精确文字）；最多 16 张参考图且显式角色。
 
 ## I — 方法论骨架 (Interpretation)
 

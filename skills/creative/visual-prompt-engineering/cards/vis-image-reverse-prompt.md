@@ -8,12 +8,14 @@ layer_confidence: "candidate"
 pack: visual-skills 视觉叙事
 core_stance: "反推是纯数据提取：扫描原始事实，不发明画面里没有的东西"
 skill_type: "technique"
-consult_tier: "A（绿区·CC-BY 署名蒸馏，可公开）"
+consult_tier: "A（绿区·CC-BY 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
+source_url: "https://github.com/smixs/visual-skills"
+attribution: "Serge Shima — github.com/smixs/visual-skills (CC BY 4.0, 基于原作出修改)"
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-image-reverse-prompt
 evidence: E4
@@ -24,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（CC-BY-4.0，蒸馏自 visual-skills vision-decomposer.md）。**STEP 1 深度解构，四参数块**：①主体（心理与场面调度）——精确服装（年代/风格/材质）、年龄、肤质、妆容、微表情；景别（ELS/LS/MS/双三人群像/CU/贴脸 CU/极特写/插入镜头）；场面调度（主体孤立画框边缘=焦虑、物理屏障、背对镜头=未知感/无力感、高度差=支配）；知觉动力（视觉重量、重心、形式张力、姿态、运动矢量、动态模糊或纪念碑式静止）；局部色的情绪（Itten）；注视方向与画框关系。②环境（几何与空间结构）——场景美术、三平面深度（前景引导细节/中景动作面/背景，斯皮尔伯格）、图地关系与反射、影调空气透视（背景对比下降+去饱和+偏冷）、画框几何。③灯光（明暗与对比）——光学对比 OVK（亮暗面积比）、布光方案（主光/辅光/轮廓光/造型光）、伦勃朗/明暗对照、破光与反射（gobo/百叶/邻物反光）、高调低调、白平衡与色温对比。④技术与摄影——机位角度（高/低/平/荷兰角）、主观/过肩、焦段与景深、滤镜（Pro-Mist 等柔光/偏振）、画幅格式、曝光、风格化（漂白旁路）、胶片颗粒与色差。**STEP 2 合成规则**：只写英文逗号分隔关键词；**严格只描述所见，不发明新物体**；零填充语（禁 The image shows / A picture of / I can see）；**严格词序（不可协商）**：［镜头类型+光学+角度］→［主体+场面调度+视觉重量+服装动作］→［多平面环境（前中后景）+重叠与几何］→［布光方案+光学对比+gobo与反射］→［色板+色温对比+空气透视］→［调色+柔光滤镜+胶片库存+质感工件］。**输出协议**：两段式——先简短分析日志（Subject & Blocking / Environment & Depth / Lighting / Tech & Optics 四行），再成品提示词。
+来源方法（CC-BY-4.0，整理自 visual-skills vision-decomposer.md）。**STEP 1 深度解构，四参数块**：①主体（心理与场面调度）——精确服装（年代/风格/材质）、年龄、肤质、妆容、微表情；景别（ELS/LS/MS/双三人群像/CU/贴脸 CU/极特写/插入镜头）；场面调度（主体孤立画框边缘=焦虑、物理屏障、背对镜头=未知感/无力感、高度差=支配）；知觉动力（视觉重量、重心、形式张力、姿态、运动矢量、动态模糊或纪念碑式静止）；局部色的情绪（Itten）；注视方向与画框关系。②环境（几何与空间结构）——场景美术、三平面深度（前景引导细节/中景动作面/背景，斯皮尔伯格）、图地关系与反射、影调空气透视（背景对比下降+去饱和+偏冷）、画框几何。③灯光（明暗与对比）——光学对比 OVK（亮暗面积比）、布光方案（主光/辅光/轮廓光/造型光）、伦勃朗/明暗对照、破光与反射（gobo/百叶/邻物反光）、高调低调、白平衡与色温对比。④技术与摄影——机位角度（高/低/平/荷兰角）、主观/过肩、焦段与景深、滤镜（Pro-Mist 等柔光/偏振）、画幅格式、曝光、风格化（漂白旁路）、胶片颗粒与色差。**STEP 2 合成规则**：只写英文逗号分隔关键词；**严格只描述所见，不发明新物体**；零填充语（禁 The image shows / A picture of / I can see）；**严格词序（不可协商）**：［镜头类型+光学+角度］→［主体+场面调度+视觉重量+服装动作］→［多平面环境（前中后景）+重叠与几何］→［布光方案+光学对比+gobo与反射］→［色板+色温对比+空气透视］→［调色+柔光滤镜+胶片库存+质感工件］。**输出协议**：两段式——先简短分析日志（Subject & Blocking / Environment & Depth / Lighting / Tech & Optics 四行），再成品提示词。
 
 ## I — 方法论骨架 (Interpretation)
 

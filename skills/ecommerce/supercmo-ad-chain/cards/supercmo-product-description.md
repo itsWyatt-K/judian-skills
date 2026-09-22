@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "产品描述一次写定全程逐字复用——换个说法就是换个产品"
 skill_type: "template"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["顶级波普视觉广告导演"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-product-description
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO 三个技能的一致写法）：**一份产品描述，在所有分镜/提示词中逐字复用**——换个措辞重述，模型读成不同的产品。五要素：①**逐面材质与表面处理**（matte/gloss/brushed/woven/translucent，一面一面写：brushed steel barrel, matte soft-touch collar, a woven wrist strap）；②**真实尺寸**（宽高+与手的比例关系：sits in a closed palm, roughly 9 cm tall and 4 cm across——给真实测量，**不拿别的物件类比**，类比物模型渲染不一致）；③**2-5 个视觉锚**（只能在产品图上核实到的特征：精确颜色/扣件形状/链条粗细/表面处理/识别标记——别的什么都不写）；④**产品机制**（怎么构成怎么动：哪些部件动/怎么开合/哪里出料：hinged lid at one end, folds back flat; the brush sits inside the cap）；⑤**不变项声明**（跨镜必须保持 identical 的清单）。另两条纪律：**先看图再描述**（产品事实取自图像分析，不取自行 brief/文件名/产品名）；产品未提供不猜——成为第一个要问的事。
+来源方法（Apache-2.0，整理自 superCMO 三个技能的一致写法）：**一份产品描述，在所有分镜/提示词中逐字复用**——换个措辞重述，模型读成不同的产品。五要素：①**逐面材质与表面处理**（matte/gloss/brushed/woven/translucent，一面一面写：brushed steel barrel, matte soft-touch collar, a woven wrist strap）；②**真实尺寸**（宽高+与手的比例关系：sits in a closed palm, roughly 9 cm tall and 4 cm across——给真实测量，**不拿别的物件类比**，类比物模型渲染不一致）；③**2-5 个视觉锚**（只能在产品图上核实到的特征：精确颜色/扣件形状/链条粗细/表面处理/识别标记——别的什么都不写）；④**产品机制**（怎么构成怎么动：哪些部件动/怎么开合/哪里出料：hinged lid at one end, folds back flat; the brush sits inside the cap）；⑤**不变项声明**（跨镜必须保持 identical 的清单）。另两条纪律：**先看图再描述**（产品事实取自图像分析，不取自行 brief/文件名/产品名）；产品未提供不猜——成为第一个要问的事。
 
 ## I — 方法论骨架 (Interpretation)
 

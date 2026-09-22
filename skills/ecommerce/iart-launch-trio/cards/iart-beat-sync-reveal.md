@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: iart 广告三件套
 core_stance: "切点长在音乐的瞬态上，不长在秒数网格上"
 skill_type: "technique"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/iart-ai/ad-video-skills"
 source_license: "MIT"
+source_url: "https://github.com/iart-ai/ad-video-skills"
 upstream_defer: ["名导十五秒视频风格资产引擎"]
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-beat-sync-reveal
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 iart launch-video 卡点章节）：**测 drop 精确时间码**——在音频里找到 drop 的确切位置，让品牌标在那个帧上 snap 满（配微过冲：scale 1.18→1.0 用 0.18s power3.out 回弹+白色闪光 0.25s）。**切在瞬态上，不切在固定网格**——最重的切点落在 kick/snare 敲击上；进 drop 前用 time-remap  ramp 速度，出 drop 硬切。**蒙太奇节拍驱动**：一拍一卖点，每拍 0.6-1.0s，硬切在拍上；beats 数组（13.0/13.8/14.6/15.4/16.2…）逐拍调度镜头。**运动语言统一**：整个蒙太奇同一进场曲线同一退场——速度读出来是自信不是混乱。参考实现（Remotion 思路）：所有动画值是 `useCurrentFrame()` 的纯函数，禁 CSS transition 与库计时器（会失步）；variant 对象驱动一切可变项。
+来源方法（MIT，整理自 iart launch-video 卡点章节）：**测 drop 精确时间码**——在音频里找到 drop 的确切位置，让品牌标在那个帧上 snap 满（配微过冲：scale 1.18→1.0 用 0.18s power3.out 回弹+白色闪光 0.25s）。**切在瞬态上，不切在固定网格**——最重的切点落在 kick/snare 敲击上；进 drop 前用 time-remap  ramp 速度，出 drop 硬切。**蒙太奇节拍驱动**：一拍一卖点，每拍 0.6-1.0s，硬切在拍上；beats 数组（13.0/13.8/14.6/15.4/16.2…）逐拍调度镜头。**运动语言统一**：整个蒙太奇同一进场曲线同一退场——速度读出来是自信不是混乱。参考实现（Remotion 思路）：所有动画值是 `useCurrentFrame()` 的纯函数，禁 CSS transition 与库计时器（会失步）；variant 对象驱动一切可变项。
 
 ## I — 方法论骨架 (Interpretation):
 

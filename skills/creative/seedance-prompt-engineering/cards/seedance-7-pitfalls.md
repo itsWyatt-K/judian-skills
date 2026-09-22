@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: Seedance 提示词工程
 core_stance: "大多数翻车不是模型不行，是提示词里埋了这七颗雷；跑前一分钟自检省十次重试"
 skill_type: "checklist"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
+source_url: "https://github.com/dexhunter/seedance2-skill"
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-7-pitfalls
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance2-skill 中文版避坑指南）：①**引用模糊**——不能只写「参考@视频1」，必须说清参考什么（运镜/动作/特效/节奏）；②**指令冲突**——不要同段要求「固定镜头」和「环绕镜头」这类互斥指令；③**内容过载**——4-5 秒内塞太多场景不符合物理可行性；④**素材无归属**——上传的每张图都必须被 @ 标注用途；⑤**忽视音频**——音效设计大幅提升成片质量，必须写音频指导；⑥**时长不匹配**——提示词复杂度要与生成时长匹配（15 秒塞不下电影级叙事）；⑦**写实人脸**——不上传含清晰可辨真人面部的素材（系统拦截）。
+来源方法（MIT，整理自 seedance2-skill 中文版避坑指南）：①**引用模糊**——不能只写「参考@视频1」，必须说清参考什么（运镜/动作/特效/节奏）；②**指令冲突**——不要同段要求「固定镜头」和「环绕镜头」这类互斥指令；③**内容过载**——4-5 秒内塞太多场景不符合物理可行性；④**素材无归属**——上传的每张图都必须被 @ 标注用途；⑤**忽视音频**——音效设计大幅提升成片质量，必须写音频指导；⑥**时长不匹配**——提示词复杂度要与生成时长匹配（15 秒塞不下电影级叙事）；⑦**写实人脸**——不上传含清晰可辨真人面部的素材（系统拦截）。
 
 ## I — 方法论骨架 (Interpretation)
 

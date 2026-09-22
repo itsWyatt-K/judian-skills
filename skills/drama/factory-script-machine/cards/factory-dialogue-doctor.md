@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: short-drama-factory 剧本工厂
 core_stance: "好台词是打出来的不是说出来的：每句台词都是一次攻防，不是一次说明"
 skill_type: "technique"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 source_license: "MIT"
+source_url: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-dialogue-doctor
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 short-drama-factory dialogue-doctor-anti-ai）：台词七维暴改——①**语言指纹**：每个角色有专属语域（用词习惯/句式/口头禅），指纹撞车=角色同质；②**反向灌输死刑法**：禁「让我来告诉你…」式说明性台词（设定从嘴出即废稿）；③**攻防回合制**：对话是出招-接招，每句要么施压要么反击，无攻防的寒暄是水分；④**单句字数**：常规句 12-18 字，爆发金句 8-12 字，硬上限 ≤25 字；⑤**复读检测**：同义反复的台词删；⑥**潜台词优先**：嘴上说的和心里想的不一致才有戏；⑦**市井语域**：反派要市井刻薄，主角隐忍冷酷或爆发霸道，全员播音腔是红线。
+来源方法（MIT，整理自 short-drama-factory dialogue-doctor-anti-ai）：台词七维暴改——①**语言指纹**：每个角色有专属语域（用词习惯/句式/口头禅），指纹撞车=角色同质；②**反向灌输死刑法**：禁「让我来告诉你…」式说明性台词（设定从嘴出即废稿）；③**攻防回合制**：对话是出招-接招，每句要么施压要么反击，无攻防的寒暄是水分；④**单句字数**：常规句 12-18 字，爆发金句 8-12 字，硬上限 ≤25 字；⑤**复读检测**：同义反复的台词删；⑥**潜台词优先**：嘴上说的和心里想的不一致才有戏；⑦**市井语域**：反派要市井刻薄，主角隐忍冷酷或爆发霸道，全员播音腔是红线。
 
 ## I — 方法论骨架 (Interpretation)
 

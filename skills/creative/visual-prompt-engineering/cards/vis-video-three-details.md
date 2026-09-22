@@ -8,12 +8,14 @@ layer_confidence: "candidate"
 pack: visual-skills 视觉叙事
 core_stance: "模型渲染不出情绪名，只渲染得出身体；情绪词是偷懒的占位符，必须换成物理事实"
 skill_type: "checklist"
-consult_tier: "A（绿区·CC-BY 署名蒸馏，可公开）"
+consult_tier: "A（绿区·CC-BY 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
+source_url: "https://github.com/smixs/visual-skills"
+attribution: "Serge Shima — github.com/smixs/visual-skills (CC BY 4.0, 基于原作出修改)"
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-three-details
 evidence: E4
@@ -24,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（CC-BY-4.0，蒸馏自 visual-skills dramaturgy §2 + universal-rules §1/§3）：**每个镜头必须拥有三个具体物理细节**——①一个环境压力（冰箱冷光/湿沥青/闪烁灯管/水壶蒸汽/一扇下雨的特定窗/空调嗡鸣/紧窄走廊/镜面反射）；②一个身体微动作（咬肌收紧/指节发白/嘴唇压平/眼睛低四分之一/吞咽/手指抵住门框）；③一个声音锚点或视觉母题（2.3 秒的肚子叫/每次转场前同一下荧光闪烁/黑暗玻璃上的倒影/空走廊脚步）。零件套=填充物，一件=单薄，三件齐=强镜。禁用词（偷懒标记）：cinematic / professional / high quality / masterpiece / stunning / epic / amazing / beautiful lighting / dynamic camera / intense moment / powerful scene，以及无身体的情绪名（he is sad / she is angry）。情绪→生理校准：一次情绪过渡用 **2-4 个可观测线索**（眼神、眉、嘴、呼吸、喉吞咽、手）即可，少了模型猜，多了像过演。
+来源方法（CC-BY-4.0，整理自 visual-skills dramaturgy §2 + universal-rules §1/§3）：**每个镜头必须拥有三个具体物理细节**——①一个环境压力（冰箱冷光/湿沥青/闪烁灯管/水壶蒸汽/一扇下雨的特定窗/空调嗡鸣/紧窄走廊/镜面反射）；②一个身体微动作（咬肌收紧/指节发白/嘴唇压平/眼睛低四分之一/吞咽/手指抵住门框）；③一个声音锚点或视觉母题（2.3 秒的肚子叫/每次转场前同一下荧光闪烁/黑暗玻璃上的倒影/空走廊脚步）。零件套=填充物，一件=单薄，三件齐=强镜。禁用词（偷懒标记）：cinematic / professional / high quality / masterpiece / stunning / epic / amazing / beautiful lighting / dynamic camera / intense moment / powerful scene，以及无身体的情绪名（he is sad / she is angry）。情绪→生理校准：一次情绪过渡用 **2-4 个可观测线索**（眼神、眉、嘴、呼吸、喉吞咽、手）即可，少了模型猜，多了像过演。
 
 ## I — 方法论骨架 (Interpretation)
 

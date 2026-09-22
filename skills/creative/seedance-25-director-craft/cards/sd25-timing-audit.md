@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: seedance-2.5 导演
 core_stance: "反应永远在听到之后：情绪先于触发出现，就是时序穿帮"
 skill_type: "checklist"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
+source_url: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-timing-audit
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance-2-5-video-director Timing rules）：①**时段连续不重叠且总长等于请求时长**，用一种边界约定（如 0-5s, 5-10s）贯穿；②**每段给足动作时间**——事件太多就减事件，不许把动作压进不可能短的区间；③**台词容量核算**——按可用表演时间审台词，留出听、理解、呼吸、打断、反应的空间；台词太长就删词，不许硬塞不自然语速；④**因果时序**——情绪与物理结果必须有因果：脸在听到台词之后才有反应，身体在接触/受力之后才动；眼泪/笑/脸红/跌倒/恢复不许早于触发出现；⑤**运镜物理兼容**——运镜运动与构图变化、主体运动物理相容；每拍一个主运镜；⑥**参考只借该借的**——重复引用只在要紧处，说清借与不借。
+来源方法（MIT，整理自 seedance-2-5-video-director Timing rules）：①**时段连续不重叠且总长等于请求时长**，用一种边界约定（如 0-5s, 5-10s）贯穿；②**每段给足动作时间**——事件太多就减事件，不许把动作压进不可能短的区间；③**台词容量核算**——按可用表演时间审台词，留出听、理解、呼吸、打断、反应的空间；台词太长就删词，不许硬塞不自然语速；④**因果时序**——情绪与物理结果必须有因果：脸在听到台词之后才有反应，身体在接触/受力之后才动；眼泪/笑/脸红/跌倒/恢复不许早于触发出现；⑤**运镜物理兼容**——运镜运动与构图变化、主体运动物理相容；每拍一个主运镜；⑥**参考只借该借的**——重复引用只在要紧处，说清借与不借。
 
 ## I — 方法论骨架 (Interpretation):
 

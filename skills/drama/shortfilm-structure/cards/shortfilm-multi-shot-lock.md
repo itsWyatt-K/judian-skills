@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: shortfilm-prompt 短片五段式
 core_stance: "多镜片撑不撑得住，在第一镜之前就已经决定了——锁不牢，后面全漂"
 skill_type: "technique"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 source_license: "MIT"
+source_url: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-multi-shot-lock
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 shortfilm-prompt project-planner）：3+ 镜剪辑片开写前必走两节——**Section 1 主体登记表**：为每个主体登记不可变特征（脸型/发型发色/服装单品/标志配件/体型），后续每镜的身份块从登记表抄；**Section 2 氛围锁定**：锁定全片色调（色板+色温）、光线基调（主光性质/对比度）、质感（胶片/数字/颗粒度）——后续每镜的氛围词从锁定区抄。这两步是「多镜片撑得住还是第 3-4 镜就漂」的**最大单一预测因子**。
+来源方法（MIT，整理自 shortfilm-prompt project-planner）：3+ 镜剪辑片开写前必走两节——**Section 1 主体登记表**：为每个主体登记不可变特征（脸型/发型发色/服装单品/标志配件/体型），后续每镜的身份块从登记表抄；**Section 2 氛围锁定**：锁定全片色调（色板+色温）、光线基调（主光性质/对比度）、质感（胶片/数字/颗粒度）——后续每镜的氛围词从锁定区抄。这两步是「多镜片撑得住还是第 3-4 镜就漂」的**最大单一预测因子**。
 
 ## I — 方法论骨架 (Interpretation)
 

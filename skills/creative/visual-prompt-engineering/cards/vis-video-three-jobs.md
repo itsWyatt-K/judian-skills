@@ -8,12 +8,14 @@ layer_confidence: "candidate"
 pack: visual-skills 视觉叙事
 core_stance: "美不是职责：改变情绪、推进动作、提升压力，三样不占就是空包糖，删"
 skill_type: "framework"
-consult_tier: "A（绿区·CC-BY 署名蒸馏，可公开）"
+consult_tier: "A（绿区·CC-BY 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
+source_url: "https://github.com/smixs/visual-skills"
+attribution: "Serge Shima — github.com/smixs/visual-skills (CC BY 4.0, 基于原作出修改)"
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-three-jobs
 evidence: E4
@@ -24,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（CC-BY-4.0，蒸馏自 visual-skills dramaturgy §3-§4）：**每个镜头至少做三件事之一**——改变情绪（角色/观众/角色间关系）、推进动作（新的物理事件/新信息/新位置）、提升压力（赌注升高/时钟走动/空间收紧/见证者出现）。三样都不占 → 删。「美丽的建立镜头」不是职责，「美丽的产品英雄镜」不是职责。另附 Murch 六律（《现代启示录》剪辑师）：决定切点时的优先级——情绪 51% > 故事 23% > 节奏 10% > 视线轨迹 7% > 屏幕平面 5% > 三维空间 4%。实用结论：为「动感」而切只排在第三位，不顾前两项硬切，出来的就是注意力缺陷型 TikTok 广告。
+来源方法（CC-BY-4.0，整理自 visual-skills dramaturgy §3-§4）：**每个镜头至少做三件事之一**——改变情绪（角色/观众/角色间关系）、推进动作（新的物理事件/新信息/新位置）、提升压力（赌注升高/时钟走动/空间收紧/见证者出现）。三样都不占 → 删。「美丽的建立镜头」不是职责，「美丽的产品英雄镜」不是职责。另附 Murch 六律（《现代启示录》剪辑师）：决定切点时的优先级——情绪 51% > 故事 23% > 节奏 10% > 视线轨迹 7% > 屏幕平面 5% > 三维空间 4%。实用结论：为「动感」而切只排在第三位，不顾前两项硬切，出来的就是注意力缺陷型 TikTok 广告。
 
 ## I — 方法论骨架 (Interpretation)
 

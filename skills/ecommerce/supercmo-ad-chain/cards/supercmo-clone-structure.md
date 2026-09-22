@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "学骨架不抄肉：结构节奏镜头钩子全继承，产品品牌台词全替换"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["一图成片-电影广告全能导演"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-clone-structure
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO cloning-video-ads）：**参考广告是重建图纸，必须先完整读全——读薄了是唯一无法弥补的败因**，没有后续步骤能救。工作流：①对参考片跑逐秒定时拆解（timed second-by-second breakdown：每镜时间码/景别/运镜/动作/声音/钩子）；②读用户产品（材质/尺寸/视觉锚/机制）；③一次问全（参考片/产品/时长/画幅——默认对齐参考片）；④产品描述一次写定（五要素，逐字复用）；⑤**重建方案先给用户批准，再进昂贵渲染**；⑥换皮重建：保留参考片的结构、节奏、镜头、钩子，替换其产品、品牌、口播为用户自己的。**版权边界**：机制级仿写=结构可仿、表达不可抄——台词、标志性画面元素、品牌资产不抄。无参考广告不猜——它成为第一个要问的事；无产品同理。
+来源方法（Apache-2.0，整理自 superCMO cloning-video-ads）：**参考广告是重建图纸，必须先完整读全——读薄了是唯一无法弥补的败因**，没有后续步骤能救。工作流：①对参考片跑逐秒定时拆解（timed second-by-second breakdown：每镜时间码/景别/运镜/动作/声音/钩子）；②读用户产品（材质/尺寸/视觉锚/机制）；③一次问全（参考片/产品/时长/画幅——默认对齐参考片）；④产品描述一次写定（五要素，逐字复用）；⑤**重建方案先给用户批准，再进昂贵渲染**；⑥换皮重建：保留参考片的结构、节奏、镜头、钩子，替换其产品、品牌、口播为用户自己的。**版权边界**：机制级仿写=结构可仿、表达不可抄——台词、标志性画面元素、品牌资产不抄。无参考广告不猜——它成为第一个要问的事；无产品同理。
 
 ## I — 方法论骨架 (Interpretation):
 

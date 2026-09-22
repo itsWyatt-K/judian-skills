@@ -3,9 +3,11 @@ name: x-three-translations
 description: "当需要**已有初稿但读起来像公告**:用户写了一条推文/产品发布文案，内容是\"我们发布了X/支持Y/升级了Z\"，感觉没人会转发时调用。核心能力：三次翻译 — 把内部语言翻成外部语言。关键触发：我们发布了X/支持Y/升级了Z、跟我有关、效果很好、效果很好/非常强大/体验极佳。"
 tags: ["communication", "translation", "content-transformation", "reader-centric"]
 metadata:
-  source_book: "《X秘籍》 向阳乔木 @vista8 + X官方 @XCreators"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-three-translations\\SKILL.md"
+  source_book: "公开创作经验参考（向阳乔木 @vista8 公开分享）+ X 官方 Article 写作指南（公开文档，短引用）"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from public creator-experience notes and official public guides; inspired by the cited sources, no original expression reproduced."
+  source_license: "X 官方公开指南（短引用，一句）+ 第三方公开经验（授权不明，仅参考其公开表达的方法要点，未复制其原文）"
+  source_url: "https://help.x.com（X 官方 Article 写作指南，公开页面）"
+  source_card: "classics\\X秘籍\\整理skill\\x-three-translations\\SKILL.md"
 evidence: E4
 
 ---
@@ -35,7 +37,7 @@ evidence: E4
 ### 案例 2: X 官方 Article 指南"Show, don't just tell"
 
 - **问题**: X 官方在 Article 写作指南中指出，创作者常犯的错误是只下结论("效果很好")而不给证据。
-- **方法论的使用**: 官方提出"Show, don't just tell"原则——对任何主张，紧跟证据(数据、个人故事、前后对比图)。这本质就是第三次翻译(结论→证据)的官方版。指南原文:"For any claim you make, follow it immediately with evidence of why it's true (stats, personal story, before/after, etc.)"。
+- **方法论的使用**: 官方提出"Show, don't just tell"原则——对任何主张，紧跟证据(数据、个人故事、前后对比图)。这本质就是第三次翻译(结论→证据)的官方版。指南原文一句（短引用）："For any claim you make, follow it immediately with evidence of why it's true (stats, personal story, before/after, etc.)"。
 - **结论**: 官方指南与向阳乔木的三次翻译独立验证了同一原则——结论必须配证据。
 - **结果**: 该指南作为 X 官方 Article 写作的标准方法发布，面向所有 Premium 用户。
 

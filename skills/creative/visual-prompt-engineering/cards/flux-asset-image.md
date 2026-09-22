@@ -13,7 +13,7 @@ verify_state: raw
 card_type: book
 publish_tier: tier-attrib
 source_repo: "Black Forest Labs FLUX.2 官方提示词指南（docs.bfl.ai/guides/prompting_guide_flux2）"
-source_license: "BFL 官方文档（署名引用）"
+source_license: "规范要点整理自 BFL 公开文档（功能事实整理，非表达复制）"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-08-14
 source_card: FLUX.2 图像提示词工程/flux-asset-image
@@ -21,9 +21,19 @@ evidence: E4
 
 ---
 
-## R — 原文 (Reading)
+## S — 规范要点 (Spec Summary)
 
-FLUX.2 是图像模型，没有运镜指令（运镜属视频模型 H3）。官方推荐框架 **Subject + Action + Style + Context**，词序即权重：Main subject → Key action → Critical style → Essential context → Secondary details，越靠前越重要。长度指引：短 10–30 词做风格探索，中 30–80 词是多数项目的理想长度，长 80+ 词用于复杂场景。**关键禁忌：FLUX.2 不支持负向提示词**——不写 "no blur" 写 "sharp focus throughout"，不写 "no people" 写 "empty scene"。专属能力四项：HEX 精确上色（颜色必须绑定到具体物体）、JSON 结构化提示词（多主体/自动化/逐元素迭代）、文字渲染（引号+位置+风格+颜色）、相机代码（`Shot on Hasselblad X2D, 80mm lens, f/2.8` 比 "professional photo" 更出片）。角色一致性的官方写法：漫剧多格/多张图时，每一格都**逐字重复**该角色的完整外观描述段。
+> 本节为 BFL FLUX.2 公开文档的功能事实整理（字段名/参数/规则属公共技术事实，非表达复制）；官方原始措辞以 BFL 文档为准。
+
+FLUX.2 是图像模型，没有运镜指令（运镜属于视频模型 H3 的领域）。官方推荐的提示词框架是四层：Subject + Action + Style + Context，词序即权重——主体、关键动作、关键风格、必要场景依次前置，次要细节放最后，越靠前权重越高。
+
+长度分档：10–30 词适合风格探索；30–80 词是多数项目的理想区间；80 词以上用于复杂场景。
+
+关键约束：FLUX.2 没有负向提示词通道——"不要模糊"要写成 "sharp focus throughout"，"不要有人"要写成 "empty scene"。
+
+四项专属能力：HEX 精确上色（颜色必须绑到具体物体上）；JSON 结构化提示词（多主体、自动化、逐元素迭代时用）；文字渲染（引号 + 位置 + 风格 + 颜色）；相机代码（`Shot on <机身>, <焦段> lens, <光圈>` 的格式，如 `Shot on Hasselblad X2D, 80mm lens, f/2.8`，比笼统的 "professional photo" 更出片）。
+
+角色一致性的官方做法：漫剧多格/多张图时，每一格都逐字重复该角色的完整外观描述段。
 
 ## I — 方法论骨架 (Interpretation)
 

@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: shortfilm-prompt 短片五段式
 core_stance: "竖屏短剧的呼吸是钩子-对峙-断章：三秒不留人，后面全是成本"
 skill_type: "technique"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 source_license: "MIT"
+source_url: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-micro-drama
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 shortfilm-prompt micro-drama 模板）：竖屏短剧（9:16）提示词三件套——①**黄金 3 秒钩子**：开场即冲突/悬念/反差，零铺垫（红果形态：外力施压或反常识状态）；②**正反打对话**（shot-reverse-shot）：对话戏按正反打机位写，每镜一个方向一个主体，轴线不越界；③**集尾断章**（cliffhanger）：结尾停在悬念/反转前一刻/狠话/神秘细节，逼下集。竖屏构图约束：主体居中偏上，关键信息避开底部 UI 区（约 18%）与顶部（约 12%）。
+来源方法（MIT，整理自 shortfilm-prompt micro-drama 模板）：竖屏短剧（9:16）提示词三件套——①**黄金 3 秒钩子**：开场即冲突/悬念/反差，零铺垫（红果形态：外力施压或反常识状态）；②**正反打对话**（shot-reverse-shot）：对话戏按正反打机位写，每镜一个方向一个主体，轴线不越界；③**集尾断章**（cliffhanger）：结尾停在悬念/反转前一刻/狠话/神秘细节，逼下集。竖屏构图约束：主体居中偏上，关键信息避开底部 UI 区（约 18%）与顶部（约 12%）。
 
 ## I — 方法论骨架 (Interpretation)
 

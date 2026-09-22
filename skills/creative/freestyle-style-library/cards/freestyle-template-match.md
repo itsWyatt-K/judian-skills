@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: freestylefly 风格库
 core_stance: "匹配序是漏斗：类目定行当、风格定脸、场景定处境、案例定细节"
 skill_type: "framework"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/freestylefly/awesome-gpt-image-2"
 source_license: "MIT"
+source_url: "https://github.com/freestylefly/awesome-gpt-image-2"
 upstream_defer: ["系列套图生成"]
 first_seen: 2026-09-21
 source_card: freestylefly 风格库/freestyle-template-match
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 freestylefly gpt-image-2-style-library）：**四级匹配序**——①显式产品类型对**模板类目**（product/poster/UI/infographic/brand/photography/character/document）；②视觉词对**风格标签**（realistic/3D/illustration/classical/brand/poster/UI）；③语境词对**场景标签**（commerce/education/social/food/travel/story/history/tech/creative）；④仍不定则对**最近示例案例**。**请求模糊时**：呈现 2-3 个强模板方向+短理由让用户选，不独自决定。**输出三件套**：选中的模板名、可直贴的 GPT-Image2 提示词、文字/画幅/布局/负向细节的简明约束。**模板实例（风格库节选）**：UI 截图系统（锁平台/比例/层级/画面文字，避平台描述过泛）、信息图引擎（3-5 模块/信息流/层级/短标签，避长段塞图）、科学尺度缩放图（6-8 尺度框/单位/倍率）、海报排版系统等。**维护纪律**：源库变动时重新生成参考文件，以参考文件为准而非记忆。
+来源方法（MIT，整理自 freestylefly gpt-image-2-style-library）：**四级匹配序**——①显式产品类型对**模板类目**（product/poster/UI/infographic/brand/photography/character/document）；②视觉词对**风格标签**（realistic/3D/illustration/classical/brand/poster/UI）；③语境词对**场景标签**（commerce/education/social/food/travel/story/history/tech/creative）；④仍不定则对**最近示例案例**。**请求模糊时**：呈现 2-3 个强模板方向+短理由让用户选，不独自决定。**输出三件套**：选中的模板名、可直贴的 GPT-Image2 提示词、文字/画幅/布局/负向细节的简明约束。**模板实例（风格库节选）**：UI 截图系统（锁平台/比例/层级/画面文字，避平台描述过泛）、信息图引擎（3-5 模块/信息流/层级/短标签，避长段塞图）、科学尺度缩放图（6-8 尺度框/单位/倍率）、海报排版系统等。**维护纪律**：源库变动时重新生成参考文件，以参考文件为准而非记忆。
 
 ## I — 方法论骨架 (Interpretation):
 

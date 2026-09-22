@@ -3,9 +3,11 @@ name: x-foryou-algorithm
 description: "当需要**小号能不能被推荐**：用户问\"我只有 200 粉，内容能被推荐吗？算法会不会只推大号？\"——想理解小号在算法中的机会时调用。核心能力：For You 算法推理结构 — 推导创作者行动。关键触发：我只有 200 粉，内容能被推荐吗？算法会不会只推大号？、为什么我的帖子没有曝光、帖子发出去就沉了，算法是怎么判断的、For You 算法是怎么工作的。"
 tags: ["algorithm", "recommendation-system", "scoring", "engagement", "for-you"]
 metadata:
-  source_book: "X秘籍 — xAI官方算法仓库 / AIP出海教程(@带队教练/GoSailGlobal)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-foryou-algorithm\\SKILL.md"
+  source_book: "X For You 推荐算法架构（整理自 xAI 开源算法仓库 xai-org/x-algorithm，Apache-2.0；2025 年更新的公开解读）"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from open-source repository architecture notes; inspired by the cited sources, no original expression reproduced."
+  source_license: "Apache-2.0"
+  source_url: "https://github.com/xai-org/x-algorithm"
+  source_card: "classics\\X秘籍\\整理skill\\x-foryou-algorithm\\SKILL.md"
 evidence: E4
 
 ---
@@ -33,7 +35,7 @@ X 的 For You 推荐流由一条流水线驱动：双源召回 → 水合过滤 
 ### 案例 2: 2025 算法更新对中小号的影响
 
 - **问题**: 2025 年算法更新对中小号意味着什么？
-- **方法论的使用**: AIP 教程 3.1.2 解读 2025 算法规则——OON 占比从早期 In-Network 主导倾斜至约 60-70%，算法更依赖内容相关性和互动质量而非账号规模；取消主帖带链接降权（利好知识分享型账号）；rage-bait/负面内容被主动降权（因引发 block/mute/report 负权重）。
+- **方法论的使用**: 公开解读 2025 算法规则——OON 占比从早期 In-Network 主导倾斜至约 60-70%，算法更依赖内容相关性和互动质量而非账号规模；取消主帖带链接降权（利好知识分享型账号）；rage-bait/负面内容被主动降权（因引发 block/mute/report 负权重）。
 - **结论**: 中小号单帖可凭自身质量进入推荐池，不必依赖粉丝基数；优化收藏/回复（高正权重）比只追点赞更有效；避免 rage-bait（负权重压低综合得分）。
 - **结果**: 验证了候选隔离的推论——帖子按自身质量评分，OON 倾斜让小号内容有更多被全局发现的机会。
 

@@ -6,14 +6,14 @@ source_chapter: "首尾输入与参考输入 / 跨视频衔接公式"
 tags: [h3, continuity, 衔接, 首尾帧, 变形桥, 转场, AI生成友好]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范
-core_stance: ""  # TODO: 待补写
-skill_type: "framework"  # TODO: 复核
-consult_tier: "B（琥珀区·公开书籍方法论）"  # TODO: 复核
+core_stance: "H3 跨镜衔接二选一：同场景连续动作用首尾帧物理续接，跨场景用变形桥弱锚；拿不准用变形桥。"
+skill_type: "framework"
+consult_tier: "B（琥珀区·公开官方文档功能事实整理）"
 verify_state: raw
 card_type: book
 publish_tier: tier-attrib
 source_repo: "MiniMax H3 官方技能文档（即梦 Dreamina 官方 skills 语料，raw-materials/MiniMax-H3-skills）"
-source_license: "MiniMax 官方文档（署名引用）"
+source_license: "规范要点整理自 MiniMax 公开文档（功能事实整理，非表达复制）"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-08-14
 source_card: MiniMax H3 提示词规范/h3-continuity
@@ -21,9 +21,13 @@ evidence: E4
 
 ---
 
-## R — 原文 (Reading)
+## S — 规范要点 (Spec Summary)
 
-H3 的输入分两类且**不得混在同一请求**：`first_frame`/`last_frame` 属图生视频；`reference_image`/`reference_video`/`reference_audio` 属 reference-to-video。连接首尾画面时，首尾输入之间有明确"变形桥梁"时衔接效果最好，桥梁可以是颜色、光线、建筑或主体姿势。跨视频衔接公式：`[视频1] + [转场] + 连接到[视频2] + [转场逻辑]`，参考输入分别给视频 1 与视频 2，提示词形如 "Connect Video 1 to Video 2 in 8 seconds…"。
+> 本节为 MiniMax H3 公开文档的功能事实整理（字段名/参数/规则属公共技术事实，非表达复制）；官方原始措辞以 MiniMax 文档为准。
+
+H3 的输入分两条通道且互斥：图生视频通道用 first_frame/last_frame；参考通道用 reference_image/reference_video/reference_audio。两者不得出现在同一请求。
+
+跨视频衔接的官方公式是 `[视频1] + [转场] + 连接到[视频2] + [转场逻辑]`：参考输入分别挂视频 1 与视频 2，提示词写成连接句式（如 "Connect Video 1 to Video 2 in 8 seconds…"）。首尾画面之间存在明确的变形桥梁——颜色、光线、建筑或主体姿势任一——时，衔接效果最好。
 
 ## I — 方法论骨架 (Interpretation)
 

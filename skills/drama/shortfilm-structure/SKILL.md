@@ -12,6 +12,15 @@ metadata:
 
 > 本包由 5 个开源方法论技能汇编（原卡全文见 `cards/` 目录，逐卡保留来源与许可）。
 
+## 许可与署名
+
+本包方法论整理自 **ai-shortfilm-prompts**（jnMetaCode，MIT；Copyright (c) 2026 jnMetaCode）。
+**嵌套许可提示**：源仓库采用双重许可——jnMetaCode 自撰的方法论/模板/Skill 部分为 MIT；
+Mx-Shell 的原始提示词工件与直播/文档引文为 All Rights Reserved（商业使用须联系 Mx-Shell）。
+本包卡片**仅取自并重铸其 MIT 方法论部分**（五段式结构/模板分支/多镜锁定/IP 安全），
+未使用 Mx-Shell 的任何提示词工件或引文。完整声明见本目录
+[THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md)。
+
 ## 何时调用
 
 当搭短片或微短剧的叙事结构、锁多镜一致性、查 IP 风险时调用（本包由 5 个方法论技能汇编而成）。核心能力：短片五段式结构：阶段/微短剧/多镜锁定/模板分支/IP 安全。工位边界：本包负责生成前的提示词工程与方法论；生产流程（分镜表/生成/拼接）走影策官方市场技能，两者接力不抢戏。

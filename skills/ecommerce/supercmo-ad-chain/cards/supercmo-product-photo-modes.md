@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "每张商业图只回答一个问题：这张是让谁在哪一刻信什么——模式即答案"
 skill_type: "framework"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-product-photo-modes
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO generating-product-photos）：**边界**：Marketplace listing 画廊不在范围；成品广告（建立在标题/优惠/CTA/前后对比上的）属图片广告技能；主体不是产品的不适用。**十格式模式选择器**：①studio 棚拍（产品独站干净可控背景）②lifestyle 场景（产品在真实场景被使用/共处）③hero 主视觉（一张引领 campaign 的精致帧，产品被拍到渴望）④on-model 上身（穿戴/手持/上肤）⑤close-up 特写（材质/工艺/紧裁物件本身）⑥flat-lay 平铺⑦seasonal staging 季节布景⑧infographic 产品信息图⑨concept 概念图⑩floating 悬浮。**两问纪律**：brief 不缺就不问；缺则一次问全（≤4 问+自由文本出口）：产品（无图无链接时）/品牌指南（色板/美术方向/禁入画元素/字体/调性——可选，很多品牌没有）/买家是谁（决定 infographic 喊什么卖点、lifestyle 是谁的家、on-model 选谁）/几张+用在哪（目的地决定裁切）。弃问默认：棚拍+工具默认比例，一句话声明。产品图缺失是唯一值得坚持追问的。
+来源方法（Apache-2.0，整理自 superCMO generating-product-photos）：**边界**：Marketplace listing 画廊不在范围；成品广告（建立在标题/优惠/CTA/前后对比上的）属图片广告技能；主体不是产品的不适用。**十格式模式选择器**：①studio 棚拍（产品独站干净可控背景）②lifestyle 场景（产品在真实场景被使用/共处）③hero 主视觉（一张引领 campaign 的精致帧，产品被拍到渴望）④on-model 上身（穿戴/手持/上肤）⑤close-up 特写（材质/工艺/紧裁物件本身）⑥flat-lay 平铺⑦seasonal staging 季节布景⑧infographic 产品信息图⑨concept 概念图⑩floating 悬浮。**两问纪律**：brief 不缺就不问；缺则一次问全（≤4 问+自由文本出口）：产品（无图无链接时）/品牌指南（色板/美术方向/禁入画元素/字体/调性——可选，很多品牌没有）/买家是谁（决定 infographic 喊什么卖点、lifestyle 是谁的家、on-model 选谁）/几张+用在哪（目的地决定裁切）。弃问默认：棚拍+工具默认比例，一句话声明。产品图缺失是唯一值得坚持追问的。
 
 ## I — 方法论骨架 (Interpretation):
 

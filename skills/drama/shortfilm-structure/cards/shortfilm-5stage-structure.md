@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: shortfilm-prompt 短片五段式
 core_stance: "五段式是模型无关的骨架：模型只影响最后一行注，不影响结构本身"
 skill_type: "template"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 source_license: "MIT"
+source_url: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-5stage-structure
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 jnMetaCode/ai-shortfilm-prompts）：一条电影感 AI 短片提示词按五段组装——①**核心主题**（3-6 个标签，用 `|` 分隔）；②**角色与场景**（脸/服装/场景）；③**氛围与质感**（视觉基底/色调/风格核心）；④**镜头规则**（单镜还是多镜/角度/呼吸感）；⑤**分镜**（按秒切片或按镜切片）。**模型无关核心**：五段式结构在所有模型上相同，输出末尾只追加一行模型特定建议（Sora 偏好简洁/可灵对 IP 名更宽松/Seedance 屏蔽 IP 名等）。工作流纪律：先判断用户是否已给全五类信息（类型/时长/主体/场景/风格）——不全则最多问 2-3 个关键问题，**不过度提问**（先写一版再迭代胜过一次问十个细节）；写完后只解释 2-3 个最可能被调参的写作选择，不说教。
+来源方法（MIT，整理自 jnMetaCode/ai-shortfilm-prompts）：一条电影感 AI 短片提示词按五段组装——①**核心主题**（3-6 个标签，用 `|` 分隔）；②**角色与场景**（脸/服装/场景）；③**氛围与质感**（视觉基底/色调/风格核心）；④**镜头规则**（单镜还是多镜/角度/呼吸感）；⑤**分镜**（按秒切片或按镜切片）。**模型无关核心**：五段式结构在所有模型上相同，输出末尾只追加一行模型特定建议（Sora 偏好简洁/可灵对 IP 名更宽松/Seedance 屏蔽 IP 名等）。工作流纪律：先判断用户是否已给全五类信息（类型/时长/主体/场景/风格）——不全则最多问 2-3 个关键问题，**不过度提问**（先写一版再迭代胜过一次问十个细节）；写完后只解释 2-3 个最可能被调参的写作选择，不说教。
 
 ## I — 方法论骨架 (Interpretation)
 

@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: freestylefly 风格库
 core_stance: "先限制模块数量，再补视觉细节——顺序反了就拥挤"
 skill_type: "checklist"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/freestylefly/awesome-gpt-image-2"
 source_license: "MIT"
+source_url: "https://github.com/freestylefly/awesome-gpt-image-2"
 first_seen: 2026-09-21
 source_card: freestylefly 风格库/freestyle-pitfalls
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 freestylefly style-library 各模板 Pitfalls 节选）：**通用陷阱**——①**长段正文塞进画面**：图里禁长段落，文字要短标签级；②**模块数超限**：先限制模块数量再补视觉细节（信息图 3-5 模块、科学尺度图 6-8 框）；③**文字不可读**：约束文字可读性与平台/模板特征；④**布局通用化**：避免「通用放大镜式布局」「泛平台 App  mockup」这类无特征构图；⑤**尺度框同质**：每个尺度框视觉要有区分，禁全部一样。**对应约束写法**：文字块写精确内容+短标签；布局块写模块数上限+层级；负向块写「禁长段文字/禁通用布局/禁同质重复元素」。
+来源方法（MIT，整理自 freestylefly style-library 各模板 Pitfalls 节选）：**通用陷阱**——①**长段正文塞进画面**：图里禁长段落，文字要短标签级；②**模块数超限**：先限制模块数量再补视觉细节（信息图 3-5 模块、科学尺度图 6-8 框）；③**文字不可读**：约束文字可读性与平台/模板特征；④**布局通用化**：避免「通用放大镜式布局」「泛平台 App  mockup」这类无特征构图；⑤**尺度框同质**：每个尺度框视觉要有区分，禁全部一样。**对应约束写法**：文字块写精确内容+短标签；布局块写模块数上限+层级；负向块写「禁长段文字/禁通用布局/禁同质重复元素」。
 
 ## I — 方法论骨架 (Interpretation):
 

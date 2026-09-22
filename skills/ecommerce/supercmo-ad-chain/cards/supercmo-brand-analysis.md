@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "没有证据的章节写 unconfirmed——品牌档是读出来的，不是想出来的"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-brand-analysis
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO analyzing-brand）：**缓存优先**——brand.md 已有这个品牌就交回、停止（重查要再花钱且没有新信息）。路由：给官网→继续；给单品页（Amazon/Shopify 单个 listing）→转交产品分析技能；什么都没给或 URL 打不开→要官网（凭记忆描述的品牌是发明的不是读的）。模式二选一：quick（纯文本提取）/ detailed（额外用视觉模型读站内照片拿摄影风格——贵且慢，先推荐 quick）。读站：url_extraction 提严格 JSON（品牌名/卖什么/色板 hex/字体/slogan/文案口吻/人群/差异化/证据）；调用失败（空/未授权/4xx/反爬墙）不中止——照片步和终检照跑，改为一条消息问用户色板/字体/slogan。摄影风格（仅 detailed）：取首屏大图≤10 张一批读，问全套问题（ shot 类型/光线/构图取景/场景背景/选角造型/调色情绪/什么反复出现/什么从不入画）；站点无图就明说没有。落档 brand.md：按 Name/Sells/Source/Palette/Typography/Tagline/Audience/Differentiator/Proof 分节，**无证据的节写 `unconfirmed — needs user input`，绝不发明事实、数字、颜色或主张**；色板要区分页面声明的还是渲染读出的；无彩色品牌是真色板不是缺失。
+来源方法（Apache-2.0，整理自 superCMO analyzing-brand）：**缓存优先**——brand.md 已有这个品牌就交回、停止（重查要再花钱且没有新信息）。路由：给官网→继续；给单品页（Amazon/Shopify 单个 listing）→转交产品分析技能；什么都没给或 URL 打不开→要官网（凭记忆描述的品牌是发明的不是读的）。模式二选一：quick（纯文本提取）/ detailed（额外用视觉模型读站内照片拿摄影风格——贵且慢，先推荐 quick）。读站：url_extraction 提严格 JSON（品牌名/卖什么/色板 hex/字体/slogan/文案口吻/人群/差异化/证据）；调用失败（空/未授权/4xx/反爬墙）不中止——照片步和终检照跑，改为一条消息问用户色板/字体/slogan。摄影风格（仅 detailed）：取首屏大图≤10 张一批读，问全套问题（ shot 类型/光线/构图取景/场景背景/选角造型/调色情绪/什么反复出现/什么从不入画）；站点无图就明说没有。落档 brand.md：按 Name/Sells/Source/Palette/Typography/Tagline/Audience/Differentiator/Proof 分节，**无证据的节写 `unconfirmed — needs user input`，绝不发明事实、数字、颜色或主张**；色板要区分页面声明的还是渲染读出的；无彩色品牌是真色板不是缺失。
 
 ## I — 方法论骨架 (Interpretation)
 

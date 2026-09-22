@@ -6,14 +6,14 @@ source_chapter: "reference-to-video 素材角色 / 全能参考控制"
 tags: [h3, asset-binding, reference-image, 角色一致性, 全能参考, AI生成友好]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范
-core_stance: ""  # TODO: 待补写
-skill_type: "framework"  # TODO: 复核
-consult_tier: "B（琥珀区·公开书籍方法论）"  # TODO: 复核
+core_stance: "H3 参考绑定三处一致才不换脸：资产卡出参考图、别名进提示词、保留关系段抄视觉锚点。"
+skill_type: "framework"
+consult_tier: "B（琥珀区·公开官方文档功能事实整理）"
 verify_state: raw
 card_type: book
 publish_tier: tier-attrib
 source_repo: "MiniMax H3 官方技能文档（即梦 Dreamina 官方 skills 语料，raw-materials/MiniMax-H3-skills）"
-source_license: "MiniMax 官方文档（署名引用）"
+source_license: "规范要点整理自 MiniMax 公开文档（功能事实整理，非表达复制）"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-08-14
 source_card: MiniMax H3 提示词规范/h3-asset-binding
@@ -21,9 +21,15 @@ evidence: E4
 
 ---
 
-## R — 原文 (Reading)
+## S — 规范要点 (Spec Summary)
 
-H3 的 reference-to-video 支持 `reference_image`/`reference_video`/`reference_audio` 三类参考素材；提示词内用 `<Subject1>`、`<Picture1>` 等别名引用。全能参考控制允许同时给多份参考图（角色/场景/道具），模型在生成时保留参考图的身份特征。注意：参考素材与首尾帧（first_frame/last_frame）分属两类输入，不得混在同一请求。角色资产卡的视觉锚点（脸型/发型/服装/配色）由 ip-character-bible 定义，画风规范字段由 ip-style-decoupling 解耦——换画风不重写人物。
+> 本节为 MiniMax H3 公开文档的功能事实整理（字段名/参数/规则属公共技术事实，非表达复制）；官方原始措辞以 MiniMax 文档为准。
+
+H3 的 reference-to-video 通道接受三类参考素材：reference_image、reference_video、reference_audio。提示词里以别名指代它们，如 `<Subject1>`、`<Picture1>`。全能参考控制允许一次挂多份参考图（角色、场景、道具可同时给），生成时模型会保留参考图里的身份特征。
+
+有一根红线：参考素材与首尾帧（first_frame/last_frame）分属两条独立输入通道，不能出现在同一个请求里。
+
+本包的角色视觉锚点（脸型/发型/服装/配色）由 ip-character-bible 维护，画风规范字段由 ip-style-decoupling 单独维护——所以换画风时人物描述不用动。
 
 ## I — 方法论骨架 (Interpretation)
 

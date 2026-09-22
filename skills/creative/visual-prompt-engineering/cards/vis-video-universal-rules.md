@@ -8,12 +8,14 @@ layer_confidence: "candidate"
 pack: visual-skills 视觉叙事
 core_stance: "模型没有跨次记忆：每个镜头都像给一个失忆的聪明实习生下简报——身份块每镜重抄"
 skill_type: "framework"
-consult_tier: "A（绿区·CC-BY 署名蒸馏，可公开）"
+consult_tier: "A（绿区·CC-BY 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
+source_url: "https://github.com/smixs/visual-skills"
+attribution: "Serge Shima — github.com/smixs/visual-skills (CC BY 4.0, 基于原作出修改)"
 upstream_defer: ["名导十五秒视频风格资产引擎"]
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-universal-rules
@@ -25,7 +27,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（CC-BY-4.0，蒸馏自 visual-skills universal-rules.md）：**U1 十层骨架**（主体/人物→动作/运动→场景/环境→运镜/镜头/焦段→灯光/氛围→风格/情绪/色调→声音/音频→时长/画幅/分辨率→连续性规则→负向约束[仅模型支持时]）；**U2 权重前置**——生成器对前 30-40% token 注意力最高，主体与动作领先，风格修饰垫后，运镜灯光环境居中；**U4 自然语言胜过标签堆砌**——视频模型不是图像模型，masterpiece/4k/cinematic 堆叠必败，要写成给人类摄影指导下的简报；**U5 一镜一主运镜**——5 秒里别堆三种运镜，至多加一层微调（手持轻晃/轻微 rack focus）；**U6 精确镜头语言**——24mm 沉浸宽/35mm 纪实自然/50mm 亲密人视/85mm 人像压缩/100mm 微距质感/变形宽银幕 40mm；**U7 一致性锚**——身份块置每镜开头，多镜序列每镜重抄全量身份块（脸型/瞳色/肤色/发色长度造型/须/服装单品/标志性配件），视频生成器无跨次记忆；**U8 禁矛盾**——模型服从最强信号，「静水+流动」「特写+大风景」「安静时刻+爆炸动作」必出工件；**U10 时长纪律**——多数模型 5-10 秒一段，长叙事切段剪，别把 30 秒故事塞进 5 秒提示词；**U9 后果提示**——描述动作后果而非动作本身（轮胎溅起水幕/瓶盖真的被拧开/撞击把表面碎成蛛网）；**U13 参考纪律**——每个参考说清借什么不借什么。
+来源方法（CC-BY-4.0，整理自 visual-skills universal-rules.md）：**U1 十层骨架**（主体/人物→动作/运动→场景/环境→运镜/镜头/焦段→灯光/氛围→风格/情绪/色调→声音/音频→时长/画幅/分辨率→连续性规则→负向约束[仅模型支持时]）；**U2 权重前置**——生成器对前 30-40% token 注意力最高，主体与动作领先，风格修饰垫后，运镜灯光环境居中；**U4 自然语言胜过标签堆砌**——视频模型不是图像模型，masterpiece/4k/cinematic 堆叠必败，要写成给人类摄影指导下的简报；**U5 一镜一主运镜**——5 秒里别堆三种运镜，至多加一层微调（手持轻晃/轻微 rack focus）；**U6 精确镜头语言**——24mm 沉浸宽/35mm 纪实自然/50mm 亲密人视/85mm 人像压缩/100mm 微距质感/变形宽银幕 40mm；**U7 一致性锚**——身份块置每镜开头，多镜序列每镜重抄全量身份块（脸型/瞳色/肤色/发色长度造型/须/服装单品/标志性配件），视频生成器无跨次记忆；**U8 禁矛盾**——模型服从最强信号，「静水+流动」「特写+大风景」「安静时刻+爆炸动作」必出工件；**U10 时长纪律**——多数模型 5-10 秒一段，长叙事切段剪，别把 30 秒故事塞进 5 秒提示词；**U9 后果提示**——描述动作后果而非动作本身（轮胎溅起水幕/瓶盖真的被拧开/撞击把表面碎成蛛网）；**U13 参考纪律**——每个参考说清借什么不借什么。
 
 ## I — 方法论骨架 (Interpretation)
 

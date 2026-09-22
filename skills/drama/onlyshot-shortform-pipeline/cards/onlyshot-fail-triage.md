@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "失败先分诊再动手：三类失败根因完全不同，看到没出图就改 prompt 是最常见的误诊"
 skill_type: "framework"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-fail-triage
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot jimeng-failure-modes §0-1，基于 36 分镜格三轮实测尸检）：三类失败——①`InvalidNode`（ret=1046）= prompt 字数超上限；②`generation failed` = 内容触发审核（敏感词/暧昧/反派词）；③无 image_url 无报错 = 网络或并发限流。字数实测分布（N=8，中英约 7:3）：<1300 字符通过率 100%；1300-1500 约 95%；1500-1600 约 70%；1600-1700 约 20%；>1700 为 0%。安全策略：理想 1200-1400，硬上限 1500，严禁超 1600。注意这是实测归纳值而非官方常数，换模型/语言比例需重新校准。
+来源方法（MIT，整理自 OnlyShot jimeng-failure-modes §0-1，基于 36 分镜格三轮实测尸检）：三类失败——①`InvalidNode`（ret=1046）= prompt 字数超上限；②`generation failed` = 内容触发审核（敏感词/暧昧/反派词）；③无 image_url 无报错 = 网络或并发限流。字数实测分布（N=8，中英约 7:3）：<1300 字符通过率 100%；1300-1500 约 95%；1500-1600 约 70%；1600-1700 约 20%；>1700 为 0%。安全策略：理想 1200-1400，硬上限 1500，严禁超 1600。注意这是实测归纳值而非官方常数，换模型/语言比例需重新校准。
 
 ## I — 方法论骨架 (Interpretation)
 

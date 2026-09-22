@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: short-drama-factory 剧本工厂
 core_stance: "单集是一次完整的施压-反驳：硬规格是骨架，断章是扳机"
 skill_type: "checklist"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 source_license: "MIT"
+source_url: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 upstream_defer: ["故事开发", "剧本撰写"]
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-episode-specs
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 short-drama-factory v3.1）：单集硬规格——**时长 90-120 秒**；正文体量**实拍 350-500 字**（漫剧 260-400 字）；**场景 ≤2**；**语速 3.5-4.5 字/秒**；黄金前 3 秒钩子（五母型×20 变体）；每集必须构成一个「施压→反驳（或升级）」拍；集尾命中**四大断章公式**之一；微表情只写生理可观测动作。八条绝对红线：①严禁开篇铺垫（前 3 秒必须见血/见冲突/见危机）②严禁台词讲设定（背景走物证/反差/侧写/反转）③体量与场景数硬卡 ④每集必有断章卡点、严禁平静收尾 ⑤严禁全员播音腔（反派市井刻薄/主角隐忍冷酷或爆发霸道）⑥情绪流单一矛盾单元 ≤30 集 ⑦每回合反驳必须带新增量 ⑧合规一票否决类不碰、暴力用写意替代。
+来源方法（MIT，整理自 short-drama-factory v3.1）：单集硬规格——**时长 90-120 秒**；正文体量**实拍 350-500 字**（漫剧 260-400 字）；**场景 ≤2**；**语速 3.5-4.5 字/秒**；黄金前 3 秒钩子（五母型×20 变体）；每集必须构成一个「施压→反驳（或升级）」拍；集尾命中**四大断章公式**之一；微表情只写生理可观测动作。八条绝对红线：①严禁开篇铺垫（前 3 秒必须见血/见冲突/见危机）②严禁台词讲设定（背景走物证/反差/侧写/反转）③体量与场景数硬卡 ④每集必有断章卡点、严禁平静收尾 ⑤严禁全员播音腔（反派市井刻薄/主角隐忍冷酷或爆发霸道）⑥情绪流单一矛盾单元 ≤30 集 ⑦每回合反驳必须带新增量 ⑧合规一票否决类不碰、暴力用写意替代。
 
 ## I — 方法论骨架 (Interpretation)
 

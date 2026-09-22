@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: Seedance 提示词工程
 core_stance: "超过 8 秒不分段就是把中段交给骰子：秒级锚点是长视频唯一的控场手段"
 skill_type: "technique"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
+source_url: "https://github.com/dexhunter/seedance2-skill"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-timeslice
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance2-skill 中文版）：10 秒以上视频推荐分时段描述——`0–3秒：[开场画面+运镜+动作]`、`3–6秒：[中段发展]`、`6–10秒：[高潮/关键动作]`、`10–15秒：[收尾/定格/品牌文字]`。来源示例（咖啡品牌 15s）：0-3s 光影透过百叶窗缓缓滑动；6-10s 咖啡豆飘落、镜头推进至黑屏；11-15s 三行英文品牌字渐显。医学科普 15s：0-5s 推进动脉、5-10s 糖分颗粒进入血液变稠、10-15s 血管变窄对比画面。视频延长时同样分时段写新增部分，且**生成长度选"新增部分"的时长**（延长 5 秒就选生成 5 秒）。
+来源方法（MIT，整理自 seedance2-skill 中文版）：10 秒以上视频推荐分时段描述——`0–3秒：[开场画面+运镜+动作]`、`3–6秒：[中段发展]`、`6–10秒：[高潮/关键动作]`、`10–15秒：[收尾/定格/品牌文字]`。来源示例（咖啡品牌 15s）：0-3s 光影透过百叶窗缓缓滑动；6-10s 咖啡豆飘落、镜头推进至黑屏；11-15s 三行英文品牌字渐显。医学科普 15s：0-5s 推进动脉、5-10s 糖分颗粒进入血液变稠、10-15s 血管变窄对比画面。视频延长时同样分时段写新增部分，且**生成长度选"新增部分"的时长**（延长 5 秒就选生成 5 秒）。
 
 ## I — 方法论骨架 (Interpretation)
 

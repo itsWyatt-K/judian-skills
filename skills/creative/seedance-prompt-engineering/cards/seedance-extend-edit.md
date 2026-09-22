@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: Seedance 提示词工程
 core_stance: "改视频的最小作用域原则：说清改什么、保留什么，其余一字不多——多描一个字多一分走样"
 skill_type: "technique"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
+source_url: "https://github.com/dexhunter/seedance2-skill"
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-extend-edit
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance2-skill 中文版）。**向后延长**：`将 @视频1 延长15秒` + 分时段写新增内容；生成长度参数选「新增部分」的时长。**向前延长**：`向前延长10s` + 写前置画面。**定向编辑**：保留原片大部分，只改指定元素——改剧情（`颠覆 @视频1 里的剧情，男人眼神从温柔转为冰冷…`）、换角色（`视频1中的女主唱换成图片1的男主唱，动作完全模仿原视频，不要出现切镜`）、加元素（`将视频1女人发型变成红色长发，图片1中的大白鲨缓缓浮出半个脑袋`）。**视频融合**：`视频1中由粒子组成的马逐渐具象化…逐渐过渡到视频2`——用中间意象桥接两段素材。
+来源方法（MIT，整理自 seedance2-skill 中文版）。**向后延长**：`将 @视频1 延长15秒` + 分时段写新增内容；生成长度参数选「新增部分」的时长。**向前延长**：`向前延长10s` + 写前置画面。**定向编辑**：保留原片大部分，只改指定元素——改剧情（`颠覆 @视频1 里的剧情，男人眼神从温柔转为冰冷…`）、换角色（`视频1中的女主唱换成图片1的男主唱，动作完全模仿原视频，不要出现切镜`）、加元素（`将视频1女人发型变成红色长发，图片1中的大白鲨缓缓浮出半个脑袋`）。**视频融合**：`视频1中由粒子组成的马逐渐具象化…逐渐过渡到视频2`——用中间意象桥接两段素材。
 
 ## I — 方法论骨架 (Interpretation)
 

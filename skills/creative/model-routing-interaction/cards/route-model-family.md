@@ -1,7 +1,7 @@
 ---
 name: route-model-family
 description: 当用户提出创作需求但没指定用什么模型/技能，或代理需要根据任务特征与用户习惯自动选择模型族提示词时调用。核心能力：任务特征→模型族路由表（多镜快剪/对白唇形/商业质感/真实感人像/跨平台多版本）+ 用户习惯记忆层 + 默认档位声明。关键触发：用什么模型、模型选择、自动路由、默认模型、which model、model routing、习惯。
-source_book: 剧典原创综合（蒸馏自 visual-skills 模型选择器 + seedance2-skill + seedance-2-5-video-director 边界声明）
+source_book: 剧典原创综合（整理自 visual-skills 模型选择器 + seedance2-skill + seedance-2-5-video-director 边界声明）
 source_chapter: 多源综合
 tags: [模型路由, 模型选择, 自动路由, 用户习惯, AI生成友好]
 layer_confidence: "candidate"
@@ -24,7 +24,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-剧典原创综合方法（基于多个上游技能的模型选择逻辑蒸馏重组）：上游技能普遍内置模型选择器——多镜叙事/快速蒙太奇短剧 → Seedance 系（或涉及对白用 Kling 3.0）；对白/商业质感/同步音效 → Veo 或 Kling 3.0（多角色对白至 15s）；角色一致性跨多平台素材 → Kling 2.6 Pro（便宜）或 3.0（带 [Character A: ...] 标签）；10-15s 连续叙事带音频 → Kling 3.0；15-30s 连续单生成弧线/大参考库（至 50 素材）/编辑延长/30-180s 长视频 → Seedance 2.5；脸部重的戏剧 → Seedance 2.5（真人对白唇形是其头牌）或 Kling/Veo，纯 2.0 管线把人脸路由到 1.5 Pro（2.0 对人脸过滤激进）。生图侧：Nano Banana 系（真实地点锚定/极端画幅 1:8/思考模式）vs GPT Image 2.5（五槽模板/质量旋钮/文字渲染纪律）。默认兜底：无线索时多镜叙事→Seedance；对白商业→Veo/Kling 3.0。
+剧典原创综合方法（基于多个上游技能的模型选择逻辑整理重组）：上游技能普遍内置模型选择器——多镜叙事/快速蒙太奇短剧 → Seedance 系（或涉及对白用 Kling 3.0）；对白/商业质感/同步音效 → Veo 或 Kling 3.0（多角色对白至 15s）；角色一致性跨多平台素材 → Kling 2.6 Pro（便宜）或 3.0（带 [Character A: ...] 标签）；10-15s 连续叙事带音频 → Kling 3.0；15-30s 连续单生成弧线/大参考库（至 50 素材）/编辑延长/30-180s 长视频 → Seedance 2.5；脸部重的戏剧 → Seedance 2.5（真人对白唇形是其头牌）或 Kling/Veo，纯 2.0 管线把人脸路由到 1.5 Pro（2.0 对人脸过滤激进）。生图侧：Nano Banana 系（真实地点锚定/极端画幅 1:8/思考模式）vs GPT Image 2.5（五槽模板/质量旋钮/文字渲染纪律）。默认兜底：无线索时多镜叙事→Seedance；对白商业→Veo/Kling 3.0。
 
 ## I — 方法论骨架 (Interpretation)
 

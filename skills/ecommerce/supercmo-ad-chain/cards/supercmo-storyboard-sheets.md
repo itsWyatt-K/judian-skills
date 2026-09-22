@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: superCMO 广告链路
 core_stance: "分镜是渲染前的成本闸门：一格一主动作、后图锚前图，静帧批完再动视频"
 skill_type: "technique"
-consult_tier: "A（绿区·Apache-2.0 署名蒸馏，可公开）"
+consult_tier: "A（绿区·Apache-2.0 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
+source_url: "https://github.com/SupercmoHQ/superCMO-skills"
 upstream_defer: ["叙事短片导演分镜", "一图成片-电影广告全能导演"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-storyboard-sheets
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO generating-storyboards）：**一个镜头一张 sheet，竖格横排，一格一个主动作**；sheet 永远 16:9、格永远竖版，不随成片画幅。**串行不可并行**：每张的提示词都要上一张的成图在手。六步每张都走全：①收齐物料（人物图/产品图/上一张 sheet/本镜故事与秒数/第几页/影调）；②定 sheet（参考图双标注——generate 调用挂 reference_images + 提示词里 Image 1/2/3 同顺序指认；人物只指认不描述，脸发体型肤色全同；场景时间光线方向从人物图带出；影调命名；产品名逐字复用+真实尺寸）；③分格（一格=一个主动作=一个连续运动作用于一个物体；每格约 2 秒最多 3 秒；**每张最多 5 格**——超过就留关键 5 格必含开场和收尾节拍，其余化进运动里）；④写格六要素（机位/取景距离明名/动作单手连续/双手分配/产品只露参考图那一面且保持真实尺寸/表演微动作叠加）；⑤提示词八段组装（参考标注→锁定→布局→全局设置→产品尺寸→双手机位→逐格内容→约束全文收尾）；⑥生成（一次 image_generate，16:9、1k；pending 是任务句柄不是失败，交给 job_status 轮询，绝不重跑 pending）。硬约束：格内无文字、每人恰好两只手、无悬空物、脸不变形、自拍构图无反光面无手机、无镜头特效（ drawn 影调时整条镜头词汇删掉）。
+来源方法（Apache-2.0，整理自 superCMO generating-storyboards）：**一个镜头一张 sheet，竖格横排，一格一个主动作**；sheet 永远 16:9、格永远竖版，不随成片画幅。**串行不可并行**：每张的提示词都要上一张的成图在手。六步每张都走全：①收齐物料（人物图/产品图/上一张 sheet/本镜故事与秒数/第几页/影调）；②定 sheet（参考图双标注——generate 调用挂 reference_images + 提示词里 Image 1/2/3 同顺序指认；人物只指认不描述，脸发体型肤色全同；场景时间光线方向从人物图带出；影调命名；产品名逐字复用+真实尺寸）；③分格（一格=一个主动作=一个连续运动作用于一个物体；每格约 2 秒最多 3 秒；**每张最多 5 格**——超过就留关键 5 格必含开场和收尾节拍，其余化进运动里）；④写格六要素（机位/取景距离明名/动作单手连续/双手分配/产品只露参考图那一面且保持真实尺寸/表演微动作叠加）；⑤提示词八段组装（参考标注→锁定→布局→全局设置→产品尺寸→双手机位→逐格内容→约束全文收尾）；⑥生成（一次 image_generate，16:9、1k；pending 是任务句柄不是失败，交给 job_status 轮询，绝不重跑 pending）。硬约束：格内无文字、每人恰好两只手、无悬空物、脸不变形、自拍构图无反光面无手机、无镜头特效（ drawn 影调时整条镜头词汇删掉）。
 
 ## I — 方法论骨架 (Interpretation)
 

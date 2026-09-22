@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: Seedance 提示词工程
 core_stance: "视频提示词是八段式工程文档不是文学创作：主体先行、时段控场、音频必写、风格收尾"
 skill_type: "template"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
+source_url: "https://github.com/dexhunter/seedance2-skill"
 upstream_defer: ["名导十五秒视频风格资产引擎"]
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-8block-formula
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance2-skill 中文版）：高质量视频提示词按公式组装——**[主体/人物设定] + [场景/环境] + [动作/运动描述] + [运镜语言] + [分时段描述] + [转场/特效] + [音频/音效设计] + [风格/氛围]**。超过 8-10 秒的视频推荐用分时段描述精确控场（0-3秒/3-6秒/6-10秒/10-15秒 各段写画面+运镜+动作）。风格与质感修饰词收尾：画面风格（电影级质感/胶片颗粒/浅景深、2.35:1 宽银幕 24fps、黑白水墨、动漫风、超写实等）、氛围情绪（紧张悬疑/温暖治愈/史诗恢宏等）、音频指导（BGM 情绪、音效清单、旁白音色、节拍贴合要求）。
+来源方法（MIT，整理自 seedance2-skill 中文版）：高质量视频提示词按公式组装——**[主体/人物设定] + [场景/环境] + [动作/运动描述] + [运镜语言] + [分时段描述] + [转场/特效] + [音频/音效设计] + [风格/氛围]**。超过 8-10 秒的视频推荐用分时段描述精确控场（0-3秒/3-6秒/6-10秒/10-15秒 各段写画面+运镜+动作）。风格与质感修饰词收尾：画面风格（电影级质感/胶片颗粒/浅景深、2.35:1 宽银幕 24fps、黑白水墨、动漫风、超写实等）、氛围情绪（紧张悬疑/温暖治愈/史诗恢宏等）、音频指导（BGM 情绪、音效清单、旁白音色、节拍贴合要求）。
 
 ## I — 方法论骨架 (Interpretation)
 

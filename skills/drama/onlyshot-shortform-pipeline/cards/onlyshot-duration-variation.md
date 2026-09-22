@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "全 5 秒是催眠曲线：快切省时间、慢镜放大冲击，变奏本身就是叙事语言"
 skill_type: "framework"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-duration-variation
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot v21-97-percent-rules）：单集 36 段 / 180-195 秒的时长变奏分布——快切 4s×11（过渡/反应/切场）、默认 5s×14（标准对话/动作）、慢推 6s×5（爽点/反派起疑）、特写 7s×3（重大反转/钩子）、慢镜 8-10s×3（心声/终极卡点/闪回）。为什么变奏：全 5s 节奏机械产生「催眠效应」；变奏让关键 beat 放大、过渡不浪费时间。配套内容铁律 7 条：①对抗式不自残式 ②金句字幕每集 1 句 ③闪回反差每集 1 次（约 0.5s 切回）④沙雕调剂段 ≤3 ⑤结尾倒计时强制 ⑥新角色登场必有名牌/字幕点名 ⑦时长变奏强制。另注意生成约束下限：某些多参考模式最低 4 秒，3 秒不合法。
+来源方法（MIT，整理自 OnlyShot v21-97-percent-rules）：单集 36 段 / 180-195 秒的时长变奏分布——快切 4s×11（过渡/反应/切场）、默认 5s×14（标准对话/动作）、慢推 6s×5（爽点/反派起疑）、特写 7s×3（重大反转/钩子）、慢镜 8-10s×3（心声/终极卡点/闪回）。为什么变奏：全 5s 节奏机械产生「催眠效应」；变奏让关键 beat 放大、过渡不浪费时间。配套内容铁律 7 条：①对抗式不自残式 ②金句字幕每集 1 句 ③闪回反差每集 1 次（约 0.5s 切回）④沙雕调剂段 ≤3 ⑤结尾倒计时强制 ⑥新角色登场必有名牌/字幕点名 ⑦时长变奏强制。另注意生成约束下限：某些多参考模式最低 4 秒，3 秒不合法。
 
 ## I — 方法论骨架 (Interpretation)
 

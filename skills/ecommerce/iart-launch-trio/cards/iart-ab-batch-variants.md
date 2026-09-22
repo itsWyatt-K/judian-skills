@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: iart 广告三件套
 core_stance: "一次只改一个变量：混改两个变量的胜者，是一份读不懂的报告"
 skill_type: "framework"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/iart-ai/ad-video-skills"
 source_license: "MIT"
+source_url: "https://github.com/iart-ai/ad-video-skills"
 upstream_defer: ["顶级波普视觉广告导演"]
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-ab-batch-variants
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 iart ad-creative-video）：**两条让变体值得跑的规则**：①**单变量隔离**——测试只有在一个东西变化时才教得会东西；布局/运镜/颜色/时长全锁定，只换被测字段（钩子/优惠/CTA）；混改两个变量，胜者无法解读。②**钩子-CTA 配对（message-match）**——前三秒的承诺必须由按钮兑现：「每天浪费 2 小时」的钩子结尾是「Save 2 hours — try free」而不是通用「Shop now」；钩子与 CTA 在数据表每一行里是配对关系。**广告解剖（15-30s）**：Hook 0-3s（停滑，抛问题或模式打断）→Context 3-8s（放大痛点）→Payoff 8-18s（产品即解，一个清晰收益）→Proof 18-25s（一个具体数字/演示/结果）→CTA 末 3s（单一行动，与钩子配对，定格 ≥2s）。钩子情绪触发要在 **2 秒标记前**落地（判断约 1.7 秒形成且划速递增）。**钩子先测**：钩子对 CPA 的影响大于其他一切元素。**数据驱动模板**：一切营销者可能测的都不硬编码——构图读单一 variant 对象（hook/benefit/proof/cta/bg/accent），渲染器永不改组件；每个动画值是帧的纯函数（禁 CSS transition/库计时器，会失步）。
+来源方法（MIT，整理自 iart ad-creative-video）：**两条让变体值得跑的规则**：①**单变量隔离**——测试只有在一个东西变化时才教得会东西；布局/运镜/颜色/时长全锁定，只换被测字段（钩子/优惠/CTA）；混改两个变量，胜者无法解读。②**钩子-CTA 配对（message-match）**——前三秒的承诺必须由按钮兑现：「每天浪费 2 小时」的钩子结尾是「Save 2 hours — try free」而不是通用「Shop now」；钩子与 CTA 在数据表每一行里是配对关系。**广告解剖（15-30s）**：Hook 0-3s（停滑，抛问题或模式打断）→Context 3-8s（放大痛点）→Payoff 8-18s（产品即解，一个清晰收益）→Proof 18-25s（一个具体数字/演示/结果）→CTA 末 3s（单一行动，与钩子配对，定格 ≥2s）。钩子情绪触发要在 **2 秒标记前**落地（判断约 1.7 秒形成且划速递增）。**钩子先测**：钩子对 CPA 的影响大于其他一切元素。**数据驱动模板**：一切营销者可能测的都不硬编码——构图读单一 variant 对象（hook/benefit/proof/cta/bg/accent），渲染器永不改组件；每个动画值是帧的纯函数（禁 CSS transition/库计时器，会失步）。
 
 ## I — 方法论骨架 (Interpretation):
 

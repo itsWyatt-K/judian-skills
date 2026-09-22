@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: freestylefly 风格库
 core_stance: "六块是施工单：缺一块，模型就用想象补一块"
 skill_type: "template"
-consult_tier: "A（绿区·MIT 署名蒸馏，可公开）"
+consult_tier: "A（绿区·MIT 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/freestylefly/awesome-gpt-image-2"
 source_license: "MIT"
+source_url: "https://github.com/freestylefly/awesome-gpt-image-2"
 first_seen: 2026-09-21
 source_card: freestylefly 风格库/freestyle-prompt-blocks
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 freestylefly style-library SKILL.md）：最终提示词按六块组装——①**主体与任务**（subject and task）；②**构图与布局**（composition and layout）；③**视觉风格与材质**（visual style and materials）；④**文字与标签要求**（text and label requirements——精确文字内容、可读性、层级）；⑤**画幅与输出格式**（aspect ratio and output format）；⑥**约束与负向细节**（constraints and negative details——要避免的工件）。**约束要具体**：精确文字、画幅、可读标签、布局层级、避免的工件——不写约束等于让模型猜。**多概念复用**：用户要多个概念时，复用同一模板、只变主体/构图/色板/场景——保系列一致性。**语言跟随用户**：中文请求最终提示词用中文（除非用户要英文）——gpt-image 对中文请求出中文提示词表现好。
+来源方法（MIT，整理自 freestylefly style-library SKILL.md）：最终提示词按六块组装——①**主体与任务**（subject and task）；②**构图与布局**（composition and layout）；③**视觉风格与材质**（visual style and materials）；④**文字与标签要求**（text and label requirements——精确文字内容、可读性、层级）；⑤**画幅与输出格式**（aspect ratio and output format）；⑥**约束与负向细节**（constraints and negative details——要避免的工件）。**约束要具体**：精确文字、画幅、可读标签、布局层级、避免的工件——不写约束等于让模型猜。**多概念复用**：用户要多个概念时，复用同一模板、只变主体/构图/色板/场景——保系列一致性。**语言跟随用户**：中文请求最终提示词用中文（除非用户要英文）——gpt-image 对中文请求出中文提示词表现好。
 
 ## I — 方法论骨架 (Interpretation):
 

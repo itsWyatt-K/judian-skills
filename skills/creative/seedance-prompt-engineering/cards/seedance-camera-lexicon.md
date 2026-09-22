@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: Seedance 提示词工程
 core_stance: "运镜词是模型听得懂的机位指令：口语描述要翻译成标准术语，模糊运镜词等于把镜头交给骰子"
 skill_type: "lexicon"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
+source_url: "https://github.com/dexhunter/seedance2-skill"
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-camera-lexicon
 evidence: E4
@@ -24,7 +25,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 seedance2-skill 中文版运镜参考）。基础运镜：推镜头/慢推（靠近主体）、拉镜头/后拉（远离）、左摇/右摇（水平旋转）、上摇/下摇（垂直旋转）、跟随镜头/跟拍、环绕镜头（绕主体旋转）、一镜到底（无剪辑连续镜头）。高级运镜：希区柯克变焦（推拉+变焦眩晕感）、鱼眼镜头、低角度仰拍（英雄感）、俯拍/鸟瞰、第一人称主观视角、快速摇镜（运动模糊）、机械臂跟随（多角度跟视线）。景别：极致特写（眼嘴细节）、面部特写、中近景（头肩）、中景（腰上）、全景（全身）、远景/建立镜头（环境）。
+来源方法（MIT，整理自 seedance2-skill 中文版运镜参考）。基础运镜：推镜头/慢推（靠近主体）、拉镜头/后拉（远离）、左摇/右摇（水平旋转）、上摇/下摇（垂直旋转）、跟随镜头/跟拍、环绕镜头（绕主体旋转）、一镜到底（无剪辑连续镜头）。高级运镜：希区柯克变焦（推拉+变焦眩晕感）、鱼眼镜头、低角度仰拍（英雄感）、俯拍/鸟瞰、第一人称主观视角、快速摇镜（运动模糊）、机械臂跟随（多角度跟视线）。景别：极致特写（眼嘴细节）、面部特写、中近景（头肩）、中景（腰上）、全景（全身）、远景/建立镜头（环境）。
 
 ## I — 方法论骨架 (Interpretation)
 

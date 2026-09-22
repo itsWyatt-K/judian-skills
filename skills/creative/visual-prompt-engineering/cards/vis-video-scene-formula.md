@@ -8,12 +8,14 @@ layer_confidence: "candidate"
 pack: visual-skills 视觉叙事
 core_stance: "缺一个要素场景就塌成布景——开写前先把五要素各用一句话说清"
 skill_type: "framework"
-consult_tier: "A（绿区·CC-BY 署名蒸馏，可公开）"
+consult_tier: "A（绿区·CC-BY 署名整理，可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
+source_url: "https://github.com/smixs/visual-skills"
+attribution: "Serge Shima — github.com/smixs/visual-skills (CC BY 4.0, 基于原作出修改)"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-scene-formula
@@ -25,7 +27,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（CC-BY-4.0，蒸馏自 smixs/visual-skills dramaturgy §1）：场景 = 英雄的欲望（这一秒具体想要什么）+ 障碍（挡住他的是什么：物/人/恐惧/距离/规则）+ 空间几何（谁站哪、谁占权力位、威胁与逃逸各在哪个方向）+ 受控注视（观众的眼睛被逼去看哪，每帧一个焦点）+ 剪辑节奏（每镜活多久、停顿落哪、切口咬在哪）。**五要素缺一，场景塌成装饰**。开写提示词前，先用一句话分别命名这五个；说不出任何一个，场景就没 ready。
+来源方法（CC-BY-4.0，整理自 smixs/visual-skills dramaturgy §1）：场景 = 英雄的欲望（这一秒具体想要什么）+ 障碍（挡住他的是什么：物/人/恐惧/距离/规则）+ 空间几何（谁站哪、谁占权力位、威胁与逃逸各在哪个方向）+ 受控注视（观众的眼睛被逼去看哪，每帧一个焦点）+ 剪辑节奏（每镜活多久、停顿落哪、切口咬在哪）。**五要素缺一，场景塌成装饰**。开写提示词前，先用一句话分别命名这五个；说不出任何一个，场景就没 ready。
 
 ## I — 方法论骨架 (Interpretation)
 

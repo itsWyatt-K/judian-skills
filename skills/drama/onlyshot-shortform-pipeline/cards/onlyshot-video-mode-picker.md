@@ -8,12 +8,13 @@ layer_confidence: "candidate"
 pack: OnlyShot 短剧流水线
 core_stance: "视频生成模式不是喜好问题，是手头素材文件决定的结构问题；默认用首帧+动作，爆点才上首尾帧"
 skill_type: "framework"
-consult_tier: "A（绿区·宽松许可开源库蒸馏，署名可公开）"
+consult_tier: "A（绿区·宽松许可开源库整理，署名可公开）"
 verify_state: raw
 card_type: open-source-skill
 publish_tier: tier-attrib
 source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
+source_url: "https://github.com/A-cat-with-carrots/OnlyShot"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-video-mode-picker
@@ -25,7 +26,7 @@ evidence: E4
 
 ## R — 原文要点 (Reading)
 
-来源方法（MIT，蒸馏自 OnlyShot v0.3.0+）：四种视频生成模式按素材文件存在性自动选择，经验占比——image2video（分镜图首帧+动作 prompt，默认主用约 80%）；frames2video（首帧+尾帧锁定，关键爆点约 10%）；multiframe2video（2-20 张关键帧一镜到底，复杂动作约 5%）；multimodal2video（多图+视频+音频全能参考，fallback 约 5%）。
+来源方法（MIT，整理自 OnlyShot v0.3.0+）：四种视频生成模式按素材文件存在性自动选择，经验占比——image2video（分镜图首帧+动作 prompt，默认主用约 80%）；frames2video（首帧+尾帧锁定，关键爆点约 10%）；multiframe2video（2-20 张关键帧一镜到底，复杂动作约 5%）；multimodal2video（多图+视频+音频全能参考，fallback 约 5%）。
 
 ## I — 方法论骨架 (Interpretation)
 
