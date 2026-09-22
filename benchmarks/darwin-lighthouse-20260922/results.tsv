@@ -1,0 +1,4 @@
+timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
+2026-09-22T17:40	baseline	czks-hook-paywall	-	72.4	baseline	dim8	judge: p1 with slight / p2 with slight / p3 tie；对抗场景基线也会劝冷开篇	full_test
+2026-09-22T17:40	baseline	ssqr-twist-ending	-	81.2	baseline	dim8	judge: p1 with clear / p2 with slight / p3 with clear；余波与纪律全面兑现	full_test
+2026-09-22T17:40	baseline	dxj-audience-hook	-	71.8	baseline	dim8	judge: p1 with slight / p2 tie / p3 tie；净提升仅限结构化长任务，对抗场景与模型先验重合	full_test
