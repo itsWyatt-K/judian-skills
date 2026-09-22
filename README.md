@@ -67,7 +67,7 @@ v2.0.0 做了一次**可用性改造**（不是内容扩充）：
 | 层 | 包数 | 来源 | 卡数 | 形态 |
 |---|---|---|---|---|
 | 开源署名层 | 11 | 9 个 MIT/Apache/CC-BY 开源仓库 + MiniMax/BFL 官方文档 | 86 | SKILL.md 总纲 + `cards/<slug>.md` 渐进披露 |
-| 书籍重铸层 | 23 | 60+ 部出版书方法论重铸 | 673 | SKILL.md 总纲 + `cards/<slug>.md` 渐进披露 |
+| 书籍重铸层 | 23 | 60+ 部出版书蒸馏卡 | 673 | SKILL.md 总纲 + `cards/<slug>.md` 渐进披露 |
 
 书籍重铸层的纪律：**正文不含原文摘录**（只留自撰方法论层），每张卡 frontmatter 带
 `source_book` + `source_card` 双指针可回溯审计；台账 `seed-contribution/reforge_ledger.json`
@@ -96,7 +96,6 @@ v2.0.0 做了一次**可用性改造**（不是内容扩充）：
 - [`docs/PACK-UPGRADE-CONTRACT.md`](docs/PACK-UPGRADE-CONTRACT.md) —— v2.0.0 改造规范、动机、实测证据与验收标准
 - [`docs/scene-starter-picks.md`](docs/scene-starter-picks.md) —— 新手场景推荐表：说人话 → 装哪个（先单卡后域包，附 56 个单卡场景索引）
 - [`docs/selection-recipes.md`](docs/selection-recipes.md) —— 场景 → 域包配方速查表（每轮最多激活 8 个技能）
-- [`presets.json`](presets.json) —— 场景预设（平台层分发用）：8 个手工策展预设，v1 只引用已上架技能；`presets_check.py` 为对账门禁，`seed-snapshot.json` 为种子快照
 - [`scene-recipe-concierge`](skills/creative/scene-recipe-concierge/SKILL.md) —— 门房技能：不知道选哪个技能时先激活它，三问定位 + 配方表推荐（只建议不代选）
 - [`seed-contribution/`](seed-contribution/) —— 上游 `skills.json` 种子投稿素材（35 条域包条目，由 `packs_to_seed.py` 生成；`id_ledger.json` 为 ID 台账，编号一经分配永不变更）
 
@@ -106,19 +105,11 @@ v2.0.0 做了一次**可用性改造**（不是内容扩充）：
 （结构 / 人物 / 提示词组装 / 质检 / 反推）。任务域重叠的技能均在 description 中带工位边界声明。
 
 - **[PR #568](https://github.com/ddcat-ai/open-ai-canvas/pull/568) 已合并** —— 72 条卡级种子 + README 推荐位
-- **[PR #575](https://github.com/ddcat-ai/open-ai-canvas/pull/575) 已合并** —— 种子市场统一重组为 34 个域包，`skills.json` 最终 68 条，ID 台账 1-72 段封存、73-107 段生效
-- **[PR #577](https://github.com/ddcat-ai/open-ai-canvas/pull/577) 已合并** —— 技能 description 注入 Agent 系统提示 manifest，让模型能「看见」每个已激活技能是干什么的
+- **[PR #575](https://github.com/ddcat-ai/open-ai-canvas/pull/575) 开放中** —— 种子市场统一重组为 34 个域包，`skills.json` 最终 67 条，ID 台账 1-72 段封存、73-106 段生效
+- **[PR #577](https://github.com/ddcat-ai/open-ai-canvas/pull/577) 开放中** —— 技能 description 注入 Agent 系统提示 manifest，让模型能「看见」每个已激活技能是干什么的
 
 ## 许可
 
-**分层许可**：
-
-- **judian 自撰内容**：MIT（见根目录 [LICENSE](LICENSE)）；
-- **开源署名层**：遵循源项目许可（MIT / Apache-2.0 / CC BY 4.0）。每个受影响包内附
-  `THIRD-PARTY-LICENSES.md`——来源仓库、许可证全文、修改声明与强制署名行；
-- **书籍重铸层**：`source_book` + `attribution` 双指针（受其启发的方法论重铸，未复制原文表达）；
-- **MiniMax / BFL 官方文档**：仅整理公开规范中的功能事实（字段名/参数/规则），非表达复制。
-
-**商业使用提示**：CC BY 4.0 来源的包（visual-prompt-engineering）须保留署名行
-「Serge Shima — github.com/smixs/visual-skills」；shortfilm-structure 包的源仓库含
-All Rights Reserved 的第三方内容（Mx-Shell 提示词工件），本包仅取其 MIT 方法论部分。
+本仓库自撰内容以 MIT 许可发布。来源与许可均在 frontmatter 标注：
+开源署名层标 `source` / `license`；书籍重铸层标 `source_book` + `attribution`
+（出版书方法论的自撰重写，不复制原文表达）。
