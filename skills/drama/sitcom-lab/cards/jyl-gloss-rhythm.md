@@ -6,6 +6,8 @@ metadata:
   source_book: "《汉语视听说教程：家有儿女》刘立新/邓方（世界图书出版公司，2009）"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\家有儿女1\\expert\\jyl-gloss-rhythm\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

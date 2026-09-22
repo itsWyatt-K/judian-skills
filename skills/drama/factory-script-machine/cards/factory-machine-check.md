@@ -16,6 +16,8 @@ source_repo: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-machine-check
+evidence: E4
+
 ---
 
 # 双机检与合规一票否决

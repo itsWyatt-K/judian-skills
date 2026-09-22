@@ -16,6 +16,8 @@ source_repo: "https://github.com/SupercmoHQ/superCMO-skills"
 source_license: "Apache-2.0"
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-spoken-language
+evidence: E4
+
 ---
 
 # 口语化六律

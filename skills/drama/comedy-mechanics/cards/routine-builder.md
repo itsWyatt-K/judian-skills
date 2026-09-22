@@ -6,6 +6,8 @@ metadata:
   source_book: "《Step by Step to Stand-Up Comedy》 Greg Dean"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\cangjie-origin-compare\\greg-dean-origin\\books\\step-by-step-standup\\routine-builder\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

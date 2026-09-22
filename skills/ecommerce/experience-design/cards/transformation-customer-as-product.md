@@ -6,6 +6,8 @@ metadata:
   source_book: "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\体验经济\\蒸馏skill\\transformation-customer-as-product\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

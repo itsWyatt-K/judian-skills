@@ -6,6 +6,8 @@ metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\怪诞行为学\\蒸馏skill\\pain-of-paying-tuning\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

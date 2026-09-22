@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-redfruit-7beats
+evidence: E4
+
 ---
 
 # 红果必爆 7 节点节奏骨架

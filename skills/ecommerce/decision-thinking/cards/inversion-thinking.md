@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\inversion-thinking\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 面对任何目标,不直接追问"如何达成",而是先系统性地追问"什么会导致失败"。

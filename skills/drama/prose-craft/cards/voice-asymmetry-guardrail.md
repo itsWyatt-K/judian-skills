@@ -6,6 +6,8 @@ metadata:
   source_book: "GLM-5.2 试毒《人话》中篇 + 谷大师复批裁决①（2026-08-16 v2.1）"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\去AI味鉴别\\voice-asymmetry-guardrail\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

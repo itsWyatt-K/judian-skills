@@ -6,6 +6,8 @@ metadata:
   source_book: "小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\小说机杼\\xsjz-time-signature\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架
 

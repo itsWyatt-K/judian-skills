@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\circle-of-competence\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 每个人都有一个"能力圈"——真正能做出准确判断的知识和经验边界。能力圈的关键

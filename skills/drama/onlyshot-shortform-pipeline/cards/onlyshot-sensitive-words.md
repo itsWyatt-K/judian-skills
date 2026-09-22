@@ -16,6 +16,8 @@ source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-sensitive-words
+evidence: E4
+
 ---
 
 # 四类敏感词替换表

@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["顶级波普视觉广告导演"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-product-description
+evidence: E4
+
 ---
 
 # 产品描述五要素

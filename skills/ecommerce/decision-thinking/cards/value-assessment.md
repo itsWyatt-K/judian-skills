@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\value-assessment\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 价值评估不是寻找"便宜的垃圾",而是寻找"公道的伟大"。

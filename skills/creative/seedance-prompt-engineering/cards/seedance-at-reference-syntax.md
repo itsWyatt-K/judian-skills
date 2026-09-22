@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["一图成片-电影广告全能导演"]
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-at-reference-syntax
+evidence: E4
+
 ---
 
 # @ 引用显式职责语法

@@ -16,6 +16,8 @@ source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-three-details
+evidence: E4
+
 ---
 
 # 每镜三件套：细节定律与禁词

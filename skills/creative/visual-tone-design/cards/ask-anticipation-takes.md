@@ -6,6 +6,8 @@ metadata:
   source_book: "The Animator's Survival Kit (Richard Williams, Faber & Faber)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\The Animators Survival Kit\\expert\\ask-anticipation-takes\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 每个主动作前，加一个**反向小预备**（哪怕 2-4 帧）

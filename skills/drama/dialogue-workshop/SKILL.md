@@ -1,11 +1,12 @@
 ---
-name: dialogue-workshop
-description: "当写对白、修对白、用对白推进故事时调用（本包由 19 张方法论卡汇编而成，蒸馏自《故事写作大师班》、《对白：文字、舞台、银幕的言语行为艺术》、《崔凯文集·喜剧小品卷》、《我爱我家台词》、《把自己当回事儿》）。核心能力：对白工坊：对白即动作、潜台词与表达姿态。关键触发：“我的对白全是交代剧情”、“太平了／没味道／不像人话”、“推不动／重复／拖沓”、“读着别扭／假／出戏”、“还没想清楚。\n2. 写完后角色行为突兀，被问”、“解释性大肚子”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。"
-tags: ["剧典重铸", "对白工坊"]
+name: 对白工坊
+description: "把'不像人话'的对白改成带行动与潜台词的对话：对白即动作、问诊式修改。当对白空洞、人人一个语气，或台词只负责解释信息时调用。"
+tags: ["drama"]
 metadata:
   version: 1.0.0
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   card_count: 19
+  evidence_floor: E4
 ---
 
 # 对白工坊：对白即动作、潜台词与表达姿态
@@ -17,27 +18,68 @@ metadata:
 当写对白、修对白、用对白推进故事时调用（本包由 19 张方法论卡汇编而成，蒸馏自《故事写作大师班》、《对白：文字、舞台、银幕的言语行为艺术》、《崔凯文集·喜剧小品卷》、《我爱我家台词》、《把自己当回事儿》）。核心能力：对白工坊：对白即动作、潜台词与表达姿态。关键触发：“我的对白全是交代剧情”、“太平了／没味道／不像人话”、“推不动／重复／拖沓”、“读着别扭／假／出戏”、“还没想清楚。
 2. 写完后角色行为突兀，被问”、“解释性大肚子”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
+## 本包交付什么
+
+用户提出需求时，本包最终交付：
+
+1. **对白改写稿（带潜台词标注）**
+2. **对白问诊清单**
+3. **角色声音样本**
+
+### 内容保真优先级
+
+冲突时按此顺序裁决，禁止圆场：
+
+1. **用户明确指定**（时长/风格/禁项/参考职责）；
+2. **对白是行动不是解释**；
+3. **每句话只可能出自这个人**；
+4. 风格与质感装饰。
+
+### 默认决策
+
+用户未指定时采用，并在交付前用一句话说明选了什么：
+
+- **信息量：未说则一场只推进一个信息**
+- **长度：默认短句，避免独白式解释**
+- **方言：按角色身份定，不为特色强加**
+
+### 质量门槛
+
+交付前逐项自检，任一项不过就改完再交：
+
+- [ ] 是否每句都有潜台词或行动
+- [ ] 是否能仅凭对白分出台词是谁说的
+- [ ] 是否有角色在解释观众已经知道的事
+- [ ] 是否避免书面语与人设冲突
+
 ## 包内卡片名录
 
-- `mckee-dialogue-as-action` — 对白＝以言行事
-- `mckee-dialogue-beats` — 潜文本与节拍拆解
-- `mckee-dialogue-clinic` — 对白六项任务与瑕疵诊断
-- `mckee-dialogue-desire` — 欲望五维与行为五步
-- `mckee-dialogue-exposition` — 解说投放与时机
-- `mckee-dialogue-in-character` — 在角色内写作
-- `mckee-dialogue-last-step` — 对白是最后一步
-- `mckee-dialogue-structure` — 对话结构与三边对话
-- `pola-duibai` — 泼辣对白斗嘴
-- `story-dialogue-three-tracks` — 对白三音轨
-- `wojia-vocal-signature` — 声口复用
-- `yt-consensus-build` — 共识拆解
-- `yt-direct-clarity` — 直接零误解
-- `yt-emotion-not-weapon` — 情绪非武器
-- `yt-expectation-buffer` — 预期管理三步
-- `yt-own-the-error` — 主动负责
-- `yt-persona-boundary` — 人设即边界
-- `yt-sincerity-boundary` — 真诚设边界
-- `yt-story-hook` — 故事化表达
+- `cards/mckee-dialogue-as-action.md` — 对白＝以言行事
+- `cards/mckee-dialogue-beats.md` — 潜文本与节拍拆解
+- `cards/mckee-dialogue-clinic.md` — 对白六项任务与瑕疵诊断
+- `cards/mckee-dialogue-desire.md` — 欲望五维与行为五步
+- `cards/mckee-dialogue-exposition.md` — 解说投放与时机
+- `cards/mckee-dialogue-in-character.md` — 在角色内写作
+- `cards/mckee-dialogue-last-step.md` — 对白是最后一步
+- `cards/mckee-dialogue-structure.md` — 对话结构与三边对话
+- `cards/pola-duibai.md` — 泼辣对白斗嘴
+- `cards/story-dialogue-three-tracks.md` — 对白三音轨
+- `cards/wojia-vocal-signature.md` — 声口复用
+- `cards/yt-consensus-build.md` — 共识拆解
+- `cards/yt-direct-clarity.md` — 直接零误解
+- `cards/yt-emotion-not-weapon.md` — 情绪非武器
+- `cards/yt-expectation-buffer.md` — 预期管理三步
+- `cards/yt-own-the-error.md` — 主动负责
+- `cards/yt-persona-boundary.md` — 人设即边界
+- `cards/yt-sincerity-boundary.md` — 真诚设边界
+- `cards/yt-story-hook.md` — 故事化表达
+
+## 证据等级说明
+
+本包卡片证据等级为 **E4（成熟专业方法重铸）**：方法论来自出版书籍与行业方法的独立重铸，尚未在当前模型上逐条做真实成片验证
+使用时请知悉：标注 E4/E5 的规则表示"专业上成立"或"可作启发"，
+**不表示当前模型已能稳定执行**。若某条规则在你的实测中失效，按卡内 frontmatter 的
+`evidence` 字段记录实际等级并回报，不要静默虚标为 E1/E2。
 
 ## 使用纪律
 

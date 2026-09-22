@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["TikTok网红带货视频"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-ugc-mode-select
+evidence: E4
+
 ---
 
 # UGC 四模式选择器

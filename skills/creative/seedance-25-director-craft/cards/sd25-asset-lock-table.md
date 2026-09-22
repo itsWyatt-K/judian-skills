@@ -16,6 +16,8 @@ source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-asset-lock-table
+evidence: E4
+
 ---
 
 # 素材锁表与身份绑定

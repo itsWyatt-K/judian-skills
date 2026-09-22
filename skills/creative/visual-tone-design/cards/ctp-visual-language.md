@@ -6,6 +6,8 @@ metadata:
   source_book: "Cinematography: Theory and Practice (Blain Brown, 4th ed.)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\Cinematography Theory and Practice\\ctp-visual-language\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

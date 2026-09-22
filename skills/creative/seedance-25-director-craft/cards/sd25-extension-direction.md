@@ -16,6 +16,8 @@ source_repo: "https://github.com/liyue-aigc/seedance-2-5-video-director"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-extension-direction
+evidence: E4
+
 ---
 
 # 延长方向归一化与交接规则

@@ -6,6 +6,8 @@ metadata:
   source_book: "《孙子兵法》"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\孙子兵法\\蒸馏skill\\deception-and-shaping\\SKILL.md"
+evidence: E4
+
 ---
 ## I - 方法论骨架
 

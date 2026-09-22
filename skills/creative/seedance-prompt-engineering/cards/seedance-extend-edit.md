@@ -16,6 +16,8 @@ source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-extend-edit
+evidence: E4
+
 ---
 
 # 延长 / 编辑 / 融合三模式

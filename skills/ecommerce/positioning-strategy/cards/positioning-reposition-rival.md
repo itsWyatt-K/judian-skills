@@ -6,6 +6,8 @@ metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\定位\\蒸馏skill\\positioning-reposition-rival\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

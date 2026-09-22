@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\latticework-mental-models\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 从数学、工程学、物理学、化学、生物学、心理学、经济学等核心学科中提取约100个

@@ -6,6 +6,8 @@ metadata:
   source_book: "《你能写出好故事》 Lisa Cron"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\你能写出好故事\\wfs-arc-blueprint\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

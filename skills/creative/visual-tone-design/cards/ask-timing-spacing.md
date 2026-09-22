@@ -6,6 +6,8 @@ metadata:
   source_book: "The Animator's Survival Kit (Richard Williams, Faber & Faber)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\The Animators Survival Kit\\expert\\ask-timing-spacing\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 拿到一个动作，先定 **Timing**（几帧？）——再定 **Spacing**（怎么分布？）

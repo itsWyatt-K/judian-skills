@@ -6,6 +6,8 @@ metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\comedy-buddy-seinfeld\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

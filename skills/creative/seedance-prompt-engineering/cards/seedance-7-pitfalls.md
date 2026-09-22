@@ -16,6 +16,8 @@ source_repo: "https://github.com/dexhunter/seedance2-skill"
 source_license: "MIT"
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-7-pitfalls
+evidence: E4
+
 ---
 
 # 视频提示词七条避坑清单

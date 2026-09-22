@@ -17,6 +17,8 @@ source_repo: "MiniMax H3 官方技能文档（即梦 Dreamina 官方 skills 语�
 source_license: "MiniMax 官方文档（署名引用）"
 first_seen: 2026-08-24
 source_card: MiniMax H3 提示词规范/h3-style-co-op-game-intro
+evidence: E4
+
 ---
 
 ## R — 风格定义（Reading）

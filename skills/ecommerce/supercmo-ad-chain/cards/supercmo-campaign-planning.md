@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-campaign-planning
+evidence: E4
+
 ---
 
 # 广告策划：从四输入到可构建概念清单

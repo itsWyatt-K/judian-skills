@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-reverse-prompt
+evidence: E4
+
 ---
 
 # 视频反推：逐秒拆解与结构仿写

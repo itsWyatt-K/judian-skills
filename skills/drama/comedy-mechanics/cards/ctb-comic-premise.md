@@ -6,6 +6,8 @@ metadata:
   source_book: "The Comic Toolbox: How to Be Funny Even If You're Not (John Vorhaus, 1994)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\The Comic Toolbox\\ctb-comic-premise\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-duration-variation
+evidence: E4
+
 ---
 
 # 时长变奏分布与内容七铁律

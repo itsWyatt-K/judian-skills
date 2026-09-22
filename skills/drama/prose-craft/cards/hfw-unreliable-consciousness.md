@@ -6,6 +6,8 @@ metadata:
   source_book: "《小说机杼》詹姆斯·伍德"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\小说机杼（詹姆斯·伍德）\\hfw-unreliable-consciousness\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["名导十五秒视频风格资产引擎"]
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-8block-formula
+evidence: E4
+
 ---
 
 # 视频提示词八段结构公式

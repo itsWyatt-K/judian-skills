@@ -6,6 +6,8 @@ metadata:
   source_book: "《对白：文字、舞台、银幕的言语行为艺术》 罗伯特·麦基"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\罗伯特·麦基虚构艺术三部曲（《故事》《对白》《人物》）\\mckee-character-voice\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

@@ -16,6 +16,8 @@ source_repo: ""
 source_license: ""
 first_seen: 2026-09-21
 source_card: 创作路由与交互/options-presentation
+evidence: E4
+
 ---
 
 # 选项呈现纪律

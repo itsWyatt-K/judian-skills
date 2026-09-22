@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-continuity-locks
+evidence: E4
+
 ---
 
 # 连续性锁清单

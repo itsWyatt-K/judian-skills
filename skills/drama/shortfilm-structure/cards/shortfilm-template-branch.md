@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["治愈系原创IP孵化助手"]
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-template-branch
+evidence: E4
+
 ---
 
 # 21 类型模板分支与两把锁

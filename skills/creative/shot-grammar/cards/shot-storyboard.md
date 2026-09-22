@@ -6,6 +6,8 @@ metadata:
   source_book: "《从构思到银幕：电影镜头设计》 史蒂文·卡茨"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\从构思到银幕电影镜头设计\\shot-storyboard\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

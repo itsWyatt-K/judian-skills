@@ -6,6 +6,8 @@ metadata:
   source_book: "ljg-constraint (lijigang/ljg-skills)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\元方法论\\约束引擎\\SKILL.md"
+evidence: E4
+
 ---
 ## A 段：什么时候用 / 什么时候不用
 

@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-video-mode-picker
+evidence: E4
+
 ---
 
 # 四模视频生成选择器

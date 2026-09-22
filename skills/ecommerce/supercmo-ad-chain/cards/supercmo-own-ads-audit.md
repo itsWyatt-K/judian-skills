@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-own-ads-audit
+evidence: E4
+
 ---
 
 # 自有广告审计：自家矩阵的台账复盘

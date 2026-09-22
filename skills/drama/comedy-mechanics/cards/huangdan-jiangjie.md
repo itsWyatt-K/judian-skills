@@ -6,6 +6,8 @@ metadata:
   source_book: "《王朔作品精选（套装共6册）》 王朔"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\王朔作品精选\\expert\\huangdan-jiangjie\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

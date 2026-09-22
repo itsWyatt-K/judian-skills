@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\deprival-superreaction\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 人类对损失的反应远比对同等收益的反应强烈,且这种不对称是非线性的——损失越大,痛苦的增长速度越快。

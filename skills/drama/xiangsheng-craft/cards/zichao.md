@@ -6,6 +6,8 @@ metadata:
   source_book: "《中国传统相声大全（全五卷）》 刘英男 编"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\中国传统相声大全\\expert\\zichao\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

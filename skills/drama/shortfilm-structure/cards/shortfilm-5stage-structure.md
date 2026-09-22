@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-5stage-structure
+evidence: E4
+
 ---
 
 # 短片提示词五段式结构

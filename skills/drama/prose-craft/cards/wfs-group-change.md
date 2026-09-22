@@ -6,6 +6,8 @@ metadata:
   source_book: "《你能写出好故事》 Lisa Cron / 丽萨·克龙"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\你能写出好故事\\wfs-group-change\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 - **不是一人弧，是 N 人并行弧**: 不是"一个人的成长史"，而是 N 位老人各带一条 misbelief，在单元/主线里各自改变一点。每人改一点，整体就动了。

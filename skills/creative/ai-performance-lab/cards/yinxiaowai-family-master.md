@@ -6,6 +6,8 @@ metadata:
   source_book: "13-AI角色表演与资产"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\yinxiaowai-family\\yinxiaowai-family-master\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 路由方法论 (Interpretation)
 

@@ -6,6 +6,8 @@ metadata:
   source_book: "《武林外传》宁财神"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\武林外传\\expert\\childs-eye-misalignment\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

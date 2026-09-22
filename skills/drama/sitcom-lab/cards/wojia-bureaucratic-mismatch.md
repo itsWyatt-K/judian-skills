@@ -6,6 +6,8 @@ metadata:
   source_book: "《我爱我家台词》梁左/英达"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\我爱我家台词\\wojia-bureaucratic-mismatch\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

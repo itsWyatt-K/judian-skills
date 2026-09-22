@@ -6,6 +6,8 @@ metadata:
   source_book: "《把自己当回事儿》杨天真"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\把自己当回事儿\\yt-story-hook\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

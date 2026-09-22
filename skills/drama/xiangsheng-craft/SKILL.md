@@ -1,11 +1,12 @@
 ---
-name: xiangsheng-craft
-description: "当相声与中国传统喜剧语言技艺时调用（本包由 16 张方法论卡汇编而成，蒸馏自《中国传统相声大全（全五卷）》、《中国的相声》、《马三立表演相声精品集》）。核心能力：相声技艺：说学逗唱/惯口/捧逗与包袱法。关键触发：“结尾、段子打脸。\n2. 带货”、“离谱但合理”、“觉得好笑但别人不笑”、“低门槛、立刻抓耳”、“社恐星人”、“笑点不响”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。"
-tags: ["剧典重铸", "相声技艺"]
+name: 相声手艺
+description: "写出能卖的相声段子：反转、包袱与说学逗唱四功。当写相声/曲艺段子、包袱不响，或传统技法不知道怎么用在现代题材时调用。"
+tags: ["drama"]
 metadata:
   version: 1.0.0
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   card_count: 16
+  evidence_floor: E4
 ---
 
 # 相声技艺：说学逗唱/惯口/捧逗与包袱法
@@ -17,24 +18,65 @@ metadata:
 当相声与中国传统喜剧语言技艺时调用（本包由 16 张方法论卡汇编而成，蒸馏自《中国传统相声大全（全五卷）》、《中国的相声》、《马三立表演相声精品集》）。核心能力：相声技艺：说学逗唱/惯口/捧逗与包袱法。关键触发：“结尾、段子打脸。
 2. 带货”、“离谱但合理”、“觉得好笑但别人不笑”、“低门槛、立刻抓耳”、“社恐星人”、“笑点不响”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
+## 本包交付什么
+
+用户提出需求时，本包最终交付：
+
+1. **段子结构（包袱位置与抖法）**
+2. **说学逗唱四功分配**
+3. **现挂与返场设计**
+
+### 内容保真优先级
+
+冲突时按此顺序裁决，禁止圆场：
+
+1. **用户明确指定**（时长/风格/禁项/参考职责）；
+2. **包袱有铺有抖**；
+3. **传统技法服务现代题材**；
+4. 风格与质感装饰。
+
+### 默认决策
+
+用户未指定时采用，并在交付前用一句话说明选了什么：
+
+- **段长：未说则按 10-15 分钟**
+- **包袱密度：默认三翻四抖**
+- **禁忌：默认不用过时伦理哏**
+
+### 质量门槛
+
+交付前逐项自检，任一项不过就改完再交：
+
+- [ ] 每个包袱是否有铺垫
+- [ ] 翻抖节奏是否可判
+- [ ] 四功是否都有体现
+- [ ] 是否避免只吃老段子不立新人物
+
 ## 包内卡片名录
 
-- `fanzhuan` — H1 反转 / 预期违背
-- `kuazhang-wuhui` — 夸张 / 误会错位
-- `lengmian-zichao` — 蔫哏冷面开场 + 荒诞自嘲人设
-- `pianju-chaichuan` — 骗局拆穿叙事
-- `sanfan-sidou` — 三翻四抖递进升级 + 补救式降级循环
-- `shijing-xudao` — 市井对白节奏
-- `waijie-jingdian` — 知识歪解 / 歪批经典
-- `xiangsheng-baofu` — 抖包袱：铺垫与释放的节奏机
-- `xiangsheng-four-skills` — 说学逗唱：相声的四大基本功底盘
-- `xiangsheng-liuhuo` — 柳活：用「唱」制造语境错位
-- `xiangsheng-punchline` — 铺垫—抖包袱基础结构
-- `xiangsheng-shuo-rhythm` — 说即节奏：靠「怎么说」取胜
-- `xiangsheng-tease-satire` — 逗即讽刺：用笑完成批判
-- `xiangsheng-xue-moniao` — 学即模拟：在「像」与「不像」之间找笑点
-- `xieyin-shuangguan` — H2 谐音双关
-- `zichao` — H5 自嘲 / 市井自嘲
+- `cards/fanzhuan.md` — H1 反转 / 预期违背
+- `cards/kuazhang-wuhui.md` — 夸张 / 误会错位
+- `cards/lengmian-zichao.md` — 蔫哏冷面开场 + 荒诞自嘲人设
+- `cards/pianju-chaichuan.md` — 骗局拆穿叙事
+- `cards/sanfan-sidou.md` — 三翻四抖递进升级 + 补救式降级循环
+- `cards/shijing-xudao.md` — 市井对白节奏
+- `cards/waijie-jingdian.md` — 知识歪解 / 歪批经典
+- `cards/xiangsheng-baofu.md` — 抖包袱：铺垫与释放的节奏机
+- `cards/xiangsheng-four-skills.md` — 说学逗唱：相声的四大基本功底盘
+- `cards/xiangsheng-liuhuo.md` — 柳活：用「唱」制造语境错位
+- `cards/xiangsheng-punchline.md` — 铺垫—抖包袱基础结构
+- `cards/xiangsheng-shuo-rhythm.md` — 说即节奏：靠「怎么说」取胜
+- `cards/xiangsheng-tease-satire.md` — 逗即讽刺：用笑完成批判
+- `cards/xiangsheng-xue-moniao.md` — 学即模拟：在「像」与「不像」之间找笑点
+- `cards/xieyin-shuangguan.md` — H2 谐音双关
+- `cards/zichao.md` — H5 自嘲 / 市井自嘲
+
+## 证据等级说明
+
+本包卡片证据等级为 **E4（成熟专业方法重铸）**：方法论来自出版书籍与行业方法的独立重铸，尚未在当前模型上逐条做真实成片验证
+使用时请知悉：标注 E4/E5 的规则表示"专业上成立"或"可作启发"，
+**不表示当前模型已能稳定执行**。若某条规则在你的实测中失效，按卡内 frontmatter 的
+`evidence` 字段记录实际等级并回报，不要静默虚标为 E1/E2。
 
 ## 使用纪律
 

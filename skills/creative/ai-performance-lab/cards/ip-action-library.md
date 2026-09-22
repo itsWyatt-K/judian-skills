@@ -6,6 +6,8 @@ metadata:
   source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并蒸馏）"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ip-character-system\\ip-action-library\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

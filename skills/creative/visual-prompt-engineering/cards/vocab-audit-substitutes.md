@@ -16,6 +16,8 @@ source_repo: "https://github.com/smixs/visual-skills"
 source_license: "CC-BY-4.0"
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vocab-audit-substitutes
+evidence: E4
+
 ---
 
 # 生图词汇审查与替代词表

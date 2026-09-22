@@ -16,6 +16,8 @@ source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-storyboard-8block
+evidence: E4
+
 ---
 
 # 分镜图 8 段 prompt 模板

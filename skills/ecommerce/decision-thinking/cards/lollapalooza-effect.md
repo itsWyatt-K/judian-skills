@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\lollapalooza-effect\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 多种心理倾向或外部力量同时朝同一方向作用时，不会简单地1+1=2，而是产生临界质量式的非线性爆发。这种效应是理解极端事件的钥匙——金融泡沫、邪教洗脑、群体暴力、组织崩盘，背后几乎都有多种力量同向叠加。识别方法：面对任何极端现象，不要满足于单一原因解释，而是系统列出所有可能起作用的心理倾向和外部力量，分析它们的叠加方向。当发现多个偏差朝同方向汇聚时，要特别警惕极端后果——正向的让你发大财，负向的会毁了你。

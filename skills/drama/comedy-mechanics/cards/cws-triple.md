@@ -6,6 +6,8 @@ metadata:
   source_book: "Comedy Writing Secrets (3rd ed.) Mark Shatz with Mel Helitzer, 2016"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\Comedy Writing Secrets\\cws-triple\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

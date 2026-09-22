@@ -16,6 +16,8 @@ source_repo: "https://github.com/jnMetaCode/ai-shortfilm-prompts"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: shortfilm-prompt 短片五段式/shortfilm-micro-drama
+evidence: E4
+
 ---
 
 # 竖屏短剧三件套

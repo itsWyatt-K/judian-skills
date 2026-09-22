@@ -6,6 +6,8 @@ metadata:
   source_book: "《上瘾：让用户养成使用习惯的四大产品逻辑》 [美]尼尔·埃亚尔、[美]瑞安·胡佛"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\上瘾\\蒸馏skill\\skills\\hook-model-loop\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

@@ -6,6 +6,8 @@ metadata:
   source_book: "认知红利"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\认知红利\\蒸馏skill\\metacognition-control\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

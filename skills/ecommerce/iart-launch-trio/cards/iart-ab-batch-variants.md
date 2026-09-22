@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["顶级波普视觉广告导演"]
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-ab-batch-variants
+evidence: E4
+
 ---
 
 # 批量变体：单变量与钩 CTA 配对

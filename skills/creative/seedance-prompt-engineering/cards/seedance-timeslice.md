@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: Seedance 提示词工程/seedance-timeslice
+evidence: E4
+
 ---
 
 # 分时段描述法

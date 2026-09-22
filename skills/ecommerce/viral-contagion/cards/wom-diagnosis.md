@@ -6,6 +6,8 @@ metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\疯传\\蒸馏skill\\wom-diagnosis\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretion)
 

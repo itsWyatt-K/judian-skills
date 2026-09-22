@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["故事开发", "剧本撰写"]
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-episode-specs
+evidence: E4
+
 ---
 
 # 单集硬规格与断章公式

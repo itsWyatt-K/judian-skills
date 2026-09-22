@@ -6,6 +6,8 @@ metadata:
   source_book: "In the Blink of an Eye (Walter Murch, 2nd ed., Silman-James Press)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\In the Blink of an Eye\\expert\\ibe-rule-of-six\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 剪每个镜头前问：这个选择服务情感了吗？

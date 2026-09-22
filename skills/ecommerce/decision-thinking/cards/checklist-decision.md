@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\checklist-decision\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 检查清单不是"待办事项"或"备忘录"，而是强制性的思维校准工具。核心原理：人类记忆和判断在高压、疲劳、自信过度的状态下必然遗漏关键因素，即使是最有经验的专家也不能例外。芒格的方法是将所有思维模型（多元思维模型框架）、失败案例的教训（逆向思维产物）、心理偏差（误判心理学清单）编排为系统化的决策前核对列表，每次重大决策前逐项强制执行。清单的内容不是简单的事项列表，而是经过系统整理的思维模型和心理倾向。其核心价值恰恰在于防止"聪明人因自认聪明而跳过系统化检查"——针对的是过度自信本身。

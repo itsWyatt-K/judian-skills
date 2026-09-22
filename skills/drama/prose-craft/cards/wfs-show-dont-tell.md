@@ -6,6 +6,8 @@ metadata:
   source_book: "《你能写出好故事》 Lisa Cron"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\你能写出好故事\\wfs-show-dont-tell\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 它配两条护栏：(1) **共情先于可爱**——读者不需要喜欢主人公，只需要「附着」在他处境上；反套路角色可以 prickly、固执、不讨喜（毒舌），只要动机可理解就黏人，别写成完美讨喜的「国民奶奶」；(2) 两个反例——**ce08（告知而非体验/说教）**：用「其实/显然/可想而知」替观众总结，剥夺自行得出的乐趣；**ce30（标签化人物）**：「和蔼老奶奶」「顽固老爷子」靠形容词定义，关上门，要用具体习惯/动作立人（偷穿已故老伴的拖鞋、用老年机记仇）。

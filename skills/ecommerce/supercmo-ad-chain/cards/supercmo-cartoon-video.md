@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-cartoon-video
+evidence: E4
+
 ---
 
 # 绘画风产品视频：风格、二择与数据纪律

@@ -6,6 +6,8 @@ metadata:
   source_book: "写好短剧（查理）"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\写好短剧\\expert\\dxj-short-drama-structure\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 

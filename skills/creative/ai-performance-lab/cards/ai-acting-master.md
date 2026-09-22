@@ -6,6 +6,8 @@ metadata:
   source_book: "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪（小歪的AI工具箱）"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ai-role-acting-prompt\\ai-acting-master\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

@@ -6,6 +6,8 @@ metadata:
   source_book: "Grammar of the Film Language (Daniel Arijon)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Grammar of the Film Language\\gfl-shot-grammar\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

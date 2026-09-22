@@ -6,6 +6,8 @@ metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\奥格威谈广告\\蒸馏skill\\brand-image-consistency\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

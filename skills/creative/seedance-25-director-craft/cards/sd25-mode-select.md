@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["一图成片-电影广告全能导演"]
 first_seen: 2026-09-21
 source_card: seedance-2.5 导演/sd25-mode-select
+evidence: E4
+
 ---
 
 # 主模式单选与交付物锁定

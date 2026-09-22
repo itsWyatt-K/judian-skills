@@ -6,6 +6,8 @@ metadata:
   source_book: "循环工程"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\循环工程\\蒸馏skill\\three-stage-evolution\\SKILL.md"
+evidence: E4
+
 ---
 ## I — Interpretation (自述)
 

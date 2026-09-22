@@ -6,6 +6,8 @@ metadata:
   source_book: "Acting for Animators (Ed Hooks, 3rd ed., Routledge)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Acting for Animators\\expert\\afa-gaming-animation\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 为每个动作状态定义「意图帧」(哪怕2帧准备)

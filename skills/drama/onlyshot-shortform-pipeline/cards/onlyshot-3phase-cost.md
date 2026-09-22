@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-3phase-cost
+evidence: E4
+
 ---
 
 # 三阶段成本分层：先锁首帧再烧视频钱

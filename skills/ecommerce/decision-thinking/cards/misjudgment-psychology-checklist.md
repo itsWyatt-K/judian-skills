@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\misjudgment-psychology-checklist\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 人类的判断错误不是随机的，而是由约25种可识别的心理倾向系统性造成的。芒格自创了一套面向决策的实用清单体系，不同于学术心理学分类——每种倾向都配有真实案例和防范方法。核心用法是：在重要决策前，将25种倾向作为检查清单逐项自审，识别哪些偏差可能正在扭曲自己或他人的判断。尤其要警惕多种倾向的交互效应——它们同时朝一个方向作用时，后果远超单一偏差。

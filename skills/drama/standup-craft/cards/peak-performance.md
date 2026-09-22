@@ -6,6 +6,8 @@ metadata:
   source_book: "Step by Step to Stand-Up Comedy (Greg Dean, Revised Edition)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Greg-Dean-英文版-定制版\\expert\\peak-performance\\SKILL.md"
+evidence: E4
+
 ---
 ## I — Interpretation
 

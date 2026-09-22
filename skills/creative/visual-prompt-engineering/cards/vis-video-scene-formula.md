@@ -17,6 +17,8 @@ source_license: "CC-BY-4.0"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-scene-formula
+evidence: E4
+
 ---
 
 # 场景五要素公式

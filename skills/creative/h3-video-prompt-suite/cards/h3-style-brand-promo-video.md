@@ -18,6 +18,8 @@ source_license: "MiniMax 官方文档（署名引用）"
 upstream_defer: ["顶级波普视觉广告导演"]
 first_seen: 2026-08-24
 source_card: MiniMax H3 提示词规范/h3-style-brand-promo-video
+evidence: E4
+
 ---
 
 ## R — 风格定义（Reading）

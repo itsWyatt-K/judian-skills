@@ -16,6 +16,8 @@ source_repo: "https://github.com/freestylefly/awesome-gpt-image-2"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: freestylefly 风格库/freestyle-pitfalls
+evidence: E4
+
 ---
 
 # 模板陷阱清单

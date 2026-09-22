@@ -6,6 +6,8 @@ metadata:
   source_book: "《崔凯文集·喜剧小品卷》 崔凯 著"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\崔凯文集\\expert\\cuowei-wuhui\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

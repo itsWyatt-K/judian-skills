@@ -6,6 +6,8 @@ metadata:
   source_book: "In the Blink of an Eye (Walter Murch, 2nd ed., Silman-James Press)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\In the Blink of an Eye\\expert\\ibe-sound-first\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 尝试先铺声音轨再剪画面（哪怕只是临时音）

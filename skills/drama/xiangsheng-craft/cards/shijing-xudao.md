@@ -6,6 +6,8 @@ metadata:
   source_book: "《马三立表演相声精品集》 王文章 主编"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\马三立表演相声精品集\\expert\\shijing-xudao\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

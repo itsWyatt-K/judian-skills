@@ -6,6 +6,8 @@ metadata:
   source_book: "《X秘籍》 Yangyi @Yangyixxxx + 木马人 @cnyzgkc"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\X秘籍\\蒸馏skill\\x-comment-engagement\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

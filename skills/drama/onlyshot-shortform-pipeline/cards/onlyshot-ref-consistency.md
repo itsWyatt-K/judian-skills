@@ -16,6 +16,8 @@ source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-ref-consistency
+evidence: E4
+
 ---
 
 # 多 ref 一致性衰减 + 串行纪律

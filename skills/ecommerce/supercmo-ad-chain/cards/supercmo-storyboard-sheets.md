@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["叙事短片导演分镜", "一图成片-电影广告全能导演"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-storyboard-sheets
+evidence: E4
+
 ---
 
 # 分镜 sheet：一镜一页的串行生成法

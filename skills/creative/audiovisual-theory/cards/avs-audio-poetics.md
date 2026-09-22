@@ -6,6 +6,8 @@ metadata:
   source_book: "Audio-Vision: Sound on Screen (Michel Chion, trans. Claudia Gorbman)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Audio-Vision Sound on Screen\\expert\\avs-audio-poetics\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 关掉画面只听声音：能讲出故事吗？

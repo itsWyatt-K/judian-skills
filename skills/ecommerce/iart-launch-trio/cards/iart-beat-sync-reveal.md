@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["名导十五秒视频风格资产引擎"]
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-beat-sync-reveal
+evidence: E4
+
 ---
 
 # 卡点发布：瞬态切点与砸点

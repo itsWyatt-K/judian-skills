@@ -16,6 +16,8 @@ source_repo: "https://github.com/lixiaoxiao9888-create/short-drama-factory"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: short-drama-factory 剧本工厂/factory-ledger
+evidence: E4
+
 ---
 
 # 连续性台账四类账

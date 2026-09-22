@@ -6,6 +6,8 @@ metadata:
   source_book: "《穷查理宝典》 查理·芒格"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\穷查理宝典\\蒸馏skill\\incentive-analysis\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 理解任何人类行为或组织行为的第一步，是分析激励机制——谁有什么激励，被激励去做什么。芒格将"奖励超级反应倾向"列为25种心理倾向之首，因为它的威力超过其他一切因素。核心洞察：人们不是按你说的做，而是按他们被激励的方向做；当行为与声称的目标不一致时，几乎总能找到激励机制的根源。尤其危险的是"激励机制引起的偏见"——即使受过高等教育、道德高尚的人，也会在激励驱动下有意或无意做出不道德行为，并为自己的行为寻找正当理由。说服他人时，从对方利益出发比从道理出发有效得多。

@@ -17,6 +17,8 @@ source_license: "Apache-2.0"
 upstream_defer: ["叙事短片导演分镜", "一图成片-电影广告全能导演"]
 first_seen: 2026-09-21
 source_card: superCMO 广告链路/supercmo-product-video-ads
+evidence: E4
+
 ---
 
 # 产品商业视频：一份描述走全片

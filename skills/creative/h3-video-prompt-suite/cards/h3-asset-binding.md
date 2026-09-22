@@ -17,6 +17,8 @@ source_license: "MiniMax 官方文档（署名引用）"
 upstream_defer: ["叙事短片导演分镜"]
 first_seen: 2026-08-14
 source_card: MiniMax H3 提示词规范/h3-asset-binding
+evidence: E4
+
 ---
 
 ## R — 原文 (Reading)

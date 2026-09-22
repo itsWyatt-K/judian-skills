@@ -16,6 +16,8 @@ source_repo: "https://github.com/A-cat-with-carrots/OnlyShot"
 source_license: "MIT"
 first_seen: 2026-09-20
 source_card: OnlyShot 短剧流水线/onlyshot-fail-triage
+evidence: E4
+
 ---
 
 # 生成失败三分诊 + 字数硬上限

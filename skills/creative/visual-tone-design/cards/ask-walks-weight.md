@@ -6,6 +6,8 @@ metadata:
   source_book: "The Animator's Survival Kit (Richard Williams, Faber & Faber)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\The Animators Survival Kit\\expert\\ask-walks-weight\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 拆一个 walk：标出 4 态的帧

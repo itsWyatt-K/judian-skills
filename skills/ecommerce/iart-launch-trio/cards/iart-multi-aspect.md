@@ -16,6 +16,8 @@ source_repo: "https://github.com/iart-ai/ad-video-skills"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-multi-aspect
+evidence: E4
+
 ---
 
 # 多画幅安全区法则

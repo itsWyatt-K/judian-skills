@@ -6,6 +6,8 @@ metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\思考快与慢\\蒸馏skill\\expert-intuition-validity\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 解释
 

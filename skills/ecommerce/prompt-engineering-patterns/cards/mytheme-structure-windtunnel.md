@@ -6,6 +6,8 @@ metadata:
   source_book: "基于 ljg-structure (lijigang) 酿笑坊定制"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\元方法论\\母题结构风洞\\SKILL.md"
+evidence: E4
+
 ---
 ## A 段：什么时候用
 

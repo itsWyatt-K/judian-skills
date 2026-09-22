@@ -17,6 +17,8 @@ source_license: "CC-BY-4.0"
 upstream_defer: ["名导十五秒视频风格资产引擎"]
 first_seen: 2026-09-21
 source_card: visual-skills 视觉叙事/vis-video-universal-rules
+evidence: E4
+
 ---
 
 # 视频提示词通用规则 U1-U14

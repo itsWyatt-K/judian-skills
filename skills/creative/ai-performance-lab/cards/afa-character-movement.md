@@ -6,6 +6,8 @@ metadata:
   source_book: "Acting for Animators (Ed Hooks, 3rd ed., Routledge)"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Acting for Animators\\expert\\afa-character-movement\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 实操清单
 - [ ] 关掉表情仅靠姿态能传多少信息？

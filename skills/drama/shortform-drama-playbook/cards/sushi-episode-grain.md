@@ -6,6 +6,8 @@ metadata:
   source_book: "《俗世奇人全本》（冯骥才，人民文学出版社 2020）"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\俗世奇人全本\\sushi-episode-grain\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

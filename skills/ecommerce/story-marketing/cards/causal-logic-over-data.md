@@ -6,6 +6,8 @@ metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\故事经济学\\蒸馏skill\\causal-logic-over-data\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 

@@ -1,11 +1,12 @@
 ---
-name: story-marketing
-description: "当把广告与品牌写成观众愿意看的故事时调用（本包由 15 张方法论卡汇编而成，蒸馏自《故事经济学》）。核心能力：故事营销：用叙事做品牌与销售。关键触发：“太顺、主角开挂、没看头”、“要不要投付费、投多少”、“要点罗列”、“故事化转型”、“先给价值还是先推产品”、“在哪、价值主轴是什么。\n2. 诊断”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。"
-tags: ["剧典重铸", "故事营销"]
+name: 故事营销八阶段
+description: "让顾客追着听你的品牌故事：需求内容、故事设计与八阶段推进。当内容没人看、品牌讲不出故事，或营销只会在硬广里打转时调用。"
+tags: ["social"]
 metadata:
   version: 1.0.0
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   card_count: 15
+  evidence_floor: E4
 ---
 
 # 故事营销：用叙事做品牌与销售
@@ -17,23 +18,64 @@ metadata:
 当把广告与品牌写成观众愿意看的故事时调用（本包由 15 张方法论卡汇编而成，蒸馏自《故事经济学》）。核心能力：故事营销：用叙事做品牌与销售。关键触发：“太顺、主角开挂、没看头”、“要不要投付费、投多少”、“要点罗列”、“故事化转型”、“先给价值还是先推产品”、“在哪、价值主轴是什么。
 2. 诊断”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
+## 本包交付什么
+
+用户提出需求时，本包最终交付：
+
+1. **品牌故事主线**
+2. **八阶段推进计划**
+3. **需求内容清单**
+
+### 内容保真优先级
+
+冲突时按此顺序裁决，禁止圆场：
+
+1. **用户明确指定**（时长/风格/禁项/参考职责）；
+2. **故事真实不发生造**；
+3. **内容先建需求再谈转化**；
+4. 风格与质感装饰。
+
+### 默认决策
+
+用户未指定时采用，并在交付前用一句话说明选了什么：
+
+- **阶段：未说则从需求内容起步**
+- **视角：默认用户视角非品牌自夸**
+- **频次：先保质地再提量**
+
+### 质量门槛
+
+交付前逐项自检，任一项不过就改完再交：
+
+- [ ] 故事是否有真实细节支撑
+- [ ] 八阶段是否有先后不跳
+- [ ] 是否避免硬广冒充故事
+- [ ] 是否可衡量（有无指标）
+
 ## 包内卡片名录
 
-- `antagonistic-forces` — 对抗力量四层面 + 转折点
-- `building-audience` — 建立受众三杠杆
-- `causal-logic-over-data` — 数据 vs 故事 + 演绎逻辑→因果逻辑
-- `cmo-showrunner` — CMO 作为变革推动者 + 节目运作人
-- `content-marketing-demand` — 故事化需求开发与内容营销
-- `core-value-binary` — 核心价值二元对立 + 善意核心
-- `marginal-utility-decline` — 边际效用递减 / 事不过三
-- `marketing-continuum` — 营销连续统一体
-- `negation-principle` — 否定原则 vs 负面恐惧症
-- `purpose-told-story` — 目的导向型故事
-- `storied-branding` — 故事化品牌策略
-- `storied-sales` — 故事化销售
-- `storified-advertising` — 故事化广告
-- `story-design-eight-stages` — 故事设计的八个阶段
-- `storynomics-economics` — 故事经济学衡量
+- `cards/antagonistic-forces.md` — 对抗力量四层面 + 转折点
+- `cards/building-audience.md` — 建立受众三杠杆
+- `cards/causal-logic-over-data.md` — 数据 vs 故事 + 演绎逻辑→因果逻辑
+- `cards/cmo-showrunner.md` — CMO 作为变革推动者 + 节目运作人
+- `cards/content-marketing-demand.md` — 故事化需求开发与内容营销
+- `cards/core-value-binary.md` — 核心价值二元对立 + 善意核心
+- `cards/marginal-utility-decline.md` — 边际效用递减 / 事不过三
+- `cards/marketing-continuum.md` — 营销连续统一体
+- `cards/negation-principle.md` — 否定原则 vs 负面恐惧症
+- `cards/purpose-told-story.md` — 目的导向型故事
+- `cards/storied-branding.md` — 故事化品牌策略
+- `cards/storied-sales.md` — 故事化销售
+- `cards/storified-advertising.md` — 故事化广告
+- `cards/story-design-eight-stages.md` — 故事设计的八个阶段
+- `cards/storynomics-economics.md` — 故事经济学衡量
+
+## 证据等级说明
+
+本包卡片证据等级为 **E4（成熟专业方法重铸）**：方法论来自出版书籍与行业方法的独立重铸，尚未在当前模型上逐条做真实成片验证
+使用时请知悉：标注 E4/E5 的规则表示"专业上成立"或"可作启发"，
+**不表示当前模型已能稳定执行**。若某条规则在你的实测中失效，按卡内 frontmatter 的
+`evidence` 字段记录实际等级并回报，不要静默虚标为 E1/E2。
 
 ## 使用纪律
 

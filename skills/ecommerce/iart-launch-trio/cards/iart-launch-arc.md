@@ -16,6 +16,8 @@ source_repo: "https://github.com/iart-ai/ad-video-skills"
 source_license: "MIT"
 first_seen: 2026-09-21
 source_card: iart 广告三件套/iart-launch-arc
+evidence: E4
+
 ---
 
 # 发布片五拍弧线

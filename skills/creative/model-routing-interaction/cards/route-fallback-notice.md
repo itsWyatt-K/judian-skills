@@ -16,6 +16,8 @@ source_repo: ""
 source_license: ""
 first_seen: 2026-09-21
 source_card: 创作路由与交互/route-fallback-notice
+evidence: E4
+
 ---
 
 # 缺路由降级提示

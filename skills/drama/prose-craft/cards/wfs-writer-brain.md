@@ -6,6 +6,8 @@ metadata:
   source_book: "《你能写出好故事》 Lisa Cron / 丽萨·克龙"
   attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\你能写出好故事\\wfs-writer-brain\\SKILL.md"
+evidence: E4
+
 ---
 ## I — 方法论骨架 (Interpretation)
 - **作者也有内在问题**: 你或许自己就藏着"老了就没用""老人是负担/是祥林嫂/是国民奶奶"的错信。这些预设会不经意的渗进每一个老人角色，让他们整齐地"符合作者的某种执念"，而非各自活成真实的人。

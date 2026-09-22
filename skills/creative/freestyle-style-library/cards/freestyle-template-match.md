@@ -17,6 +17,8 @@ source_license: "MIT"
 upstream_defer: ["系列套图生成"]
 first_seen: 2026-09-21
 source_card: freestylefly 风格库/freestyle-template-match
+evidence: E4
+
 ---
 
 # 风格库四级匹配序
