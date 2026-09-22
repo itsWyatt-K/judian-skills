@@ -94,8 +94,9 @@ v2.0.0 做了一次**可用性改造**（不是内容扩充）：
 ## 文档
 
 - [`docs/PACK-UPGRADE-CONTRACT.md`](docs/PACK-UPGRADE-CONTRACT.md) —— v2.0.0 改造规范、动机、实测证据与验收标准
+- [`docs/scene-starter-picks.md`](docs/scene-starter-picks.md) —— 新手场景推荐表：说人话 → 装哪个（先单卡后域包，附 56 个单卡场景索引）
 - [`docs/selection-recipes.md`](docs/selection-recipes.md) —— 场景 → 域包配方速查表（每轮最多激活 8 个技能）
-- [`scene-recipe-concierge`](skills/creative/scene-recipe-concierge/SKILL.md) —— 门房技能：不知道选哪个包时先激活它，三问定位 + 配方表推荐（只建议不代选）
+- [`scene-recipe-concierge`](skills/creative/scene-recipe-concierge/SKILL.md) —— 门房技能：不知道选哪个技能时先激活它，三问定位 + 配方表推荐（只建议不代选）
 - [`seed-contribution/`](seed-contribution/) —— 上游 `skills.json` 种子投稿素材（35 条域包条目，由 `packs_to_seed.py` 生成；`id_ledger.json` 为 ID 台账，编号一经分配永不变更）
 
 ## 与上游的协作
