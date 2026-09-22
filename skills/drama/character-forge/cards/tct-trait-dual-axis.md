@@ -4,7 +4,7 @@ description: "当需要用户困惑「为什么好人设不讨喜 / 为什么反
 tags: ["trait", "dual-axis", "degree", "flaw", "balance"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\The Character Trait Thesaurus\\tct-trait-dual-axis\\SKILL.md"
 evidence: E4
 

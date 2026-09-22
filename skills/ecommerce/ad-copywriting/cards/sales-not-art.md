@@ -4,8 +4,8 @@ description: "当需要团队在文案评审时，陷入\"够不够有创意\"�
 tags: ["philosophy", "mindset", "sales-vs-art", "copywriting"]
 metadata:
   source_book: "《文案创作完全手册》罗伯特·布莱"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\文案创作完全手册\\蒸馏skill\\sales-not-art\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\文案创作完全手册\\整理skill\\sales-not-art\\SKILL.md"
 evidence: E4
 
 ---

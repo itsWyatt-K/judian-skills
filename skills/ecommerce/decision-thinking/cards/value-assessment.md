@@ -4,8 +4,8 @@ description: "当需要评估一项投资(股票/基金/创业项目)是否值�
 tags: ["投资评估", "安全边际", "护城河", "定价权"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\value-assessment\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\value-assessment\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "当用户说\"尹小歪那套人像/演技提示词怎么用\"、\
 tags: ["prompt", "image-gen", "portrait", "acting", "cross-media", "family-master", "portrait-acting"]
 metadata:
   source_book: "13-AI角色表演与资产"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\yinxiaowai-family\\yinxiaowai-family-master\\SKILL.md"
 evidence: E4
 

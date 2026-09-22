@@ -4,18 +4,18 @@ description: "把'不像人话'的对白改成带行动与潜台词的对话：�
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 19
   evidence_floor: E4
 ---
 
 # 对白工坊：对白即动作、潜台词与表达姿态
 
-> 本包由 19 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 19 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当写对白、修对白、用对白推进故事时调用（本包由 19 张方法论卡汇编而成，蒸馏自《故事写作大师班》、《对白：文字、舞台、银幕的言语行为艺术》、《崔凯文集·喜剧小品卷》、《我爱我家台词》、《把自己当回事儿》）。核心能力：对白工坊：对白即动作、潜台词与表达姿态。关键触发：“我的对白全是交代剧情”、“太平了／没味道／不像人话”、“推不动／重复／拖沓”、“读着别扭／假／出戏”、“还没想清楚。
+当写对白、修对白、用对白推进故事时调用（本包由 19 张方法论卡汇编而成，整理自《故事写作大师班》、《对白：文字、舞台、银幕的言语行为艺术》、《崔凯文集·喜剧小品卷》、《我爱我家台词》、《把自己当回事儿》）。核心能力：对白工坊：对白即动作、潜台词与表达姿态。关键触发：“我的对白全是交代剧情”、“太平了／没味道／不像人话”、“推不动／重复／拖沓”、“读着别扭／假／出戏”、“还没想清楚。
 2. 写完后角色行为突兀，被问”、“解释性大肚子”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么

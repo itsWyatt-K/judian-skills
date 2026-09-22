@@ -4,7 +4,7 @@ description: "挑一个看似离题、却能反推性格的物件/习惯/动作�
 tags: ["写作技法", "细节", "闲笔", "情感锚点"]
 metadata:
   source_book: "《俗世奇人全本》 冯骥才"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\俗世奇人（冯骥才）\\ssqr-idle-detail\\SKILL.md"
 evidence: E4
 

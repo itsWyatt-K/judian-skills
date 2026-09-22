@@ -4,7 +4,7 @@ description: "当需要单集分场时不知笑点该落在谁身上、重心怎
 tags: ["单集结构", "重心", "团队喜剧"]
 metadata:
   source_book: "《超棒喜剧这样写》 Steve Kaplan"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\超棒喜剧这样写：好莱坞喜剧教父编剧技艺大解密\\kom-straight-wavy-line\\SKILL.md"
 evidence: E4
 

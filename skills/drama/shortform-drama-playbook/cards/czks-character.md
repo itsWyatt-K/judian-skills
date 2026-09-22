@@ -4,7 +4,7 @@ description: "塑造有血有肉人物的系统技法：先用网络热词给角
 tags: ["人物塑造", "人设标签", "人物弧光", "记忆点", "角色驱动", "对白"]
 metadata:
   source_book: "从零开始学短剧创作（孙文琴,爱丽丝著）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\从零开始学短剧创作\\expert\\czks-character\\SKILL.md"
 evidence: E4
 

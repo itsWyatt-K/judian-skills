@@ -4,8 +4,8 @@ description: "当需要**新号没粉丝,发了推文没人看**——需要漏�
 tags: ["cold-start", "growth-funnel", "prioritization", "engagement-strategy", "new-account"]
 metadata:
   source_book: "《X秘籍》 AIP出海教程 / 木马人"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-cold-start-playbook\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-cold-start-playbook\\SKILL.md"
 evidence: E4
 
 ---

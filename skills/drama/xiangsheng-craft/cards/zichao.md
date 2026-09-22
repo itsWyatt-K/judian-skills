@@ -4,7 +4,7 @@ description: "当需要短视频人设：\"手残党\"\"抠门精\"\"社恐星�
 tags: ["H5", "自嘲", "市井", "自黑", "人设"]
 metadata:
   source_book: "《中国传统相声大全（全五卷）》 刘英男 编"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\中国传统相声大全\\expert\\zichao\\SKILL.md"
 evidence: E4
 

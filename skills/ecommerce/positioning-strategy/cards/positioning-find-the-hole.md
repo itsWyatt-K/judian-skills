@@ -4,8 +4,8 @@ description: "当需要新品/新服务/新栏目立项，需要确定切入方�
 tags: ["定位", "差异化", "细分市场", "新品", "扫描法"]
 metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\定位\\蒸馏skill\\positioning-find-the-hole\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\定位\\整理skill\\positioning-find-the-hole\\SKILL.md"
 evidence: E4
 
 ---

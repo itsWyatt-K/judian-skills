@@ -4,8 +4,8 @@ description: "当需要主页/首页改版，各方诉求塞不下，不知道�
 tags: ["首页", "首屏", "取舍", "价值主张"]
 metadata:
   source_book: "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\点石成金\\蒸馏skill\\homepage-three-seconds\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\点石成金\\整理skill\\homepage-three-seconds\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要评审会/需求会上为某个交互、文案、布局�
 tags: ["团队协作", "争论裁决", "决策", "用户研究"]
 metadata:
   source_book: "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\点石成金\\蒸馏skill\\average-user-fallacy\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\点石成金\\整理skill\\average-user-fallacy\\SKILL.md"
 evidence: E4
 
 ---

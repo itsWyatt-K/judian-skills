@@ -4,8 +4,8 @@ description: "当用户说\"语音场景下的输出优化\"、\"需要口语化
 tags: ["语音", "口语优化", "简洁输出", "语音安全", "对话设计"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\voice-optimization\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\voice-optimization\\SKILL.md"
 evidence: E4
 
 ---

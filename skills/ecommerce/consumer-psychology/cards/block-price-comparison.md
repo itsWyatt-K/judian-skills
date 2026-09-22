@@ -4,8 +4,8 @@ description: "当需要与竞品同质化，客户拿着对方报价单逐条压
 tags: ["定价", "捆绑", "bundling", "price-comparison"]
 metadata:
   source_book: "《无价：洞悉大众心理玩转价格游戏（经典版）》 威廉·庞德斯通"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\无价\\蒸馏skill\\block-price-comparison\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\无价\\整理skill\\block-price-comparison\\SKILL.md"
 evidence: E4
 
 ---

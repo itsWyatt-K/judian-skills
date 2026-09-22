@@ -4,7 +4,7 @@ description: "当用户要呈现人物内心/意识流、纠结'内心想法要�
 tags: ["意识", "心理动机", "内心独白", "文学史", "视角"]
 metadata:
   source_book: "小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\小说机杼\\xsjz-consciousness\\SKILL.md"
 evidence: E4
 
@@ -128,7 +128,7 @@ evidence: E4
 ### 所属层级
 - **主层**：A9（新提案：意识/动机分层呈现）——人物内心如何被看见，属人物弧光层的"心理呈现维度"。
 - **副层**：N4 信息释放节奏——内心信息的释放（何时让读者猜到多少）是信息释放节奏的内心版。
-- **候选层**：A9 为本书新提案；N4 为 LIBRARY 候选层（待蒸馏）。
+- **候选层**：A9 为本书新提案；N4 为 LIBRARY 候选层（待整理）。
 - **母题风洞验证**：✅ 已通过（M3 谁被看见）。
 
 ### 分层说明

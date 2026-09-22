@@ -4,8 +4,8 @@ description: "当需要**抱怨点分散**：每个用户吐槽的都不一样�
 tags: ["customization", "personalization", "product", "service-design"]
 metadata:
   source_book: "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\体验经济\\蒸馏skill\\mass-customization-four-modes\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\体验经济\\整理skill\\mass-customization-four-modes\\SKILL.md"
 evidence: E4
 
 ---
@@ -198,7 +198,7 @@ evidence: E4
 
 - **案例来自 1990s 末的制造业与实体服务业**（戴尔、安德森制窗、惠而浦、丽嘉、CEMEX）。**案例已过时；数字化与算法推荐语境下需重新检验**——但四格的两条正交轴（改产出 × 改形式）是结构性的，在 SaaS、内容推荐、电商个性化上依然直接可用。
 - **⚠️ "顾客根本不想选择"被过度普遍化。**这在配置复杂、决策成本高的品类成立；但在娱乐、时尚、餐饮、内容消费中，**选择本身就是体验的一部分**（逛、挑、淘、比）。本书没有给出边界，使用时须自补：**选择是成本还是乐趣？是成本 → 定制；是乐趣 → 保留选择并优化选择体验。**
-- **算法个性化的阴暗面完全缺席**：透明型定制在 1999 年是丽嘉酒店记住你的枕头偏好，在今天是行为追踪、隐私、信息茧房、算法歧视与"杀熟"。**书中把"暗中观察顾客"当作纯粹的好事，这在今天不成立**——透明型定制必须叠加隐私合规与可解释性设计（这一层是本次蒸馏补入的）。
+- **算法个性化的阴暗面完全缺席**：透明型定制在 1999 年是丽嘉酒店记住你的枕头偏好，在今天是行为追踪、隐私、信息茧房、算法歧视与"杀熟"。**书中把"暗中观察顾客"当作纯粹的好事，这在今天不成立**——透明型定制必须叠加隐私合规与可解释性设计（这一层是本次整理补入的）。
 - **学习关系壁垒被高估**：书中认为顾客不会走因为要重新教会对手。但数据可迁移、跨平台账号导入、AI 冷启动能力已大幅削弱这一壁垒。
 - **共创视角缺失**（作者自认）：四种方式都是企业主导，UGC 与开放平台模式下顾客自己就是生产者。
 - **未讨论定制的成本上限**：所有案例都假定定制能力可以低成本获得，没有失败样本。

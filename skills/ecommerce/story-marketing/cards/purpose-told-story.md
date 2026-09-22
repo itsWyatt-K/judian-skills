@@ -4,8 +4,8 @@ description: "当需要要把产品/品牌/服务讲成\"能让人想买\"的故
 tags: ["目的型故事", "三个目标", "镜像体验", "营销"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\purpose-told-story\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\purpose-told-story\\SKILL.md"
 evidence: E4
 
 ---

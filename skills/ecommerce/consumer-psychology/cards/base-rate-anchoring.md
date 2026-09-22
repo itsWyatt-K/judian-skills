@@ -4,8 +4,8 @@ description: "当用户说\"这个人适不适合\"、\"这家公司/这个项�
 tags: ["概率", "判断", "招聘", "贝叶斯", "决策卫生"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\base-rate-anchoring\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\base-rate-anchoring\\SKILL.md"
 evidence: E4
 
 ---
@@ -82,7 +82,7 @@ evidence: E4
 | 估**某个项目**要多久、花多少钱 | | → `outside-view-forecast`（那是参考类别预测，用于工期成本） |
 | 已经有一个数值预测，问它该不该更保守 | | → `regression-prediction-moderation`（那是收缩，本 skill 是起点选择） |
 | 怀疑自己回答的根本不是那个问题 | | → `question-substitution-check`（上游分诊台） |
-| 想给这类判断装一个稳定评分表，彻底不靠印象 | | → `formula-over-intuition`（本书已验证 · 待蒸馏） |
+| 想给这类判断装一个稳定评分表，彻底不靠印象 | | → `formula-over-intuition`（本书已验证 · 待整理） |
 | 谈判中对方先抛了一个数字压住你 | | → `anchor-antidote`（那是**谈判锚定**，与统计基础比率无关） |
 
 #### ★ 与另外两个"预测类"skill 的硬判据
@@ -168,10 +168,10 @@ evidence: E4
 - **composes-with**: `outside-view-forecast` — 同源方法（都是"先看类别再看个案"）的两个分支：本 skill 面向**个案概率与归类**，那个面向**工期、成本、完成率**。执行步骤 1–2 几乎相同。
 - **composes-with**: `regression-prediction-moderation` — 天然串联：本 skill 定基准值，那个决定从基准向直觉走多远（按相关系数比例收缩）。二者合起来就是第 18 章的"直觉预测修正四步法"。
 - **contrasts-with**: `availability-bias-correction` — 频率估计 vs 个案归类，是代表性与可得性两条不同的启发法。
-- **composes-with**: `formula-over-intuition`（本书已验证 · 待蒸馏）— 当同类归类判断反复发生（招聘、信贷、审核），把本 skill 固化成评分表是最终解。
+- **composes-with**: `formula-over-intuition`（本书已验证 · 待整理）— 当同类归类判断反复发生（招聘、信贷、审核），把本 skill 固化成评分表是最终解。
 - **contrasts-with**: `anchor-antidote` / `anchor-first-offer` — **完全不同的"锚"**。那两个处理谈判与定价中的数字锚定，本 skill 处理统计基准。切勿混用。
 - **composes-with**: `question-substitution-check` — 上游分诊台。当替换形式是"它像不像该类别的典型"时，转交本 skill。
 
-> 标注「待蒸馏」的是本书 `verified.md` 已通过三重验证、但尚未构造 SKILL.md 的单元，**不是可调用依赖**。完整清单见 [INDEX.md](../INDEX.md)。
+> 标注「待整理」的是本书 `verified.md` 已通过三重验证、但尚未构造 SKILL.md 的单元，**不是可调用依赖**。完整清单见 [INDEX.md](../INDEX.md)。
 
 ---

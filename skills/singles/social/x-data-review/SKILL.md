@@ -7,8 +7,8 @@ metadata:
   promoted_from: x-data-review
   evidence: E4
   source_book: "'《X秘籍》 AIP出海教程(@带队教练/GoSailGlobal)'"
-  source_card: "'classics\\X秘籍\\蒸馏skill\\x-data-review\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  source_card: "'classics\\X秘籍\\整理skill\\x-data-review\\SKILL.md'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

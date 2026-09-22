@@ -4,7 +4,7 @@ description: "用天津卫市井生态作透镜看人——五方杂处、崇奇
 tags: ["视角", "市井", "地域性格", "天津卫"]
 metadata:
   source_book: "《俗世奇人全本》 冯骥才"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\俗世奇人（冯骥才）\\ssqr-tianjin-lens\\SKILL.md"
 evidence: E4
 

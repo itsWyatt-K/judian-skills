@@ -4,7 +4,7 @@ description: "当需要防骗/反迷信科普：讲清骗术机制，不喊口�
 tags: ["拆穿", "防骗", "悬念", "递减落空", "话术"]
 metadata:
   source_book: "《马三立表演相声精品集》 王文章 主编"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\马三立表演相声精品集\\expert\\pianju-chaichuan\\SKILL.md"
 evidence: E4
 

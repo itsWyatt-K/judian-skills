@@ -4,8 +4,8 @@ description: "当需要用户在设计营销内容的情绪基调，在\"温馨�
 tags: ["情绪", "唤醒度", "效价", "高唤醒", "低唤醒", "传播力"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\emotion-arousal-model\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\emotion-arousal-model\\SKILL.md"
 evidence: E4
 
 ---

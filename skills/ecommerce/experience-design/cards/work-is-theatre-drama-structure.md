@@ -4,8 +4,8 @@ description: "当需要**培训/课程学员反馈\"还行但记不住\"**，而
 tags: ["experience", "narrative", "service-design", "performance"]
 metadata:
   source_book: "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\体验经济\\蒸馏skill\\work-is-theatre-drama-structure\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\体验经济\\整理skill\\work-is-theatre-drama-structure\\SKILL.md"
 evidence: E4
 
 ---

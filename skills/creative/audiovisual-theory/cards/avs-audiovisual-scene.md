@@ -4,7 +4,7 @@ description: "Chion提出用「视听场景」(audiovisual scene)作为分析单
 tags: ["视听场景", "场景分析", "网格法", "节奏诊断", "匹配"]
 metadata:
   source_book: "Audio-Vision: Sound on Screen (Michel Chion, trans. Claudia Gorbman)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Audio-Vision Sound on Screen\\expert\\avs-audiovisual-scene\\SKILL.md"
 evidence: E4
 

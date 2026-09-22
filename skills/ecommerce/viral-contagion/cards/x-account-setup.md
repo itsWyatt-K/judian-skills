@@ -4,8 +4,8 @@ description: "当需要新号刚注册或老号刚解冻，不知道第一天该
 tags: ["account-setup", "cold-start", "blue-verification", "profile-optimization", "warm-up"]
 metadata:
   source_book: "《X秘籍》 多位创作者合集"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-account-setup\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-account-setup\\SKILL.md"
 evidence: E4
 
 ---

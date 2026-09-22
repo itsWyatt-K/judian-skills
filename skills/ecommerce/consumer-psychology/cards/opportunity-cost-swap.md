@@ -4,8 +4,8 @@ description: "当需要**大额消费犹豫**：车、家电、旅行、装修�
 tags: ["money", "opportunity-cost", "decision", "personal-finance", "budgeting"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\opportunity-cost-swap\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\opportunity-cost-swap\\SKILL.md"
 evidence: E4
 
 ---
@@ -200,6 +200,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `close-the-doors`
 - **composes-with**（常联用）: `mental-accounting-envelope`, `future-self-vividness`, `close-the-doors`
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

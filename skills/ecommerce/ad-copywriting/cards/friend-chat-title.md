@@ -4,8 +4,8 @@ description: "当需要写朋友圈推广文案，需要让标题像\"朋友在�
 tags: ["标题写作", "口语化", "亲切感", "读者关系", "社交文案"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\friend-chat-title\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\friend-chat-title\\SKILL.md"
 evidence: E4
 
 ---

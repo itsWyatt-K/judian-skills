@@ -4,7 +4,7 @@ description: "当需要**成长线断裂**: 第二幕后半写不下去，主角
 tags: ["positive-arc", "three-act", "character-growth"]
 metadata:
   source_book: "《Creating Character Arcs》 K.M. Weiland"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Creating Character Arcs\\cca-positive-arc\\SKILL.md"
 evidence: E4
 

@@ -4,8 +4,8 @@ description: "当用户说\"这类问题有多频繁\"、\"这个风险有多大
 tags: ["判断", "风险评估", "频率", "启发法", "资源分配"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\availability-bias-correction\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\availability-bias-correction\\SKILL.md"
 evidence: E4
 
 ---
@@ -94,8 +94,8 @@ evidence: E4
 | 估一个**项目**要多久、花多少钱 | | → `outside-view-forecast` |
 | 上季度极端表现之后的变化、下一期预测 | | → `regression-prediction-moderation` |
 | 证据本身太少却已形成结论 | | → `wysiati-evidence-audit` |
-| 已知概率，但对小概率的**态度**扭曲（保险/彩票/诉讼） | | → `fourfold-pattern-risk`（本书已验证 · 待蒸馏） |
-| 事故发生后归因、找责任人 | | → `hindsight-narrative-guard`（本书已验证 · 待蒸馏） |
+| 已知概率，但对小概率的**态度**扭曲（保险/彩票/诉讼） | | → `fourfold-pattern-risk`（本书已验证 · 待整理） |
+| 事故发生后归因、找责任人 | | → `hindsight-narrative-guard`（本书已验证 · 待整理） |
 
 **与三个预测类 skill 的一句话切分**：本 skill 修正的是**"这类事有多常见"的频率印象**（数据来自事件在世界上的发生率）；`base-rate-anchoring` **定起点**（个案属于哪类、概率多少）；`outside-view-forecast` **定分布**（项目工期成本）；`regression-prediction-moderation` **定从起点向直觉走多远**（极端值之后收缩多少）。判据：本 skill 的输入是**一堆容易想起的例子**，那三个的输入是**一个待预测的具体对象**。
 
@@ -166,9 +166,9 @@ evidence: E4
 - **composes-with**: `wysiati-evidence-audit` — 本 skill 的第 4 步"无声风险扫描"本质上是那个 skill 的"我不知道什么"清单在风险维度上的特化。
 - **composes-with**: `question-substitution-check` — 上游分诊台。当替换形式是"我能多容易想起例子"时，转交本 skill。
 - **contrasts-with**: `regression-prediction-moderation` — 本 skill 处理**频率印象被例子污染**；那个处理**极端值之后的变化与收缩**。共同点是都要回到分布，区别是本 skill 修的是"分布长什么样"，那个修的是"从分布走到个案要走多远"。
-- **contrasts-with**: `fourfold-pattern-risk`（本书已验证 · 待蒸馏）— 本 skill 修正**概率估计本身**；那个处理概率已知时**风险态度的扭曲**。二者串联使用：先估对概率，再检查态度。
-- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待蒸馏）— 一次事故之后，本 skill 防止"投入过度"，那个防止"归因过度"。事故复盘时通常两个都要用。
+- **contrasts-with**: `fourfold-pattern-risk`（本书已验证 · 待整理）— 本 skill 修正**概率估计本身**；那个处理概率已知时**风险态度的扭曲**。二者串联使用：先估对概率，再检查态度。
+- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待整理）— 一次事故之后，本 skill 防止"投入过度"，那个防止"归因过度"。事故复盘时通常两个都要用。
 
-> 标注「待蒸馏」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
+> 标注「待整理」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
 
 ---

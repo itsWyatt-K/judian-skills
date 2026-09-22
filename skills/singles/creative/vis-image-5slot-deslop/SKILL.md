@@ -14,7 +14,7 @@ metadata:
 
 ## R — 原文要点 (Reading)
 
-来源方法（CC-BY-4.0，蒸馏自 visual-skills image 参考库）：**GPT Image 2.5 五槽模板**——Scene（场景）/ Subject（主体）/ Important Details（重要细节）/ Use Case（用途）/ Constraints（约束）；参数杠杆 `quality: low/medium/high/xhigh/max` 是刻意的保真度旋钮；尺寸为 16 的倍数、最大 3:1、最高 4K（3840×2160）；编辑用两列逻辑（Change 改什么 / Preserve 保留什么 / Constraints 约束）；最多 16 张参考图且每张显式角色。**黄金规则**：动词开头、正向表述、十六进制色值、引号包文字、编辑不重掷（一次一改）。**去油腻（de-slop）**：模型默认先验会产生「一看就是 AI」的结果——禁用增压词（与视频侧同一禁单）；用**拍摄管线**替代形容词（机身+镜头+胶片+灯光设置+后期流程，如「shot on X, 50mm, available light, slight motion blur」）；植入**有位置的瑕疵**（located imperfections：特定位置的污渍/磨损/不对称），真实照片的不完美是定位的而非均匀的。**风格 DNA + 拒绝清单**：生成前用四行锁定强风格（主体处理/光线/色调/质感），生成后拿图对照 DNA 逐行验收。
+来源方法（CC-BY-4.0，整理自 visual-skills image 参考库）：**GPT Image 2.5 五槽模板**——Scene（场景）/ Subject（主体）/ Important Details（重要细节）/ Use Case（用途）/ Constraints（约束）；参数杠杆 `quality: low/medium/high/xhigh/max` 是刻意的保真度旋钮；尺寸为 16 的倍数、最大 3:1、最高 4K（3840×2160）；编辑用两列逻辑（Change 改什么 / Preserve 保留什么 / Constraints 约束）；最多 16 张参考图且每张显式角色。**黄金规则**：动词开头、正向表述、十六进制色值、引号包文字、编辑不重掷（一次一改）。**去油腻（de-slop）**：模型默认先验会产生「一看就是 AI」的结果——禁用增压词（与视频侧同一禁单）；用**拍摄管线**替代形容词（机身+镜头+胶片+灯光设置+后期流程，如「shot on X, 50mm, available light, slight motion blur」）；植入**有位置的瑕疵**（located imperfections：特定位置的污渍/磨损/不对称），真实照片的不完美是定位的而非均匀的。**风格 DNA + 拒绝清单**：生成前用四行锁定强风格（主体处理/光线/色调/质感），生成后拿图对照 DNA 逐行验收。
 
 ## I — 方法论骨架 (Interpretation)
 

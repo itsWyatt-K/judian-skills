@@ -18,8 +18,8 @@
         "Acting for Animators (Ed Hooks, 3rd ed., Routledge)",
         "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪",
         "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪（小歪的AI工具箱）",
-        "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并蒸馏）",
-        "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并蒸馏）"
+        "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并整理）",
+        "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并整理）"
       ]
     },
     "audiovisual-theory": {
@@ -437,7 +437,7 @@
       "slug": "fear-appeal",
       "kept_from": "爆款文案",
       "dropped_from": "引爆点",
-      "path": "D:\\AlcheMvision\\nxf\\knowledge\\classics\\引爆点\\蒸馏skill\\fear-appeal\\SKILL.md"
+      "path": "D:\\AlcheMvision\\nxf\\knowledge\\classics\\引爆点\\整理skill\\fear-appeal\\SKILL.md"
     }
   ],
   "excluded": [
@@ -445,139 +445,139 @@
       "slug": "cangjie-niangxiaofang",
       "zone": "comedy-humor",
       "category": "cangjie-niangxiaofang",
-      "reason": "我方蒸馏工具自身，非资产"
+      "reason": "我方整理工具自身，非资产"
     },
     {
       "slug": "ljg-blind",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-book",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-card",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-classic",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-constraint",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-invest",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-is",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-learn",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-paper",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-plain",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-present",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-push",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-qa",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-rank",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-read",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-relationship",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-roundtable",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-structure",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-think",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-travel",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-word",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "ljg-writes",
       "zone": "comedy-humor",
       "category": "vendor",
-      "reason": "vendor 第三方技能合集，非我方蒸馏产物"
+      "reason": "vendor 第三方技能合集，非我方整理产物"
     },
     {
       "slug": "andrej-karpathy-perspective",

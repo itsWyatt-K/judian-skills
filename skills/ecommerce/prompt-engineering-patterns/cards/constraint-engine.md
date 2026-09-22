@@ -4,7 +4,7 @@ description: "约束引擎——给一个领域/角色/议题找出真正框住�
 tags: ["元方法论", "约束分析", "三层硬度", "解空间", "假墙识别"]
 metadata:
   source_book: "ljg-constraint (lijigang/ljg-skills)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\元方法论\\约束引擎\\SKILL.md"
 evidence: E4
 
@@ -23,7 +23,7 @@ evidence: E4
 
 - 想找"什么在支撑这个领域"（生成力）→ 用**降秩引擎**
 - 想把一个观点纵向挖到底 → 用**追本之箭**
-- 想拆一本书 → 用**cangjie 全流程蒸馏**
+- 想拆一本书 → 用**cangjie 全流程整理**
 - 想解剖一个概念 → 用**概念解剖**
 - 只是想列困难、抱怨限制 → 约束引擎不做情绪宣泄
 

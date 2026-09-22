@@ -4,7 +4,7 @@ description: "Chion将聆听分为三种模式：因果聆听(听声音来源)�
 tags: ["聆听模式", "因果聆听", "语义聆听", "减量聆听", "注意力操控"]
 metadata:
   source_book: "Audio-Vision: Sound on Screen (Michel Chion, trans. Claudia Gorbman)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Audio-Vision Sound on Screen\\expert\\avs-three-listening-modes\\SKILL.md"
 evidence: E4
 

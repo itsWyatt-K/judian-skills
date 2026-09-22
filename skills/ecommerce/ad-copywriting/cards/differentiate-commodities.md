@@ -4,8 +4,8 @@ description: "当需要卖螺丝/垫片/原料/机床, 觉得\"大家一样\"。
 tags: ["differentiation", "b2b", "commodity", "strategy"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\differentiate-commodities\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\differentiate-commodities\\SKILL.md"
 evidence: E4
 
 ---

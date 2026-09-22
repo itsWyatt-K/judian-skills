@@ -4,8 +4,8 @@ description: "当需要设计稿用了黑底白字, 觉得\"高级\"。；广告
 tags: ["layout", "typography", "readability", "editorial"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\editorial-layout-no-reverse-type\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\editorial-layout-no-reverse-type\\SKILL.md"
 evidence: E4
 
 ---

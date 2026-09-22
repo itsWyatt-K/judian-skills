@@ -4,8 +4,8 @@ description: "当需要用户在写食品/饮品/个护等实体产品的文案�
 tags: ["感官描写", "六感模型", "体验设计", "购买欲激发", "具象化"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\sensory-occupation\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\sensory-occupation\\SKILL.md"
 evidence: E4
 
 ---

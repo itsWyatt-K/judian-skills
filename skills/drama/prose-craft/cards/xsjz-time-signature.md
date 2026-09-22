@@ -4,7 +4,7 @@ description: "当用户要写/改场景的氛围与生活感、觉得细节像�
 tags: ["拍号", "细节编排", "现实主义", "场景节奏", "福楼拜"]
 metadata:
   source_book: "小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\小说机杼\\xsjz-time-signature\\SKILL.md"
 evidence: E4
 
@@ -128,7 +128,7 @@ evidence: E4
 ### 所属层级
 - **主层**：N8（新提案：拍号并置/细节编排）——同一画面内不同时值细节的横向并置，属叙事节奏层尚未编号的维度。
 - **副层**：N5 场景呼吸——紧张段与松弛段交替的节奏原理在"句内"的微观版。
-- **候选层**：N8 为本书新提案；N5 为 LIBRARY 候选层（待蒸馏）。
+- **候选层**：N8 为本书新提案；N5 为 LIBRARY 候选层（待整理）。
 - **母题风洞验证**：✅ 已通过（M2 谁在看）。
 
 ### 分层说明

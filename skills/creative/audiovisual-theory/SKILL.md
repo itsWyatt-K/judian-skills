@@ -4,18 +4,18 @@ description: "搞懂声音与画面为什么动人：视听契约、声画对位
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 12
   evidence_floor: E4
 ---
 
 # 视听理论：声画对位/聚合/视听契约
 
-> 本包由 12 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 12 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当声音与画面关系的理论地基时调用（本包由 12 张方法论卡汇编而成，蒸馏自）。核心能力：视听理论：声画对位/聚合/视听契约。关键触发：“这声音哪来的”、“没动态就不能剪”、“睡一觉后的清醒”、“角色从哪来”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当声音与画面关系的理论地基时调用（本包由 12 张方法论卡汇编而成，整理自）。核心能力：视听理论：声画对位/聚合/视听契约。关键触发：“这声音哪来的”、“没动态就不能剪”、“睡一觉后的清醒”、“角色从哪来”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

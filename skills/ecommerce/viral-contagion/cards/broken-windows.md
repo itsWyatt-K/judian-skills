@@ -4,8 +4,8 @@ description: "当需要社区/园区/线下空间秩序恶化，犯罪或混乱�
 tags: ["broken-windows", "order", "context", "governance"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\broken-windows\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\broken-windows\\SKILL.md"
 evidence: E4
 
 ---

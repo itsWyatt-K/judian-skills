@@ -4,8 +4,8 @@ description: "当需要用户的产品是私下使用的（如软件工具、药
 tags: ["公共性", "可视性", "行为剩余", "自我广告", "社会证明"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\visibility-design\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\visibility-design\\SKILL.md"
 evidence: E4
 
 ---

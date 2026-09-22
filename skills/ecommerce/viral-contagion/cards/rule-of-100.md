@@ -4,8 +4,8 @@ description: "当需要电商运营在写促销海报/页面，纠结\"写省XX%
 tags: ["实用价值", "100规则", "折扣呈现", "促销文案", "行为经济学"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\rule-of-100\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\rule-of-100\\SKILL.md"
 evidence: E4
 
 ---

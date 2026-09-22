@@ -4,7 +4,7 @@ description: "当需要一集写完觉得\"很暖很团圆\"，但说不清观�
 tags: ["silver", "anti-trope", "guard", "pitfall", "diagnosis"]
 metadata:
   source_book: "《你能写出好故事》 Lisa Cron / 丽萨·克龙"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\你能写出好故事\\wfs-anti-trope-guard\\SKILL.md"
 evidence: E4
 

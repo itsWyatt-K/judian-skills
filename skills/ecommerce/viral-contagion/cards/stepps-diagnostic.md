@@ -4,8 +4,8 @@ description: "当需要用户正在策划一场营销活动或产品发布，想
 tags: ["传播力诊断", "STEPPS", "口碑传播", "社交货币", "诱因", "情绪", "公共性", "实用价值", "故事"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\stepps-diagnostic\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\stepps-diagnostic\\SKILL.md"
 evidence: E4
 
 ---

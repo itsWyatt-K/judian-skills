@@ -4,8 +4,8 @@ description: "当需要故事\"太顺、主角开挂、没看头\"——缺对�
 tags: ["对抗力量", "转折点", "冲突", "四层面"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\antagonistic-forces\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\antagonistic-forces\\SKILL.md"
 evidence: E4
 
 ---

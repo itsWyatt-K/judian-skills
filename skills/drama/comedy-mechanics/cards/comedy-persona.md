@@ -4,7 +4,7 @@ description: "用于打造一个可辨识、可记住的\"台上的我\"——�
 tags: ["人设", "persona", "喜剧人格", "视角", "A1", "H5"]
 metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\comedy-persona\\SKILL.md"
 evidence: E4
 

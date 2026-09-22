@@ -4,7 +4,7 @@ description: "当两个分镜方案都能表意纠结选炫的还是平的、分
 tags: ["镜头选择", "K.I.S.S", "镜头清晰", "反有趣", "分镜"]
 metadata:
   source_book: "《导演功课》大卫·马梅"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\导演功课\\dm-kiss-shot\\SKILL.md"
 evidence: E4
 

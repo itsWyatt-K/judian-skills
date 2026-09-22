@@ -4,7 +4,7 @@ description: "当需要用户要「从零创建主角/配角/反派」。；用�
 tags: ["trait", "build", "balance", "villain", "cast", "character-design"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\The Character Trait Thesaurus\\tct-build-balanced-character\\SKILL.md"
 evidence: E4
 

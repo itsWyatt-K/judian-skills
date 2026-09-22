@@ -7,8 +7,8 @@ metadata:
   promoted_from: transformation-customer-as-product
   evidence: E4
   source_book: "'《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩'"
-  source_card: "'classics\\体验经济\\蒸馏skill\\transformation-customer-as-product\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  source_card: "'classics\\体验经济\\整理skill\\transformation-customer-as-product\\SKILL.md'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

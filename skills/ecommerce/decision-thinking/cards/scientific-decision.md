@@ -4,8 +4,8 @@ description: "当用户说\"必须选一个\"、\"纠结选A还是B\"、\"两个
 tags: []
 metadata:
   source_book: "认知红利"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\认知红利\\蒸馏skill\\scientific-decision\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\认知红利\\整理skill\\scientific-decision\\SKILL.md"
 evidence: E4
 
 ---

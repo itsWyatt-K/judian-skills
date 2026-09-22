@@ -4,7 +4,7 @@ description: "当用户\"把握不好停顿\"\"观众笑时我该不该说话\"\
 tags: ["timing", "performance", "audience-loop", "peak"]
 metadata:
   source_book: "《Step by Step to Stand-Up Comedy》 Greg Dean"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\cangjie-origin-compare\\greg-dean-origin\\books\\step-by-step-standup\\comic-timing\\SKILL.md"
 evidence: E4
 
@@ -95,7 +95,7 @@ Dean 颠覆了"timing 是可练的固定节奏"的常识：timing **不是参数
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《Step by Step to Stand-Up Comedy》（Greg Dean）。
 

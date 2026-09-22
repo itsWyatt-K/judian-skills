@@ -4,8 +4,8 @@ description: "当需要用户已经找到了几个候选诱因，需要评估\"�
 tags: ["诱因评估", "频率", "强度", "情境", "三维矩阵", "口碑传播"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\trigger-evaluation\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\trigger-evaluation\\SKILL.md"
 evidence: E4
 
 ---

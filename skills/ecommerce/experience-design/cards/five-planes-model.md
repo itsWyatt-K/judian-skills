@@ -4,8 +4,8 @@ description: "当需要拿到一个\"体验不好\"的反馈,但说不清问题�
 tags: ["framework", "model", "foundation", "planes", "ux"]
 metadata:
   source_book: "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\用户体验要素\\蒸馏skill\\five-planes-model\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\用户体验要素\\整理skill\\five-planes-model\\SKILL.md"
 evidence: E4
 
 ---

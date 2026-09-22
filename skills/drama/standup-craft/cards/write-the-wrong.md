@@ -4,7 +4,7 @@ description: "Use when a writer is stuck (\"I have nothing funny to say\") or dr
 tags: ["material", "specifics", "pain", "honesty", "sourcing"]
 metadata:
   source_book: "Step by Step to Stand-Up Comedy (Greg Dean, Revised Edition)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Greg-Dean-英文版-定制版\\expert\\write-the-wrong\\SKILL.md"
 evidence: E4
 

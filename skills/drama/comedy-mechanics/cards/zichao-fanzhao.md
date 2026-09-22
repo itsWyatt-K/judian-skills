@@ -4,7 +4,7 @@ description: "当需要做人设号（吐槽/毒舌/自黑向）——被评论�
 tags: ["人设", "自嘲", "优越感", "反讽", "立场"]
 metadata:
   source_book: "《王朔作品精选（套装共6册）》 王朔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\王朔作品精选\\expert\\zichao-fanzhao\\SKILL.md"
 evidence: E4
 

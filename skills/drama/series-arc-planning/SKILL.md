@@ -4,18 +4,18 @@ description: "让一部剧越看越想看：季弧规划、试播集设计与分
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 16
   evidence_floor: E4
 ---
 
 # 系列叙事规划：分集大纲/季弧光/剧集圣经
 
-> 本包由 16 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 16 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当把单集变成留得住观众的系列时调用（本包由 16 张方法论卡汇编而成，蒸馏自《Writing the TV Drama Series, 3rd Edition》）。核心能力：系列叙事规划：分集大纲/季弧光/剧集圣经。关键触发：“但每条线散、看不到哪条线在某幕断了，需要颜色卡片式追踪多线分布。
+当把单集变成留得住观众的系列时调用（本包由 16 张方法论卡汇编而成，整理自《Writing the TV Drama Series, 3rd Edition》）。核心能力：系列叙事规划：分集大纲/季弧光/剧集圣经。关键触发：“但每条线散、看不到哪条线在某幕断了，需要颜色卡片式追踪多线分布。
 3. 用户纠结”、“温吞/没张力”、“这集过一遍质检 / 质量清单”、“人格跳变”、“借用设定的独立电影”、“能不能做长系列”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么

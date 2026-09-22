@@ -4,7 +4,7 @@ description: "当用户说\"虚拟堪景\"、\"空间关系\"、\"这场戏的�
 tags: ["shot-design", "previs", "art-direction", "concept-art", "aspect-ratio", "美术设计", "预视觉化", "画幅制式"]
 metadata:
   source_book: "《从构思到银幕：电影镜头设计》 史蒂文·卡茨"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\从构思到银幕电影镜头设计\\shot-previs\\SKILL.md"
 evidence: E4
 

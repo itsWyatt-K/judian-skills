@@ -4,7 +4,7 @@ description: "当需要用户说\"我的对白全是交代剧情\"\"角色说话
 tags: ["dialogue", "subtext", "storytelling"]
 metadata:
   source_book: "《故事写作大师班》 约翰·特鲁比 著，江先声 译"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\故事写作大师班\\story-dialogue-three-tracks\\SKILL.md"
 evidence: E4
 

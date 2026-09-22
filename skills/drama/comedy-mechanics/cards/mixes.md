@@ -4,7 +4,7 @@ description: "用于给任何笑话\"追加\"一个低成本高产的扩展笑�
 tags: ["类比", "mix", "荒谬跳跃", "误会", "扩展素材", "H4"]
 metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\mixes\\SKILL.md"
 evidence: E4
 

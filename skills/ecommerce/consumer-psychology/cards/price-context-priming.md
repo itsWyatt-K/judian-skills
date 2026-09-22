@@ -4,8 +4,8 @@ description: "当需要落地页/商品详情页转化不好，或用户\"只盯
 tags: ["启动效应", "环境设计", "priming", "choice-architecture"]
 metadata:
   source_book: "《无价：洞悉大众心理玩转价格游戏（经典版）》 威廉·庞德斯通"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\无价\\蒸馏skill\\price-context-priming\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\无价\\整理skill\\price-context-priming\\SKILL.md"
 evidence: E4
 
 ---

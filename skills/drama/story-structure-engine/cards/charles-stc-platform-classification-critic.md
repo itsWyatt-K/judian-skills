@@ -4,7 +4,7 @@ description: "当需要纠结\"我的内容到底该打哪个平台标签/赛道
 tags: ["genre", "classification", "charles-lecture", "platform"]
 metadata:
   source_book: "01-剧本创意与故事结构"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\查理救猫咪系列精讲\\charles-stc-platform-classification-critic\\SKILL.md"
 evidence: E4
 

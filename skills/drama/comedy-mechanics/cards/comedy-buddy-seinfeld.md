@@ -4,7 +4,7 @@ description: "用于建立写作纪律、对抗\"断更/拖延/不敢拿出去\"
 tags: ["写作纪律", "问责伙伴", "不断链", "产出流", "元流程"]
 metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\comedy-buddy-seinfeld\\SKILL.md"
 evidence: E4
 

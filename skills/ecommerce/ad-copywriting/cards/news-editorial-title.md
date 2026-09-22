@@ -4,8 +4,8 @@ description: "当需要新品上市，需要一个有新闻感的标题来吸引
 tags: ["标题写作", "新闻感", "权威背书", "注意力抓取"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\news-editorial-title\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\news-editorial-title\\SKILL.md"
 evidence: E4
 
 ---

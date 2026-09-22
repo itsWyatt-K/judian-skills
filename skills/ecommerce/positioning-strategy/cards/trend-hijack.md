@@ -4,8 +4,8 @@ description: "当需要某个热搜/节日/大事件爆发，团队争论\"我�
 tags: ["borrowing", "newsjacking", "trend", "endorsement", "low-cost"]
 metadata:
   source_book: "《借势》 金枪大叔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\借势\\蒸馏skill\\skills\\trend-hijack\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\借势\\整理skill\\skills\\trend-hijack\\SKILL.md"
 evidence: E4
 
 ---

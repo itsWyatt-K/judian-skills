@@ -4,8 +4,8 @@ description: "当需要写产品介绍页面，有卖点但不知道怎么组织
 tags: ["persuasion", "sales-formula", "copywriting", "structure"]
 metadata:
   source_book: "《文案创作完全手册》罗伯特·布莱"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\文案创作完全手册\\蒸馏skill\\five-stage-sales\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\文案创作完全手册\\整理skill\\five-stage-sales\\SKILL.md"
 evidence: E4
 
 ---

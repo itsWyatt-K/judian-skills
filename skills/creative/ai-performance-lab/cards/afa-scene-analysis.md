@@ -4,7 +4,7 @@ description: "Hooks实战核心——对六部经典动画做逐场深度拆解�
 tags: ["逐场分析", "案例库", "Ponyo", "Up", "Coraline", "Kung Fu Panda", "拉片"]
 metadata:
   source_book: "Acting for Animators (Ed Hooks, 3rd ed., Routledge)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Acting for Animators\\expert\\afa-scene-analysis\\SKILL.md"
 evidence: E4
 

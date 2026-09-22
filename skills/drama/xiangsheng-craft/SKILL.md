@@ -4,18 +4,18 @@ description: "写出能卖的相声段子：反转、包袱与说学逗唱四功
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 16
   evidence_floor: E4
 ---
 
 # 相声技艺：说学逗唱/惯口/捧逗与包袱法
 
-> 本包由 16 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 16 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当相声与中国传统喜剧语言技艺时调用（本包由 16 张方法论卡汇编而成，蒸馏自《中国传统相声大全（全五卷）》、《中国的相声》、《马三立表演相声精品集》）。核心能力：相声技艺：说学逗唱/惯口/捧逗与包袱法。关键触发：“结尾、段子打脸。
+当相声与中国传统喜剧语言技艺时调用（本包由 16 张方法论卡汇编而成，整理自《中国传统相声大全（全五卷）》、《中国的相声》、《马三立表演相声精品集》）。核心能力：相声技艺：说学逗唱/惯口/捧逗与包袱法。关键触发：“结尾、段子打脸。
 2. 带货”、“离谱但合理”、“觉得好笑但别人不笑”、“低门槛、立刻抓耳”、“社恐星人”、“笑点不响”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么

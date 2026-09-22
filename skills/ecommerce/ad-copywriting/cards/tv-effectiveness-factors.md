@@ -4,8 +4,8 @@ description: "当需要写电视/短视频脚本, 纠结用什么手法。；想
 tags: ["tv", "creative", "effectiveness", "factors"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\tv-effectiveness-factors\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\tv-effectiveness-factors\\SKILL.md"
 evidence: E4
 
 ---

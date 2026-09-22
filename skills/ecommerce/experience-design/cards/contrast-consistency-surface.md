@@ -4,8 +4,8 @@ description: "当需要改版后用户说\"页面乱/找不到重点\"。；做�
 tags: ["principle", "contrast", "consistency", "visual", "surface"]
 metadata:
   source_book: "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\用户体验要素\\蒸馏skill\\contrast-consistency-surface\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\用户体验要素\\整理skill\\contrast-consistency-surface\\SKILL.md"
 evidence: E4
 
 ---

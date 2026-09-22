@@ -4,7 +4,7 @@ description: "创作力的系统工程学：灵感不是天赐而是可训练的
 tags: ["灵感训练", "拖延症", "创作提案", "生产力", "写作习惯"]
 metadata:
   source_book: "写好短剧（查理）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\写好短剧\\expert\\dxj-inspiration-training\\SKILL.md"
 evidence: E4
 

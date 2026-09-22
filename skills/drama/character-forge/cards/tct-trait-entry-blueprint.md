@@ -4,7 +4,7 @@ description: "当需要用户说「我想用这本书查某个特质」或「帮
 tags: ["trait", "entry", "toolbox", "character-sheet", "blueprint"]
 metadata:
   source_book: "《性格特质宝典（正/负面特质辞典）》Angela Ackerman & Becca Puglisi"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\The Character Trait Thesaurus\\tct-trait-entry-blueprint\\SKILL.md"
 evidence: E4
 
@@ -69,7 +69,7 @@ evidence: E4
 - **只抄 DEFINITION 不填 BEHAVIORS**：空有标签无动作，角色立不起来。
 
 ### Tier B 版权边界
-- 条目正文为作者原创编排，蒸馏只抽「字段结构」；不在卡内大段复述具体条目样例（如 Adaptable 全 13 字段原文）。引用原文 ≤150 字/段。
+- 条目正文为作者原创编排，整理只抽「字段结构」；不在卡内大段复述具体条目样例（如 Adaptable 全 13 字段原文）。引用原文 ≤150 字/段。
 
 ---
 

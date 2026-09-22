@@ -4,7 +4,7 @@ description: "用于热身设问钩子：把观众变参与者相关的创作场
 tags: ["情景喜剧", "开场钩子", "设问", "结构"]
 metadata:
   source_book: "《汉语视听说教程：家有儿女》刘立新/邓方（世界图书出版公司，2009）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\家有儿女1\\expert\\jyl-warmup-hook\\SKILL.md"
 evidence: E4
 

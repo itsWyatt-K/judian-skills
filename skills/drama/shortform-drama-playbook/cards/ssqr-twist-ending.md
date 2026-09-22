@@ -4,7 +4,7 @@ description: "结尾用反转或留白重估前文——把奇人还原成「人
 tags: ["写作技法", "结尾", "反转", "留白"]
 metadata:
   source_book: "《俗世奇人全本》 冯骥才"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\俗世奇人（冯骥才）\\ssqr-twist-ending\\SKILL.md"
 evidence: E4
 

@@ -4,7 +4,7 @@ description: "当需要替一个明显荒谬的观点写辩护词/杠精话术�
 tags: ["伪论证", "篡改基准", "缩小分母", "字面较真", "喜剧辩护"]
 metadata:
   source_book: "《我爱我家台词》梁左/英达"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\我爱我家台词\\wojia-pseudo-argument\\SKILL.md"
 evidence: E4
 
@@ -111,7 +111,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《我爱我家台词》（梁左/英达）。
 

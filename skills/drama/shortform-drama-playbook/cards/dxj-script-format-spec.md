@@ -4,7 +4,7 @@ description: "短剧剧本的工业标准格式：场景标题/动作描述/角�
 tags: ["剧本格式", "工业标准", "体量控制", "模板", "专业度"]
 metadata:
   source_book: "写好短剧（查理）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\写好短剧\\expert\\dxj-script-format-spec\\SKILL.md"
 evidence: E4
 

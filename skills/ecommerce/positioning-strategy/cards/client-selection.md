@@ -4,8 +4,8 @@ description: "当需要乙方/自由职业者收到新询盘，纠结\"这单能
 tags: ["client", "selection", "deposit", "founder-signal", "investment-mindset"]
 metadata:
   source_book: "《借势》 金枪大叔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\借势\\蒸馏skill\\skills\\client-selection\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\借势\\整理skill\\skills\\client-selection\\SKILL.md"
 evidence: E4
 
 ---

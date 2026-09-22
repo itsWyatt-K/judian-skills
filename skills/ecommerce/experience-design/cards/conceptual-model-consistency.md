@@ -4,8 +4,8 @@ description: "当需要设计新功能,选\"用什么比喻/心智模型\"承载
 tags: ["framework", "conceptual-model", "consistency", "interaction"]
 metadata:
   source_book: "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\用户体验要素\\蒸馏skill\\conceptual-model-consistency\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\用户体验要素\\整理skill\\conceptual-model-consistency\\SKILL.md"
 evidence: E4
 
 ---

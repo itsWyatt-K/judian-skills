@@ -4,8 +4,8 @@ description: "当需要接到一个新产品/新客户的文案委托，不知�
 tags: ["research", "preparation", "information-gathering"]
 metadata:
   source_book: "《文案创作完全手册》罗伯特·布莱"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\文案创作完全手册\\蒸馏skill\\research-four-steps\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\文案创作完全手册\\整理skill\\research-four-steps\\SKILL.md"
 evidence: E4
 
 ---

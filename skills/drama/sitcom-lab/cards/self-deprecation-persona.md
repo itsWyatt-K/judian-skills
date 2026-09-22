@@ -4,7 +4,7 @@ description: "当需要设计一个常出糗、笨拙、搞砸的职场新人/�
 tags: ["喜剧", "自嘲", "H5", "人设"]
 metadata:
   source_book: "《武林外传》 宁财神"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\武林外传\\expert\\self-deprecation-persona\\SKILL.md"
 evidence: E4
 
@@ -103,7 +103,7 @@ evidence: E4
 
 ### 作者在书中警告的失败模式
 
-- **表演层损失 (x04)**: 纯文本蒸馏出的自嘲台词，迁移到 AI 配音/纯文字短视频后笑点打折——自贬靠"怎么说"（语气、停顿、表情）而非"说什么"。须补节奏/声音层，否则金句是空壳。
+- **表演层损失 (x04)**: 纯文本整理出的自嘲台词，迁移到 AI 配音/纯文字短视频后笑点打折——自贬靠"怎么说"（语气、停顿、表情）而非"说什么"。须补节奏/声音层，否则金句是空壳。
 - **自贬变真丧**: 缺"自抬"兜底时，自嘲滑向卖惨/自卑，观众共情转为不适。本剧李大嘴"不认字但我有志气"正是示范了自贬+自抬的安全边界。
 - **时代梗时效 (x05)**: 自嘲若挂 2006 年前后的老网络梗（如"地球人都知道"型），语境消失即笑点融化；须挂载**当下**共同语境。
 
@@ -134,7 +134,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《武林外传》（宁财神）。
 

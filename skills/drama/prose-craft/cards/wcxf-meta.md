@@ -4,7 +4,7 @@ description: "当用户写完一段觉得「对但空/没活气」、想自检�
 tags: ["创作自检", "三问", "情感驱动", "母题风洞", "清淡有人味"]
 metadata:
   source_book: "《晚翠文谈新编》汪曾祺"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\晚翠文谈（汪曾祺）\\wcxf-meta\\SKILL.md"
 evidence: E4
 

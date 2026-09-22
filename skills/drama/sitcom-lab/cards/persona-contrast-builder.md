@@ -4,7 +4,7 @@ description: "当需要设计一个全新 AI 短视频 / 漫画角色，想让�
 tags: ["喜剧", "人设反差", "H1反转"]
 metadata:
   source_book: "《武林外传》宁财神"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\武林外传\\expert\\persona-contrast-builder\\SKILL.md"
 evidence: E4
 
@@ -104,7 +104,7 @@ evidence: E4
 
 - **反差裸迁移 (x06)**：把"强者装弱 / 狠人怕事"当通用配方直接套到新角色，却不铺设反差成立所需的前史与高位预期，结果反差不成立、笑点塌房。白展堂的"怂"之所以好笑，前提是观众先信了"他是盗圣"。零前史载体必须先花 3–5 秒建立高位认知。
 - **人设固定导致整体审美疲劳 (x02)**：长内容里人设永不演化、反差模板循环，观众对"下一集还是这点事"倦怠。需每集给人设一点位移或新情境压力。
-- **表演层丢失 (x04)**：纯文本蒸馏只捕获台词与结构，反差真正的载体（演员从怂到耍帅的反差神态、对手反应、节奏）在文本外。迁移到 AI 配音 / 纯文字载体时笑点命中率会下降，需补表演 / 声音 / 节奏层。
+- **表演层丢失 (x04)**：纯文本整理只捕获台词与结构，反差真正的载体（演员从怂到耍帅的反差神态、对手反应、节奏）在文本外。迁移到 AI 配音 / 纯文字载体时笑点命中率会下降，需补表演 / 声音 / 节奏层。
 
 ### 作者的盲点 / 时代局限
 
@@ -133,7 +133,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《武林外传》（宁财神）。
 

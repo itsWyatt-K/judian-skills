@@ -4,8 +4,8 @@ description: "当需要准备进入新市场、新渠道、新组织环境。；
 tags: ["sunzi", "terrain", "context", "environment", "scenario"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\terrain-context-diagnosis\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\terrain-context-diagnosis\\SKILL.md"
 evidence: E4
 
 ---

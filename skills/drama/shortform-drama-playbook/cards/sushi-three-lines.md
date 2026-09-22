@@ -4,7 +4,7 @@ description: "三言两语立人：人物出场只给\"一笔形貌速写 + 一�
 tags: ["人物塑造", "出场", "速写", "招牌动作", "白描"]
 metadata:
   source_book: "《俗世奇人全本》（冯骥才，人民文学出版社 2020）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\俗世奇人全本\\sushi-three-lines\\SKILL.md"
 evidence: E4
 

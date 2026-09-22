@@ -4,7 +4,7 @@ description: "当需要段子/脱口秀的 punchline 之后——不想解释笑
 tags: ["结尾", "反高潮", "留白", "克制", "余味"]
 metadata:
   source_book: "《王朔作品精选（套装共6册）》 王朔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\王朔作品精选\\expert\\fangaochao-liubai\\SKILL.md"
 evidence: E4
 

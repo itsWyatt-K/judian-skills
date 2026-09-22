@@ -4,7 +4,7 @@ description: "市井时代质感施工：用行当术语、民俗仪式、方言
 tags: ["人物塑造", "市井质感", "时代感", "行话", "民俗"]
 metadata:
   source_book: "《俗世奇人全本》（冯骥才，人民文学出版社 2020）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\俗世奇人全本\\sushi-street-flavor\\SKILL.md"
 evidence: E4
 

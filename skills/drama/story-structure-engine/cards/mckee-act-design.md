@@ -4,7 +4,7 @@ description: "当需要写到长片/长篇的中段，感觉\"第二幕注水、
 tags: ["act-design", "pacing", "mckee"]
 metadata:
   source_book: "《故事：材质、结构、风格和银幕剧作的原理》 罗伯特·麦基"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\罗伯特·麦基虚构艺术三部曲（《故事》《对白》《人物》）\\mckee-act-design\\SKILL.md"
 evidence: E4
 

@@ -4,8 +4,8 @@ description: "当需要正在编写电商详情页，需要决定放哪些用户
 tags: ["文案", "顾客证言", "社会证明", "口碑营销", "畅销暗示"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\customer-testimonial\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\customer-testimonial\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要新品牌 / 新产品线 / 新业务从零做定位。；
 tags: ["定位", "战略", "品牌", "工作流", "规划"]
 metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\定位\\蒸馏skill\\positioning-six-steps\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\定位\\整理skill\\positioning-six-steps\\SKILL.md"
 evidence: E4
 
 ---

@@ -7,8 +7,8 @@ metadata:
   promoted_from: cmo-showrunner
   evidence: E4
   source_book: "'《故事经济学》罗伯特·麦基、托马斯·格雷斯'"
-  source_card: "'classics\\故事经济学\\蒸馏skill\\cmo-showrunner\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  source_card: "'classics\\故事经济学\\整理skill\\cmo-showrunner\\SKILL.md'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

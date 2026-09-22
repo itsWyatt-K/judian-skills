@@ -4,8 +4,8 @@ description: "当需要推广中高端产品时，目标用户对价格犹豫不
 tags: ["激发购买欲", "心理正当化", "消费理由重构", "负罪感消除"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\justified-consumption\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\justified-consumption\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "把剧本比作人体：结构=骨骼，节奏=身材比例。核�
 tags: ["剧本结构", "中心三角", "单线结构", "前10集模板", "节奏", "付费点"]
 metadata:
   source_book: "从零开始学短剧创作（孙文琴,爱丽丝著）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\从零开始学短剧创作\\expert\\czks-structure-rhythm\\SKILL.md"
 evidence: E4
 

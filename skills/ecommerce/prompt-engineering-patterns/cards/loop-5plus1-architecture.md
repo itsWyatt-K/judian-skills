@@ -4,8 +4,8 @@ description: "当用户说\"我要做一个完整的 X 自动化系统\"、\"我
 tags: []
 metadata:
   source_book: "循环工程"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\循环工程\\蒸馏skill\\loop-5plus1-architecture\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\循环工程\\整理skill\\loop-5plus1-architecture\\SKILL.md"
 evidence: E4
 
 ---

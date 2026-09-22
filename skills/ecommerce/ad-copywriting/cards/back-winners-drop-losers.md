@@ -4,8 +4,8 @@ description: "当需要手里有多个品牌/产品, 纠结救哪个。；资源
 tags: ["portfolio", "focus", "heavy-users", "discipline"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\back-winners-drop-losers\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\back-winners-drop-losers\\SKILL.md"
 evidence: E4
 
 ---

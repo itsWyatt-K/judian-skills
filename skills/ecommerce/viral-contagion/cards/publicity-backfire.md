@@ -4,8 +4,8 @@ description: "当需要用户在为公益组织或政府部门设计\"禁止X行
 tags: ["公共性", "社会证明", "反噬效应", "公益宣传", "行为干预"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\publicity-backfire\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\publicity-backfire\\SKILL.md"
 evidence: E4
 
 ---

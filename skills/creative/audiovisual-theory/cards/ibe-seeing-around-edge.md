@@ -4,7 +4,7 @@ description: "Murch提出剪辑师必须「看到画面边缘之外的东西」�
 tags: ["画面外想象", "空间连贯", "剪辑真实感", "Murch", "场面调度"]
 metadata:
   source_book: "In the Blink of an Eye (Walter Murch, 2nd ed., Silman-James Press)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\In the Blink of an Eye\\expert\\ibe-seeing-around-edge\\SKILL.md"
 evidence: E4
 

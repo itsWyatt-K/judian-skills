@@ -4,8 +4,8 @@ description: "当需要做竞争、投标、谈判、市场进入前，不知道
 tags: ["sunzi", "intelligence", "research", "uncertainty", "competition"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\know-self-know-enemy\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\know-self-know-enemy\\SKILL.md"
 evidence: E4
 
 ---

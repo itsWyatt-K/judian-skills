@@ -4,8 +4,8 @@ description: "当需要写\"故事化营销立项/预算申请\"，需 ROI 论�
 tags: ["衡量", "ROI", "有机覆盖", "参与度"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\storynomics-economics\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\storynomics-economics\\SKILL.md"
 evidence: E4
 
 ---

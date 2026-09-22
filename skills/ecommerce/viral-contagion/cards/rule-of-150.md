@@ -4,8 +4,8 @@ description: "当需要新部门/团队规模膨胀，协作变差、沟通失�
 tags: ["scale", "dungan", "organization", "context"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\rule-of-150\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\rule-of-150\\SKILL.md"
 evidence: E4
 
 ---

@@ -43,11 +43,11 @@
 
 ## C 组 · 广告素材（ecommerce，10 任务，筹备中）
 
-> 依赖 Phase 1c 蒸馏产物（superCMO / iart 三件套 / freestylefly 风格库），蒸馏完成后补齐任务原文与关联技能列。
+> 依赖 Phase 1c 整理产物（superCMO / iart 三件套 / freestylefly 风格库），整理完成后补齐任务原文与关联技能列。
 
 | # | 任务 | 关联技能 |
 |---|---|---|
-| C1-C10 | （占位：拆产品卖点→口播稿→分镜→UGC 选角→竞品翻拍→素材改格式 全链路各一题） | superCMO 系蒸馏卡 |
+| C1-C10 | （占位：拆产品卖点→口播稿→分镜→UGC 选角→竞品翻拍→素材改格式 全链路各一题） | superCMO 系整理卡 |
 
 ## D 组 · 反推提示词与路由（reverse & routing，8 任务）
 

@@ -4,7 +4,7 @@ description: "当用户说\"构图怎么摆\"、\"三分法怎么用\"、\"画�
 tags: ["rule-of-thirds", "composition", "frame", "visual-organization", "aspect-ratio", "headroom"]
 metadata:
   source_book: "Cinematography: Theory and Practice (Blain Brown, 4th ed.)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\Cinematography Theory and Practice\\ctp-composition\\SKILL.md"
 evidence: E4
 

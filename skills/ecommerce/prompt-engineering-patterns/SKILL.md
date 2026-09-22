@@ -4,18 +4,18 @@ description: "让提示词从'看运气'变成可复现：模式库、引用系�
 tags: ["creative"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 24
   evidence_floor: E4
 ---
 
 # 提示词工程模式：系统提示词/闭环工作流
 
-> 本包由 24 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 24 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当把提示词当工程对象设计与迭代时调用（本包由 24 张方法论卡汇编而成，蒸馏自《基于 ljg-structure (lijigang) 酿笑坊定制》、《ljg-constraint (lijigang/ljg-skills)》、《循环工程》、《系统提示词设计模式库》）。核心能力：提示词工程模式：系统提示词/闭环工作流。关键触发：“仓库里有很多代码但我看不懂”、“跑了 3 天还没完”、“我要做一个完整的 X 自动化系统”、“我想自动化 X,从哪里开始?”、“我想让 AI 每天自动做 X”、“我想让 AI 每天做 X,值得做 loop 吗?”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当把提示词当工程对象设计与迭代时调用（本包由 24 张方法论卡汇编而成，整理自《基于 ljg-structure (lijigang) 酿笑坊定制》、《ljg-constraint (lijigang/ljg-skills)》、《循环工程》、《系统提示词设计模式库》）。核心能力：提示词工程模式：系统提示词/闭环工作流。关键触发：“仓库里有很多代码但我看不懂”、“跑了 3 天还没完”、“我要做一个完整的 X 自动化系统”、“我想自动化 X,从哪里开始?”、“我想让 AI 每天自动做 X”、“我想让 AI 每天做 X,值得做 loop 吗?”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 
@@ -50,6 +50,8 @@ metadata:
 - [ ] 效果是否可复现或已声明不可复现
 - [ ] 是否避免模式堆砌
 - [ ] 是否有失效边界
+- [ ] 文案无绝对化用语（「最」「第一」「顶级」「绝无仅有」「国家级」等《广告法》禁用表述；经典案例复述须标注为案例）
+- [ ] 无虚构稀缺（不写无法兑现的限时/限量/倒计时；真实活动须给出兑现路径与有效期）
 
 ## 包内卡片名录
 

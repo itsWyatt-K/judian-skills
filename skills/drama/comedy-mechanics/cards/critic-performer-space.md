@@ -4,7 +4,7 @@ description: "当用户\"排练时不断自我否定\"\"上台后发挥不出、
 tags: ["rehearsal", "mindset", "separation", "critic"]
 metadata:
   source_book: "《Step by Step to Stand-Up Comedy》 Greg Dean"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\cangjie-origin-compare\\greg-dean-origin\\books\\step-by-step-standup\\critic-performer-space\\SKILL.md"
 evidence: E4
 
@@ -97,7 +97,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《Step by Step to Stand-Up Comedy》（Greg Dean）。
 

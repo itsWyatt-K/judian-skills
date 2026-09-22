@@ -7,8 +7,8 @@ metadata:
   promoted_from: future-self-vividness
   evidence: E4
   source_book: "'《怪诞行为学（全5册）》 丹·艾瑞里'"
-  source_card: "'classics\\怪诞行为学\\蒸馏skill\\future-self-vividness\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  source_card: "'classics\\怪诞行为学\\整理skill\\future-self-vividness\\SKILL.md'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)
@@ -232,7 +232,7 @@ metadata:
 - **contrasts-with**（易混淆，需分清）: `ulysses-self-control-architecture`, `opportunity-cost-swap`
 - **composes-with**（常联用）: `ulysses-self-control-architecture`, `mental-accounting-envelope`, `opportunity-cost-swap`
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---
 

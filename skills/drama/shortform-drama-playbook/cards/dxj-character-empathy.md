@@ -4,7 +4,7 @@ description: "颠覆「创造人物」传统观念——真正有力的人物是
 tags: ["人物塑造", "共情", "角色发现法", "人物小传", "关系图"]
 metadata:
   source_book: "写好短剧（查理）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\写好短剧\\expert\\dxj-character-empathy\\SKILL.md"
 evidence: E4
 

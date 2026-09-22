@@ -4,8 +4,8 @@ description: "当需要要 launch 新品/活动，预算少，想靠口碑而非
 tags: ["network", "connector", "diffusion", "weak-ties"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\connectors\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\connectors\\SKILL.md"
 evidence: E4
 
 ---

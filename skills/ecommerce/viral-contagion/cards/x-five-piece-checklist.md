@@ -4,8 +4,8 @@ description: "当需要初稿写完、发布前做完备性检查 — \"帮我�
 tags: ["checklist", "content-production", "completeness", "evidence", "credibility"]
 metadata:
   source_book: "《X秘籍》 向阳乔木 @vista8"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-five-piece-checklist\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-five-piece-checklist\\SKILL.md"
 evidence: E4
 
 ---

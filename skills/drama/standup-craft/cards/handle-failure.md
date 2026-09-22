@@ -4,7 +4,7 @@ description: "Use when a show bombs, gets heckled, you forget a line, or the roo
 tags: ["bombing", "heckler", "recovery", "hurt-line", "feedback"]
 metadata:
   source_book: "Step by Step to Stand-Up Comedy (Greg Dean, Revised Edition)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Greg-Dean-英文版-定制版\\expert\\handle-failure\\SKILL.md"
 evidence: E4
 

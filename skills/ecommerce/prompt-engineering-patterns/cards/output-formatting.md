@@ -4,8 +4,8 @@ description: "当用户说\"回复太长了/太啰嗦了\"、\"输出格式需�
 tags: ["输出格式", "风格控制", "反AI味", "自适应长度", "平台适配"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\output-formatting\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\output-formatting\\SKILL.md"
 evidence: E4
 
 ---

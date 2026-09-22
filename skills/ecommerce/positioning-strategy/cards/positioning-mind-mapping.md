@@ -4,8 +4,8 @@ description: "当需要要做定位/品牌规划，但\"顾客现在怎么看我
 tags: ["定位", "调研", "用户研究", "认知", "竞品分析"]
 metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\定位\\蒸馏skill\\positioning-mind-mapping\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\定位\\整理skill\\positioning-mind-mapping\\SKILL.md"
 evidence: E4
 
 ---

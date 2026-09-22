@@ -4,7 +4,7 @@ description: "当需要用户说\"场景顺序总觉得不对\"、\"写了二十
 tags: ["scene", "structure", "storytelling"]
 metadata:
   source_book: "《故事写作大师班》 约翰·特鲁比 著，江先声 译"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\故事写作大师班\\story-scene-structure\\SKILL.md"
 evidence: E4
 

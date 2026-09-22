@@ -4,7 +4,7 @@ description: "当用户说\"静态对话怎么剪得流畅\"、\"为什么要用
 tags: ["continuity", "static-dialogue", "re-establishing", "silent-reaction", "insert", "cut-away", "time-compression", "tempo"]
 metadata:
   source_book: "Grammar of the Film Language (Daniel Arijon)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Grammar of the Film Language\\gfl-continuity\\SKILL.md"
 evidence: E4
 

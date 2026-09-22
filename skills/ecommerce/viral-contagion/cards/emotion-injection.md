@@ -4,8 +4,8 @@ description: "当需要用户的内容质量高（信息准确、制作精良）
 tags: ["情绪注入", "生理唤醒", "传播加速", "高唤醒情绪"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\emotion-injection\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\emotion-injection\\SKILL.md"
 evidence: E4
 
 ---

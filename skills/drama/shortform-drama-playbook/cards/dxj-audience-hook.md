@@ -4,7 +4,7 @@ description: "短剧生存的核心技术：如何系统性制造「爽点」（
 tags: ["爽点设计", "钩子工程", "观众黏性", "转化率", "AI辅助创作"]
 metadata:
   source_book: "写好短剧（查理）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\写好短剧\\expert\\dxj-audience-hook\\SKILL.md"
 evidence: E4
 

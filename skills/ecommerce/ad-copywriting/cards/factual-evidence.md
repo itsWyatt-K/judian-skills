@@ -4,8 +4,8 @@ description: "当需要产品有明确的性能参数，但不知道怎么让消
 tags: ["文案", "事实证明", "数据说服", "实验对比", "视觉证明"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\factual-evidence\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\factual-evidence\\SKILL.md"
 evidence: E4
 
 ---

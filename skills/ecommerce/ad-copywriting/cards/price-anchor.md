@@ -4,8 +4,8 @@ description: "当需要产品定价在中高水平，消费者反馈\"太贵了\
 tags: ["文案", "价格策略", "锚定效应", "促销定价", "消费心理"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\price-anchor\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\price-anchor\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要**想在大V帖下评论获取曝光**: 新号或中小�
 tags: ["comment-strategy", "engagement", "repost-vs-quote", "interaction", "cold-start"]
 metadata:
   source_book: "《X秘籍》 Yangyi @Yangyixxxx + 木马人 @cnyzgkc"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-comment-engagement\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-comment-engagement\\SKILL.md"
 evidence: E4
 
 ---

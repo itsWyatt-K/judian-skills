@@ -4,7 +4,7 @@ description: "当用户要写/改比喻明喻、觉得比喻陈腐或太花、�
 tags: ["比喻", "明喻", "隐喻", "陌生化", "语言质感"]
 metadata:
   source_book: "小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\小说机杼\\xsjz-metaphor\\SKILL.md"
 evidence: E4
 
@@ -129,7 +129,7 @@ evidence: E4
 ### 所属层级
 - **主层**：E1 情绪落差——比喻的"疏远后连接"在读者心中制造期待落差（震惊→非如此不可），与 E1 机制同构。
 - **副层**：A6 气氛浸染——比喻归属人物世界，间接呈现人物（"比喻盘旋在人物周围"），与 A6 机制一致。
-- **候选层**：E1 为 LIBRARY 候选层（待 Maass 蒸馏）；A6 已有。
+- **候选层**：E1 为 LIBRARY 候选层（待 Maass 整理）；A6 已有。
 - **母题风洞验证**：✅ 已通过（M1/M2 交叉）。
 
 ### 分层说明

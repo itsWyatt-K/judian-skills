@@ -4,8 +4,8 @@ description: "当需要规划内容矩阵/编辑日历，不知\"先给价值还
 tags: ["内容营销", "需求开发", "送礼物", "原创"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\content-marketing-demand\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\content-marketing-demand\\SKILL.md"
 evidence: E4
 
 ---

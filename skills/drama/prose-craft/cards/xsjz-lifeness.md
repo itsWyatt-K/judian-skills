@@ -4,7 +4,7 @@ description: "当用户被批'写得真实但不活'、纠结'现实主义是不
 tags: ["现实主义", "生活性", "真实虚构", "传统", "真相"]
 metadata:
   source_book: "小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\小说机杼\\xsjz-lifeness\\SKILL.md"
 evidence: E4
 

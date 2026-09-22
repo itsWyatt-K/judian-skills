@@ -4,7 +4,7 @@ description: "用于把\"弱点/尴尬/惨\"变成素材和安全讨喜的人设
 tags: ["自嘲", "反向思维", "人设", "H5", "contrary-thinking", "讨喜"]
 metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\self-mocking-formula\\SKILL.md"
 evidence: E4
 

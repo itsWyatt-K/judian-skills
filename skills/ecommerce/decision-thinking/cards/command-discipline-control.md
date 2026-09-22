@@ -4,8 +4,8 @@ description: "当需要团队目标不一、执行混乱、责任不清。；老
 tags: ["sunzi", "leadership", "discipline", "organization", "execution"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\command-discipline-control\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\command-discipline-control\\SKILL.md"
 evidence: E4
 
 ---

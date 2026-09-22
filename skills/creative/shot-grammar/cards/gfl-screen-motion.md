@@ -4,7 +4,7 @@ description: "当用户说\"连续运动怎么拆多机位剪\"、\"动作剪辑
 tags: ["screen-motion", "cutting-on-action", "neutral-direction", "cross-axis", "movement-continuity", "action-editing"]
 metadata:
   source_book: "Grammar of the Film Language (Daniel Arijon)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Grammar of the Film Language\\gfl-screen-motion\\SKILL.md"
 evidence: E4
 

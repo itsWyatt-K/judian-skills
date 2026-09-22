@@ -4,8 +4,8 @@ description: "当需要用户是行业/品类第一，团队在讨论\"要不要
 tags: ["定位", "领导者", "防御战略", "竞争", "品牌"]
 metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\定位\\蒸馏skill\\positioning-leader-defense\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\定位\\整理skill\\positioning-leader-defense\\SKILL.md"
 evidence: E4
 
 ---

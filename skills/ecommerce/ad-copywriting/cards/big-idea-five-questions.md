@@ -4,8 +4,8 @@ description: "当需要拿到一个创意/提案, 拿不准值不值得投入。
 tags: ["big-idea", "creativity", "judgment", "evaluation"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\big-idea-five-questions\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\big-idea-five-questions\\SKILL.md"
 evidence: E4
 
 ---

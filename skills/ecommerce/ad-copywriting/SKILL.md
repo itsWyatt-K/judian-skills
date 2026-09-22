@@ -4,18 +4,18 @@ description: "把产品卖点写成能转化的文案：钩子句、利益翻译
 tags: ["ecommerce"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 46
   evidence_floor: E4
 ---
 
 # 广告文案：标题/承诺/长文案与卖点转化
 
-> 本包由 46 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 46 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当把产品卖点写成能打的文案时调用（本包由 46 张方法论卡汇编而成，蒸馏自《奥格威谈广告》、《爆款文案》、《文案创作完全手册》）。核心能力：广告文案：标题/承诺/长文案与卖点转化。关键触发：“经济差要不要砍广告 / 预算”、“有流量就有转化”、“问题品牌怎么救 / 资源怎么分配”、“出大创意”、“品牌人设”、“曝光够不够 / 回忆度怎么测”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当把产品卖点写成能打的文案时调用（本包由 46 张方法论卡汇编而成，整理自《奥格威谈广告》、《爆款文案》、《文案创作完全手册》）。核心能力：广告文案：标题/承诺/长文案与卖点转化。关键触发：“经济差要不要砍广告 / 预算”、“有流量就有转化”、“问题品牌怎么救 / 资源怎么分配”、“出大创意”、“品牌人设”、“曝光够不够 / 回忆度怎么测”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 
@@ -50,6 +50,8 @@ metadata:
 - [ ] 利益是否翻译成用户所得
 - [ ] 是否有唯一明确 CTA
 - [ ] 是否避免形容词堆砌无信息
+- [ ] 文案无绝对化用语（「最」「第一」「顶级」「绝无仅有」「国家级」等《广告法》禁用表述；经典案例复述须标注为案例）
+- [ ] 无虚构稀缺（不写无法兑现的限时/限量/倒计时；真实活动须给出兑现路径与有效期）
 
 ## 包内卡片名录
 

@@ -4,18 +4,18 @@ description: "把剧本变成可拍的分镜：屏幕方向、运动镜头、预
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 28
   evidence_floor: E4
 ---
 
 # 镜头语法：景别/运动/轴线/视线与预设
 
-> 本包由 28 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 28 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当把叙事意图翻译成镜头决策时调用（本包由 28 张方法论卡汇编而成，蒸馏自《从构思到银幕：电影镜头设计》、《导演功课》）。核心能力：镜头语法：景别/运动/轴线/视线与预设。关键触发：“要不要用运动镜头”、“两人对话机位怎么布”、“连续运动怎么拆多机位剪”、“电影语法/视觉沟通的基本单位是什么”、“这样摆会不会跳轴”、“怎么让前后景都清楚(deep focus)，一个镜头装两件事？”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当把叙事意图翻译成镜头决策时调用（本包由 28 张方法论卡汇编而成，整理自《从构思到银幕：电影镜头设计》、《导演功课》）。核心能力：镜头语法：景别/运动/轴线/视线与预设。关键触发：“要不要用运动镜头”、“两人对话机位怎么布”、“连续运动怎么拆多机位剪”、“电影语法/视觉沟通的基本单位是什么”、“这样摆会不会跳轴”、“怎么让前后景都清楚(deep focus)，一个镜头装两件事？”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

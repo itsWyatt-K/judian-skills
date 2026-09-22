@@ -4,8 +4,8 @@ description: "当需要**提案被搁置**：方案写得很完整，汇报也�
 tags: ["persuasion", "ownership", "organization", "negotiation", "change-management"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\nih-co-creation-buyin\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\nih-co-creation-buyin\\SKILL.md"
 evidence: E4
 
 ---
@@ -217,6 +217,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `commitment-escalation` ⟨已装库⟩, `investment-design` ⟨已装库⟩
 - **composes-with**（常联用）: `meaning-recognition-motivation`, `effort-visibility-premium`, `endowment-gap-correction`
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

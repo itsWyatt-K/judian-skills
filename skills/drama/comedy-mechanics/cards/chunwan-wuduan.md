@@ -4,7 +4,7 @@ description: "当需要短剧/短视频要\"完整小品结构\"，怕散。；�
 tags: ["结构", "五段式", "起兴", "短剧", "节奏"]
 metadata:
   source_book: "《崔凯文集·喜剧小品卷》 崔凯 著"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\崔凯文集\\expert\\chunwan-wuduan\\SKILL.md"
 evidence: E4
 

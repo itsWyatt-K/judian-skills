@@ -4,8 +4,8 @@ description: "当需要刚起步/预算极少，纠结\"钱不够怎么做品牌
 tags: ["meta", "strategy", "borrowing", "marketing"]
 metadata:
   source_book: "《借势》 金枪大叔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\借势\\蒸馏skill\\skills\\borrow-momentum-overview\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\借势\\整理skill\\skills\\borrow-momentum-overview\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "当需要用户让角色陷在生气/悲伤里不动（纯情绪�
 tags: ["正向行为", "自私求胜", "反套路"]
 metadata:
   source_book: "《超棒喜剧这样写》Steve Kaplan（史提夫·卡普兰）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\超棒喜剧这样写：好莱坞喜剧教父编剧技艺大解密\\kom-positive-action\\SKILL.md"
 evidence: E4
 

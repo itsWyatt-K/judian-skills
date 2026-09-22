@@ -4,8 +4,8 @@ description: "当需要用户刚开始做X或重新定位,不知道找谁对标�
 tags: ["benchmarking", "competitor-analysis", "differentiation", "positioning", "research"]
 metadata:
   source_book: "《X秘籍》 AIP出海教程(@带队教练/GoSailGlobal)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-benchmark-research\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-benchmark-research\\SKILL.md"
 evidence: E4
 
 ---

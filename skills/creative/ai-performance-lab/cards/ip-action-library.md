@@ -3,8 +3,8 @@ name: ip-action-library
 description: "当需要角色在图里总像装饰（站旁边指东西），想让她承担内容关系。；要从文章语义出发设计\"该用什么动作\"，而非随便摆姿势。时调用。核心能力：IP 动作库：表演层·动作。关键触发：该用什么动作、动作+表情+视线+尺度、IP 动作怎么设计 / 让角色参与内容、动作库 / 语义映射 / 删掉人物图意思还完整吗。不适用于：纯身份/一致性管理（走 ip-character-bible）。、纯画风切换（走。"
 tags: ["动作库", "表演层", "语义映射", "角色参与", "删人测试", "三轨"]
 metadata:
-  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并蒸馏）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并整理）"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ip-character-system\\ip-action-library\\SKILL.md"
 evidence: E4
 

@@ -4,8 +4,8 @@ description: "当需要有冲突但不想升级成公开撕裂。；竞争中可
 tags: ["sunzi", "conflict", "negotiation", "low-cost", "strategy"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\win-without-fighting\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\win-without-fighting\\SKILL.md"
 evidence: E4
 
 ---

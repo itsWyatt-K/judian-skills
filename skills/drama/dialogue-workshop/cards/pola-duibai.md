@@ -4,7 +4,7 @@ description: "当需要婆媳/父子/师徒/同事互呛对手戏，要句句有
 tags: ["对白", "斗嘴", "对仗", "拆台", "节奏"]
 metadata:
   source_book: "《崔凯文集·喜剧小品卷》 崔凯 著"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\崔凯文集\\expert\\pola-duibai\\SKILL.md"
 evidence: E4
 

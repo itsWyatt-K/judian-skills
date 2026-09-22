@@ -4,7 +4,7 @@ description: "当需要写短视频\"神转折\"结尾、段子打脸。；带�
 tags: ["H1", "反转", "预期违背", "神转折"]
 metadata:
   source_book: "《中国传统相声大全（全五卷）》 刘英男 编"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\中国传统相声大全\\expert\\fanzhuan\\SKILL.md"
 evidence: E4
 

@@ -4,7 +4,7 @@ description: "当用户要写/改第三人称叙述、纠结'这句要不要拆�
 tags: ["自由间接体", "视角", "声口", "戏剧性反讽", "叙述技巧"]
 metadata:
   source_book: "小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\小说机杼\\xsjz-free-indirect\\SKILL.md"
 evidence: E4
 
@@ -131,7 +131,7 @@ FID 把人物的内心话语从"他想""他对自己说"的标记中解放出来
 ### 分层说明
 - **为什么主层是 S2**：FID 的本质是戏剧性反讽（§10 作者原话），即"观众知道得比角色多"——这正是 S 层"信息差控制"的定义；去掉 FID，反讽信息差塌缩为平铺叙述。
 - **为什么副层有 N6**：FID 决定"叙述以谁的声音呈现"，是视角/声口的节奏配置，属 N 层尚未编号的声口维度。
-- **与 LIBRARY.md 的关系**：S2（信息差控制）为 LIBRARY §2.3 候选层（标注"待 Vorhaus 蒸馏"）；N6 为全新提案；两者均需 VERIFY 准入。
+- **与 LIBRARY.md 的关系**：S2（信息差控制）为 LIBRARY §2.3 候选层（标注"待 Vorhaus 整理"）；N6 为全新提案；两者均需 VERIFY 准入。
 - **母题依据（N/S 层必填）**：核心母题 M1"谁在说"——作者语言/人物语言/世界语言的三重紧张。风洞试压：若把梅茜换成心智成熟的成年人，FID 的归属检测信号会显著变弱（成人词汇与作者词汇更难区分），反讽口子变小——预测随"人物认知水平"这一条件改变而改变，证明编码锚定在因果结构（声音归属权）而非表面情节（小女孩的故事）。
 
 ## 相关 skills

@@ -4,7 +4,7 @@ description: "动画表演在游戏中的独特挑战：玩家输入不可预测
 tags: ["游戏动画", "状态机", "动作融合", "交互表演", "预动作", "表演预算"]
 metadata:
   source_book: "Acting for Animators (Ed Hooks, 3rd ed., Routledge)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Acting for Animators\\expert\\afa-gaming-animation\\SKILL.md"
 evidence: E4
 

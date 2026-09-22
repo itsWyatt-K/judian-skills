@@ -7,8 +7,8 @@ metadata:
   promoted_from: friend-chat-title
   evidence: E4
   source_book: "'《爆款文案》 关健明'"
-  source_card: "'classics\\爆款文案\\蒸馏skill\\friend-chat-title\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  source_card: "'classics\\爆款文案\\整理skill\\friend-chat-title\\SKILL.md'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

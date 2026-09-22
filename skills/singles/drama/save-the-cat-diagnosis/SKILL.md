@@ -8,7 +8,7 @@ metadata:
   evidence: E4
   source_book: "'《救猫咪：电影编剧指南》 布莱克·斯奈德'"
   source_card: "'story-recipes\\01-剧本创意与故事结构\\救猫咪：电影编剧指南\\save-the-cat-diagnosis\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

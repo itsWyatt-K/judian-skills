@@ -4,8 +4,8 @@ description: "当需要**帖子没爆感到焦虑** — 发了几条内容互动
 tags: ["strategy", "distribution", "probability-thinking", "mental-model", "long-tail"]
 metadata:
   source_book: "《X秘籍》 向阳乔木 @vista8"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-longtail-strategy\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-longtail-strategy\\SKILL.md"
 evidence: E4
 
 ---

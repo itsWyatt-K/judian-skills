@@ -4,8 +4,8 @@ description: "当用户说\" - 自我评估、绩效评估、面试评价 - 涉�
 tags: ["判断", "元认知", "提问", "启发法", "决策卫生"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\question-substitution-check\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\question-substitution-check\\SKILL.md"
 evidence: E4
 
 ---
@@ -87,8 +87,8 @@ evidence: E4
 | 替换的具体形式是"极端表现之后会怎样" | | → `regression-prediction-moderation` |
 | 目标问题是"这个项目要多久/花多少钱" | | → `outside-view-forecast` |
 | 想判断某个领域的直觉整体上是否可信 | | → `expert-intuition-validity`（那是环境属性问题，不是单次提问问题） |
-| 替换发生在"预测未来的感受"上 | | → `focusing-illusion-check`（本书已验证 · 待蒸馏） |
-| 想给一类判断装一个稳定的评分表 | | → `formula-over-intuition`（本书已验证 · 待蒸馏） |
+| 替换发生在"预测未来的感受"上 | | → `focusing-illusion-check`（本书已验证 · 待整理） |
+| 想给一类判断装一个稳定的评分表 | | → `formula-over-intuition`（本书已验证 · 待整理） |
 
 **定位**：本 skill 是分诊台。它的产出通常是"你实际回答的是 X，请改用 Y skill 来回答真问题"。
 
@@ -173,9 +173,9 @@ evidence: E4
 - **composes-with**: `base-rate-anchoring` / `availability-bias-correction` — 本 skill 是分诊台，这两个是最常见的两个下游科室。
 - **composes-with**: `regression-prediction-moderation` / `outside-view-forecast` — 另外两个下游科室。前者接"上次表现很亮眼"型替换，后者接"我们的计划很周密"型替换。
 - **contrasts-with**: `expert-intuition-validity` — 本 skill 处理**单次提问**的替换；那个 skill 处理**整个领域**的直觉是否可信。快速答案在高效度环境里是专业技能，在低效度环境里是替换。
-- **composes-with**: `focusing-illusion-check`（本书已验证 · 待蒸馏）— 当被替换的目标问题是"我以后会有多快乐"时，转到那里。
-- **composes-with**: `formula-over-intuition`（本书已验证 · 待蒸馏）— 执行步骤 5 的"拆成子项"直接通向那个 skill 的评分表设计。
+- **composes-with**: `focusing-illusion-check`（本书已验证 · 待整理）— 当被替换的目标问题是"我以后会有多快乐"时，转到那里。
+- **composes-with**: `formula-over-intuition`（本书已验证 · 待整理）— 执行步骤 5 的"拆成子项"直接通向那个 skill 的评分表设计。
 
-> 标注「待蒸馏」的是本书 `verified.md` 已通过三重验证、但尚未构造 SKILL.md 的单元，**不是可调用依赖**。完整清单见 [INDEX.md](../INDEX.md)。
+> 标注「待整理」的是本书 `verified.md` 已通过三重验证、但尚未构造 SKILL.md 的单元，**不是可调用依赖**。完整清单见 [INDEX.md](../INDEX.md)。
 
 ---

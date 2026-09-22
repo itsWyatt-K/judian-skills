@@ -4,8 +4,8 @@ description: "当需要分析一个商业/技术/组织问题但只用了一个�
 tags: ["跨学科思维", "思维模型", "普世智慧", "铁锤人倾向"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\latticework-mental-models\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\latticework-mental-models\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "当需要你在写强情节/冒险/动作故事，觉得主角\"�
 tags: ["subplot", "no-arc", "story-vs-situation"]
 metadata:
   source_book: "《Creating Character Arcs》 K.M. Weiland"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Creating Character Arcs\\cca-subplot-arc\\SKILL.md"
 evidence: E4
 

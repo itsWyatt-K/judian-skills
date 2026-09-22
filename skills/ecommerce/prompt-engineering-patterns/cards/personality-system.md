@@ -4,8 +4,8 @@ description: "当需要产品需要提供\"语气切换\"或\"性格选择\"功�
 tags: ["personality", "tone", "pluggable-design", "style-overlay"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\personality-system\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\personality-system\\SKILL.md"
 evidence: E4
 
 ---

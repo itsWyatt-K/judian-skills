@@ -4,7 +4,7 @@ description: "当需要配角写出来像工具人——只在主角需要时出
 tags: ["character", "network", "storytelling"]
 metadata:
   source_book: "《故事写作大师班》 约翰·特鲁比"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\故事写作大师班\\story-character-network\\SKILL.md"
 evidence: E4
 

@@ -4,8 +4,8 @@ description: "当需要对某个深信不疑的观点开始产生怀疑，但不
 tags: ["critical-thinking", "skepticism", "falsifiability", "anti-consensus", "cognition"]
 metadata:
   source_book: "《第一性原理》 李善友"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\第一性原理\\蒸馏skill\\critical-thinking\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\第一性原理\\整理skill\\critical-thinking\\SKILL.md"
 evidence: E4
 
 ---

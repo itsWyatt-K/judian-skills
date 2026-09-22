@@ -4,7 +4,7 @@ description: "当需要观点类/吐槽类内容——想拆解\"装腔\"对象�
 tags: ["解构", "降格", "反讽", "幽默改写", "去神圣化"]
 metadata:
   source_book: "《王朔作品精选（套装共6册）》 王朔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\王朔作品精选\\expert\\huangdan-jiangjie\\SKILL.md"
 evidence: E4
 

@@ -4,7 +4,7 @@ description: "Murch的「决定性瞬间」(The Decisive Moment)概念——最�
 tags: ["剪辑直觉", "决定性瞬间", "观看训练", "本能决策", "Murch"]
 metadata:
   source_book: "In the Blink of an Eye (Walter Murch, 2nd ed., Silman-James Press)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\In the Blink of an Eye\\expert\\ibe-decisive-moment\\SKILL.md"
 evidence: E4
 

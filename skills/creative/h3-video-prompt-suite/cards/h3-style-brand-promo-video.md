@@ -2,7 +2,7 @@
 name: h3-style-brand-promo-video
 description: 当用户要做"品牌宣传片/产品发布短片/官网展示/社交媒体推广"且提供 LOGO 与产品素材时使用。触发词：品牌宣传片、brand promo、产品发布、官网视频、logo 短片、品牌广告。本卡只提炼官方 skill 的叙事与视觉技法要素。工位边界：本技能只做 H3 提示词规范，不替代上游市场技能的生产流程，后者由上游市场技能『顶级波普视觉广告导演』等负责，两者接力不抢戏。工位边界：本技能只做H3 品牌宣传片风格模板，不产出完整分镜表与成片流程；后者由上游市场技能『顶级波普视觉广告导演』等负责，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 brand-promo-video-generator（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "brand-promo-video-generator/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "brand-promo-video-generator/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, brand, promo, 宣传片, 产品发布, logo, 叙事脊柱]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

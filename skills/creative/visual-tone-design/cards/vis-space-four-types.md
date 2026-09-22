@@ -4,7 +4,7 @@ description: "当需要定宅院/社区/超市等场景的空间基调（亲密/
 tags: ["space", "deep-space", "flat-space", "limited-space", "ambiguous-space", "depth-cue"]
 metadata:
   source_book: "《以眼说话：影像视觉原理及应用》 Bruce A. Block（汪代岚译）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\以眼说话：影像视觉原理及应用\\vis-space-four-types\\SKILL.md"
 evidence: E4
 

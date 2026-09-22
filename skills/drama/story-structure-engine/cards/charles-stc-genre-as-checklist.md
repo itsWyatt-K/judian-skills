@@ -4,7 +4,7 @@ description: "当需要草稿写完了，但自己觉得\"好像少了点什么\
 tags: ["genre", "checklist", "charles-lecture", "execution"]
 metadata:
   source_book: "01-剧本创意与故事结构"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\查理救猫咪系列精讲\\charles-stc-genre-as-checklist\\SKILL.md"
 evidence: E4
 

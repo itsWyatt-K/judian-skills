@@ -4,8 +4,8 @@ description: "当需要预算很少但想要大范围声量，纠结\"要不要�
 tags: ["marketing-event", "growth", "breakout", "acquisition", "low-budget"]
 metadata:
   source_book: "《借势》 金枪大叔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\借势\\蒸馏skill\\skills\\marketing-event\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\借势\\整理skill\\skills\\marketing-event\\SKILL.md"
 evidence: E4
 
 ---

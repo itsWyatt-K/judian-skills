@@ -4,7 +4,7 @@ description: "当需要段子/脱口秀的爆点管理：想要\"铺垫三连 + 
 tags: ["三翻四抖", "升级", "节奏", "包袱结构", "重复"]
 metadata:
   source_book: "《马三立表演相声精品集》 王文章 主编"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\马三立表演相声精品集\\expert\\sanfan-sidou\\SKILL.md"
 evidence: E4
 

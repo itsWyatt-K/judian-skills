@@ -2,7 +2,7 @@
 name: h3-style-co-op-game-intro
 description: 当用户要做"双人合作游戏主菜单/开场动画/角色化菜单"且需先出确认首图再生成视频时使用。触发词：游戏开场、co-op intro、主菜单动画、双人游戏、游戏 UI、玩家信息卡。本卡只提炼官方 skill 的框架固定+风格动态技法要素。工位边界：本技能只做 H3 提示词规范，不替代上游市场技能的生产流程，后者由上游市场技能『治愈系原创IP孵化助手』等负责，两者接力不抢戏。工位边界：本技能只做H3 游戏介绍片风格模板，不替代上游市场技能的生产流程，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 co-op-game-intro-generator（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "co-op-game-intro-generator/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "co-op-game-intro-generator/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, game-intro, co-op, 主菜单, 游戏UI, 角色化菜单]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

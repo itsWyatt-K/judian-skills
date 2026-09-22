@@ -4,8 +4,8 @@ description: "当需要**有一定粉丝量，规划变现路径** — 用户已
 tags: ["monetization", "pyramid", "ip-strategy", "revenue-sharing", "product", "consulting"]
 metadata:
   source_book: "《X秘籍》 AIP出海教程/Yangyi"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-monetization-pyramid\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-monetization-pyramid\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要销售/路演/融资需要临门一脚转化。；动员�
 tags: ["salesman", "persuasion", "influence", "emotion"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\salesmen\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\salesmen\\SKILL.md"
 evidence: E4
 
 ---

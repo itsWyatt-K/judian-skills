@@ -4,7 +4,7 @@ description: "当需要笔下有几个意象，但各说各的、互相之间没
 tags: ["symbol", "metaphor", "storytelling"]
 metadata:
   source_book: "《故事写作大师班》 约翰·特鲁比"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\故事写作大师班\\story-symbol-network\\SKILL.md"
 evidence: E4
 

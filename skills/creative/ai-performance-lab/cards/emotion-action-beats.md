@@ -4,7 +4,7 @@ description: "当需要写\"情绪变化戏\"（从平静到崩溃、从隐忍�
 tags: ["提示词", "角色演技", "动作节拍", "四情绪", "时间轴结构"]
 metadata:
   source_book: "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ai-role-acting-prompt\\emotion-action-beats\\SKILL.md"
 evidence: E4
 

@@ -4,8 +4,8 @@ description: "当需要新号启动或老号重新定位，不知道该做IP还�
 tags: ["positioning", "trade-off", "ip-strategy", "impossible-triangle", "monetization"]
 metadata:
   source_book: "《X秘籍》 多位创作者合集"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-positioning-tradeoff\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-positioning-tradeoff\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当用户说\"AI 编程助手\"、\"自动修改代码\"、\"Git �
 tags: ["编程代理", "Git安全", "代码编辑", "生命周期管理", "自动化"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\code-engineering\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\code-engineering\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当用户说\"事情很清楚，就是因为 X\"、\"情况很清�
 tags: ["判断", "元认知", "证据", "过度自信", "决策卫生"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\wysiati-evidence-audit\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\wysiati-evidence-audit\\SKILL.md"
 evidence: E4
 
 ---
@@ -84,8 +84,8 @@ WYSIATI（What You See Is All There Is，眼见即为事实）不是一条关于
 | 要给一个项目估工期/估成本 | | → `outside-view-forecast` |
 | 想判断"某人的直觉在这个领域能不能信" | | → `expert-intuition-validity`（那是环境属性判定） |
 | 决策将落未落，需要团队层面的制度化怀疑 | | → `premortem-doubt-injection`（本 skill 是个人自审） |
-| 已经发生了坏结果，在复盘归因 | | → `hindsight-narrative-guard`（本书已验证 · 待蒸馏） |
-| 想彻底不依赖印象，装一个评分表 | | → `formula-over-intuition`（本书已验证 · 待蒸馏） |
+| 已经发生了坏结果，在复盘归因 | | → `hindsight-narrative-guard`（本书已验证 · 待整理） |
+| 想彻底不依赖印象，装一个评分表 | | → `formula-over-intuition`（本书已验证 · 待整理） |
 
 **与三个"预测类"skill 的分界**：本 skill 审计的是"**这一次判断的自信从哪来**"，不产出任何数字。一旦问题变成"给我一个数"，就应转出：估个案概率 → `base-rate-anchoring`；估项目工期成本 → `outside-view-forecast`；给极端表现之后的下一次定数 → `regression-prediction-moderation`。本 skill 是它们的**前置体检**，不是它们的替代品。
 
@@ -157,9 +157,9 @@ WYSIATI（What You See Is All There Is，眼见即为事实）不是一条关于
 - **composes-with**: `outside-view-forecast` — 本 skill 暴露"我不知道什么"，那个 skill 用参考类别的历史分布**替你填上那些你想不到的未知**。二者互补，且后者能突破本 skill 的盲点。
 - **composes-with**: `premortem-doubt-injection` — 本 skill 是个人层面的自审，那个是团队层面的制度化怀疑。在组织决策中应当先做事前验尸，再各自做证据审计。
 - **contrasts-with**: `expert-intuition-validity` — 本 skill 处理"这次判断的证据够不够"；那个处理"这类判断的直觉在原理上能不能信"。
-- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待蒸馏）— 本 skill 用于**决策前**，那个用于**结果出来后**。二者的敌人是同一个（连贯故事），出现的时点不同。
-- **composes-with**: `formula-over-intuition`（本书已验证 · 待蒸馏）— 当同类判断反复出现时，与其每次审计，不如一次性把它变成评分表。
+- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待整理）— 本 skill 用于**决策前**，那个用于**结果出来后**。二者的敌人是同一个（连贯故事），出现的时点不同。
+- **composes-with**: `formula-over-intuition`（本书已验证 · 待整理）— 当同类判断反复出现时，与其每次审计，不如一次性把它变成评分表。
 
-> 标注「待蒸馏」的是本书 `verified.md` 已通过三重验证、但尚未构造 SKILL.md 的单元。它们**不是可调用依赖**，遇到对应场景时按常规方式处理即可。完整清单见 [INDEX.md](../INDEX.md)。
+> 标注「待整理」的是本书 `verified.md` 已通过三重验证、但尚未构造 SKILL.md 的单元。它们**不是可调用依赖**，遇到对应场景时按常规方式处理即可。完整清单见 [INDEX.md](../INDEX.md)。
 
 ---

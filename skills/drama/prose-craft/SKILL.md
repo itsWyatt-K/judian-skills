@@ -4,18 +4,18 @@ description: "把空泛的散文写出质地：此在感观察、结构安排与
 tags: ["creative"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 38
   evidence_floor: E4
 ---
 
 # 文笔与叙事：潜文本/自由间接引语/质感
 
-> 本包由 38 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 38 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当让叙事有质感、有人味、有呼吸时调用（本包由 38 张方法论卡汇编而成，蒸馏自《你能写出好故事》、《去AI味鉴别与修订方法论》、《人话》、《小说机杼》、《晚翠文谈新编》、《小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）》、《系统提示词设计模式库》）。核心能力：文笔与叙事：潜文本/自由间接引语/质感。关键触发：“很暖很团圆”、“这处设计利用了哪条认知机制 + 镜头怎么落地”、“有点水/然后…然后”、“这集老人到底有没有发生改变、算不算闭环”、“太假/像天降意外”、“是跟一个人还是跟一群人”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当让叙事有质感、有人味、有呼吸时调用（本包由 38 张方法论卡汇编而成，整理自《你能写出好故事》、《去AI味鉴别与修订方法论》、《人话》、《小说机杼》、《晚翠文谈新编》、《小说机杼（詹姆斯·伍德 著，黄远帆 译，原版 2008）》、《系统提示词设计模式库》）。核心能力：文笔与叙事：潜文本/自由间接引语/质感。关键触发：“很暖很团圆”、“这处设计利用了哪条认知机制 + 镜头怎么落地”、“有点水/然后…然后”、“这集老人到底有没有发生改变、算不算闭环”、“太假/像天降意外”、“是跟一个人还是跟一群人”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

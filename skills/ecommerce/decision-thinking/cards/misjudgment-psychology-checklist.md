@@ -4,8 +4,8 @@ description: "当需要面临重大决策（投资、招聘、并购、职业选
 tags: ["认知偏差", "心理学", "决策自检", "系统性偏误"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\misjudgment-psychology-checklist\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\misjudgment-psychology-checklist\\SKILL.md"
 evidence: E4
 
 ---

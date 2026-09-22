@@ -4,7 +4,7 @@ description: "短剧「一眼定生死」——只有热开篇（无冷开篇）
 tags: ["热开篇", "开头钩子", "付费点", "反转", "压情绪", "拉仇恨"]
 metadata:
   source_book: "从零开始学短剧创作（孙文琴,爱丽丝著）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\从零开始学短剧创作\\expert\\czks-hook-paywall\\SKILL.md"
 evidence: E4
 

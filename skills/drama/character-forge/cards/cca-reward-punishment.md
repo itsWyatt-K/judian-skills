@@ -4,7 +4,7 @@ description: "当需要角色\"道理都懂\"但没动力改变，故事靠情�
 tags: ["reward", "punishment", "motivation"]
 metadata:
   source_book: "《Creating Character Arcs》 K.M. Weiland"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Creating Character Arcs\\cca-reward-punishment\\SKILL.md"
 evidence: E4
 

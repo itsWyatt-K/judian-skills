@@ -4,22 +4,22 @@ description: "当需要学了某个框架，担心\"被框死\"\"过时了\"。�
 tags: ["meta-method", "charles-lecture", "critical-absorption"]
 metadata:
   source_book: "01-剧本创意与故事结构"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\查理救猫咪系列精讲\\charles-stc-tech-evolution-view\\SKILL.md"
 evidence: E4
 
 ---
 ## I — 方法论骨架 (Interpretation)
 
-查理给出了对待经典方法论的三段式态度，对任何蒸馏进弹药库的书/UP主都适用：
+查理给出了对待经典方法论的三段式态度，对任何整理进弹药库的书/UP主都适用：
 
-1. **承认它是技术，不是玄学**：创作是可分解、可量化、可学习的工程（这也是救猫咪/麦基/马三立技法能蒸馏的前提）。技术是"不断发展的"——今天的工具比昨天的更完善。
+1. **承认它是技术，不是玄学**：创作是可分解、可量化、可学习的工程（这也是救猫咪/麦基/马三立技法能整理的前提）。技术是"不断发展的"——今天的工具比昨天的更完善。
 
 2. **肯定其"先进工具"价值，但批判吸收**：查理明确"救猫咪是有用的、比较先进的"，所以他"占它"（用它的规矩对照）。但立刻补刀"不能照搬，要发展着看"——结合新片例、新媒介（如短视频）发展它，而非当圣经。
 
 3. **不盲从权威，也不虚无否定**：查理用"刘大夫（医学泰斗）vs 华图（贡献更大但在发展）"的比喻——尊重前辈贡献，但承认技术在演进，新工具可能更先进。既不"老学究式"死守，也不"全盘否定经典"。
 
-**对你弹药库的实操意义**：马三立/崔凯/救猫咪/查理蒸馏出的所有技法卡，都是"某个时代的先进工具"，要用、要对照、但**结合你的抖音/短视频语境发展着用**，而不是套模板。
+**对你弹药库的实操意义**：马三立/崔凯/救猫咪/查理整理出的所有技法卡，都是"某个时代的先进工具"，要用、要对照、但**结合你的抖音/短视频语境发展着用**，而不是套模板。
 
 ## A1 — 查理应用逻辑
 

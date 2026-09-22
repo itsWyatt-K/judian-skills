@@ -4,8 +4,8 @@ description: "当需要用户是小品牌/新进入者，面对行业巨头的�
 tags: ["诱因", "竞争策略", "反向利用", "以小博大"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\toxic-parasite\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\toxic-parasite\\SKILL.md"
 evidence: E4
 
 ---

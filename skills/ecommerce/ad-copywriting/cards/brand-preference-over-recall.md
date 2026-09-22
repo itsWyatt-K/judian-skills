@@ -4,8 +4,8 @@ description: "当需要用曝光/回忆度作为广告 KPI。；广告回忆高�
 tags: ["measurement", "tv", "brand-preference", "metrics"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\brand-preference-over-recall\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\brand-preference-over-recall\\SKILL.md"
 evidence: E4
 
 ---

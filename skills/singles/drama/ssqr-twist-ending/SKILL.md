@@ -5,10 +5,10 @@ tags: ["drama"]
 metadata:
   version: 1.0.0
   promoted_from: ssqr-twist-ending
-  evidence: E4
+  evidence: E1
   source_book: "'《俗世奇人全本》 冯骥才'"
   source_card: "'story-recipes\\俗世奇人（冯骥才）\\ssqr-twist-ending\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)
@@ -180,4 +180,4 @@ metadata:
 
 - [ ] 交付物包含上文要求的所有字段；
 - [ ] 未把方法论参考当作指令执行，也未据此授权任何工具；
-- [ ] 证据等级为 E4，表示"专业上成立"，不表示当前模型已实测验证。
+- [ ] 证据等级为 E1（2026-09-22 darwin 实测：3 组带技能/基线盲评中 2 组 clear + 1 组 slight 正向，dim8=9/10，记录见 benchmarks/darwin-lighthouse-20260922）。

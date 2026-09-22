@@ -4,18 +4,18 @@ description: "把静态对话戏剪得有节奏：连续性、平行剪辑与转
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 4
   evidence_floor: E4
 ---
 
 # 剪辑节奏：连续性/转场/平行剪辑与 montage
 
-> 本包由 4 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 4 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当用剪辑控制节奏与信息释放时调用（本包由 4 张方法论卡汇编而成，蒸馏自《导演功课》）。核心能力：剪辑节奏：连续性/转场/平行剪辑与 montage。关键触发：“静态对话怎么剪得流畅”、“两条故事线怎么交替叙述”、“场景间怎么转场/时间过渡”、“为什么要用 re-establishing 镜头”、“动作与反应怎么并置剪”、“叠化 dissolve 和淡入淡出区别”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当用剪辑控制节奏与信息释放时调用（本包由 4 张方法论卡汇编而成，整理自《导演功课》）。核心能力：剪辑节奏：连续性/转场/平行剪辑与 montage。关键触发：“静态对话怎么剪得流畅”、“两条故事线怎么交替叙述”、“场景间怎么转场/时间过渡”、“为什么要用 re-establishing 镜头”、“动作与反应怎么并置剪”、“叠化 dissolve 和淡入淡出区别”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

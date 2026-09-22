@@ -4,8 +4,8 @@ description: "当需要写好的文案/视频\"逻辑对但没人看、没转化
 tags: ["creative", "copywriting", "emotion", "content"]
 metadata:
   source_book: "《借势》 金枪大叔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\借势\\蒸馏skill\\skills\\creative-chemistry\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\借势\\整理skill\\skills\\creative-chemistry\\SKILL.md"
 evidence: E4
 
 ---

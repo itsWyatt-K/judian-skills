@@ -8,7 +8,7 @@ metadata:
   evidence: E4
   source_book: "'《对白：文字、舞台、银幕的言语行为艺术》 罗伯特·麦基'"
   source_card: "'story-recipes\\01-剧本创意与故事结构\\罗伯特·麦基虚构艺术三部曲（《故事》《对白》《人物》）\\mckee-dialogue-desire\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

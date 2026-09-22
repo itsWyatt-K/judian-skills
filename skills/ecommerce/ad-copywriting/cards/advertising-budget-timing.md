@@ -4,8 +4,8 @@ description: "当需要经济下行, 财务要砍市场预算。；新品上市,
 tags: ["recession", "budget", "launch", "timing", "discipline"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\advertising-budget-timing\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\advertising-budget-timing\\SKILL.md"
 evidence: E4
 
 ---

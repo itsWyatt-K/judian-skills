@@ -4,18 +4,18 @@ description: "写出能连播的情景喜剧：家庭摩擦、暖场钩子与人
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 22
   evidence_floor: E4
 ---
 
 # 情景喜剧实验室：群像/误会/梗与家庭 friction
 
-> 本包由 22 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 22 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当情景喜剧的群像与台词打法时调用（本包由 22 张方法论卡汇编而成，蒸馏自《汉语视听说教程：家有儿女》、《我爱我家台词》、《武林外传》）。核心能力：情景喜剧实验室：群像/误会/梗与家庭 friction。关键触发：“童言错位”、“看似要炸、温柔收场”、“先铺垫后点破”、“后爸后妈/继子女”、“最小孩子搅局破僵”、“每集一个 why now”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当情景喜剧的群像与台词打法时调用（本包由 22 张方法论卡汇编而成，整理自《汉语视听说教程：家有儿女》、《我爱我家台词》、《武林外传》）。核心能力：情景喜剧实验室：群像/误会/梗与家庭 friction。关键触发：“童言错位”、“看似要炸、温柔收场”、“先铺垫后点破”、“后爸后妈/继子女”、“最小孩子搅局破僵”、“每集一个 why now”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

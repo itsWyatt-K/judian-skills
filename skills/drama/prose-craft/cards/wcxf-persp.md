@@ -4,7 +4,7 @@ description: "当用户要写人物却「游离在人物之外」、旁白比人
 tags: ["贴到人物", "温爱视角", "抒情人道主义", "不冷嘲", "人物站位"]
 metadata:
   source_book: "《晚翠文谈新编》汪曾祺"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\晚翠文谈（汪曾祺）\\wcxf-persp\\SKILL.md"
 evidence: E4
 

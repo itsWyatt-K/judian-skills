@@ -4,8 +4,8 @@ description: "当需要**虚拟主播 / 数字人**：要不要公开中之人�
 tags: ["authenticity", "ethics", "branding", "experience-design", "ai-content"]
 metadata:
   source_book: "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\体验经济\\蒸馏skill\\honest-fake-authenticity\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\体验经济\\整理skill\\honest-fake-authenticity\\SKILL.md"
 evidence: E4
 
 ---
@@ -213,7 +213,7 @@ evidence: E4
 - **透明化 / Radical Transparency**：主张一律公开。本 skill **不是**这个主张——它明确承认 fake fake 是一种可选且有时更优的策略。这是本条最反直觉之处。
 - **品牌真诚（Brand Authenticity）营销话术**：通常只有"要真实"一个方向；本 skill 给的是二选一决策 + 混用禁令，可操作性完全不同。
 - **AI 内容标注合规**：那是法律义务的下限；本 skill 处理的是下限之上的策略空间（标注之后怎么把"人造"做成优势）。
-- **《真实经济》（Authenticity，派恩与吉尔摩后续著作）**：本章的收束句"审美性体验必须是真实的"正是那本书的种子。本 skill 只蒸馏《体验经济》中的二分框架，不覆盖后续那本书的五种真实性模型。
+- **《真实经济》（Authenticity，派恩与吉尔摩后续著作）**：本章的收束句"审美性体验必须是真实的"正是那本书的种子。本 skill 只整理《体验经济》中的二分框架，不覆盖后续那本书的五种真实性模型。
 - **kayfabe（摔角行业的"假戏真做"约定）**：与 fake fake 高度相似，但 kayfabe 是**观众共谋的公开秘密**（大家都知道是演的却配合），本质上更接近 honest fake。这是最常见的一次误判。
 
 ---

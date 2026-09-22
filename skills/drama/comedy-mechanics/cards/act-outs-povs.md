@@ -4,7 +4,7 @@ description: "当用户\"讲段子像念稿、观众不投入\"\"想把讲述改
 tags: ["performance", "acting", "pov", "scene-work"]
 metadata:
   source_book: "《Step by Step to Stand-Up Comedy》 Greg Dean"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\cangjie-origin-compare\\_quarantine\\act-outs-povs\\SKILL.md"
 evidence: E4
 
@@ -99,7 +99,7 @@ Act Out 是把笑话从"讲述"变成"正在发生"的实景演出。Dean 首创
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《Step by Step to Stand-Up Comedy》（Greg Dean）。
 

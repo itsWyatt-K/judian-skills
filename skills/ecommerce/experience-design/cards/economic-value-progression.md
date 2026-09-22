@@ -4,8 +4,8 @@ description: "当需要**报价被压 / 只被问价格**：客户拿几家报�
 tags: ["pricing", "business-model", "commoditization", "diagnosis"]
 metadata:
   source_book: "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\体验经济\\蒸馏skill\\economic-value-progression\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\体验经济\\整理skill\\economic-value-progression\\SKILL.md"
 evidence: E4
 
 ---
@@ -147,7 +147,7 @@ evidence: E4
 
 ### 容易混淆的邻近方法论
 
-- **"目的先于差异化"**（本书第10章）：本次蒸馏已判定其与 `positioning-six-steps` 重叠且属常识，未做成独立 skill。若用户真正想问的是"我们为什么存在"，转定位系列。
+- **"目的先于差异化"**（本书第10章）：本次整理已判定其与 `positioning-six-steps` 重叠且属常识，未做成独立 skill。若用户真正想问的是"我们为什么存在"，转定位系列。
 - **价值链升级 / 微笑曲线**：那是产业链位置（研发—制造—品牌）的移动；本 skill 是**同一环节内产出性质**的跃迁。可以在制造环节原地升到体验级，不需要移动产业链位置。
 - **"增值服务"**：常识里的增值服务是免费赠送，本 skill 的升级要求产出**可被独立计价**。免费的加法不构成升级。
 

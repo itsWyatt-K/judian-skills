@@ -4,7 +4,7 @@ description: "用于把\"说\"的笑话变成\"演\"的笑话——当你写的�
 tags: ["脱口秀", "act-out", "演绎", "show-dont-tell", "表演", "角色", "误会"]
 metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\act-out\\SKILL.md"
 evidence: E4
 

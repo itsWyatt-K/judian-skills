@@ -4,8 +4,8 @@ description: "当用户说\"防止用户通过文档注入指令\"、\"需要信
 tags: ["安全", "注入防御", "提示工程", "信任边界", "系统提示"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\injection-defense\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\injection-defense\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "Flexibility 章节精华：Simple Overlap（跟随/余势）、Ove
 tags: ["跟随动作", "重叠动作", "柔性", "波动作", "鞭动作", "惯性", "余势"]
 metadata:
   source_book: "The Animator's Survival Kit (Richard Williams, Faber & Faber)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\The Animators Survival Kit\\expert\\ask-overlap-flexibility\\SKILL.md"
 evidence: E4
 

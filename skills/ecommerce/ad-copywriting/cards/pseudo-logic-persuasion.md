@@ -4,8 +4,8 @@ description: "当需要产品确实好但客户不信——需要增加\"证据�
 tags: ["persuasion", "proof", "credibility", "logic"]
 metadata:
   source_book: "《文案创作完全手册》罗伯特·布莱"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\文案创作完全手册\\蒸馏skill\\pseudo-logic-persuasion\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\文案创作完全手册\\整理skill\\pseudo-logic-persuasion\\SKILL.md"
 evidence: E4
 
 ---

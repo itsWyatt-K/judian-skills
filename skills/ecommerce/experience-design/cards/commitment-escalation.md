@@ -4,8 +4,8 @@ description: "当需要**要说服一个明确反对的人**（领导、同事�
 tags: ["persuasion", "commitment", "consistency", "ikea-effect", "foot-in-the-door", "change-management"]
 metadata:
   source_book: "《上瘾：让用户养成使用习惯的四大产品逻辑》 [美]尼尔·埃亚尔、[美]瑞安·胡佛"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\上瘾\\蒸馏skill\\skills\\commitment-escalation\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\上瘾\\整理skill\\skills\\commitment-escalation\\SKILL.md"
 evidence: E4
 
 ---

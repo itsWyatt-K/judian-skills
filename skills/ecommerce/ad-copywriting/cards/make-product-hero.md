@@ -4,8 +4,8 @@ description: "当需要用户说\"我们产品太无聊, 写不出东西\"。；
 tags: ["product-hero", "copywriting", "attitude", "relevance"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\make-product-hero\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\make-product-hero\\SKILL.md"
 evidence: E4
 
 ---

@@ -2,7 +2,7 @@
 name: h3-style-minimalist-product-ad
 description: 当用户要做"极简产品广告/纯净背景单品展示/苹果风留白产品片"时使用。触发词：极简产品广告、minimalist product ad、纯净背景、单品展示、留白、苹果风、无干扰产品片。本卡只提炼官方 skill 的「视觉技法要素」，不复制其工作流原文。工位边界：本技能只做H3 极简产品广告风格模板，不产出完整分镜表与成片流程；后者由上游市场技能『顶级波普视觉广告导演』等负责，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 minimalist-product-ad-generator（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "minimalist-product-ad-generator/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "minimalist-product-ad-generator/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, minimalist, product-ad, 留白, 单品展示, 纯净背景]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

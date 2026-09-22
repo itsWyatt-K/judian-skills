@@ -4,18 +4,18 @@ description: "把'凭直觉拍板'换成可检验的判断：思维模型格森�
 tags: ["creative"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 45
   evidence_floor: E4
 ---
 
 # 决策思维：多元模型/逆向思维/第一性原理
 
-> 本包由 45 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 45 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当创作与商业决策的思维工具箱时调用（本包由 45 张方法论卡汇编而成，蒸馏自《孙子兵法》、《穷查理宝典》、《第一性原理》、《认知红利》）。核心能力：决策思维：多元模型/逆向思维/第一性原理。关键触发：“我做了这么多年，不需要什么清单”、“我可以学”、“我觉得这肯定是对的/不可能错”、“必须扳回来”、“太好了以至于不真实”、“为什么制度改了但大家还是老样子?”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当创作与商业决策的思维工具箱时调用（本包由 45 张方法论卡汇编而成，整理自《孙子兵法》、《穷查理宝典》、《第一性原理》、《认知红利》）。核心能力：决策思维：多元模型/逆向思维/第一性原理。关键触发：“我做了这么多年，不需要什么清单”、“我可以学”、“我觉得这肯定是对的/不可能错”、“必须扳回来”、“太好了以至于不真实”、“为什么制度改了但大家还是老样子?”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 
@@ -50,6 +50,8 @@ metadata:
 - [ ] 结论是否有失效边界
 - [ ] 是否避免用模型数量代替推理质量
 - [ ] 是否区分事实与推断
+- [ ] 文案无绝对化用语（「最」「第一」「顶级」「绝无仅有」「国家级」等《广告法》禁用表述；经典案例复述须标注为案例）
+- [ ] 无虚构稀缺（不写无法兑现的限时/限量/倒计时；真实活动须给出兑现路径与有效期）
 
 ## 包内卡片名录
 

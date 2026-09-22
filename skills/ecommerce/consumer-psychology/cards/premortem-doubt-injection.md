@@ -4,8 +4,8 @@ description: "当用户说\"看过就算了\"、\"大家还有什么风险要提
 tags: ["决策", "会议设计", "风险", "团队", "组织流程"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\premortem-doubt-injection\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\premortem-doubt-injection\\SKILL.md"
 evidence: E4
 
 ---
@@ -94,8 +94,8 @@ evidence: E4
 | 个人层面审计"我的自信从哪来" | | → `wysiati-evidence-audit`（个人自审 vs 团队程序） |
 | 要一个"这类事成功率多少"的**数字** | | → `base-rate-anchoring`（那出概率，本 skill 出失败机制清单） |
 | 判断某人的直觉在这个领域可不可信 | | → `expert-intuition-validity` |
-| 事情**已经失败了**，在复盘 | | → `hindsight-narrative-guard`（本书已验证 · 待蒸馏；那是真验尸，本 skill 是"事前"） |
-| 决策本身是"要不要接这个风险"且可重复 | | → `broad-framing-risk-policy`（本书已验证 · 待蒸馏） |
+| 事情**已经失败了**，在复盘 | | → `hindsight-narrative-guard`（本书已验证 · 待整理；那是真验尸，本 skill 是"事前"） |
+| 决策本身是"要不要接这个风险"且可重复 | | → `broad-framing-risk-policy`（本书已验证 · 待整理） |
 | 想推动一个方案被别人接受 | | → `nih-co-creation-buyin`（跨书；那是说服，本 skill 是自查） |
 
 **与三个预测类 skill 的关系**：本 skill **不产出数字**。若讨论中真正缺的是"要多久/多少钱"→ `outside-view-forecast`；"这类事成的概率"→ `base-rate-anchoring`；"上次那么好这次会怎样"→ `regression-prediction-moderation`。本 skill 只负责把**怀疑变成一道必经程序**，通常在拿到上述数字之后紧接着做。
@@ -175,10 +175,10 @@ evidence: E4
 - **composes-with**: `wysiati-evidence-audit` — 团队程序 + 个人自审。建议顺序：先做事前验尸（团队层面产生风险清单），再对 Top 3 风险各做一次证据审计。
 - **contrasts-with**: `expert-intuition-validity` — 若团队的信心来自某位资深者的直觉，先用那个 skill 判定该领域直觉是否可信，再决定事前验尸的权重。
 - **composes-with**: `base-rate-anchoring` — 事前验尸产出的是**失败机制清单**（定性），那个产出**这类事的成功概率**（定量）。两者拼起来才是完整的外部意见；只有故事没有数字，会议上会被"我们不一样"轻易化解。
-- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待蒸馏）— 事前 vs 事后。本 skill 的第 10 步（归档清单）正是复盘时所需要的输入：有了当时写下的风险清单，才能区分"程序错了"和"运气不好"。
-- **composes-with**: `broad-framing-risk-policy`（本书已验证 · 待蒸馏）— 当决策属于"这一类会反复出现"的类型时，除了做事前验尸，还应把它变成一条事先声明的风险政策。
+- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待整理）— 事前 vs 事后。本 skill 的第 10 步（归档清单）正是复盘时所需要的输入：有了当时写下的风险清单，才能区分"程序错了"和"运气不好"。
+- **composes-with**: `broad-framing-risk-policy`（本书已验证 · 待整理）— 当决策属于"这一类会反复出现"的类型时，除了做事前验尸，还应把它变成一条事先声明的风险政策。
 - **contrasts-with**: `nih-co-creation-buyin`（《影响力》系/跨书）— 那个用于**让别人接受你的方案**，本 skill 用于**让自己的方案接受审判**。方向相反，容易被混用。
 
-> 标注「待蒸馏」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
+> 标注「待整理」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
 
 ---

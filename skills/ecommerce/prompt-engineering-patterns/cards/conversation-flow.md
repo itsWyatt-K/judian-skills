@@ -4,8 +4,8 @@ description: "当用户说\"先问清楚\"、\"先做再说\"、\"问太多问�
 tags: ["对话路由", "意图分类", "澄清策略", "自主度控制", "工作流生命周期"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\conversation-flow\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\conversation-flow\\SKILL.md"
 evidence: E4
 
 ---

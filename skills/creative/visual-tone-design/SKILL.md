@@ -4,18 +4,18 @@ description: "把'画面很脏很杂'调成统一基调：视觉语言、色彩�
 tags: ["creative"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 27
   evidence_floor: E4
 ---
 
 # 视觉基调：构图/光影/色彩/运动设计
 
-> 本包由 27 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 27 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当建立可复用的影像视觉语言时调用（本包由 27 张方法论卡汇编而成，蒸馏自《以眼说话：影像视觉原理及应用》）。核心能力：视觉基调：构图/光影/色彩/运动设计。关键触发：“运镜怎么规划”、“色温怎么配”、“构图怎么摆”、“曝光怎么定”、“镜头怎么选”、“硬光软光怎么选”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当建立可复用的影像视觉语言时调用（本包由 27 张方法论卡汇编而成，整理自《以眼说话：影像视觉原理及应用》）。核心能力：视觉基调：构图/光影/色彩/运动设计。关键触发：“运镜怎么规划”、“色温怎么配”、“构图怎么摆”、“曝光怎么定”、“镜头怎么选”、“硬光软光怎么选”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

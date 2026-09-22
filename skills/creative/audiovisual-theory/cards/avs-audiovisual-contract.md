@@ -4,7 +4,7 @@ description: "Chion核心理论：观众在观影时自动建立「视听契约�
 tags: ["视听契约", "声音理论", "感知绑定", "Chion", "声音设计"]
 metadata:
   source_book: "Audio-Vision: Sound on Screen (Michel Chion, trans. Claudia Gorbman)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Audio-Vision Sound on Screen\\expert\\avs-audiovisual-contract\\SKILL.md"
 evidence: E4
 

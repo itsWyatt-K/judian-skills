@@ -4,7 +4,7 @@ description: "当需要短视频口播第一句：想用 3 秒抓住人，但\"�
 tags: ["叙事姿态", "不可靠叙述者", "开场", "人设", "自黑"]
 metadata:
   source_book: "《王朔作品精选（套装共6册）》 王朔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\王朔作品精选\\expert\\piwei-kaichang\\SKILL.md"
 evidence: E4
 

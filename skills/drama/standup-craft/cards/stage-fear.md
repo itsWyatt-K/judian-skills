@@ -4,7 +4,7 @@ description: "Use when pre-show nerves (shaking, racing heart, urge to flee) or 
 tags: ["stage-fright", "anxiety", "adrenaline", "honesty", "vulnerability"]
 metadata:
   source_book: "Step by Step to Stand-Up Comedy (Greg Dean, Revised Edition)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Greg-Dean-英文版-定制版\\expert\\stage-fear\\SKILL.md"
 evidence: E4
 

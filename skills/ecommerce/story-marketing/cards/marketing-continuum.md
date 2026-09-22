@@ -4,8 +4,8 @@ description: "当需要给客户/老板做内容营销诊断报告，需要成�
 tags: ["成熟度模型", "内容营销", "诊断", "进阶"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\marketing-continuum\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\marketing-continuum\\SKILL.md"
 evidence: E4
 
 ---

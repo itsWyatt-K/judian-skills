@@ -4,8 +4,8 @@ description: "当需要团队提出\"这个 slogan/视觉/人设用太久了，�
 tags: ["定位", "一致性", "品牌资产", "陷阱", "诊断"]
 metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\定位\\蒸馏skill\\positioning-fwmts-trap\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\定位\\整理skill\\positioning-fwmts-trap\\SKILL.md"
 evidence: E4
 
 ---

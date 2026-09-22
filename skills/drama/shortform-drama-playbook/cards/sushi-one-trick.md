@@ -4,7 +4,7 @@ description: "传奇人物以\"一件绝活\"立身：全篇情节从绝活生�
 tags: ["人物塑造", "绝活", "技能引擎", "命运边界", "传奇人物"]
 metadata:
   source_book: "《俗世奇人全本》（冯骥才，人民文学出版社 2020）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\俗世奇人全本\\sushi-one-trick\\SKILL.md"
 evidence: E4
 

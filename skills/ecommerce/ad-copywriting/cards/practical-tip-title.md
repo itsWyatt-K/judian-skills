@@ -4,8 +4,8 @@ description: "当需要知识付费/在线课程推广，需要精准触达\"有
 tags: ["标题写作", "痛点切入", "解决方案", "知识付费文案"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\practical-tip-title\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\practical-tip-title\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要**产品/功能介绍的顺序问题**：先说局限还�
 tags: ["expectation", "experience-design", "framing", "pricing", "marketing"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\expectation-experience-engineering\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\expectation-experience-engineering\\SKILL.md"
 evidence: E4
 
 ---
@@ -201,6 +201,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `price-context-priming` ⟨已装库⟩, `reference-price-framing` ⟨已装库⟩, `effort-visibility-premium`
 - **composes-with**（常联用）: `effort-visibility-premium`, `meaning-recognition-motivation`
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

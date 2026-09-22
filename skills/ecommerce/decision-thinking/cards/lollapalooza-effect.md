@@ -4,8 +4,8 @@ description: "当需要分析某个结果远超预期或远低于预期的现象
 tags: ["极端事件", "多因素交互", "非线性效应", "系统性风险"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\lollapalooza-effect\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\lollapalooza-effect\\SKILL.md"
 evidence: E4
 
 ---

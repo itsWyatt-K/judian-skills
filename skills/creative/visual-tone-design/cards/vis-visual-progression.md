@@ -4,7 +4,7 @@ description: "当需要单集想从\"安静日常\"一路推到\"反套路爆发
 tags: ["progression", "complexity", "intensity-curve", "narrative-density"]
 metadata:
   source_book: "《以眼说话：影像视觉原理及应用》 Bruce A. Block（汪代岚译）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\以眼说话：影像视觉原理及应用\\vis-visual-progression\\SKILL.md"
 evidence: E4
 

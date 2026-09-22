@@ -4,8 +4,8 @@ description: "当需要作为媒体/运营要报道一起自杀、自伤、暴�
 tags: ["contagion", "media", "responsibility", "werther"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\werther-effect\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\werther-effect\\SKILL.md"
 evidence: E4
 
 ---

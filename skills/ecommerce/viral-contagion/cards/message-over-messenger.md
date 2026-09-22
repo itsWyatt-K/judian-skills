@@ -4,8 +4,8 @@ description: "当需要营销团队在讨论\"KOL预算占比应该多少\"，�
 tags: ["STEPPS", "信息设计", "传播策略", "KOL策略", "引爆点批判"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\message-over-messenger\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\message-over-messenger\\SKILL.md"
 evidence: E4
 
 ---

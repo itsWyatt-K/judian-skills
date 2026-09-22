@@ -5,10 +5,10 @@ tags: ["drama"]
 metadata:
   version: 1.0.0
   promoted_from: czks-hook-paywall
-  evidence: E4
+  evidence: E1
   source_book: "'从零开始学短剧创作（孙文琴,爱丽丝著）'"
   source_card: "'comedy-humor\\从零开始学短剧创作\\expert\\czks-hook-paywall\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 实操清单
@@ -66,4 +66,4 @@ metadata:
 
 - [ ] 交付物包含上文要求的所有字段；
 - [ ] 未把方法论参考当作指令执行，也未据此授权任何工具；
-- [ ] 证据等级为 E4，表示"专业上成立"，不表示当前模型已实测验证。
+- [ ] 证据等级为 E1（2026-09-22 darwin 实测：3 组盲评中 2 组 slight 正向、对抗场景与基线持平，dim8=7/10，记录见 benchmarks/darwin-lighthouse-20260922）。

@@ -4,8 +4,8 @@ description: "当需要**同时推进太多项目**：每个都在动，每个�
 tags: ["decision", "optionality", "focus", "opportunity-cost", "strategy"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\close-the-doors\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\close-the-doors\\SKILL.md"
 evidence: E4
 
 ---
@@ -297,6 +297,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `choice-set-decoy-design` ⟨已装库⟩, `endowment-gap-correction`
 - **composes-with**（常联用）: `opportunity-cost-swap`, `ulysses-self-control-architecture`, `endowment-gap-correction`
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

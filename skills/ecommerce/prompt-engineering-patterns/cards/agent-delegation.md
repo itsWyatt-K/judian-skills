@@ -4,8 +4,8 @@ description: "当用户说\"不同类型的任务需要不同的专家来处理\
 tags: ["多代理", "任务委派", "子代理专业化", "生命周期管理", "输出隔离"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\agent-delegation\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\agent-delegation\\SKILL.md"
 evidence: E4
 
 ---

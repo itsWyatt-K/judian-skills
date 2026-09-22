@@ -4,8 +4,8 @@ description: "当用户说\"按我们的计划算\"、\"进展良好\"、\"又�
 tags: ["决策", "预测", "项目管理", "规划谬误", "外部意见"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\outside-view-forecast\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\outside-view-forecast\\SKILL.md"
 evidence: E4
 
 ---
@@ -64,7 +64,7 @@ evidence: E4
 | 已经有了一个极端的直觉预测，要决定收缩多少 | | → `regression-prediction-moderation`（本 skill 负责"基准是多少"，那个负责"往直觉走多远"） |
 | 要不要为了未来的自己现在忍住 | | → `future-self-vividness` |
 | 讨论这件事**值不值得做**（而非要花多久） | | → `opportunity-cost-swap` |
-| 事后复盘为什么搞砸了 | | → `hindsight-narrative-guard`（本书已验证 · 待蒸馏） |
+| 事后复盘为什么搞砸了 | | → `hindsight-narrative-guard`（本书已验证 · 待整理） |
 
 #### ★ 与另外两个"预测类"skill 的硬判据
 
@@ -146,9 +146,9 @@ evidence: E4
 - **composes-with**: `premortem-doubt-injection` — 标准组合：先用外部意见拿到"这类项目 40% 失败"，再用事前验尸找出"我们这个具体会怎么死"。前者给概率，后者给机制。
 - **depends-on**: `base-rate-anchoring` — 外部意见是基础比率思维在时间/成本维度上的专门化；如果连"先归类再看个案"都做不到，本 skill 无法执行。
 - **composes-with**: `regression-prediction-moderation` — 本 skill 产出基准预测（修正四步法的第 1 步），那个 skill 负责第 2–4 步。
-- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待蒸馏）— 一个防事前的乐观，一个防事后的确定感；两者都在攻击"我理解了这件事"的错觉，但方向相反。
+- **contrasts-with**: `hindsight-narrative-guard`（本书已验证 · 待整理）— 一个防事前的乐观，一个防事后的确定感；两者都在攻击"我理解了这件事"的错觉，但方向相反。
 - **contrasts-with**: `anchor-antidote`（《怪诞行为学》/《无价》）— 注意基准预测本身会成为锚，必须先算基准再看个案。
 
-> 标注「待蒸馏」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
+> 标注「待整理」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
 
 ---

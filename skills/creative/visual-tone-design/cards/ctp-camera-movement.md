@@ -4,7 +4,7 @@ description: "当用户说\"运镜怎么规划\"、\"运动要有动机吗\"、\
 tags: ["camera-movement", "motivation", "dolly", "zoom", "tracking", "crane", "reveal", "invisible-technique"]
 metadata:
   source_book: "Cinematography: Theory and Practice (Blain Brown, 4th ed.)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\Cinematography Theory and Practice\\ctp-camera-movement\\SKILL.md"
 evidence: E4
 

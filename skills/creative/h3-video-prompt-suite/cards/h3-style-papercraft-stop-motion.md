@@ -2,7 +2,7 @@
 name: h3-style-papercraft-stop-motion
 description: 当用户要做"纸艺定格动画/剪纸风格科普/手工拼贴感短片"时使用。触发词：纸艺、papercraft、定格动画、剪纸、手工拼贴、stop-motion paper、纸偶。本卡只提炼官方 skill 的视觉技法要素。工位边界：本技能只做H3 纸模定格风格模板，不替代上游市场技能的生产流程，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 papercraft-stop-motion-explainer（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "papercraft-stop-motion-explainer/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "papercraft-stop-motion-explainer/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, papercraft, stop-motion, 纸艺, 定格, 剪纸, 手工]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

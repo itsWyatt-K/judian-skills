@@ -4,8 +4,8 @@ description: "当需要**出售自有资产**：房子、车、二手物品、�
 tags: ["ownership", "loss-aversion", "valuation", "negotiation", "pricing"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\endowment-gap-correction\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\endowment-gap-correction\\SKILL.md"
 evidence: E4
 
 ---
@@ -251,6 +251,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `anchor-antidote` ⟨已装库⟩, `arbitrary-coherence-pricing` ⟨已装库⟩, `close-the-doors`
 - **composes-with**（常联用）: `close-the-doors`, `anchor-first-offer` ⟨已装库⟩, `investment-design` ⟨已装库⟩
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

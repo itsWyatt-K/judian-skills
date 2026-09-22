@@ -4,7 +4,7 @@ description: "用于温和化家庭危机：有冲突不撕裂相关的创作场
 tags: ["情景喜剧", "危机", "温情", "护栏"]
 metadata:
   source_book: "《汉语视听说教程：家有儿女》刘立新/邓方（世界图书出版公司，2009）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\家有儿女1\\expert\\jyl-gentle-crisis\\SKILL.md"
 evidence: E4
 

@@ -4,7 +4,7 @@ description: "当需要写\"裁员/内卷/消费/攀比\"题材的自嘲喜剧�
 tags: ["自嘲", "热点", "讽刺", "荒诞", "仪式化"]
 metadata:
   source_book: "《崔凯文集·喜剧小品卷》 崔凯 著"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\崔凯文集\\expert\\zichao-redian\\SKILL.md"
 evidence: E4
 

@@ -4,7 +4,7 @@ description: "当用户说\"简单真相\"、\"人人都懂的铺垫\"、\"借�
 tags: ["simple-truth", "takeoff", "setup", "relatable", "observation"]
 metadata:
   source_book: "Comedy Writing Secrets (3rd ed.) Mark Shatz with Mel Helitzer, 2016"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\Comedy Writing Secrets\\cws-simple-truth-takeoff\\SKILL.md"
 evidence: E4
 

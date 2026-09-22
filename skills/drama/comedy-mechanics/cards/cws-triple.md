@@ -4,7 +4,7 @@ description: "当用户说\"三单位节奏\"、\"误导+翻转\"、\"三叠\"�
 tags: ["triple", "rule-of-three", "rhythm", "callback", "setup-payoff"]
 metadata:
   source_book: "Comedy Writing Secrets (3rd ed.) Mark Shatz with Mel Helitzer, 2016"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\Comedy Writing Secrets\\cws-triple\\SKILL.md"
 evidence: E4
 

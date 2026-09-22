@@ -4,8 +4,8 @@ description: "当需要内容/广告里同一卖点讲了多遍，效果递减�
 tags: ["边际效用", "重复", "事不过三", "节奏"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\marginal-utility-decline\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\marginal-utility-decline\\SKILL.md"
 evidence: E4
 
 ---

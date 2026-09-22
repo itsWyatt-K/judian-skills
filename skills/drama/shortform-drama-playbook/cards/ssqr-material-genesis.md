@@ -4,7 +4,7 @@ description: "把日常琐碎/闲细节转化为故事素材——在平淡里�
 tags: ["隐喻", "素材转化", "鸿沟", "创作方法"]
 metadata:
   source_book: "《俗世奇人全本》 冯骥才"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\俗世奇人（冯骥才）\\ssqr-material-genesis\\SKILL.md"
 evidence: E4
 

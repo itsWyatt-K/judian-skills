@@ -4,8 +4,8 @@ description: "当需要用户要起草一条推文/帖子,不知道该用什么�
 tags: ["content-creation", "short-content", "hook-body-cta", "viral-formula", "writing"]
 metadata:
   source_book: "《X秘籍》 向阳乔木 / AIP出海教程(@带队教练/GoSailGlobal)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-short-content-craft\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-short-content-craft\\SKILL.md"
 evidence: E4
 
 ---

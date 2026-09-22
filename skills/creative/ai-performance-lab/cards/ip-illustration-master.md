@@ -3,8 +3,8 @@ name: ip-illustration-master
 description: "当需要要给一篇公众号/文章自动或半自动配图，不知从哪段配、配成啥型。；已有配图但想升级成\"有固定 IP 角色\"的系列配图。时调用。核心能力：IP 配图总控：从普通配图到 IP 配图。关键触发：有固定 IP 角色、IP 配图 / 文章配图 / 怎么给文章自动配图、配图工作流 / 配图前怎么判断 / 图文字怎么合成、illustration workflow / auto-illustrate / IP illustration。不适用于：纯视频/数字人表演提示词（走 ai-acting-master）。、纯静态头像/。"
 tags: ["IP配图", "配图工作流", "普通配图", "交付模式", "质量门禁", "内容层"]
 metadata:
-  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并蒸馏）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并整理）"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ip-character-system\\ip-illustration-master\\SKILL.md"
 evidence: E4
 

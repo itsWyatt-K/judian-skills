@@ -4,7 +4,7 @@ description: "当需要知识类吐槽：想\"一本正经科普歪理\"（讲 A
 tags: ["歪解", "谐音", "智性幽默", "错位", "经典"]
 metadata:
   source_book: "《马三立表演相声精品集》 王文章 主编"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\马三立表演相声精品集\\expert\\waijie-jingdian\\SKILL.md"
 evidence: E4
 

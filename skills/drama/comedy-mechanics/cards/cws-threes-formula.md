@@ -4,7 +4,7 @@ description: "当用户说\"我写的段子没人笑/不对劲，帮我看看\"�
 tags: ["humor", "formula", "threes", "ingredients", "diagnosis", "setup"]
 metadata:
   source_book: "Comedy Writing Secrets (3rd ed.) Mark Shatz with Mel Helitzer, 2016"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\Comedy Writing Secrets\\cws-threes-formula\\SKILL.md"
 evidence: E4
 
@@ -55,7 +55,7 @@ evidence: E4
 
 - **不是结构卡**：一集/一场戏的整体喜剧结构请去 `kom-comic-structure`，本卡只管单则笑话成分。
 - **顺序可争议**：六要素"都在场"是硬约束，"按什么顺序排"不是，别当神圣步骤。
-- **Tier B 版权边界**：配方为作者原创编排，蒸馏只抽"六成分诊断框架"；不整段复述书中笑话样例。引文 ≤150 字/段。
+- **Tier B 版权边界**：配方为作者原创编排，整理只抽"六成分诊断框架"；不整段复述书中笑话样例。引文 ≤150 字/段。
 
 ---
 

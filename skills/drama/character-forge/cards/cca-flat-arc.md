@@ -4,7 +4,7 @@ description: "当需要用户说\"我的主角已经是坚定/完美/明白事�
 tags: ["flat-arc", "truth", "character"]
 metadata:
   source_book: "《Creating Character Arcs》 K.M. Weiland"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Creating Character Arcs\\cca-flat-arc\\SKILL.md"
 evidence: E4
 

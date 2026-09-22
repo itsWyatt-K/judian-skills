@@ -4,8 +4,8 @@ description: "当用户说\"我想自动化 X,从哪里开始?\"、\"做了个 l
 tags: []
 metadata:
   source_book: "循环工程"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\循环工程\\蒸馏skill\\loop-build-path\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\循环工程\\整理skill\\loop-build-path\\SKILL.md"
 evidence: E4
 
 ---

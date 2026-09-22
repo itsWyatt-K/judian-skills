@@ -4,18 +4,18 @@ description: "把门店、活动、课程或内容的体验从'不难看也不�
 tags: ["creative"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 57
   evidence_floor: E4
 ---
 
 # 体验与习惯设计：五要素/上瘾模型/可用性
 
-> 本包由 57 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 57 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当把产品与内容设计成让人留下来的体验时调用（本包由 57 张方法论卡汇编而成，蒸馏自《上瘾：让用户养成使用习惯的四大产品逻辑》、《体验经济（珍藏版）》、《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》、《用户体验要素：以用户为中心的产品设计（原书第2版）》）。核心能力：体验与习惯设计：五要素/上瘾模型/可用性。关键触发：“流程太长了 / 步骤太多 / 表单太复杂”、“我没同意”、“用户为什么不点 / 为什么不提交”、“不是我们的东西”、“只有付费型触发”、“做留存/做习惯”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当把产品与内容设计成让人留下来的体验时调用（本包由 57 张方法论卡汇编而成，整理自《上瘾：让用户养成使用习惯的四大产品逻辑》、《体验经济（珍藏版）》、《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》、《用户体验要素：以用户为中心的产品设计（原书第2版）》）。核心能力：体验与习惯设计：五要素/上瘾模型/可用性。关键触发：“流程太长了 / 步骤太多 / 表单太复杂”、“我没同意”、“用户为什么不点 / 为什么不提交”、“不是我们的东西”、“只有付费型触发”、“做留存/做习惯”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 
@@ -50,6 +50,8 @@ metadata:
 - [ ] 招牌时刻是否唯一且可感知
 - [ ] 动线是否有堵点
 - [ ] 人员行为是否有可执行标准
+- [ ] 文案无绝对化用语（「最」「第一」「顶级」「绝无仅有」「国家级」等《广告法》禁用表述；经典案例复述须标注为案例）
+- [ ] 无虚构稀缺（不写无法兑现的限时/限量/倒计时；真实活动须给出兑现路径与有效期）
 
 ## 包内卡片名录
 

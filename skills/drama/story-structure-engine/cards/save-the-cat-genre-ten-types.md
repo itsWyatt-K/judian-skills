@@ -4,7 +4,7 @@ description: "当需要有一个原创故事/点子，想确认\"它属于哪种
 tags: ["genre", "storytelling", "originality"]
 metadata:
   source_book: "《救猫咪：电影编剧指南》 布莱克·斯奈德"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\救猫咪：电影编剧指南\\save-the-cat-genre-ten-types\\SKILL.md"
 evidence: E4
 

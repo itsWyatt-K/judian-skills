@@ -3,8 +3,8 @@ name: ip-style-decoupling
 description: "当需要想给同一 IP 换画风（毛毡/拼贴/版画）却怕角色变脸。；想新增一个风格皮肤，不想重写角色档案或整套流程。时调用。核心能力：IP 画风解耦：身份与渲染层分离。关键触发：同动作跨画风是否还是同一个人、身份与画风解耦 / 换画风角色变脸、招牌画风 / 风格皮肤 / 同动作跨画风保持一致、渲染表面。不适用于：建角色身份系统（走 ip-character-bible）。、视频镜头景深渲染（。"
 tags: ["画风解耦", "身份层", "渲染层", "风格皮肤", "回归测试", "招牌画风"]
 metadata:
-  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并蒸馏）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并整理）"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ip-character-system\\ip-style-decoupling\\SKILL.md"
 evidence: E4
 

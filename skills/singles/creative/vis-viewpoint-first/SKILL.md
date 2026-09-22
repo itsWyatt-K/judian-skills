@@ -8,7 +8,7 @@ metadata:
   evidence: E4
   source_book: "'《以眼说话：影像视觉原理及应用》 Bruce A. Block（汪代岚译）'"
   source_card: "'story-recipes\\05-视觉风格与影像基调\\以眼说话：影像视觉原理及应用\\vis-viewpoint-first\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

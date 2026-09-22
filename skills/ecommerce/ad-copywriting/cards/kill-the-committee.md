@@ -4,8 +4,8 @@ description: "当需要一条广告要 8 个人签字, 越改越平。；创意�
 tags: ["organization", "creativity", "committee", "process"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\kill-the-committee\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\kill-the-committee\\SKILL.md"
 evidence: E4
 
 ---

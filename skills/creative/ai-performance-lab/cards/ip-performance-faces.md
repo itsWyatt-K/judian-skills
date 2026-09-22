@@ -3,8 +3,8 @@ name: ip-performance-faces
 description: "当需要要给配图角色定\"用什么态度/看哪/占多大\"，与动作配合。；同一动作想换表情/视线却不重画整套。时调用。核心能力：IP 表演变量：表情/视线/人物尺度。关键触发：用什么态度/看哪/占多大、配图表情怎么写 / 视线看哪 / 人物占多大、表演变量 / 表情态度 / 怀疑审视配什么表情、用什么态度/看哪/占多大。不适用于：建角色身份系统（走 ip-character-bible）。、设计动作语义（走。"
 tags: ["表演层", "表情", "视线", "人物尺度", "可组合变量", "人格锚点"]
 metadata:
-  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并蒸馏）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi（合并整理）"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ip-character-system\\ip-performance-faces\\SKILL.md"
 evidence: E4
 

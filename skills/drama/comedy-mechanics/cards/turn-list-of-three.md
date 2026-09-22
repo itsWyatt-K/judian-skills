@@ -4,7 +4,7 @@ description: "用于给笑话\"转向\"制造惊喜落点——当你写的 punc
 tags: ["反转", "列表三", "turn", "节奏", "荒谬跳跃", "H1"]
 metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\turn-list-of-three\\SKILL.md"
 evidence: E4
 

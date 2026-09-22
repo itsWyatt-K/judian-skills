@@ -4,7 +4,7 @@ description: "当需要写职场/生活短剧，需要\"热心同事、朋友、
 tags: ["喜剧", "反差", "好心办坏事"]
 metadata:
   source_book: "《武林外传》宁财神"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\武林外传\\expert\\performative-heroism\\SKILL.md"
 evidence: E4
 
@@ -95,13 +95,13 @@ evidence: E4
 ### 作者在书中警告的失败模式
 
 - **招牌梗过度复用疲劳 (x01)**: 若"排山倒海 / 放着我来"无新语境变形地重复超 2–3 次即失效，变成机械反射；每次需换触发情境。
-- **纯文本蒸馏丢失表演层 (x04)**: 本技法笑点约 70% 在演员崩溃表情、语速递进与对手反应；纯文本复用台词命中率显著下降，需补表演/节奏层。
+- **纯文本整理丢失表演层 (x04)**: 本技法笑点约 70% 在演员崩溃表情、语速递进与对手反应；纯文本复用台词命中率显著下降，需补表演/节奏层。
 - **人设固定致审美疲劳 (x02)**: 零位移反复只会塌房，每集应给人设一点新情境压力。
 
 ### 作者的盲点 / 时代局限
 
 - **时代梗时效 (x05)**: 姿态词需挂载当下共同语境，照搬 2006 网络梗（如"地球人都知道"式）对新观众已无即时效用。
-- **未证明台词可脱离表演语境复用**: 纯文本蒸馏只捕获"姿态→落空"的结构骨架，表演层（节奏契约、角色预期）须另补——这是 cangjie 红线"蒸馏方法非成品"的核心。
+- **未证明台词可脱离表演语境复用**: 纯文本整理只捕获"姿态→落空"的结构骨架，表演层（节奏契约、角色预期）须另补——这是 cangjie 红线"整理方法非成品"的核心。
 
 ### 容易混淆的邻近方法论
 
@@ -125,7 +125,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《武林外传》（宁财神）。
 

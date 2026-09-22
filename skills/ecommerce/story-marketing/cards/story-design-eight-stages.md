@@ -4,8 +4,8 @@ description: "当需要写品牌视频/广告脚本/演讲稿，不确定结构�
 tags: ["故事骨架", "八阶段", "通用框架", "叙事结构"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\story-design-eight-stages\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\story-design-eight-stages\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要用户说\"这个赛道已经有 XX 了，我们做一个
 tags: ["定位", "竞争战略", "品类", "先发", "决策"]
 metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\定位\\蒸馏skill\\positioning-be-first\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\定位\\整理skill\\positioning-be-first\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要**设计评审/招投标/供应商评估机制**：如何
 tags: ["ethics", "conflict-of-interest", "governance", "decision-quality", "trust"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\conflict-of-interest-design\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\conflict-of-interest-design\\SKILL.md"
 evidence: E4
 
 ---
@@ -268,7 +268,7 @@ evidence: E4
 - **未讨论披露的另一种对象**：书中把披露当作单一概念否定，
   但面向**监管与公众**的强制披露（上市公司关联交易、
   临床试验注册）有独立的有效性证据。
-  本 skill 第 8 步对此作了区分，属于蒸馏时的补充。
+  本 skill 第 8 步对此作了区分，属于整理时的补充。
 - **未讨论算法化的利益冲突**：推荐系统、竞价排序、
   自营流量分配中的冲突不由个人判断承载，
   而由目标函数承载。此时"回避"与"角色分离"需要重新定义
@@ -301,6 +301,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `manipulation-matrix-ethics` ⟨已装库⟩, `fudge-factor-integrity`
 - **composes-with**（常联用）: `dishonesty-contagion-governance`, `incentive-inverted-u`
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

@@ -4,7 +4,7 @@ description: "当需要有一个故事前提，但不确定主角该是谁、什
 tags: ["character", "protagonist", "primal"]
 metadata:
   source_book: "《救猫咪：电影编剧指南》 布莱克·斯奈德"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\救猫咪：电影编剧指南\\save-the-cat-protagonist-design\\SKILL.md"
 evidence: E4
 

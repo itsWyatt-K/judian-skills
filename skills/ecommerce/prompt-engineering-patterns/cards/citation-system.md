@@ -4,8 +4,8 @@ description: "当用户说\"需要标注信息来源\"、\"用户应该能追溯
 tags: ["引用", "归属", "溯源", "RAG", "文档问答"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\citation-system\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\citation-system\\SKILL.md"
 evidence: E4
 
 ---

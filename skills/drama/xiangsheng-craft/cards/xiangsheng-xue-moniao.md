@@ -4,7 +4,7 @@ description: "用于学即模拟：在「像」与「不像」之间找笑点相
 tags: ["相声", "模仿", "学", "反差"]
 metadata:
   source_book: "《中国的相声》薛宝琨（增订本）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\中国的相声\\expert\\xiangsheng-xue-moniao\\SKILL.md"
 evidence: E4
 

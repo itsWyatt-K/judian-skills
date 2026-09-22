@@ -4,18 +4,18 @@ description: "把'扁平人物'锻成有欲望有矛盾的人：角色设计、�
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 31
   evidence_floor: E4
 ---
 
 # 人物锻造：弧光/维度/关系网与特质设计
 
-> 本包由 31 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 31 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当从一句话人设到完整人物弧光的设计与诊断时调用（本包由 31 张方法论卡汇编而成，蒸馏自《故事写作大师班》、《故事：材质、结构、风格和银幕剧作的原理》、《人物：文本、舞台、银幕角色与卡司设计的艺术》、《人物》、《对白：文字、舞台、银幕的言语行为艺术》、《Creating Character Arcs》、《性格特质宝典（正/负面特质辞典）》）。核心能力：人物锻造：弧光/维度/关系网与特质设计。关键触发：“逐项加料”、“人生体验极限”、“谁该有几维、谁只该留一个特性”、“忠诚助手”、“主角没有成长”、“太脸谱化”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当从一句话人设到完整人物弧光的设计与诊断时调用（本包由 31 张方法论卡汇编而成，整理自《故事写作大师班》、《故事：材质、结构、风格和银幕剧作的原理》、《人物：文本、舞台、银幕角色与卡司设计的艺术》、《人物》、《对白：文字、舞台、银幕的言语行为艺术》、《Creating Character Arcs》、《性格特质宝典（正/负面特质辞典）》）。核心能力：人物锻造：弧光/维度/关系网与特质设计。关键触发：“逐项加料”、“人生体验极限”、“谁该有几维、谁只该留一个特性”、“忠诚助手”、“主角没有成长”、“太脸谱化”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

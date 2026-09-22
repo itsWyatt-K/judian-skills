@@ -4,7 +4,7 @@ description: "当用户说\"能拍的镜头序列草图\"、\"帮我把这场戏
 tags: ["shot-design", "storyboard", "previs", "分镜", "影像化", "预可视化"]
 metadata:
   source_book: "《从构思到银幕：电影镜头设计》 史蒂文·卡茨"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\从构思到银幕电影镜头设计\\shot-storyboard\\SKILL.md"
 evidence: E4
 

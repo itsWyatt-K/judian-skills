@@ -4,7 +4,7 @@ description: "当用户说\"创作流/破冰\"、\"成品成分诊断\"、\"写�
 tags: ["brainstorm", "listing", "editing", "subtract", "writer-block"]
 metadata:
   source_book: "Comedy Writing Secrets (3rd ed.) Mark Shatz with Mel Helitzer, 2016"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\Comedy Writing Secrets\\cws-brainstorm-edit\\SKILL.md"
 evidence: E4
 

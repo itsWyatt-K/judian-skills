@@ -4,7 +4,7 @@ description: "当需要角色写得太\"真人\"——平淡、可预测、像�
 tags: ["character", "essence", "contradiction"]
 metadata:
   source_book: "《人物：文本、舞台、银幕角色与卡司设计的艺术》 罗伯特·麦基"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\罗伯特·麦基虚构艺术三部曲（《故事》《对白》《人物》）\\mckee-character-essence\\SKILL.md"
 evidence: E4
 

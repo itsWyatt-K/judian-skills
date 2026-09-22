@@ -4,8 +4,8 @@ description: "当用户说\"何时搜、搜什么、搜几个\"、\"信息过时
 tags: ["搜索策略", "知识检索", "多源查询", "时效性", "引用规范"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\search-integration\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\search-integration\\SKILL.md"
 evidence: E4
 
 ---

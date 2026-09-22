@@ -4,8 +4,8 @@ description: "当需要想评价/归因员工、伴侣、用户的\"性格问题
 tags: ["context", "attribution", "bias", "behavior-change"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\power-of-context\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\power-of-context\\SKILL.md"
 evidence: E4
 
 ---

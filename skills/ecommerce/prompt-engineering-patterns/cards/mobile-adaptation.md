@@ -4,8 +4,8 @@ description: "当用户说\"移动端用户\"、\"手机屏幕上显示\"、\"�
 tags: ["移动端", "屏幕适配", "响应式输出", "移动工具集成"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\mobile-adaptation\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\mobile-adaptation\\SKILL.md"
 evidence: E4
 
 ---

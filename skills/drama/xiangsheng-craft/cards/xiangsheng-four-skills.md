@@ -4,7 +4,7 @@ description: "用于说学逗唱：相声的四大基本功底盘相关的创作
 tags: ["相声", "基本功", "说学逗唱", "结构"]
 metadata:
   source_book: "《中国的相声》薛宝琨（增订本）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\中国的相声\\expert\\xiangsheng-four-skills\\SKILL.md"
 evidence: E4
 

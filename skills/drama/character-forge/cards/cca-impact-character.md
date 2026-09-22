@@ -4,7 +4,7 @@ description: "当需要主角在某个节点突然\"开悟\"，读者/编辑反�
 tags: ["impact-character", "supporting-cast", "catalyst"]
 metadata:
   source_book: "《Creating Character Arcs》 K.M. Weiland"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Creating Character Arcs\\cca-impact-character\\SKILL.md"
 evidence: E4
 

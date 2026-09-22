@@ -4,7 +4,7 @@ description: "反转点题收束：结尾用一个信息翻案把前文重新赋
 tags: ["人物塑造", "结尾", "反转", "点题", "命运判词"]
 metadata:
   source_book: "《俗世奇人全本》（冯骥才，人民文学出版社 2020）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\俗世奇人全本\\sushi-reveal-punch\\SKILL.md"
 evidence: E4
 

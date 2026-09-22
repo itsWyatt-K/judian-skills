@@ -4,8 +4,8 @@ description: "当用户说\"AI 忘记了之前说过的内容\"、\"对话太长
 tags: ["上下文管理", "token预算", "压缩策略", "记忆持久化", "延迟加载"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\context-management\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\context-management\\SKILL.md"
 evidence: E4
 
 ---

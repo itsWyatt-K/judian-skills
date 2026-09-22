@@ -4,7 +4,7 @@ description: "当需要写精准表情（怒视/忍泪/冷笑/惊喜），需要
 tags: ["提示词", "角色演技", "面部微相", "部位映射", "微表情"]
 metadata:
   source_book: "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ai-role-acting-prompt\\facial-part-spec\\SKILL.md"
 evidence: E4
 

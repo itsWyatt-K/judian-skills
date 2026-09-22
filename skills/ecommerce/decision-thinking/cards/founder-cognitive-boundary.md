@@ -4,8 +4,8 @@ description: "当需要企业增长停滞，但市场和竞争对手看起来并
 tags: ["founder", "cognition", "organizational-boundary", "leadership", "self-awareness"]
 metadata:
   source_book: "《第一性原理》 李善友"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\第一性原理\\蒸馏skill\\founder-cognitive-boundary\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\第一性原理\\整理skill\\founder-cognitive-boundary\\SKILL.md"
 evidence: E4
 
 ---

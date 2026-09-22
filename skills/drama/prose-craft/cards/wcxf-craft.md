@@ -4,7 +4,7 @@ description: "当用户写得太满/塞太满/没有余味、想给读者留余�
 tags: ["计白当黑", "留白", "无字处皆有字", "余味", "短篇是空白的艺术"]
 metadata:
   source_book: "《晚翠文谈新编》汪曾祺"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\晚翠文谈（汪曾祺）\\wcxf-craft\\SKILL.md"
 evidence: E4
 

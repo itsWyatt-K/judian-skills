@@ -4,7 +4,7 @@ description: "先立一条「规矩」或一个哲理，再用一件决定性小
 tags: ["写作技法", "人物塑造", "规矩", "一事见性"]
 metadata:
   source_book: "《俗世奇人全本》 冯骥才"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\俗世奇人（冯骥才）\\ssqr-incident-rule\\SKILL.md"
 evidence: E4
 

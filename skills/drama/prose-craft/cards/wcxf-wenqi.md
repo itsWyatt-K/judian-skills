@@ -4,7 +4,7 @@ description: "当用户写「文气不贯/思路纷杂/读着别扭」、想把�
 tags: ["文气", "提放断连疾徐顿挫", "气韵", "桐城义法", "思想的直接形式"]
 metadata:
   source_book: "《晚翠文谈新编》汪曾祺"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\晚翠文谈（汪曾祺）\\wcxf-wenqi\\SKILL.md"
 evidence: E4
 

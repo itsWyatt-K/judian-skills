@@ -4,7 +4,7 @@ description: "全书写得最细的章节。一套可复用的 Walk Recipe：接
 tags: ["走路", "重量感", "行走循环", "重心转移", "counteraction", "动画循环"]
 metadata:
   source_book: "The Animator's Survival Kit (Richard Williams, Faber & Faber)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\The Animators Survival Kit\\expert\\ask-walks-weight\\SKILL.md"
 evidence: E4
 

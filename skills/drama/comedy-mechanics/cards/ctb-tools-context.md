@@ -4,7 +4,7 @@ description: "当用户说\"怎么把不搭的东西凑一起\"、\"写个离谱
 tags: ["clash-of-context", "inappropriate-response", "comic-opposites", "truth-effect", "tools"]
 metadata:
   source_book: "The Comic Toolbox: How to Be Funny Even If You're Not (John Vorhaus, 1994)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\09-喜剧与幽默机制\\The Comic Toolbox\\ctb-tools-context\\SKILL.md"
 evidence: E4
 

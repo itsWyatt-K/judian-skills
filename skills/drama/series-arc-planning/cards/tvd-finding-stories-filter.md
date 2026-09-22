@@ -4,7 +4,7 @@ description: "当需要手里有一堆点子（某社会热点、某亲戚糗事
 tags: ["story-selection", "episode-ideas", "series-engine"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\06-分集大纲与叙事脉络（系列化）\\Writing the TV Drama Series 3rd Edition\\tvd-finding-stories-filter\\SKILL.md"
 evidence: E4
 

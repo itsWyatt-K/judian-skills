@@ -4,8 +4,8 @@ description: "当需要想为一款小众/技术产品找\"会自发推广\"的�
 tags: ["maven", "network", "influence", "identification"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\mavens\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\mavens\\SKILL.md"
 evidence: E4
 
 ---

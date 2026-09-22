@@ -4,8 +4,8 @@ description: "当需要收到面试通过通知，即将被问\"你的期望薪�
 tags: ["谈判", "锚定", "negotiation", "anchoring"]
 metadata:
   source_book: "《无价：洞悉大众心理玩转价格游戏（经典版）》 威廉·庞德斯通"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\无价\\蒸馏skill\\anchor-first-offer\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\无价\\整理skill\\anchor-first-offer\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要要 launch 一个新产品/活动/内容，预算有限�
 tags: ["epidemic", "diffusion", "meta", "leverage"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\tipping-point\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\tipping-point\\SKILL.md"
 evidence: E4
 
 ---

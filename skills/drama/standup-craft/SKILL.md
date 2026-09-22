@@ -4,18 +4,18 @@ description: "从写段子到上台演完整场：笑点结构、暖场、打磨
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 12
   evidence_floor: E4
 ---
 
 # 脱口秀技艺：段子结构/打磨/上台与冷场
 
-> 本包由 12 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 12 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当从写段子到登台演出的全流程时调用（本包由 12 张方法论卡汇编而成，蒸馏自）。核心能力：脱口秀技艺：段子结构/打磨/上台与冷场。关键触发：“tries too hard”、“I have bits but no set.”、“No open-mic near me.”、“I bombed / the room died.”、“what should I write about”、“I have a setup but no punch.”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当从写段子到登台演出的全流程时调用（本包由 12 张方法论卡汇编而成，整理自）。核心能力：脱口秀技艺：段子结构/打磨/上台与冷场。关键触发：“tries too hard”、“I have bits but no set.”、“No open-mic near me.”、“I bombed / the room died.”、“what should I write about”、“I have a setup but no punch.”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

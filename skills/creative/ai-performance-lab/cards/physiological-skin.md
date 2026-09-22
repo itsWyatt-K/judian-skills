@@ -4,7 +4,7 @@ description: "当需要成片\"脸像塑料/太干净/不真实\"，想加写实
 tags: ["提示词", "角色演技", "生理细节", "皮肤质感", "反塑料感", "写实"]
 metadata:
   source_book: "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ai-role-acting-prompt\\physiological-skin\\SKILL.md"
 evidence: E4
 

@@ -4,8 +4,8 @@ description: "当需要电商运营在设置促销活动，纠结\"原价标多�
 tags: ["实用价值", "前景理论", "定价策略", "促销包装", "行为经济学"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\prospect-theory-packaging\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\prospect-theory-packaging\\SKILL.md"
 evidence: E4
 
 ---

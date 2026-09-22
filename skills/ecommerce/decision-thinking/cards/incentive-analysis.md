@@ -4,8 +4,8 @@ description: "当需要制度/政策/流程改革后行为没有按预期改变�
 tags: ["激励机制", "行为分析", "组织管理", "利益驱动"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\incentive-analysis\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\incentive-analysis\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要要给客户/老板呈现一组方案或报价，纠结�
 tags: ["contrast", "sequencing", "pricing", "negotiation", "perception"]
 metadata:
   source_book: "《影响力（经典版）Influence: The Psychology of Persuasion》 罗伯特·B.西奥迪尼（闾佳 译）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\影响力\\蒸馏skill\\contrast-sequencing\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\影响力\\整理skill\\contrast-sequencing\\SKILL.md"
 evidence: E4
 
 ---

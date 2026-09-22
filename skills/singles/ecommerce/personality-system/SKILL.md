@@ -7,8 +7,8 @@ metadata:
   promoted_from: personality-system
   evidence: E4
   source_book: "'系统提示词设计模式库'"
-  source_card: "'classics\\系统提示词设计模式库\\蒸馏skill\\personality-system\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  source_card: "'classics\\系统提示词设计模式库\\整理skill\\personality-system\\SKILL.md'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

@@ -4,7 +4,7 @@ description: "当需要对方情绪激动，需要安慰而非建议。；自己
 tags: ["共情", "情绪", "树洞", "压力", "情理"]
 metadata:
   source_book: "《把自己当回事儿》杨天真"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\把自己当回事儿\\yt-emotion-not-weapon\\SKILL.md"
 evidence: E4
 
@@ -113,7 +113,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《把自己当回事儿》（杨天真，2021）。
 

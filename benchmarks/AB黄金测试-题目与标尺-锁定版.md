@@ -74,7 +74,7 @@
 |---|---|---|---|
 | ① | shortform-drama-playbook | 书籍层 | 剧本/分镜创作主张 |
 | ② | consumer-psychology | 书籍层 | 转化心理学主张（且是今日瘦身重写 description 的包） |
-| ③ | h3-video-prompt-suite | 开源署名层 | 证明署名蒸馏层同样有增益（不只书籍层） |
+| ③ | h3-video-prompt-suite | 开源署名层 | 证明署名整理层同样有增益（不只书籍层） |
 
 ## 执行记录
 

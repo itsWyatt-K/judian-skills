@@ -4,7 +4,7 @@ description: "当需要**角色设定阶段**: 主角动机模糊，连作者自
 tags: ["character-arc", "lie", "ghost"]
 metadata:
   source_book: "《Creating Character Arcs》 K.M. Weiland"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Creating Character Arcs\\cca-arc-foundation\\SKILL.md"
 evidence: E4
 

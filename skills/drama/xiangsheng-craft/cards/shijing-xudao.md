@@ -4,7 +4,7 @@ description: "当需要吐槽文/口播：想写\"像街坊唠嗑\"的日常流�
 tags: ["市井", "口语", "絮叨", "铺垫", "翻面"]
 metadata:
   source_book: "《马三立表演相声精品集》 王文章 主编"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\马三立表演相声精品集\\expert\\shijing-xudao\\SKILL.md"
 evidence: E4
 

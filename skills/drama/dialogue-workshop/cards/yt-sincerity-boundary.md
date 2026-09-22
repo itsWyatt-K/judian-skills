@@ -4,7 +4,7 @@ description: "当需要犹豫\"这件事该不该告诉对方\"。；发现自�
 tags: ["真诚", "边界", "信任", "沟通底座", "人设"]
 metadata:
   source_book: "《把自己当回事儿》杨天真"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\把自己当回事儿\\yt-sincerity-boundary\\SKILL.md"
 evidence: E4
 
@@ -114,7 +114,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《把自己当回事儿》（杨天真，2021）。
 

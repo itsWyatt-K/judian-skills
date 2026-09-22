@@ -4,8 +4,8 @@ description: "当需要面对复杂问题时感觉自己的分析工具不够用
 tags: ["mental-models", "multidisciplinary", "learning", "munger", "cognition"]
 metadata:
   source_book: "《第一性原理》 李善友"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\第一性原理\\蒸馏skill\\multi-mental-models\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\第一性原理\\整理skill\\multi-mental-models\\SKILL.md"
 evidence: E4
 
 ---

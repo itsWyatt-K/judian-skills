@@ -4,8 +4,8 @@ description: "当需要做营销策略，纠结\"是教育市场还是迎合市�
 tags: ["psychology", "desire", "strategy", "foundational"]
 metadata:
   source_book: "《文案创作完全手册》罗伯特·布莱"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\文案创作完全手册\\蒸馏skill\\guide-desire\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\文案创作完全手册\\整理skill\\guide-desire\\SKILL.md"
 evidence: E4
 
 ---

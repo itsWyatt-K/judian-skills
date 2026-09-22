@@ -4,7 +4,7 @@ description: "当需要用户写反派起源/堕落故事，主角一步步变�
 tags: ["negative-arc", "tragedy", "character"]
 metadata:
   source_book: "《Creating Character Arcs》 K.M. Weiland"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Creating Character Arcs\\cca-negative-arc\\SKILL.md"
 evidence: E4
 

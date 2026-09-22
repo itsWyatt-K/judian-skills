@@ -4,7 +4,7 @@ description: "当需要正要开始一个新故事，问\"该先写什么、从�
 tags: ["storytelling", "organic-model", "workflow"]
 metadata:
   source_book: "《故事写作大师班》 约翰·特鲁比"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\故事写作大师班\\story-organic-model\\SKILL.md"
 evidence: E4
 

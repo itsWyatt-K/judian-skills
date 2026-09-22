@@ -4,8 +4,8 @@ description: "当需要为新品牌/产品找\"第一个故事\"的角度（五�
 tags: ["品牌", "主题来源", "有意义品牌", "共鸣"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\storied-branding\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\storied-branding\\SKILL.md"
 evidence: E4
 
 ---

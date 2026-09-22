@@ -4,8 +4,8 @@ description: "当需要**行为跑偏且培训无效**：团队/客服/销售/�
 tags: ["pricing", "incentives", "business-model", "organization"]
 metadata:
   source_book: "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\体验经济\\蒸馏skill\\charge-unit-redesign\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\体验经济\\整理skill\\charge-unit-redesign\\SKILL.md"
 evidence: E4
 
 ---
@@ -149,7 +149,7 @@ evidence: E4
 - **案例来自 1990s 美国的线下服务业**（快餐、呼叫中心、银行网点）。**案例已过时；数字化与线上语境下需重新检验，但"计价单位反向指挥组织行为"这一机制本身仍然成立**，且在 SaaS 时代被大量印证（按席位 vs 按用量 vs 按成效的不同组织后果）。
 - **⚠️ 作者由此推出的"因此应该延长服务时间"不成立。** 原文说"不愿在顾客身上花时间的唯一结果就是顾客流失"（第2章 p082），但过去 25 年亚马逊一键下单、Uber、自助点餐、SaaS 自服务、Costco 恰恰靠**削减交互时间**取胜。
   **正确的边界条件是：顾客把该环节视为「成本」时，压缩时间是对的；只有当顾客把它视为「价值」时，压缩时间才有害。** 本书没有给出这个边界，使用时必须自己补上。
-- **按结果收费的风控框架缺失**：书中给了"变革性担保"的案例，但没有处理归因困难、挑选易成功客户的道德风险、以及医疗/教育领域结果担保的法律风险。E 段步骤 6 是本次蒸馏补入的。
+- **按结果收费的风控框架缺失**：书中给了"变革性担保"的案例，但没有处理归因困难、挑选易成功客户的道德风险、以及医疗/教育领域结果担保的法律风险。E 段步骤 6 是本次整理补入的。
 - **未讨论计价单位切换的迁移成本**：老客户的合同、财务系统、销售习惯都要改，书中把它当作纯粹的观念问题。
 
 ### 容易混淆的邻近方法论

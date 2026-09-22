@@ -2,7 +2,7 @@
 name: h3-style-music-video-subtitle
 description: 当用户要做"音乐 MV/歌词贴字视频/卡点 MV/情绪短片/多镜头拼接"时使用。触发词：MV、music video、歌词贴字、字幕MV、卡点、多镜头拼接、Beat-Sync、Trap、Dark-pop、Cyber-grunge。本卡只提炼官方 skill 的剪辑与衔接技法要素。工位边界：本技能只做H3 MV 字幕风格模板，不替代上游市场技能的生产流程，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 music-video-subtitle-generator（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "music-video-subtitle-generator/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "music-video-subtitle-generator/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, mv, music-video, 歌词贴字, 卡点, beat-sync, 多镜头拼接, 硬切]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

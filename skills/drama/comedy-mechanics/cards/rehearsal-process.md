@@ -4,7 +4,7 @@ description: "当用户\"背稿上台就僵\"\"排练时总忘词\"\"想让表�
 tags: ["rehearsal", "performance", "sensory-encoding", "memory"]
 metadata:
   source_book: "《Step by Step to Stand-Up Comedy》 Greg Dean"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\cangjie-origin-compare\\greg-dean-origin\\books\\step-by-step-standup\\rehearsal-process\\SKILL.md"
 evidence: E4
 
@@ -97,7 +97,7 @@ Dean 的排练不是"背词"，而是"把笑话编码成感官经验"，三阶�
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《Step by Step to Stand-Up Comedy》（Greg Dean）。
 

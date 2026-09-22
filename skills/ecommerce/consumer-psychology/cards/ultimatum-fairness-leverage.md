@@ -4,8 +4,8 @@ description: "当需要产品要涨价、要对老用户收费、要提高抽成
 tags: ["谈判", "公平", "ultimatum-game", "fairness"]
 metadata:
   source_book: "《无价：洞悉大众心理玩转价格游戏（经典版）》 威廉·庞德斯通"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\无价\\蒸馏skill\\ultimatum-fairness-leverage\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\无价\\整理skill\\ultimatum-fairness-leverage\\SKILL.md"
 evidence: E4
 
 ---

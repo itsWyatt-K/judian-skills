@@ -4,8 +4,8 @@ description: "当需要用户的产品\"很好但没人讨论\"——需要用�
 tags: ["社交货币", "内在吸引力", "游戏杠杆", "稀缺性", "归属感", "口碑传播"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\social-currency\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\social-currency\\SKILL.md"
 evidence: E4
 
 ---

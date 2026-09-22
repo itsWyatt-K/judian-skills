@@ -4,8 +4,8 @@ description: "当需要技术/小众产品想打进时尚/大众/年轻圈层。
 tags: ["translator", "diffusion", "cross-boundary", "reframe"]
 metadata:
   source_book: "《引爆点（The Tipping Point，第五版）》 马尔科姆·格拉德威尔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\引爆点\\蒸馏skill\\translator-role\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\引爆点\\整理skill\\translator-role\\SKILL.md"
 evidence: E4
 
 ---

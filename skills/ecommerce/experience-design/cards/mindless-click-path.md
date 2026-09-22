@@ -4,8 +4,8 @@ description: "当需要团队提出\"要把流程控制在三步以内\"\"能不
 tags: ["流程设计", "第二定律", "反直觉", "转化漏斗"]
 metadata:
   source_book: "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\点石成金\\蒸馏skill\\mindless-click-path\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\点石成金\\整理skill\\mindless-click-path\\SKILL.md"
 evidence: E4
 
 ---

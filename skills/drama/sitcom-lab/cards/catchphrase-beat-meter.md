@@ -4,7 +4,7 @@ description: "当需要在做系列/连载内容（短视频剧集、专栏、�
 tags: ["喜剧", "节奏", "金句", "结构"]
 metadata:
   source_book: "《武林外传》宁财神"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\武林外传\\expert\\catchphrase-beat-meter\\SKILL.md"
 evidence: E4
 
@@ -129,7 +129,7 @@ evidence: E4
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《武林外传》（宁财神）。
 

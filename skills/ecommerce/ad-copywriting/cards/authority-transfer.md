@@ -4,8 +4,8 @@ description: "当需要新品牌/新产品上市，消费者对品牌完全陌�
 tags: ["文案", "权威背书", "信任建立", "品牌背书", "认证营销"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\authority-transfer\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\authority-transfer\\SKILL.md"
 evidence: E4
 
 ---

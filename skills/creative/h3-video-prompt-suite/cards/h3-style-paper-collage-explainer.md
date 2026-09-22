@@ -2,7 +2,7 @@
 name: h3-style-paper-collage-explainer
 description: 当用户要做"纸拼贴讲解动画/知识科普/观点表达/编辑感拼贴 B-roll"时使用。触发词：纸拼贴、paper collage、拼贴科普、定格拼贴、halftone collage、拼贴动画。本卡只提炼官方 skill 的视觉技法要素。工位边界：本技能只做H3 拼图解说风格模板，不替代上游市场技能的生产流程，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 paper-collage-explainer-generator（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "paper-collage-explainer-generator/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "paper-collage-explainer-generator/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, paper-collage, halftone, 拼贴, 科普, 编辑感, 定格]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

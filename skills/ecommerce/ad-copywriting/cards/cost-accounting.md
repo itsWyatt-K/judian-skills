@@ -4,8 +4,8 @@ description: "当需要产品客单价较高，消费者犹豫不决，需要降
 tags: ["文案", "价格拆解", "平摊计算", "省钱逻辑", "消费心理"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\cost-accounting\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\cost-accounting\\SKILL.md"
 evidence: E4
 
 ---

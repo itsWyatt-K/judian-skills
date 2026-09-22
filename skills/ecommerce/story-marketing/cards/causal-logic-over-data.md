@@ -4,8 +4,8 @@ description: "当需要做汇报/PPT/备忘录，想从\"要点罗列\"升级为
 tags: ["因果逻辑", "数据", "叙述结构", "决策"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\causal-logic-over-data\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\causal-logic-over-data\\SKILL.md"
 evidence: E4
 
 ---

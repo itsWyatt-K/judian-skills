@@ -4,8 +4,8 @@ description: "当需要写产品 KPI/OKR,不知选什么指标衡量体验。；
 tags: ["principle", "metrics", "success", "quantifiable"]
 metadata:
   source_book: "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\用户体验要素\\蒸馏skill\\success-metrics\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\用户体验要素\\整理skill\\success-metrics\\SKILL.md"
 evidence: E4
 
 ---

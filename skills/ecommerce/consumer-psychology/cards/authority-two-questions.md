@@ -4,8 +4,8 @@ description: "当需要理财经理、保险顾问、中介推荐产品并强调
 tags: ["authority", "defense", "critical-thinking", "decision-hygiene", "expertise"]
 metadata:
   source_book: "《影响力（经典版）Influence: The Psychology of Persuasion》 罗伯特·B.西奥迪尼（闾佳 译）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\影响力\\蒸馏skill\\authority-two-questions\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\影响力\\整理skill\\authority-two-questions\\SKILL.md"
 evidence: E4
 
 ---

@@ -2,7 +2,7 @@
 name: h3-style-3d-animation-short
 description: 当用户要做"3D 动画/CG 短片/皮克斯风角色表演/三维定格感动画"时使用。触发词：3D 动画、CG 短片、皮克斯风、C4D、Octane、卡通渲染、三维角色表演、squash and stretch。本卡只提炼官方 skill 的视觉技法要素。工位边界：本技能只做H3 3D 动画短片风格模板，不产出完整分镜表与成片流程；后者由上游市场技能『叙事短片导演分镜』等负责，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 3d-animation-short-generator（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "3d-animation-short-generator/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "3d-animation-short-generator/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, 3d, cg, animation, 皮克斯, octane, 卡通渲染, 角色表演]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

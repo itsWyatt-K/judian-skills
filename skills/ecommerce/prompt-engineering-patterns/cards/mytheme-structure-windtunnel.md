@@ -4,7 +4,7 @@ description: "母题结构风洞——从表层现象中提炼反复上演的母
 tags: ["母题", "结构分析", "风洞试压", "叙事", "元方法论"]
 metadata:
   source_book: "基于 ljg-structure (lijigang) 酿笑坊定制"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "classics\\元方法论\\母题结构风洞\\SKILL.md"
 evidence: E4
 
@@ -16,7 +16,7 @@ evidence: E4
 1. **故事结构诊断**：拿到一个剧本/小说/短剧，想知道"它到底在讲什么根本困境""为什么好看/不好看"
 2. **叙事母题识别**：想找出某个故事的核心母题（如"身份错位""控制与失控""真相与假象"），用于 N 层/S 层编码
 3. **悬疑张力设计**：想设计一个悬念/反转，需要知道"什么结构会产生什么张力"
-4. **Skill 质量验证**：蒸馏 skill 时，用风洞试压替代/补充预测力测试——改一个条件，看预测会不会变
+4. **Skill 质量验证**：整理 skill 时，用风洞试压替代/补充预测力测试——改一个条件，看预测会不会变
 5. **跨领域结构迁移**：想把 A 领域的方法搬到 B 领域，需要先抽掉领域名词，看因果骨架能不能跑通
 6. **聚酿台深度分析**：圆桌讨论中，需要从一个具体议题挖到母题级别的根本困境
 
@@ -236,8 +236,8 @@ evidence: E4
 
 | skill | 张力点 | 什么时候用哪个 |
 |---|---|---|
-| ljg-is 本质提炼器（待蒸馏） | 本质提炼找"最小状态变化"（A→B），结构风洞找"因果骨架"（为什么 A→B） | 想知道"是什么"用本质提炼，想知道"为什么"用结构风洞 |
-| ljg-rank 降秩引擎（待蒸馏） | 降秩找"独立生成元"（最少需要几个东西），结构风洞找"因果关系"（它们怎么互相作用） | 想知道"有什么"用降秩，想知道"怎么跑"用结构风洞 |
+| ljg-is 本质提炼器（待整理） | 本质提炼找"最小状态变化"（A→B），结构风洞找"因果骨架"（为什么 A→B） | 想知道"是什么"用本质提炼，想知道"为什么"用结构风洞 |
+| ljg-rank 降秩引擎（待整理） | 降秩找"独立生成元"（最少需要几个东西），结构风洞找"因果关系"（它们怎么互相作用） | 想知道"有什么"用降秩，想知道"怎么跑"用结构风洞 |
 
 ### analogous-to（异曲同工）
 
@@ -249,7 +249,7 @@ evidence: E4
 
 ## 酿笑坊适配说明
 
-### 1. 蒸馏流程中的使用
+### 1. 整理流程中的使用
 
 - **阶段 2（提取）**：用结构风洞从书里找母题，确定这本书的核心困境——这是 S 段（核心立场）的重要来源
 - **阶段 4（VERIFY）**：用风洞试压替代/补充预测力测试——改一个条件，看 skill 的预测会不会变

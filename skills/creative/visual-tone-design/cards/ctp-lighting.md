@@ -4,7 +4,7 @@ description: "当用户说\"硬光软光怎么选\"、\"主光辅光轮廓光怎
 tags: ["hard-light", "soft-light", "key-light", "fill", "backlight", "kicker", "motivation", "flat-front"]
 metadata:
   source_book: "Cinematography: Theory and Practice (Blain Brown, 4th ed.)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\Cinematography Theory and Practice\\ctp-lighting\\SKILL.md"
 evidence: E4
 

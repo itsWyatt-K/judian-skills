@@ -4,8 +4,8 @@ description: "当需要产品团队在设计\"推荐有奖\"功能，纠结奖�
 tags: ["社交货币", "动机排挤", "推荐计划", "用户激励", "口碑传播"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\motivation-crowding\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\motivation-crowding\\SKILL.md"
 evidence: E4
 
 ---

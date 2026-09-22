@@ -4,8 +4,8 @@ description: "当需要要提出一个自己觉得\"对方大概率会拒绝\"�
 tags: ["negotiation", "reciprocity", "concession", "request-design"]
 metadata:
   source_book: "《影响力（经典版）Influence: The Psychology of Persuasion》 罗伯特·B.西奥迪尼（闾佳 译）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\影响力\\蒸馏skill\\rejection-then-retreat\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\影响力\\整理skill\\rejection-then-retreat\\SKILL.md"
 evidence: E4
 
 ---

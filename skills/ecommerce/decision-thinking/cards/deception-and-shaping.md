@@ -4,8 +4,8 @@ description: "当需要需要设计竞争发布、谈判节奏、市场预期或
 tags: ["sunzi", "shaping", "momentum", "perception", "tactics"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\deception-and-shaping\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\deception-and-shaping\\SKILL.md"
 evidence: E4
 
 ---

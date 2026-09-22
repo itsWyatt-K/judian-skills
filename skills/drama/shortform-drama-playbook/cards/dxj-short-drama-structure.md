@@ -4,7 +4,7 @@ description: "系统界定短剧这一互联网原生形态：定义（时长/�
 tags: ["短剧结构", "盈利模式", "付费短剧", "长短剧差异", "变现"]
 metadata:
   source_book: "写好短剧（查理）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\写好短剧\\expert\\dxj-short-drama-structure\\SKILL.md"
 evidence: E4
 

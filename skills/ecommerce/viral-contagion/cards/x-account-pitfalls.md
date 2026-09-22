@@ -4,8 +4,8 @@ description: "当需要推文突然搜不到了/曝光断崖式下降——怀�
 tags: ["account-health", "risk-control", "shadowban", "appeal", "anti-ban", "account-recovery"]
 metadata:
   source_book: "《X秘籍》 多位创作者合集"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-account-pitfalls\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-account-pitfalls\\SKILL.md"
 evidence: E4
 
 ---

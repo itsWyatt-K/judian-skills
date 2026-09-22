@@ -4,8 +4,8 @@ description: "当需要**留存曲线随版本/季度线性衰减**，团队正�
 tags: ["variability", "finite-variability", "content-strategy", "studio-model", "ugc", "retention-decay"]
 metadata:
   source_book: "《上瘾：让用户养成使用习惯的四大产品逻辑》 [美]尼尔·埃亚尔、[美]瑞安·胡佛"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\上瘾\\蒸馏skill\\skills\\variability-sustainability\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\上瘾\\整理skill\\skills\\variability-sustainability\\SKILL.md"
 evidence: E4
 
 ---

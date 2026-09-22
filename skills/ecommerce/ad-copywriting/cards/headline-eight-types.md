@@ -4,8 +4,8 @@ description: "当需要写产品广告标题时卡壳，需要灵感突破；已
 tags: ["headline", "copywriting", "classification"]
 metadata:
   source_book: "《文案创作完全手册》罗伯特·布莱"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\文案创作完全手册\\蒸馏skill\\headline-eight-types\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\文案创作完全手册\\整理skill\\headline-eight-types\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "用于把握喜剧行业的职业立场与冒犯边界——当你
 tags: ["讽刺", "边界", "punching-up", "职业立场", "H6", "反语"]
 metadata:
   source_book: "The NEW Comedy Bible (Judy Carter, 2020)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\Judy Carter The NEW Comedy Bible\\expert\\ten-commandments\\SKILL.md"
 evidence: E4
 

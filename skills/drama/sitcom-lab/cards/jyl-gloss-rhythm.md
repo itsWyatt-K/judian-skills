@@ -4,7 +4,7 @@ description: "用于注疏式台词节奏：笑点后的延时点燃相关的创
 tags: ["情景喜剧", "节奏", "注疏", "双层"]
 metadata:
   source_book: "《汉语视听说教程：家有儿女》刘立新/邓方（世界图书出版公司，2009）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\家有儿女1\\expert\\jyl-gloss-rhythm\\SKILL.md"
 evidence: E4
 

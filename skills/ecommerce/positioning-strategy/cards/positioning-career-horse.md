@@ -4,8 +4,8 @@ description: "当需要很努力但看不到上升空间，正在考虑\"再拼�
 tags: ["个人定位", "职业规划", "决策", "选择", "势能"]
 metadata:
   source_book: "《定位》 杰克·特劳特 / 阿尔·里斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\定位\\蒸馏skill\\positioning-career-horse\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\定位\\整理skill\\positioning-career-horse\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要用户的 产品解决一个真实痛点，但目标读�
 tags: ["恐惧诉求", "痛点挖掘", "场景描写", "购买欲激发", "心理动机"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\fear-appeal\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\fear-appeal\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要拍视频/电视广告，怕被用户跳过或反感。�
 tags: ["广告", "故事插故事", "中断", "视频"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\storified-advertising\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\storified-advertising\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "当需要要写一条\"有情绪变化\"的角色表演提示词�
 tags: ["提示词", "角色演技", "总控框架", "写法原则", "AI视频", "数字人"]
 metadata:
   source_book: "《AI角色演技怎么救？我总结了5条好用的提示词技巧》 尹小歪（小歪的AI工具箱）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ai-role-acting-prompt\\ai-acting-master\\SKILL.md"
 evidence: E4
 

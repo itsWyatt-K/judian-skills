@@ -4,8 +4,8 @@ description: "当需要手上有一段页面文案/引导页/空状态提示，�
 tags: ["文案", "减法", "第三定律", "信息密度"]
 metadata:
   source_book: "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\点石成金\\蒸馏skill\\omit-needless-words\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\点石成金\\整理skill\\omit-needless-words\\SKILL.md"
 evidence: E4
 
 ---

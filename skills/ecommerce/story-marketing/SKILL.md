@@ -4,18 +4,18 @@ description: "让顾客追着听你的品牌故事：需求内容、故事设计
 tags: ["social"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 15
   evidence_floor: E4
 ---
 
 # 故事营销：用叙事做品牌与销售
 
-> 本包由 15 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 15 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当把广告与品牌写成观众愿意看的故事时调用（本包由 15 张方法论卡汇编而成，蒸馏自《故事经济学》）。核心能力：故事营销：用叙事做品牌与销售。关键触发：“太顺、主角开挂、没看头”、“要不要投付费、投多少”、“要点罗列”、“故事化转型”、“先给价值还是先推产品”、“在哪、价值主轴是什么。
+当把广告与品牌写成观众愿意看的故事时调用（本包由 15 张方法论卡汇编而成，整理自《故事经济学》）。核心能力：故事营销：用叙事做品牌与销售。关键触发：“太顺、主角开挂、没看头”、“要不要投付费、投多少”、“要点罗列”、“故事化转型”、“先给价值还是先推产品”、“在哪、价值主轴是什么。
 2. 诊断”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
@@ -51,6 +51,8 @@ metadata:
 - [ ] 八阶段是否有先后不跳
 - [ ] 是否避免硬广冒充故事
 - [ ] 是否可衡量（有无指标）
+- [ ] 文案无绝对化用语（「最」「第一」「顶级」「绝无仅有」「国家级」等《广告法》禁用表述；经典案例复述须标注为案例）
+- [ ] 无虚构稀缺（不写无法兑现的限时/限量/倒计时；真实活动须给出兑现路径与有效期）
 
 ## 包内卡片名录
 

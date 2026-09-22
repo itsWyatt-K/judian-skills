@@ -4,8 +4,8 @@ description: "当需要**好评很多但业务不涨**：满意度/NPS/评分都
 tags: ["research", "metrics", "customer-insight", "diagnosis"]
 metadata:
   source_book: "《体验经济（珍藏版）》 约瑟夫·派恩二世 / 詹姆斯·吉尔摩"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\体验经济\\蒸馏skill\\customer-sacrifice-measurement\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\体验经济\\整理skill\\customer-sacrifice-measurement\\SKILL.md"
 evidence: E4
 
 ---
@@ -196,7 +196,7 @@ evidence: E4
 ### 作者的盲点 / 时代局限
 
 - **案例来自 1990s 末的制造业与航空业**（阀门、汽车、机上饮料、有线电视）。**案例已过时，数字化语境下需重新检验**；但"参照系决定指标有效性"这一机制完全不受时代影响，且在 NPS 泛滥的今天更加尖锐——NPS 同样锚在竞品参照系上，本 skill 的批评对它全部适用。
-- **⚠️ 顾客损失无法直接量化**。满意度虽然浅，但可以打分、可以对比、可以进 KPI；顾客损失是一个**差额概念，两端都不可直接观测**（"真正需要"顾客自己都说不清）。本书给了大量定性方法，**但没有给出任何量化方案**——所以它很难进管理仪表盘，也很难说服要看数字的老板。这是本 skill 最大的落地障碍，E 段步骤 8 是本次蒸馏补入的替代方案（用代理指标：重复提供信息的次数、自制补丁数量）。
+- **⚠️ 顾客损失无法直接量化**。满意度虽然浅，但可以打分、可以对比、可以进 KPI；顾客损失是一个**差额概念，两端都不可直接观测**（"真正需要"顾客自己都说不清）。本书给了大量定性方法，**但没有给出任何量化方案**——所以它很难进管理仪表盘，也很难说服要看数字的老板。这是本 skill 最大的落地障碍，E 段步骤 8 是本次整理补入的替代方案（用代理指标：重复提供信息的次数、自制补丁数量）。
 - **过度贬低满意度调研**：满意度虽然锚错了参照系，但在服务质量的**下限管控**（发现执行崩塌、门店异常、事故）上仍然有效。正确做法是**两者并用**：满意度守下限，损失找上限。书里把它当作应当被取代的东西。
 - **"顾客说不清是企业提问方式的错"过于绝对**：有些需求确实需要技术出现之后才能被表达出来（乔布斯式反调研立场）。本书把责任全部推给提问方式，回避了"有些东西只能靠供给侧发明"的情况。
 - **共创视角缺失**（作者珍藏版序言自认）：损失由企业去测、由企业去消除，顾客始终是被观察对象。开源社区、UGC 平台上顾客自己就在消除自己的损失。

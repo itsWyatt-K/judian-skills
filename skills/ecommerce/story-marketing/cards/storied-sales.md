@@ -4,8 +4,8 @@ description: "当需要写冷启动/跟进销售邮件，怕被无视。；准�
 tags: ["B2B", "销售", "故事化邮件", "潜客排序"]
 metadata:
   source_book: "《故事经济学》罗伯特·麦基、托马斯·格雷斯"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\故事经济学\\蒸馏skill\\storied-sales\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\故事经济学\\整理skill\\storied-sales\\SKILL.md"
 evidence: E4
 
 ---

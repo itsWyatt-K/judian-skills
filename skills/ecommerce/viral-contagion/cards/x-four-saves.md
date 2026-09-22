@@ -4,8 +4,8 @@ description: "当需要**发帖前的价值自检** — 写完一条内容(或�
 tags: ["content-valuation", "mental-model", "reader-centric", "pre-post-check"]
 metadata:
   source_book: "《X秘籍》 向阳乔木"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-four-saves\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-four-saves\\SKILL.md"
 evidence: E4
 
 ---

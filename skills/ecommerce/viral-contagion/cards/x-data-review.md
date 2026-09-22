@@ -4,8 +4,8 @@ description: "当需要**周/月复盘周期到了** — \"这周发了15条,帮
 tags: ["review", "data-driven", "iterative", "80-20", "content-strategy"]
 metadata:
   source_book: "《X秘籍》 AIP出海教程(@带队教练/GoSailGlobal)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\X秘籍\\蒸馏skill\\x-data-review\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\X秘籍\\整理skill\\x-data-review\\SKILL.md"
 evidence: E4
 
 ---

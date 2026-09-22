@@ -4,7 +4,7 @@ description: "当需要短视频/短剧要一个\"自动生笑\"的喜剧人物�
 tags: ["人物", "轴劲", "好面子", "喜剧人设"]
 metadata:
   source_book: "《崔凯文集·喜剧小品卷》 崔凯 著"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\崔凯文集\\expert\\zhoujin-renshe\\SKILL.md"
 evidence: E4
 

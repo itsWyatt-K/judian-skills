@@ -4,7 +4,7 @@ description: "Chion发明的术语：一个「被听到但未被看到」的声�
 tags: ["声学视觉", "画外音", "神秘感", "悬疑技法", "声音权力"]
 metadata:
   source_book: "Audio-Vision: Sound on Screen (Michel Chion, trans. Claudia Gorbman)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Audio-Vision Sound on Screen\\expert\\avs-acousmetre\\SKILL.md"
 evidence: E4
 

@@ -4,7 +4,7 @@ description: "当用户说\"站在这角色这边\"、\"讨厌那个反派\"、\
 tags: ["shot-design", "viewpoint", "POV", "identification", "视点", "认同"]
 metadata:
   source_book: "《从构思到银幕：电影镜头设计》 史蒂文·卡茨"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\从构思到银幕电影镜头设计\\shot-viewpoint\\SKILL.md"
 evidence: E4
 

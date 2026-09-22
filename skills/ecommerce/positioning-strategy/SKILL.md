@@ -4,18 +4,18 @@ description: "在拥挤的市场里找到一个能被记住的位置：命名、
 tags: ["ecommerce"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 29
   evidence_floor: E4
 ---
 
 # 定位与借势：心智空位/对抗领导者/事件营销
 
-> 本包由 29 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 29 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当在同质化市场里占住一个位置时调用（本包由 29 张方法论卡汇编而成，蒸馏自《借势》、《定位》）。核心能力：定位与借势：心智空位/对抗领导者/事件营销。关键触发：“遗憾→焦虑→购买”、“我们 vs 他们”、“、没记忆点，想制造点个性与话题。
+当在同质化市场里占住一个位置时调用（本包由 29 张方法论卡汇编而成，整理自《借势》、《定位》）。核心能力：定位与借势：心智空位/对抗领导者/事件营销。关键触发：“遗憾→焦虑→购买”、“我们 vs 他们”、“、没记忆点，想制造点个性与话题。
 2. 遇到差评/被黑，纠结”、“钱不够怎么做品牌、怎么让人知道我”、“现在进场还来不来得及”、“是不是坏名字”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
@@ -51,6 +51,8 @@ metadata:
 - [ ] 差异是否有证据支撑
 - [ ] 命名是否可注册
 - [ ] 是否避免同时打多个相反定位
+- [ ] 文案无绝对化用语（「最」「第一」「顶级」「绝无仅有」「国家级」等《广告法》禁用表述；经典案例复述须标注为案例）
+- [ ] 无虚构稀缺（不写无法兑现的限时/限量/倒计时；真实活动须给出兑现路径与有效期）
 
 ## 包内卡片名录
 

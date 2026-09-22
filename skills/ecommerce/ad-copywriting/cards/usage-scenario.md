@@ -4,8 +4,8 @@ description: "当需要用户的产品有多种用途/使用场景，但读者�
 tags: ["场景设计", "日程洞察", "购买欲激发", "读者心理", "多场景植入"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\usage-scenario\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\usage-scenario\\SKILL.md"
 evidence: E4
 
 ---

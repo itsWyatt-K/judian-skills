@@ -4,8 +4,8 @@ description: "当用户说\"我干这行 20 年了\"、\"我对这个人有感�
 tags: ["直觉", "专家", "判断", "招聘", "元认知"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\expert-intuition-validity\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\expert-intuition-validity\\SKILL.md"
 evidence: E4
 
 ---
@@ -85,7 +85,7 @@ evidence: E4
 | 抓出"这一次的快答案其实是替换" | | → `question-substitution-check`（单次提问 vs 整个领域） |
 | 审计"我这次的自信来自多少证据" | | → `wysiati-evidence-audit` |
 | 决策将落未落，要制度化引入怀疑 | | → `premortem-doubt-injection` |
-| 已判定直觉不可信，要装替代方案 | | → `formula-over-intuition`（本书已验证 · 待蒸馏；本 skill 的标准下游） |
+| 已判定直觉不可信，要装替代方案 | | → `formula-over-intuition`（本书已验证 · 待整理；本 skill 的标准下游） |
 
 **本 skill 是三个预测类 skill 的前置分诊**：它只回答"这里的直觉能不能当证据"，**不产出任何预测值**。判定完成后按问题形态转交——
 - 要一个**个案的概率/归类** → `base-rate-anchoring`（定起点）
@@ -173,8 +173,8 @@ evidence: E4
 - **composes-with**: `outside-view-forecast` — 判定直觉不可信之后，若问题是"要多久/花多少钱"，直接转那个（定分布）。
 - **composes-with**: `base-rate-anchoring` — 判定直觉不可信之后，若问题是"这个个案属于哪类、概率多少"，转那个（定起点）。
 - **contrasts-with**: `premortem-doubt-injection` — 若团队的信心主要来自某位资深者的直觉，先用本 skill 判定该直觉的效度，再决定事前验尸时应该给这份信心多少权重。
-- **composes-with**: `formula-over-intuition`（本书已验证 · 待蒸馏）— **标准下游**。本 skill 判定"这里的直觉不可信"，那个提供替代方案（结构化评分表）。第 21 章以色列军队方案说明二者可合作：结构化打分之后的整体直觉**仍然有效**。
+- **composes-with**: `formula-over-intuition`（本书已验证 · 待整理）— **标准下游**。本 skill 判定"这里的直觉不可信"，那个提供替代方案（结构化评分表）。第 21 章以色列军队方案说明二者可合作：结构化打分之后的整体直觉**仍然有效**。
 
-> 标注「待蒸馏」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
+> 标注「待整理」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
 
 ---

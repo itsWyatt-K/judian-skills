@@ -4,8 +4,8 @@ description: "当需要**专业服务报价被压**：\"就改了几个字/跑�
 tags: ["pricing", "professional-service", "fairness", "effort", "communication"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\effort-visibility-premium\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\effort-visibility-premium\\SKILL.md"
 evidence: E4
 
 ---
@@ -256,7 +256,7 @@ evidence: E4
   主要来自其他团队的独立研究，受牵连较小。
 - **未讨论自动化与 AI 带来的结构性冲击**：
   当边际执行成本趋近于零，"可见努力"这一价值锚点将大面积失效。
-  本 skill 的第 7 步是本次蒸馏所做的现代化补充，
+  本 skill 的第 7 步是本次整理所做的现代化补充，
   不属于原书内容。
 - **未讨论平台化与评分机制**：在评分透明的平台上，
   历史评价部分替代了过程可见性，努力叙事的边际作用下降。
@@ -284,6 +284,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `ultimatum-fairness-leverage` ⟨已装库⟩, `block-price-comparison` ⟨已装库⟩, `expectation-experience-engineering`
 - **composes-with**（常联用）: `expectation-experience-engineering`, `nih-co-creation-buyin`, `arbitrary-coherence-pricing` ⟨已装库⟩
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

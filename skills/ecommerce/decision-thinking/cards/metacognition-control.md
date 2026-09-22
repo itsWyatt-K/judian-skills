@@ -4,8 +4,8 @@ description: "当用户说\"知道但做不到\"、\"我又情绪化了\"、\"�
 tags: []
 metadata:
   source_book: "认知红利"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\认知红利\\蒸馏skill\\metacognition-control\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\认知红利\\整理skill\\metacognition-control\\SKILL.md"
 evidence: E4
 
 ---

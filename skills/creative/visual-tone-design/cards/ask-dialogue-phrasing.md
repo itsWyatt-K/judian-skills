@@ -4,7 +4,7 @@ description: "DIALOGUE 章节：对白不是均匀吐字，而是有\"乐句(phr
 tags: ["对白", "口型同步", "phrasing", "重音", "态度", "说话表演"]
 metadata:
   source_book: "The Animator's Survival Kit (Richard Williams, Faber & Faber)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\The Animators Survival Kit\\expert\\ask-dialogue-phrasing\\SKILL.md"
 evidence: E4
 

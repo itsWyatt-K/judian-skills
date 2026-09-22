@@ -4,8 +4,8 @@ description: "当需要准备启动项目、竞争、谈判、投资、转型或
 tags: ["sunzi", "strategy", "assessment", "decision", "competition"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\temple-calculation\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\temple-calculation\\SKILL.md"
 evidence: E4
 
 ---

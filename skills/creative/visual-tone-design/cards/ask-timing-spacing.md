@@ -4,7 +4,7 @@ description: "Williams 全书核心命题——\"It's all in the timing and the 
 tags: ["动画原理", "timing", "spacing", "律表", "关键帧", "节奏"]
 metadata:
   source_book: "The Animator's Survival Kit (Richard Williams, Faber & Faber)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\The Animators Survival Kit\\expert\\ask-timing-spacing\\SKILL.md"
 evidence: E4
 

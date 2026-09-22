@@ -4,7 +4,7 @@ description: "当需要设定写了一大堆，但读者/观众觉得\"换一个
 tags: ["world-building", "setting", "storytelling"]
 metadata:
   source_book: "《故事写作大师班》 约翰·特鲁比"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\故事写作大师班\\story-world-building\\SKILL.md"
 evidence: E4
 

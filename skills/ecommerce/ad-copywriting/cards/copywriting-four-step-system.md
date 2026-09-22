@@ -4,8 +4,8 @@ description: "当需要用户需要从零写一篇完整的销售文案（电商
 tags: ["销售漏斗", "系统思维", "诊断框架", "元方法", "文案结构"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\copywriting-four-step-system\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\copywriting-four-step-system\\SKILL.md"
 evidence: E4
 
 ---

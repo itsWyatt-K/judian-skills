@@ -14,7 +14,7 @@ metadata:
 
 ## R — 原文要点 (Reading)
 
-来源方法（Apache-2.0，蒸馏自 superCMO identifying-competitors）：**只交付 names + websites，别的不产**。缓存优先：competitors.md 已有即交回停止。流程：①定品牌（name+website 缺一不可，没有网站不往下走）；②搞清品牌卖什么（读站或已知跳过）；③双通道发现——主通道网页搜索两类问句（`alternatives to <brand>`= 已知品牌的买家在比什么；`best <category> for <audience>`= 不知道品牌的买家怎么找品类），**每个候选必须带来源**（说出它的那条搜索结果），记忆里的候选不许加；搜索薄（小众/非英语市场）再走 search_ads 广告库通道（花额度，先说清等确认）；④确认制：一次消息给 3-5 个候选，各带 name+website+一句为什么算竞对，问哪个真/哪个砍/还漏谁；brief 说跳过确认才直接存；⑤落盘 competitors.md（一行一个：名字+网站；**已存在则合并不覆盖**，用户砍掉的才移除）。边界：零售商/ marketplace/比价站不算竞对除非用户说算；多国市场要问清这份清单属哪个市场，不混。
+来源方法（Apache-2.0，整理自 superCMO identifying-competitors）：**只交付 names + websites，别的不产**。缓存优先：competitors.md 已有即交回停止。流程：①定品牌（name+website 缺一不可，没有网站不往下走）；②搞清品牌卖什么（读站或已知跳过）；③双通道发现——主通道网页搜索两类问句（`alternatives to <brand>`= 已知品牌的买家在比什么；`best <category> for <audience>`= 不知道品牌的买家怎么找品类），**每个候选必须带来源**（说出它的那条搜索结果），记忆里的候选不许加；搜索薄（小众/非英语市场）再走 search_ads 广告库通道（花额度，先说清等确认）；④确认制：一次消息给 3-5 个候选，各带 name+website+一句为什么算竞对，问哪个真/哪个砍/还漏谁；brief 说跳过确认才直接存；⑤落盘 competitors.md（一行一个：名字+网站；**已存在则合并不覆盖**，用户砍掉的才移除）。边界：零售商/ marketplace/比价站不算竞对除非用户说算；多国市场要问清这份清单属哪个市场，不混。
 
 ## I — 方法论骨架 (Interpretation)
 

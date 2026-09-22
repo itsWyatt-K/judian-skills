@@ -4,7 +4,7 @@ description: "当需要短视频口播/带货话术——想要\"像人说话\"�
 tags: ["语感", "口语", "冷面", "方言", "节奏"]
 metadata:
   source_book: "《王朔作品精选（套装共6册）》 王朔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\王朔作品精选\\expert\\jingwei-yugan\\SKILL.md"
 evidence: E4
 

@@ -4,7 +4,7 @@ description: "当用户说\"镜头怎么选\"、\"景深怎么控制\"、\"超�
 tags: ["focal-length", "angle-of-view", "crop-factor", "depth-of-field", "hyperfocal", "bokeh", "perspective"]
 metadata:
   source_book: "Cinematography: Theory and Practice (Blain Brown, 4th ed.)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\05-视觉风格与影像基调\\Cinematography Theory and Practice\\ctp-lens\\SKILL.md"
 evidence: E4
 

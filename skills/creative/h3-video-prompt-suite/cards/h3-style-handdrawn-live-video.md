@@ -2,7 +2,7 @@
 name: h3-style-handdrawn-live-video
 description: 当用户要做"15秒手绘动画与实拍空间融合短片/蜡笔粉笔质感/变形追逐"时使用。触发词：手绘发光动画实拍融合、蜡笔粉笔质感、15秒变形追逐、手绘接触真实物体、可爱手绘。本卡只提炼官方 skill 的影像结构与技法要素。工位边界：本技能只做H3 手绘直播风格模板，不替代上游市场技能的生产流程，两者接力不抢戏。
 source: MiniMax 官方 skills 仓库 handdrawn-live-video-generator（2026-08 克隆归档于 📦 原浆窖/raw/prompts/MiniMax-H3-skills/）
-source_chapter: "handdrawn-live-video-generator/SKILL.cn.md（蒸馏：只借技法）"
+source_chapter: "handdrawn-live-video-generator/SKILL.cn.md（整理：只借技法）"
 tags: [h3, style, handdrawn, live-action, 手绘, 实拍融合, 蜡笔, 变形追逐]
 layer_confidence: "candidate"
 pack: MiniMax H3 提示词规范 · 风格技法

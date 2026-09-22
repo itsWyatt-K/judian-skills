@@ -4,8 +4,8 @@ description: "当用户说\"历史业绩排行榜\"、\"XX 诅咒\"、\"XX 效�
 tags: ["统计", "预测", "绩效管理", "因果推断", "决策卫生"]
 metadata:
   source_book: "思考，快与慢 (Thinking, Fast and Slow) — 丹尼尔·卡尼曼"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\思考快与慢\\蒸馏skill\\regression-prediction-moderation\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\思考快与慢\\整理skill\\regression-prediction-moderation\\SKILL.md"
 evidence: E4
 
 ---
@@ -108,8 +108,8 @@ evidence: E4
 | 极端表现之后的变化，或按证据强度收缩预测 | ✅ `regression-prediction-moderation` | |
 | 判断某人的直觉在这个领域能不能信 | | → `expert-intuition-validity` |
 | 估 r 时怀疑自己被证据的表面说服力带偏 | | → `wysiati-evidence-audit` |
-| 结果已经出来，团队在编因果故事、找责任人 | | → `hindsight-narrative-guard`（本书已验证 · 待蒸馏） |
-| 想把这类预测固化成评分表 | | → `formula-over-intuition`（本书已验证 · 待蒸馏） |
+| 结果已经出来，团队在编因果故事、找责任人 | | → `hindsight-narrative-guard`（本书已验证 · 待整理） |
+| 想把这类预测固化成评分表 | | → `formula-over-intuition`（本书已验证 · 待整理） |
 
 ---
 
@@ -187,9 +187,9 @@ evidence: E4
 - **contrasts-with**: `outside-view-forecast` — 都是"向历史分布靠拢"，但那个**定分布**、用于**项目工期与成本**（参照组来自同类项目），本 skill 用于**极端值之后的变化与下一期预测**（参照来自同一对象的历史波动）。详见 A2 的硬判据表。
 - **contrasts-with**: `expert-intuition-validity` — 本 skill 假定你已经决定要作预测，处理预测的**幅度**；那个处理**该不该相信这个领域的直觉**。
 - **composes-with**: `wysiati-evidence-audit` — 第 7 步估相关系数时，容易因为证据"看起来很有说服力"而高估 r。用那个 skill 检查一下。
-- **composes-with**: `hindsight-narrative-guard`（本书已验证 · 待蒸馏）— 回归现象几乎总是被自动配上因果故事（滑雪解说员）。发现回归后，需清理已经形成的叙事。
-- **composes-with**: `formula-over-intuition`（本书已验证 · 待蒸馏）— 第 9 步"用多期均值代替单期极值"本质上就是把判断公式化的第一步。
+- **composes-with**: `hindsight-narrative-guard`（本书已验证 · 待整理）— 回归现象几乎总是被自动配上因果故事（滑雪解说员）。发现回归后，需清理已经形成的叙事。
+- **composes-with**: `formula-over-intuition`（本书已验证 · 待整理）— 第 9 步"用多期均值代替单期极值"本质上就是把判断公式化的第一步。
 
-> 标注「待蒸馏」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
+> 标注「待整理」的条目来自本书 `verified.md` 中已通过三重验证、但本批次未落地为 skill 的单元，仅作概念指路，**不是可调用的依赖**。
 
 ---

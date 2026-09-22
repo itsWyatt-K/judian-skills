@@ -4,7 +4,7 @@ description: "地域性格透镜：塑造传奇人物先问\"此地百姓会怎�
 tags: ["人物塑造", "地域性格", "集体好恶", "市井价值观", "视角"]
 metadata:
   source_book: "《俗世奇人全本》（冯骥才，人民文学出版社 2020）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\俗世奇人全本\\sushi-region-soul\\SKILL.md"
 evidence: E4
 

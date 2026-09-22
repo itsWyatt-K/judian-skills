@@ -4,8 +4,8 @@ description: "当需要对手明显更强，正面竞争不划算。；用户需
 tags: ["sunzi", "void-solid", "leverage", "flexibility", "breakthrough"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\void-solid-flexibility\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\void-solid-flexibility\\SKILL.md"
 evidence: E4
 
 ---

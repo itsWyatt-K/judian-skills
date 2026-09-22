@@ -4,8 +4,8 @@ description: "当需要拿到一个页面/落地页/仪表盘/海报，觉得\"�
 tags: ["视觉层次", "版面设计", "扫描", "惯例"]
 metadata:
   source_book: "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\点石成金\\蒸馏skill\\billboard-scan-design\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\点石成金\\整理skill\\billboard-scan-design\\SKILL.md"
 evidence: E4
 
 ---

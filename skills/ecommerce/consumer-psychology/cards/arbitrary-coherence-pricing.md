@@ -4,8 +4,8 @@ description: "当需要要给一个**没有可比品**的东西定价：新品�
 tags: ["定价", "行为经济学", "anchoring", "pricing-strategy"]
 metadata:
   source_book: "《无价：洞悉大众心理玩转价格游戏（经典版）》 威廉·庞德斯通"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\无价\\蒸馏skill\\arbitrary-coherence-pricing\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\无价\\整理skill\\arbitrary-coherence-pricing\\SKILL.md"
 evidence: E4
 
 ---

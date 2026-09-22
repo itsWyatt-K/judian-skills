@@ -4,7 +4,7 @@ description: "当用户写对白、觉得\"对话太平/太直白/像在交代�
 tags: ["写作手法", "对话", "潜台词", "以言行事", "声口"]
 metadata:
   source_book: "《小说机杼》詹姆斯·伍德"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\小说机杼（詹姆斯·伍德）\\hfw-dialogue-action\\SKILL.md"
 evidence: E4
 

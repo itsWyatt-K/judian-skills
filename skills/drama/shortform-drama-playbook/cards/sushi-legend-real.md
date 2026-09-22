@@ -4,7 +4,7 @@ description: "传奇感与真实感的平衡：超常事件配三锚（说书人
 tags: ["人物塑造", "传奇感", "真实感", "可信度", "叙事框架"]
 metadata:
   source_book: "《俗世奇人全本》（冯骥才，人民文学出版社 2020）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\俗世奇人全本\\sushi-legend-real\\SKILL.md"
 evidence: E4
 

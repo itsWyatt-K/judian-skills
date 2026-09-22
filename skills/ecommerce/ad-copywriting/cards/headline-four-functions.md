@@ -4,8 +4,8 @@ description: "当需要正在为产品广告写标题，脑子里有几个想法
 tags: ["headline", "copywriting", "framework"]
 metadata:
   source_book: "《文案创作完全手册》罗伯特·布莱"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\文案创作完全手册\\蒸馏skill\\headline-four-functions\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\文案创作完全手册\\整理skill\\headline-four-functions\\SKILL.md"
 evidence: E4
 
 ---

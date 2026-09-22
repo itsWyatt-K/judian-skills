@@ -4,18 +4,18 @@ description: "把散的想法搭成能立住的故事：幕设计、节拍、高
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 36
   evidence_floor: E4
 ---
 
 # 故事结构引擎：节拍/场景/序列/幕与类型法则
 
-> 本包由 36 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 36 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当搭结构、查转折、定类型的全套坐标系时调用（本包由 36 张方法论卡汇编而成，蒸馏自《故事写作大师班》、《救猫咪：电影编剧指南》、《故事：材质、结构、风格和银幕剧作的原理》、《人物》）。核心能力：故事结构引擎：节拍/场景/序列/幕与类型法则。关键触发：“这个对手配不上这个故事”、“结局太平”、“死亡/爱/自由”、“该先写什么、从哪儿下手”、“第二幕乏力”、“这个值得写吗/要不要继续”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当搭结构、查转折、定类型的全套坐标系时调用（本包由 36 张方法论卡汇编而成，整理自《故事写作大师班》、《救猫咪：电影编剧指南》、《故事：材质、结构、风格和银幕剧作的原理》、《人物》）。核心能力：故事结构引擎：节拍/场景/序列/幕与类型法则。关键触发：“这个对手配不上这个故事”、“结局太平”、“死亡/爱/自由”、“该先写什么、从哪儿下手”、“第二幕乏力”、“这个值得写吗/要不要继续”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

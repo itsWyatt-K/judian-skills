@@ -4,7 +4,7 @@ description: "把一句话选题编译成可拍的短剧分集方案：钩子前
 tags: ["drama"]
 metadata:
   version: 2.0.0
-  attribution: "Methodology independently rewritten by the Judian project from published-book distillation cards; inspired by the cited sources, no original expression reproduced."
+  attribution: "Methodology independently rewritten by the Judian project from published-book methodology notes; inspired by the cited sources, no original expression reproduced."
   card_count: 28
   evidence_floor: E4
   primary_for: ["短剧分集结构", "短剧开篇钩子", "短剧结尾反转", "短剧人物志"]

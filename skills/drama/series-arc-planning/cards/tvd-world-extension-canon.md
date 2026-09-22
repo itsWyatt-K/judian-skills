@@ -4,7 +4,7 @@ description: "当需要AI 批量产出的番外与正片设定打架（某角色
 tags: ["canon", "webisodes", "world-extension"]
 metadata:
   source_book: "《Writing the TV Drama Series, 3rd Edition》 Pamela Douglas"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\06-分集大纲与叙事脉络（系列化）\\Writing the TV Drama Series 3rd Edition\\tvd-world-extension-canon\\SKILL.md"
 evidence: E4
 

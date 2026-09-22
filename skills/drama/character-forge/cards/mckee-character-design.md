@@ -4,7 +4,7 @@ description: "当需要用户觉得人物扁平、像简历/技能列表，怎�
 tags: ["character", "arc", "mckee"]
 metadata:
   source_book: "《故事：材质、结构、风格和银幕剧作的原理》 罗伯特·麦基"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\01-剧本创意与故事结构\\罗伯特·麦基虚构艺术三部曲（《故事》《对白》《人物》）\\mckee-character-design\\SKILL.md"
 evidence: E4
 

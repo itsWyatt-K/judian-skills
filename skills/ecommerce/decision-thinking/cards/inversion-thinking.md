@@ -4,8 +4,8 @@ description: "当需要面临重大决策但正向分析陷入僵局(选项太�
 tags: ["逆向思维", "决策", "风险规避", "失败分析"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\inversion-thinking\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\inversion-thinking\\SKILL.md"
 evidence: E4
 
 ---

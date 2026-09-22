@@ -4,7 +4,7 @@ description: "故事的五层递进理解框架（语言补充→多态化产物
 tags: ["故事理论", "底层哲学", "短剧根基", "互联网叙事"]
 metadata:
   source_book: "写好短剧（查理）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\写好短剧\\expert\\dxj-story-five-layers\\SKILL.md"
 evidence: E4
 

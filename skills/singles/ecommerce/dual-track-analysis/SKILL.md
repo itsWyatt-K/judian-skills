@@ -7,8 +7,8 @@ metadata:
   promoted_from: dual-track-analysis
   evidence: E4
   source_book: "'《穷查理宝典》 查理·芒格'"
-  source_card: "'classics\\穷查理宝典\\蒸馏skill\\dual-track-analysis\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  source_card: "'classics\\穷查理宝典\\整理skill\\dual-track-analysis\\SKILL.md'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)

@@ -4,8 +4,8 @@ description: "当需要团队为某个体验问题争论不下，需要真实证
 tags: ["可用性测试", "定性研究", "团队流程", "低成本方法"]
 metadata:
   source_book: "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\点石成金\\蒸馏skill\\diy-usability-test\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\点石成金\\整理skill\\diy-usability-test\\SKILL.md"
 evidence: E4
 
 ---

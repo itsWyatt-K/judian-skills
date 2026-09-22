@@ -4,8 +4,8 @@ description: "当需要同一周既要通报坏消息又要提要求（预算、
 tags: ["liking", "association", "framing", "communication", "personal-branding"]
 metadata:
   source_book: "《影响力（经典版）Influence: The Psychology of Persuasion》 罗伯特·B.西奥迪尼（闾佳 译）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\影响力\\蒸馏skill\\association-transfer\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\影响力\\整理skill\\association-transfer\\SKILL.md"
 evidence: E4
 
 ---

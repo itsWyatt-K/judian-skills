@@ -4,7 +4,7 @@ description: "用于逗即讽刺：用笑完成批判相关的创作场景。核
 tags: ["相声", "讽刺", "逗", "态度"]
 metadata:
   source_book: "《中国的相声》薛宝琨（增订本）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\中国的相声\\expert\\xiangsheng-tease-satire\\SKILL.md"
 evidence: E4
 

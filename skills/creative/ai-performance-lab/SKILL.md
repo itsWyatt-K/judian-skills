@@ -4,18 +4,18 @@ description: "把僵硬的 AI 演员调出活人感：微表情、眼神、表�
 tags: ["drama"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 19
   evidence_floor: E4
 ---
 
 # AI 角色表演实验室：表情/动作/焦点/资产一致性
 
-> 本包由 19 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 19 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当让 AI 生成的角色演得对、长得住时调用（本包由 19 张方法论卡汇编而成，蒸馏自《AI角色演技怎么救？我总结了5条好用的提示词技巧》、《【IP 配图 Skill 必看】全网独一份的架构详解》）。核心能力：AI 角色表演实验室：表情/动作/焦点/资产一致性。关键触发：“有情绪变化”、“镜头怎么引导观众看谁”、“情绪变化戏”、“假脸/表情笼统/AI 随机发挥”、“情绪反转/权力变化”、“脸像塑料/太干净/不真实”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当让 AI 生成的角色演得对、长得住时调用（本包由 19 张方法论卡汇编而成，整理自《AI角色演技怎么救？我总结了5条好用的提示词技巧》、《【IP 配图 Skill 必看】全网独一份的架构详解》）。核心能力：AI 角色表演实验室：表情/动作/焦点/资产一致性。关键触发：“有情绪变化”、“镜头怎么引导观众看谁”、“情绪变化戏”、“假脸/表情笼统/AI 随机发挥”、“情绪反转/权力变化”、“脸像塑料/太干净/不真实”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 

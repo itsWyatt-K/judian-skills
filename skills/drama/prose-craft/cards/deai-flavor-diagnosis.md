@@ -4,7 +4,7 @@ description: ""
 tags: ["diagnosis", "deai-flavor", "ledger", "quality-gate", "定稿自检"]
 metadata:
   source_book: "用户实战复盘方法论《去AI味鉴别与修订方法论》（2026-08-15 B案反转修订版）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\去AI味鉴别\\deai-flavor-diagnosis\\SKILL.md"
 evidence: E4
 

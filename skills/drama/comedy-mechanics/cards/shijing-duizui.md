@@ -4,7 +4,7 @@ description: "当需要短视频剧情 30 秒对手戏（情侣/父子/室友/�
 tags: ["对白", "斗嘴", "节奏", "口语", "对手戏"]
 metadata:
   source_book: "《王朔作品精选（套装共6册）》 王朔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\王朔作品精选\\expert\\shijing-duizui\\SKILL.md"
 evidence: E4
 

@@ -4,18 +4,18 @@ description: "让内容被人主动转发：STEPPS 六要素诊断、情绪注�
 tags: ["social"]
 metadata:
   version: 1.0.0
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   card_count: 41
   evidence_floor: E4
 ---
 
 # 传播与裂变：STEPPS/社交货币/平台算法
 
-> 本包由 41 张蒸馏方法论卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
+> 本包由 41 张方法论重铸卡汇编重铸（卡片明细与出处见各卡 frontmatter 的 source_card / source_book）。
 
 ## 何时调用
 
-当让内容被转发、被记住、被推流时调用（本包由 41 张方法论卡汇编而成，蒸馏自《X秘籍》、《引爆点（The Tipping Point，第五版）》、《疯传——让你的产品、思想、行为像病毒一样入侵》）。核心能力：传播与裂变：STEPPS/社交货币/平台算法。关键触发：“推文搜不到了”、“新号第一天该干什么”、“怎么找差异化”、“没粉丝怎么办”、“怎么在大V帖下获得曝光 / 怎么评论不被当蹭流量”、“AI太强了”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
+当让内容被转发、被记住、被推流时调用（本包由 41 张方法论卡汇编而成，整理自《X秘籍》、《引爆点（The Tipping Point，第五版）》、《疯传——让你的产品、思想、行为像病毒一样入侵》）。核心能力：传播与裂变：STEPPS/社交货币/平台算法。关键触发：“推文搜不到了”、“新号第一天该干什么”、“怎么找差异化”、“没粉丝怎么办”、“怎么在大V帖下获得曝光 / 怎么评论不被当蹭流量”、“AI太强了”。工位边界：本包负责创作方法论层；提示词语法与模型参数走影策官方市场技能，两者接力不抢戏。
 
 ## 本包交付什么
 
@@ -50,6 +50,8 @@ metadata:
 - [ ] 情绪是否有具体载体
 - [ ] 是否避免低唤醒情绪（如悲伤）
 - [ ] 是否设计可观察的传播动作
+- [ ] 文案无绝对化用语（「最」「第一」「顶级」「绝无仅有」「国家级」等《广告法》禁用表述；经典案例复述须标注为案例）
+- [ ] 无虚构稀缺（不写无法兑现的限时/限量/倒计时；真实活动须给出兑现路径与有效期）
 
 ## 包内卡片名录
 

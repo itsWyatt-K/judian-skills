@@ -4,7 +4,7 @@ description: "当用户写某地域/某群体人物、想让角色「有根」�
 tags: ["风俗即人", "记人即记其风俗", "生活抒情诗", "文化根底"]
 metadata:
   source_book: "《晚翠文谈新编》汪曾祺"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\03-写作手法与情绪表达（不含对白）\\晚翠文谈（汪曾祺）\\wcxf-material\\SKILL.md"
 evidence: E4
 

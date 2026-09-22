@@ -4,8 +4,8 @@ description: "当需要设计 AI 产品的内容策略和拒绝规则；产品�
 tags: ["safety", "alignment", "guardrails", "content-policy", "security"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\safety-guardrails\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\safety-guardrails\\SKILL.md"
 evidence: E4
 
 ---

@@ -8,7 +8,7 @@ metadata:
   evidence: E4
   source_book: "'《武林外传》宁财神'"
   source_card: "'comedy-humor\\武林外传\\expert\\warm-twist-payoff\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 方法论骨架 (Interpretation)
@@ -102,7 +102,7 @@ metadata:
 ### 作者的盲点 / 时代局限
 
 - 原剧强依赖"说教式结尾"，对纯喜剧 / 短视频节奏偏重的场景反成累赘（阶段 0 批判：作者立场盲点）。
-- 纯文本蒸馏只捕获声口 / 结构，表演层（停顿、表情、对手反应）需另补——温情落点的"暖"很依赖演员语气与节奏，纯文字复用会失温（x04）。
+- 纯文本整理只捕获声口 / 结构，表演层（停顿、表情、对手反应）需另补——温情落点的"暖"很依赖演员语气与节奏，纯文字复用会失温（x04）。
 - 部分温情金句挂靠 2006 语境 / 方言，跨代际传播有损耗（x05）。
 
 ### 容易混淆的邻近方法论
@@ -126,7 +126,7 @@ metadata:
 
 ## B2 — 版权边界 (Rights Boundary) ★
 
-> 本段由 cangjie 蒸馏模板自动生成，依据素材库版权护栏（思想与表达二分法）。
+> 本段由 cangjie 整理模板自动生成，依据素材库版权护栏（思想与表达二分法）。
 
 本 skill 提炼自 《武林外传》（宁财神）。
 

@@ -4,8 +4,8 @@ description: "当需要写了详细的说明/公告/引导，但用户还是不�
 tags: ["用户模型", "心智模型纠偏", "扫描", "行为经济"]
 metadata:
   source_book: "《点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）》 史蒂夫·克鲁格 (Steve Krug)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\点石成金\\蒸馏skill\\user-scan-satisfice-muddle\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\点石成金\\整理skill\\user-scan-satisfice-muddle\\SKILL.md"
 evidence: E4
 
 ---

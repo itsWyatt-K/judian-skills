@@ -4,7 +4,7 @@ description: "情绪是短剧的灵魂——观众注意力极短，必须「全
 tags: ["情绪设计", "需求层次", "情绪分类", "外显内隐", "代入感", "全程无尿点"]
 metadata:
   source_book: "从零开始学短剧创作（孙文琴,爱丽丝著）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\从零开始学短剧创作\\expert\\czks-emotion\\SKILL.md"
 evidence: E4
 

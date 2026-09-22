@@ -4,8 +4,8 @@ description: "当需要品牌团队在策划故事营销或病毒视频，需要
 tags: ["故事", "特洛伊木马", "品牌嵌入", "内容营销", "信息保真"]
 metadata:
   source_book: "《疯传——让你的产品、思想、行为像病毒一样入侵》 乔纳·伯杰"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\疯传\\蒸馏skill\\trojan-horse\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\疯传\\整理skill\\trojan-horse\\SKILL.md"
 evidence: E4
 
 ---

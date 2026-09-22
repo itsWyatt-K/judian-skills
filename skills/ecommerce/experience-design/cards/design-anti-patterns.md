@@ -4,8 +4,8 @@ description: "当需要决策理由是\"系统就这样分的\"\"竞品都这么
 tags: ["framework", "anti-pattern", "diagnosis", "decision"]
 metadata:
   source_book: "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\用户体验要素\\蒸馏skill\\design-anti-patterns\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\用户体验要素\\整理skill\\design-anti-patterns\\SKILL.md"
 evidence: E4
 
 ---

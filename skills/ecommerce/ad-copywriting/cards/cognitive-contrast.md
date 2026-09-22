@@ -4,8 +4,8 @@ description: "当需要用户的产品在成熟品类中\"某些方面更好\"�
 tags: ["对比原理", "竞品分析", "差异化", "购买欲激发", "心理落差"]
 metadata:
   source_book: "《爆款文案》 关健明"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\爆款文案\\蒸馏skill\\cognitive-contrast\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\爆款文案\\整理skill\\cognitive-contrast\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,8 +4,8 @@ description: "当需要做出了一个逻辑严密的分析,但直觉感到不�
 tags: ["双轨分析", "理性分析", "潜意识", "认知偏差防护"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\dual-track-analysis\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\dual-track-analysis\\SKILL.md"
 evidence: E4
 
 ---

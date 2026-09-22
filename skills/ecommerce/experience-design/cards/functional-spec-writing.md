@@ -4,8 +4,8 @@ description: "当需要写/审 PRD、需求卡、验收标准,出现形容词或
 tags: ["principle", "spec", "requirements", "verifiable"]
 metadata:
   source_book: "《用户体验要素：以用户为中心的产品设计（原书第2版）》 Jesse James Garrett"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\用户体验要素\\蒸馏skill\\functional-spec-writing\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\用户体验要素\\整理skill\\functional-spec-writing\\SKILL.md"
 evidence: E4
 
 ---

@@ -4,7 +4,7 @@ description: "Chion在第二部分提出「声音诗学」——声音不只是�
 tags: ["声音诗学", "声音空间化", "时间变形", "声音评论", "独立叙事"]
 metadata:
   source_book: "Audio-Vision: Sound on Screen (Michel Chion, trans. Claudia Gorbman)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\08-改编为导演脚本（视听节奏）\\Audio-Vision Sound on Screen\\expert\\avs-audio-poetics\\SKILL.md"
 evidence: E4
 

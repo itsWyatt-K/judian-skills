@@ -4,7 +4,7 @@ description: "动画角色每动作须传递信息。Hooks核心法则：Show Do
 tags: ["角色运动", "展示非讲述", "重量感", "停顿", "肢体语言", "物理性"]
 metadata:
   source_book: "Acting for Animators (Ed Hooks, 3rd ed., Routledge)"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\04-人物弧光与角色设定\\Acting for Animators\\expert\\afa-character-movement\\SKILL.md"
 evidence: E4
 

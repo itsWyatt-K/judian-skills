@@ -4,8 +4,8 @@ description: "当需要被要求负责或评估一个自己没有深度经验的
 tags: ["能力圈", "决策边界", "自我认知", "投资纪律"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\circle-of-competence\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\circle-of-competence\\SKILL.md"
 evidence: E4
 
 ---

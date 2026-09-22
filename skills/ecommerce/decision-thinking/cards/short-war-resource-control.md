@@ -4,8 +4,8 @@ description: "当需要项目延期、竞争拖长、谈判拉锯。；用户不
 tags: ["sunzi", "cost", "duration", "resources", "execution"]
 metadata:
   source_book: "《孙子兵法》"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\孙子兵法\\蒸馏skill\\short-war-resource-control\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\孙子兵法\\整理skill\\short-war-resource-control\\SKILL.md"
 evidence: E4
 
 ---

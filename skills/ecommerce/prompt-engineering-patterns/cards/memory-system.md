@@ -4,8 +4,8 @@ description: "当需要AI 需要跨会话记住用户偏好、历史或上下文
 tags: ["memory", "personalization", "persistence", "context-management"]
 metadata:
   source_book: "系统提示词设计模式库"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\系统提示词设计模式库\\蒸馏skill\\memory-system\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\系统提示词设计模式库\\整理skill\\memory-system\\SKILL.md"
 evidence: E4
 
 ---

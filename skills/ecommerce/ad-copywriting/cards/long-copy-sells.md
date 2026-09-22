@@ -4,8 +4,8 @@ description: "当需要客户/老板坚持\"文案太长砍短\"。；复杂/高
 tags: ["long-copy", "copywriting", "facts", "sales"]
 metadata:
   source_book: "《奥格威谈广告》 大卫·奥格威"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\奥格威谈广告\\蒸馏skill\\long-copy-sells\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\奥格威谈广告\\整理skill\\long-copy-sells\\SKILL.md"
 evidence: E4
 
 ---

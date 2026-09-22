@@ -4,7 +4,7 @@ description: "用于手足竞争错层：siblings 的喜剧燃料相关的创作
 tags: ["情景喜剧", "手足", "竞争", "重组家庭"]
 metadata:
   source_book: "《汉语视听说教程：家有儿女》刘立新/邓方（世界图书出版公司，2009）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "comedy-humor\\家有儿女1\\expert\\jyl-sibling-rivalry\\SKILL.md"
 evidence: E4
 

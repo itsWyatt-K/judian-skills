@@ -3,8 +3,8 @@ name: ip-character-bible
 description: "当需要批量出图时角色每次长得不一样（漂移），想系统化管理一致性。；要写一份角色档案/角色圣经，不知该写哪些、哪些分级。时调用。核心能力：IP 角色圣经：身份层构建。关键触发：角色圣经 / 角色一致性 / 怎么让角色不飘、参考图怎么标边界 / 失败标准、IP 三定律 / 选哪个角色合适、这一张怎样被画出来。不适用于：单张一次性出图，根本不关心跨图连续性。、只想换画风（走 ip-style-dec。"
 tags: ["角色圣经", "身份层", "一致性", "参考素材", "失败标准", "IP三定律"]
 metadata:
-  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并蒸馏）"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
+  source_book: "《【IP 配图 Skill 必看】全网独一份的架构详解》艾笑 teacherAi + 《我把自己的IP配图技能开源了》小互（合并整理）"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
   source_card: "story-recipes\\13-AI角色表演与资产\\ip-character-system\\ip-character-bible\\SKILL.md"
 evidence: E4
 

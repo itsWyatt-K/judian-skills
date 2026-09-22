@@ -4,8 +4,8 @@ description: "当需要初创/弱势品牌要在巨头夹缝里找一句能记�
 tags: ["positioning", "dichotomy", "differentiation", "underdog", "copywriting"]
 metadata:
   source_book: "《借势》 金枪大叔"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\借势\\蒸馏skill\\skills\\binary-positioning\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\借势\\整理skill\\skills\\binary-positioning\\SKILL.md"
 evidence: E4
 
 ---

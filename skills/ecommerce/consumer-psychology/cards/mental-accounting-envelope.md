@@ -4,8 +4,8 @@ description: "当需要**意外之财到手**：年终奖、退税、卖二手�
 tags: ["money", "mental-accounting", "budgeting", "personal-finance", "self-control"]
 metadata:
   source_book: "《怪诞行为学（全5册）》 丹·艾瑞里"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\怪诞行为学\\蒸馏skill\\mental-accounting-envelope\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\怪诞行为学\\整理skill\\mental-accounting-envelope\\SKILL.md"
 evidence: E4
 
 ---
@@ -207,6 +207,6 @@ evidence: E4
 - **contrasts-with**（易混淆，需分清）: `pain-of-paying-tuning`
 - **composes-with**（常联用）: `pain-of-paying-tuning`, `ulysses-self-control-architecture`, `opportunity-cost-swap`
 
-> 标注 ⟨已装库⟩ 的来自其他书目的蒸馏产出（《无价》/《上瘾》/《影响力·福格》系列）。
+> 标注 ⟨已装库⟩ 的来自其他书目的整理产出（《无价》/《上瘾》/《影响力·福格》系列）。
 
 ---

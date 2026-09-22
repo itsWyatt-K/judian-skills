@@ -6,9 +6,10 @@ metadata:
   version: 1.0.0
   promoted_from: dxj-audience-hook
   evidence: E4
+  evidence_note: "2026-09-22 darwin 实测：绝对质量达标，但带技能净提升主要限于结构化长任务（dim8=6.5），两个对抗场景与模型先验重合判 tie——暂不标 E1。记录见 benchmarks/darwin-lighthouse-20260922。"
   source_book: "'写好短剧（查理）'"
   source_card: "'comedy-humor\\写好短剧\\expert\\dxj-audience-hook\\SKILL.md'"
-  attribution: "'Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced.'"
+  attribution: "'Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced.'"
 ---
 
 ## I — 实操清单

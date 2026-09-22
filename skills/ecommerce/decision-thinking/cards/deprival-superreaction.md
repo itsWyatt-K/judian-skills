@@ -4,8 +4,8 @@ description: "当需要在投资/项目失败后,感到强烈的\"必须扳回�
 tags: ["损失厌恶", "沉没成本", "决策偏差", "止损"]
 metadata:
   source_book: "《穷查理宝典》 查理·芒格"
-  attribution: "Original methodology rewritten by the Judian project from published-book distillation cards; inspired by the cited books, no original expression reproduced."
-  source_card: "classics\\穷查理宝典\\蒸馏skill\\deprival-superreaction\\SKILL.md"
+  attribution: "Methodological framework re-derived and rewritten by the Judian project from published-book methodology notes; inspired by the cited books, no original expression reproduced."
+  source_card: "classics\\穷查理宝典\\整理skill\\deprival-superreaction\\SKILL.md"
 evidence: E4
 
 ---
