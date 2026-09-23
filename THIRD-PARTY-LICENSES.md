@@ -90,5 +90,4 @@ MIT，见根目录 [LICENSE](LICENSE)。
 ## 历史说明
 
 v2.0.0 时代的「开源署名层」11 个包（9 个 MIT/Apache/CC-BY 开源仓库 + MiniMax/BFL 官方文档整理）
-已随 v3.0.0 缩容撤出公开版，各包内的 THIRD-PARTY-LICENSES 记录完整保存在本地全量库
-（`_backup/20260923-judian-skills全量`）可溯源；本文件只覆盖公开版现存内容的第三方义务。
+已随 v3.0.0 缩容撤出公开版；本文件只覆盖公开版现存内容的第三方义务。
