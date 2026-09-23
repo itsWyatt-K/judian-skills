@@ -1,0 +1,19 @@
+{
+  "generated_at": 1790134453,
+  "mode": "workstation-ecommerce-v3",
+  "entries": 6,
+  "id_range": [
+    "16000000000108",
+    "16000000000113"
+  ],
+  "instruction_total_kb": 15.7,
+  "names": [
+    "电商主图",
+    "SKU变体矩阵",
+    "产品三视图",
+    "场景植入与氛围",
+    "平面海报排版",
+    "产品运镜视频"
+  ],
+  "output": "D:\\AlcheMvision\\judian-skills\\seed-contribution\\seed-addition-ecommerce.json"
+}
