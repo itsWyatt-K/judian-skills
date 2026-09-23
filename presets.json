@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-09-23",
-  "note": "场景预设内容层（平台层 RFC 见 项目/场景预设平台层-RFC-2026-09-22.md）。v3.1.0 双产线：预设只引用 judian 公开版技能（S1-S6 + E0-E6）。E 卡正在投稿上游种子（PR 待合并），S 卡按功能分 PR 另行投稿；seed-snapshot.json 已含投稿条目；PR 合并后用 presets_check.py --seeds 对账应零差异。变更前必须跑 presets_check.py 对账。",
+  "note": "场景预设内容层（平台层 RFC 见 项目/场景预设平台层-RFC-2026-09-22.md）。v3.1.0 双产线：预设只引用 judian 公开版技能（S1-S6 + E0-E6）。全部工位正在随单个上游 PR 投稿种子市场（待合并）；seed-snapshot.json 已含投稿条目；PR 合并后用 presets_check.py --seeds 对账应零差异。变更前必须跑 presets_check.py 对账。",
   "presets": [
     {
       "presetId": "drama-pipeline",
@@ -28,7 +28,7 @@
       "name": "商品图快修",
       "scene": "ecommerce",
       "skillIds": ["16000000000108", "16000000000110"],
-      "rationale": "手里已有商品照，只想快速修：E1 擦手补光出合规主图，E3 一次出齐多角度图。两个工位解决80%的日常商品图需求。",
+      "rationale": "手里已有商品照，只想快速修：E1 擦手补光出合规主图，E3 一次出齐多角度图。两个工位覆盖日常商品图的高频需求。",
       "source": "hand-curated",
       "evidence": "E4",
       "upgrade": "用户实测反馈哪个工位最常被单独调用，可拆出更轻的单工位预设。"
