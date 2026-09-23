@@ -1,54 +1,247 @@
 {
- "source": "judian-skills v3.1.0 自制快照（官方 33 条承自 v2.0.0 快照；judian 侧 = 门房 + 投稿中的 S1-S6 + E0-E6）",
+ "source": "judian-skills v3.2.0 自制快照（官方 33 条承自 v2.0.0 快照；judian 侧 = 门房 + 投稿中的 S1-S6 + E0-E7）",
  "captured": "2026-09-23",
- "count": 47,
+ "count": 48,
  "skills": [
-  {"skillId": "14811816982028", "name": "系列套图生成", "tag": "creative"},
-  {"skillId": "14811816960524", "name": "名导十五秒视频风格资产引擎", "tag": "creative"},
-  {"skillId": "14811816969484", "name": "珠宝设计出款", "tag": "creative"},
-  {"skillId": "14811816969740", "name": "珠宝设计进化", "tag": "creative"},
-  {"skillId": "14811816969996", "name": "角色精灵图动画产线", "tag": "creative"},
-  {"skillId": "14811816981004", "name": "15秒视觉特效", "tag": "creative"},
-  {"skillId": "14811816981260", "name": "15秒极致夸张反转提示词", "tag": "creative"},
-  {"skillId": "14889292801804", "name": "3D国漫风转身变身特效", "tag": "creative"},
-  {"skillId": "14811816970508", "name": "叙事短片导演分镜", "tag": "drama"},
-  {"skillId": "14811816981772", "name": "一图成片-电影广告全能导演", "tag": "drama"},
-  {"skillId": "14811816970252", "name": "剧本资产视频一条龙创作", "tag": "drama"},
-  {"skillId": "14811816982540", "name": "世界观美术设定", "tag": "drama"},
-  {"skillId": "14889899552012", "name": "AI演员微表情导演", "tag": "drama"},
-  {"skillId": "14811816983052", "name": "故事开发", "tag": "drama"},
-  {"skillId": "14811816982796", "name": "剧本撰写", "tag": "drama"},
-  {"skillId": "14811816982284", "name": "角色设计", "tag": "drama"},
-  {"skillId": "14811816983308", "name": "三幕式短剧工厂", "tag": "drama"},
-  {"skillId": "14519800321292", "name": "顶级波普视觉广告导演", "tag": "ecommerce"},
-  {"skillId": "14811816960780", "name": "珠宝电商图文视频一站式", "tag": "ecommerce"},
-  {"skillId": "14811816962060", "name": "高能未来电子产品广告视频", "tag": "ecommerce"},
-  {"skillId": "14811816962316", "name": "穿搭上身试穿视频生成", "tag": "ecommerce"},
-  {"skillId": "14811816962572", "name": "AI造型师高转化模特图", "tag": "ecommerce"},
-  {"skillId": "14889292802060", "name": "社媒素人App宣传", "tag": "ecommerce"},
-  {"skillId": "14811816961036", "name": "TikTok网红带货视频", "tag": "ecommerce"},
-  {"skillId": "14811816981516", "name": "二维动画线稿批量上色", "tag": "others"},
-  {"skillId": "14889899551756", "name": "OC魅力诊断师", "tag": "others"},
-  {"skillId": "14811816980748", "name": "数字人搞笑采访视频生成", "tag": "social"},
-  {"skillId": "14811816960268", "name": "小红书素人穿搭配方", "tag": "social"},
-  {"skillId": "15215320902412", "name": "治愈系原创IP孵化助手", "tag": "social"},
-  {"skillId": "15434297644556", "name": "先锋服装商拍视觉指导", "tag": "social"},
-  {"skillId": "14811816961804", "name": "ASMR沉浸式潮玩开箱导演", "tag": "social"},
-  {"skillId": "15507072002828", "name": "人像捏脸导演", "tag": "social"},
-  {"skillId": "14811816961292", "name": "绿幕猫咪跳舞素材生成", "tag": "social"},
-  {"skillId": "16000000000107", "name": "选包门房", "tag": "others"},
-  {"skillId": "16000000000108", "name": "电商主图", "tag": "ecommerce"},
-  {"skillId": "16000000000109", "name": "SKU变体矩阵", "tag": "ecommerce"},
-  {"skillId": "16000000000110", "name": "产品三视图", "tag": "ecommerce"},
-  {"skillId": "16000000000111", "name": "场景植入与氛围", "tag": "ecommerce"},
-  {"skillId": "16000000000112", "name": "平面海报排版", "tag": "ecommerce"},
-  {"skillId": "16000000000113", "name": "产品运镜视频", "tag": "ecommerce"},
-  {"skillId": "16000000000114", "name": "画质净化公共卡", "tag": "ecommerce"},
-  {"skillId": "16000000000115", "name": "短剧分镜表", "tag": "drama"},
-  {"skillId": "16000000000116", "name": "角色资产板", "tag": "drama"},
-  {"skillId": "16000000000117", "name": "影视提示词编译", "tag": "drama"},
-  {"skillId": "16000000000118", "name": "首尾帧与镜头衔接", "tag": "drama"},
-  {"skillId": "16000000000119", "name": "跨镜一致性锁定", "tag": "drama"},
-  {"skillId": "16000000000120", "name": "成片装配", "tag": "drama"}
+  {
+   "skillId": "14811816982028",
+   "name": "系列套图生成",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816960524",
+   "name": "名导十五秒视频风格资产引擎",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816969484",
+   "name": "珠宝设计出款",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816969740",
+   "name": "珠宝设计进化",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816969996",
+   "name": "角色精灵图动画产线",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816981004",
+   "name": "15秒视觉特效",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816981260",
+   "name": "15秒极致夸张反转提示词",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14889292801804",
+   "name": "3D国漫风转身变身特效",
+   "tag": "creative"
+  },
+  {
+   "skillId": "14811816970508",
+   "name": "叙事短片导演分镜",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816981772",
+   "name": "一图成片-电影广告全能导演",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816970252",
+   "name": "剧本资产视频一条龙创作",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816982540",
+   "name": "世界观美术设定",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14889899552012",
+   "name": "AI演员微表情导演",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816983052",
+   "name": "故事开发",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816982796",
+   "name": "剧本撰写",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816982284",
+   "name": "角色设计",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14811816983308",
+   "name": "三幕式短剧工厂",
+   "tag": "drama"
+  },
+  {
+   "skillId": "14519800321292",
+   "name": "顶级波普视觉广告导演",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816960780",
+   "name": "珠宝电商图文视频一站式",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816962060",
+   "name": "高能未来电子产品广告视频",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816962316",
+   "name": "穿搭上身试穿视频生成",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816962572",
+   "name": "AI造型师高转化模特图",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14889292802060",
+   "name": "社媒素人App宣传",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816961036",
+   "name": "TikTok网红带货视频",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "14811816981516",
+   "name": "二维动画线稿批量上色",
+   "tag": "others"
+  },
+  {
+   "skillId": "14889899551756",
+   "name": "OC魅力诊断师",
+   "tag": "others"
+  },
+  {
+   "skillId": "14811816980748",
+   "name": "数字人搞笑采访视频生成",
+   "tag": "social"
+  },
+  {
+   "skillId": "14811816960268",
+   "name": "小红书素人穿搭配方",
+   "tag": "social"
+  },
+  {
+   "skillId": "15215320902412",
+   "name": "治愈系原创IP孵化助手",
+   "tag": "social"
+  },
+  {
+   "skillId": "15434297644556",
+   "name": "先锋服装商拍视觉指导",
+   "tag": "social"
+  },
+  {
+   "skillId": "14811816961804",
+   "name": "ASMR沉浸式潮玩开箱导演",
+   "tag": "social"
+  },
+  {
+   "skillId": "15507072002828",
+   "name": "人像捏脸导演",
+   "tag": "social"
+  },
+  {
+   "skillId": "14811816961292",
+   "name": "绿幕猫咪跳舞素材生成",
+   "tag": "social"
+  },
+  {
+   "skillId": "16000000000107",
+   "name": "选包门房",
+   "tag": "others"
+  },
+  {
+   "skillId": "16000000000108",
+   "name": "电商主图",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000109",
+   "name": "SKU变体矩阵",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000110",
+   "name": "产品三视图",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000111",
+   "name": "场景植入与氛围",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000112",
+   "name": "平面海报排版",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000113",
+   "name": "产品运镜视频",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000114",
+   "name": "画质净化公共卡",
+   "tag": "ecommerce"
+  },
+  {
+   "skillId": "16000000000115",
+   "name": "短剧分镜表",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000116",
+   "name": "角色资产板",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000117",
+   "name": "影视提示词编译",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000118",
+   "name": "首尾帧与镜头衔接",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000119",
+   "name": "跨镜一致性锁定",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000120",
+   "name": "成片装配",
+   "tag": "drama"
+  },
+  {
+   "skillId": "16000000000121",
+   "name": "详情页长图产线",
+   "tag": "ecommerce"
+  }
  ]
 }

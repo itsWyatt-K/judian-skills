@@ -1,12 +1,12 @@
 {
-  "generated_at": 1790139564,
+  "generated_at": 1790178352,
   "mode": "workstation-ecommerce-v3",
-  "entries": 7,
+  "entries": 8,
   "id_range": [
     "16000000000108",
-    "16000000000114"
+    "16000000000121"
   ],
-  "instruction_total_kb": 18.5,
+  "instruction_total_kb": 25.4,
   "names": [
     "电商主图",
     "SKU变体矩阵",
@@ -14,7 +14,8 @@
     "场景植入与氛围",
     "平面海报排版",
     "产品运镜视频",
-    "画质净化公共卡"
+    "画质净化公共卡",
+    "详情页长图产线"
   ],
-  "output": "D:\\AlcheMvision\\judian-skills\\seed-contribution\\seed-addition-ecommerce.json"
+  "output": "seed-contribution/seed-addition-ecommerce.json"
 }
