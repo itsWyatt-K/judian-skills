@@ -77,11 +77,12 @@
 ## 与上游的协作
 
 - 已合并（v2.0.0 时代）：#568 卡级种子 / #575 种子市场重组为 68 条 / #577 description 注入 Agent manifest
-- v3.1.0（投稿中，按功能分 PR）：电商功能包（聚焦 + E0–E6）与短剧功能包（S1–S6）分别提交
+- v3.1.0（已提交）：上游单 PR **#611**（ddcat-ai/open-ai-canvas）——种子 68→47（删 34 域包 + E0–E6 + S1–S6 + 门房更新）+ Agent 双产线引导策略 v9 + 短剧场景预路由；等待上游审核
+- 说明：上游仓库 CI 当前在 main 上即为双红（Web / Backend checks 均 failure，与本文 PR 内容无关），#611 本身 mergeable=True；Web 检查失败点为仓库既有测试 `web/test/generation-storage-consistency.test.ts` 的相对 URL 解析 bug
 
 ## 版本轨迹
 
 - **v3.1.0（2026-09-23）**：双产线工位版。公开版 = S1–S6 + E0–E6 + 门房。
 - **v3.0.0（2026-09-23）**：聚焦电商单产线（E1–E6 + 门房）；其聚焦逻辑被 v3.1.0 继承（域包不再回归）。
 - **v2.0.0（2026-09-22）**：34 域包 / 759 卡 + 56 singles + 门房。**已从公开版撤下**；
-  本地全量库（`_backup/20260923-judian-skills全量`）完整保留。
+  本地全量库（`_backup/20260923-judian-skills全量`）完整保留；`benchmarks/` 为其时代 A/B 实测档案（有意保留）。
