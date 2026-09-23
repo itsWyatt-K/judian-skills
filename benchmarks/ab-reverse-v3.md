@@ -4,7 +4,7 @@
 > 模型：`step-5-preview-intl`（CHANNEL_000020，StepFun 海外站）｜画布：`reverseblind0003`（盲测）
 > 对照组：**上游「名导十五秒视频风格资产引擎」**（`14811816960524`）
 > 实验组：**我方 `vis-image-reverse-prompt` + `vis-video-reverse-prompt`**
-> 原始产物：`_work_tmp\rev_<任务>_<组>.txt`（9 份全文）、`rev_results.json`、`rev_scores.json`
+> 原始产物：`<AB_RUN_DIR>/rev_<任务>_<组>.txt`（9 份全文）、`rev_results.json`、`rev_scores.json`
 
 ---
 
@@ -26,7 +26,7 @@
 `composerContent` 就在上面那个 `SummaryFields` 里，`canvas_get_state` 一读就到手。
 ⇒ **在"已生成资产"上做反推测试，Agent 只要读画布就看到了标准答案**，测试必然虚高。
 本次因此专门建了**盲测画布 `reverseblind0003`**：同样 5 个媒体节点，剥掉 `prompt`/`composerContent`，
-只留标题/尺寸/格式/时长。原始提示词另存 `_work_tmp\reverse_answers.json` 供判分。
+只留标题/尺寸/格式/时长。原始提示词另存 `<AB_RUN_DIR>/reverse_answers.json` 供判分。
 
 ---
 

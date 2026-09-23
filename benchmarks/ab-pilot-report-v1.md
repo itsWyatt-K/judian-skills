@@ -1,7 +1,7 @@
 # A/B 试点报告 v1（真实运行，非编造）
 
 > 日期：2026-09-21 02:16-02:20 · 运行环境：本机影策后端 :8080（已登录管理员会话）· 模型：deepseek-v4-flash（CHANNEL_000008，系统渠道直选）
-> 原始证据：`_work_tmp/run_a2.json`（请求）/ `run_a_status.json` `run_b_status.json`（完整事件流）/ `ab_A_output.txt` `ab_B_output.txt`（输出全文）/ `ab_scores.json`（计分）
+> 原始证据：`<AB_RUN_DIR>/run_a2.json`（请求）/ `run_a_status.json` `run_b_status.json`（完整事件流）/ `ab_A_output.txt` `ab_B_output.txt`（输出全文）/ `ab_scores.json`（计分）
 
 ## 一、实验设计
 

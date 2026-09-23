@@ -2,7 +2,7 @@
 
 > 日期：2026-09-21 02:45-03:00 · 环境：本机影策后端 :8080 · 模型：deepseek-v4-flash（CHANNEL_000008 系统渠道直选）· 权限：read_only · 画布：专用空画布 `079ecdaa89e74e6490d6be6d8174f019`
 > **对照组修正**：按采用方要求，A 组由「无技能」改为「**上游现有技能**」（marketplace 内置技能，最贴近任务的 drama 类）。
-> 原始证据索引（可复核）：请求体 `_work_tmp/run_up.json`/`run_our.json`；全事件流 `_work_tmp/run_up_status.json`/`run_our_status.json`/`run_a_status.json`；输出全文 `_work_tmp/ab2_UP_output.txt`/`ab2_OUR_output.txt`/`ab_A_output.txt`；计分 `_work_tmp/ab2_scores.json`。
+> 原始证据索引（可复核）：请求体 `<AB_RUN_DIR>/run_up.json`/`run_our.json`；全事件流 `<AB_RUN_DIR>/run_up_status.json`/`run_our_status.json`/`run_a_status.json`；输出全文 `<AB_RUN_DIR>/ab2_UP_output.txt`/`ab2_OUR_output.txt`/`ab_A_output.txt`；计分 `<AB_RUN_DIR>/ab2_scores.json`。
 
 ---
 
@@ -130,4 +130,4 @@
 
 **共性**：四个技能组全部真实调用 skills_load→skill_read_file；技能组输出普遍更短更聚焦（T1 13.8K vs 24.8K）——结构化方法论压缩了废话。
 
-**原始证据**：`_work_tmp/ab4_*_NONE.txt` / `ab4_*_SKILL.txt`（输出全文）、`ab4_results.json`（运行元数据）、`ab4_scores.json`（计分）。
+**原始证据**：`<AB_RUN_DIR>/ab4_*_NONE.txt` / `ab4_*_SKILL.txt`（输出全文）、`ab4_results.json`（运行元数据）、`ab4_scores.json`（计分）。

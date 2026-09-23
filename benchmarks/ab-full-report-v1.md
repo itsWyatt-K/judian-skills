@@ -4,7 +4,7 @@
 > 规模：28 任务 × 2 条件 = **56 次真实 `POST /api/agent/runs`，0 失败 0 超时**
 > 对照组：无技能（`skillIds` 空）｜技能组（点名该任务对应技能）
 > 模型/渠道：`deepseek-v4-flash` / `CHANNEL_000008`｜画布：`079ecdaa89e74e6490d6be6d8174f019`
-> 原始产物：`_work_tmp\bench_<任务>_<条件>.txt`（56 份答案全文）、`bench_results_final.json`（事件级元数据）
+> 原始产物：`<AB_RUN_DIR>/bench_<任务>_<条件>.txt`（56 份答案全文）、`bench_results_final.json`（事件级元数据）
 
 ---
 
