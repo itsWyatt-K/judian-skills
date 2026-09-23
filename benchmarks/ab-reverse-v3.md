@@ -112,15 +112,16 @@ PR #568 里我方技能的卖点是"补上游空白 + 不抢戏"。这次拿到�
 ## 六、复现方式
 
 ```bash
+# 注：以下 4 个脚本为本机临时脚本，未随本仓库发布；运行时把路径替换为本地实际位置。
 # 1. 建盲测画布（从「反推提示词」复制媒体节点，剥掉 prompt/composerContent）
-python D:\AlcheMvision\_work_tmp\make_blind_canvas.py
+python <AB_SCRIPT_DIR>/make_blind_canvas.py
 # 2. 确保上游对照组技能已安装
 curl -X POST -b cookies.txt http://127.0.0.1:8080/api/skills/14811816960524/add
 # 3. 跑三组
-python D:\AlcheMvision\_work_tmp\rev_ab_runner.py        # NONE + OURS
-python D:\AlcheMvision\_work_tmp\rev_up_rerun.py         # UP
+python <AB_SCRIPT_DIR>/rev_ab_runner.py        # NONE + OURS
+python <AB_SCRIPT_DIR>/rev_up_rerun.py         # UP
 # 4. 判分
-python D:\AlcheMvision\_work_tmp\rev_score.py
+python <AB_SCRIPT_DIR>/rev_score.py
 ```
 
-> 注：盲测画布 `reverseblind0003` 会出现在主人的画布列表里，属测试残留，确认报告后我可以删掉。
+> 注：盲测画布 `reverseblind0003` 会留在画布列表里，属测试残留，确认报告后可删掉。

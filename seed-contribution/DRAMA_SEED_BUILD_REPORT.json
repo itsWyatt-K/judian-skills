@@ -1,12 +1,12 @@
 {
-  "generated_at": 1790145170340,
+  "generated_at": 1790178352,
   "mode": "workstation-drama-v3.1",
   "entries": 6,
   "id_range": [
     "16000000000115",
     "16000000000120"
   ],
-  "instruction_total_kb": 18.8,
+  "instruction_total_kb": 19.5,
   "names": [
     "短剧分镜表",
     "角色资产板",
@@ -15,5 +15,5 @@
     "跨镜一致性锁定",
     "成片装配"
   ],
-  "output": "D:\\AlcheMvision\\judian-skills\\seed-contribution\\seed-addition-drama.json"
+  "output": "seed-contribution/seed-addition-drama.json"
 }

@@ -8,10 +8,12 @@ import sys
 import time
 import uuid
 
-sys.path.insert(0, r"D:\AlcheMvision\_work_tmp")
+# 本机 AB 运行脚本所在目录与产出目录（均为本机临时路径，未随本仓库发布）；
+# 复现时把下面两个占位符替换为本地实际路径。
+sys.path.insert(0, r"<AB_SCRIPT_DIR>")
 import ab_runner as A  # noqa: E402
 
-OUT = pathlib.Path(r"D:\AlcheMvision\资料\14-影策技能生态升级方案\AB运行记录")
+OUT = pathlib.Path(r"<AB_OUTPUT_DIR>")
 
 SKILLS = [
     "2c5ce559f394b03a3d8f8760d13f470f",  # shortform-drama-playbook（28 卡）
