@@ -1,7 +1,7 @@
 {
- "source": "judian-skills v3.0.0 自制快照（官方 33 条承自 v2.0.0 快照；judian 侧 = 门房 + 投稿中的 E0-E6）",
+ "source": "judian-skills v3.1.0 自制快照（官方 33 条承自 v2.0.0 快照；judian 侧 = 门房 + 投稿中的 S1-S6 + E0-E6）",
  "captured": "2026-09-23",
- "count": 41,
+ "count": 47,
  "skills": [
   {"skillId": "14811816982028", "name": "系列套图生成", "tag": "creative"},
   {"skillId": "14811816960524", "name": "名导十五秒视频风格资产引擎", "tag": "creative"},
@@ -43,6 +43,12 @@
   {"skillId": "16000000000111", "name": "场景植入与氛围", "tag": "ecommerce"},
   {"skillId": "16000000000112", "name": "平面海报排版", "tag": "ecommerce"},
   {"skillId": "16000000000113", "name": "产品运镜视频", "tag": "ecommerce"},
-  {"skillId": "16000000000114", "name": "画质净化公共卡", "tag": "ecommerce"}
+  {"skillId": "16000000000114", "name": "画质净化公共卡", "tag": "ecommerce"},
+  {"skillId": "16000000000115", "name": "短剧分镜表", "tag": "drama"},
+  {"skillId": "16000000000116", "name": "角色资产板", "tag": "drama"},
+  {"skillId": "16000000000117", "name": "影视提示词编译", "tag": "drama"},
+  {"skillId": "16000000000118", "name": "首尾帧与镜头衔接", "tag": "drama"},
+  {"skillId": "16000000000119", "name": "跨镜一致性锁定", "tag": "drama"},
+  {"skillId": "16000000000120", "name": "成片装配", "tag": "drama"}
  ]
 }

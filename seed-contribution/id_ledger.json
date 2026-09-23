@@ -115,8 +115,15 @@
     "jd-ec-scene-infuse": "16000000000111",
     "jd-ec-key-visual": "16000000000112",
     "jd-ec-product-video": "16000000000113",
-    "jd-ec-quality-scrub": "16000000000114"
+    "jd-ec-quality-scrub": "16000000000114",
+    "jd-drama-shot-list": "16000000000115",
+    "jd-drama-asset-board": "16000000000116",
+    "jd-drama-prompt-compile": "16000000000117",
+    "jd-drama-frame-bridge": "16000000000118",
+    "jd-drama-consistency": "16000000000119",
+    "jd-drama-assembly": "16000000000120"
   },
   "note_pack_batch": "2026-09-21 追加 34 个域包条目（序号 73-106 段）；旧 72 条卡级条目（序号 1-72 段）已被域包结构取代，编号封存永不复用。",
-  "note_v3_slim": "2026-09-23 v3.0.0 缩容：公开版只保留 E1-E6 电商工位（序号 108-113 段，新增）与门房 107；其余条目标 archived，编号封存永不复用。短剧线工位（jd-drama-*）本轮不入种子，解冻时再取号。"
+  "note_v3_slim": "2026-09-23 v3.0.0 缩容：公开版只保留电商工位（序号 108-114 段，含 E0 公共附录）与门房 107；其余条目标 archived，编号封存永不复用。",
+  "note_v3_1_dual": "2026-09-23 v3.1.0 双产线：短剧线工位解冻入公开版（序号 115-120 段，jd-drama-* 六卡）。"
 }
