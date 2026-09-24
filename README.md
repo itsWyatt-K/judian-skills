@@ -1,4 +1,4 @@
-# judian-skills（剧典 · AI 影像产线与交互协同体系）
+# yuanqi-pipeline（AI 影像产线与交互协同体系）
 
 > **v3.2.0 · 2026-09-23 · 双产线工位版**  
 > **一个跨行业小白的真实探索**：不懂代码也能参与开源？在 Agent 时代之前，这几乎是不可想象的。但感恩这个时代，借助 AI 的力量，只要怀揣解决问题的初心，从真实用户的视角出发，千里之行始于足下，积极尝试就真的能一步步把体验优化做出来。
@@ -158,7 +158,7 @@
 
 ## 许可协议
 
-- **judian 自撰内容**：MIT（见 [LICENSE](LICENSE)）；
+- **本仓库自撰内容**：MIT（见 [LICENSE](LICENSE)）；
 - **第三方结构借鉴**：两个 MIT 项目（详见 [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md)）——
   只借鉴产线分层结构，未复制任何第三方提示词原文；署名义务由每个工位 frontmatter 的
   `acknowledgment` 字段逐条履行。
